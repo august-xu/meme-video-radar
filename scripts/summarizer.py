@@ -228,11 +228,19 @@ def render_new_entries_markdown(new_entries: List[dict]) -> str:
             t = (it.get("title") or u).replace("\n", " ").strip()
             sub_lines.append(f"- <a href=\"{u}\" target=\"_blank\" rel=\"noopener noreferrer\">**{t}**</a>")
             time_parts = []
+            # 1. 网页生成时间 (放在最前面)
+            created_raw = it.get("page_created_at") or it.get("lastmod") or ""
+            if created_raw:
+                bj_created = format_beijing_time(created_raw)
+                time_parts.append(f"网页生成: `{bj_created}`")
+            else:
+                time_parts.append("网页生成: `近期发布`")
+
+            # 2. 爬虫发现时间 (紧随其后)
             if it.get("first_seen"):
-                bj_time = format_beijing_time(it["first_seen"])
-                time_parts.append(f"发现时间: `{bj_time}`")
-            if it.get("lastmod"):
-                time_parts.append(f"页面更新: `{it['lastmod'][:10]}`")
+                bj_seen = format_beijing_time(it["first_seen"])
+                time_parts.append(f"发现时间: `{bj_seen}`")
+
             if time_parts:
                 sub_lines.append(f"  - {' ｜ '.join(time_parts)}")
             if it.get("description"):

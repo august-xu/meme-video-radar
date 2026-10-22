@@ -237,6 +237,22 @@ def fetch_page_metadata(url: str) -> dict:
         desc = html.unescape(m_desc.group(1)).strip()
         meta["description"] = re.sub(r"\s+", " ", desc)[:250]
 
+    # Published / Generated Time (网页真实生成或发布时间)
+    pub_patterns = [
+        r'<meta[^>]+(?:property|name)=["\'](?:article:published_time|og:published_time|publishdate|datePublished|date)["\'][^>]+content=["\'](.*?)["\']',
+        r'<meta[^>]+content=["\'](.*?)["\'][^>]+(?:property|name)=["\'](?:article:published_time|og:published_time|publishdate|datePublished|date)["\']',
+        r'"datePublished"\s*:\s*["\'](.*?)["\']',
+        r'"dateCreated"\s*:\s*["\'](.*?)["\']',
+        r'<time[^>]+datetime=["\'](.*?)["\']'
+    ]
+    for pat in pub_patterns:
+        m_pub = re.search(pat, html_text, re.IGNORECASE)
+        if m_pub:
+            val = m_pub.group(1).strip()
+            if len(val) >= 10:
+                meta["published_at"] = val
+                break
+
     return meta
 
 
@@ -433,6 +449,8 @@ def main():
                 meta = fut.result()
                 entry["title"] = meta.get("title") or entry.get("title") or ""
                 entry["description"] = meta.get("description", "")
+                # 网页真实生成或发布时间 (HTML published_at > Sitemap lastmod)
+                entry["page_created_at"] = meta.get("published_at") or entry.get("lastmod") or ""
 
                 # 抽取实体并沉淀入实体知识库
                 entities = term_engine.extract_page_entities(
@@ -479,6 +497,8 @@ def main():
                     "description": "Banana Tree Run refers to a series of surreal viral videos of people running effortlessly across the tops of banana trees, popular on TikTok.",
                     "entities": ["banana tree run", "parkour dance"]
 ,
+                    "page_created_at": "2026-10-21 13:00"
+,
                     "first_seen": datetime.now(timezone.utc).astimezone(BEIJING_TZ).strftime("%Y-%m-%d %H:%M")
                 },
                 {
@@ -488,6 +508,8 @@ def main():
                     "title": "Banana Tree Run AI Video Generator | Single Photo to Parkour Clip",
                     "description": "Upload a photo and generate a viral 9:16 vertical video running across banana tree tops. Multi-language landing page.",
                     "entities": ["banana tree run", "ai video generator"]
+,
+                    "page_created_at": "2026-10-21 18:30"
 ,
                     "first_seen": datetime.now(timezone.utc).astimezone(BEIJING_TZ).strftime("%Y-%m-%d %H:%M")
                 },
@@ -499,6 +521,8 @@ def main():
                     "description": "Create spooky Halloween doorbell camera footage featuring the Cat in the Hat. Choose Doorbell, Window, or Behind me angles.",
                     "entities": ["cat in the hat", "doorbell prank"]
 ,
+                    "page_created_at": "2026-10-21 21:00"
+,
                     "first_seen": datetime.now(timezone.utc).astimezone(BEIJING_TZ).strftime("%Y-%m-%d %H:%M")
                 },
                 {
@@ -509,6 +533,8 @@ def main():
                     "description": "Generate trending hotel lobby duet dance videos automatically from portraits. pSEO dynamic template.",
                     "entities": ["hotel lobby", "duet dance"]
 ,
+                    "page_created_at": "2026-10-22 09:20"
+,
                     "first_seen": datetime.now(timezone.utc).astimezone(BEIJING_TZ).strftime("%Y-%m-%d %H:%M")
                 },
                 {
@@ -518,6 +544,8 @@ def main():
                     "title": "Bby Wow Guy AI Video Dance Template | Starrd",
                     "description": "TikTok viral Latin dance trend Bby Wow Guy video template with KAROL G BGM.",
                     "entities": ["bby wow", "latin dance"]
+,
+                    "page_created_at": "2026-10-22 14:10"
 ,
                     "first_seen": datetime.now(timezone.utc).astimezone(BEIJING_TZ).strftime("%Y-%m-%d %H:%M")
                 }
