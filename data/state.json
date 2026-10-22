@@ -1,6 +1,6 @@
 {
-  "last_run_timestamp": "2026-10-22T12:16:10.403438+00:00",
-  "total_urls_seen": 11385,
+  "last_run_timestamp": "2026-10-22T17:10:35.983912+00:00",
+  "total_urls_seen": 11404,
   "seen_urls": {
     "knowyourmeme.com": [
       "https://knowyourmeme.com/memes/yohohoho-binkusuno-sake-by-ado",
@@ -49,7 +49,8 @@
       "https://knowyourmeme.com/sensitive/memes/events/death-of-manuel-otto-by-self-immolation",
       "https://knowyourmeme.com/memes/meximutt-o-algo",
       "https://knowyourmeme.com/memes/lunch-in-my-city-trend",
-      "https://knowyourmeme.com/memes/events/bioware-shutdown"
+      "https://knowyourmeme.com/memes/events/bioware-shutdown",
+      "https://knowyourmeme.com/memes/code-rot-filter-yep-its-code-rotted-indeed"
     ],
     "aptvideoai.com": [
       "https://aptvideoai.com",
@@ -429,7 +430,25 @@
       "https://aptvideoai.com/money-flex-ai-dog",
       "https://aptvideoai.com/money-flex-ai-dog",
       "https://aptvideoai.com/money-flex-ai-dog",
-      "https://aptvideoai.com/money-flex-ai"
+      "https://aptvideoai.com/money-flex-ai",
+      "https://aptvideoai.com/blog/can-i-ride-dance-trend",
+      "https://aptvideoai.com/blog/can-i-ride-dance-trend",
+      "https://aptvideoai.com/blog/how-to-make-can-i-ride-dance-ai-video",
+      "https://aptvideoai.com/can-i-ride-dance-ai",
+      "https://aptvideoai.com/can-i-ride-dance-ai",
+      "https://aptvideoai.com/can-i-ride-dance-ai",
+      "https://aptvideoai.com/blog/how-to-make-can-i-ride-dance-ai-video",
+      "https://aptvideoai.com/blog/how-to-make-can-i-ride-dance-ai-video",
+      "https://aptvideoai.com/can-i-ride-dance-ai",
+      "https://aptvideoai.com/blog/how-to-make-can-i-ride-dance-ai-video",
+      "https://aptvideoai.com/blog/how-to-make-can-i-ride-dance-ai-video",
+      "https://aptvideoai.com/can-i-ride-dance-ai",
+      "https://aptvideoai.com/blog/can-i-ride-dance-trend",
+      "https://aptvideoai.com/blog/can-i-ride-dance-trend",
+      "https://aptvideoai.com/blog/can-i-ride-dance-trend",
+      "https://aptvideoai.com/blog/can-i-ride-dance-trend",
+      "https://aptvideoai.com/blog/how-to-make-can-i-ride-dance-ai-video",
+      "https://aptvideoai.com/can-i-ride-dance-ai"
     ],
     "tryalorsondanse.video": [
       "https://tryalorsondanse.video",
@@ -12460,6 +12479,16 @@
             "url": "https://aptvideoai.com/es/money-flex-ai",
             "title": "Money Flex IA: la tendencia de \"todo mi dinero es en efectivo\" con una foto",
             "first_seen": "2026-10-22T11:14:52.400716+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/es/can-i-ride-dance-ai",
+            "title": "Can I Ride Dance IA: el baile viral de dos personas, con dos fotos",
+            "first_seen": "2026-10-22T17:08:15.863765+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/es/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Cómo hacer el video con IA del baile Can I Ride: el baile viral para dos personas con dos fotos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.990232+00:00"
           }
         ]
       }
@@ -13016,6 +13045,11 @@
             "url": "https://aptvideoai.com/fr/money-flex-ai",
             "title": "Money Flex IA : la tendance « tout mon argent est en liquide » avec une photo",
             "first_seen": "2026-10-22T11:14:53.594091+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/fr/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Comment faire la vidéo IA de la danse Can I Ride : la danse virale à deux, à partir de deux photos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.567037+00:00"
           }
         ]
       }
@@ -13028,6 +13062,11 @@
             "url": "https://aptvideoai.com/es/money-flex-ai",
             "title": "Money Flex IA: la tendencia de \"todo mi dinero es en efectivo\" con una foto",
             "first_seen": "2026-10-22T11:14:52.400741+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/es/blog/can-i-ride-dance-trend",
+            "title": "Baile Can I Ride: la canción, los pasos y cómo empezó la tendencia de TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.921436+00:00"
           }
         ]
       }
@@ -13117,6 +13156,11 @@
             "url": "https://aptvideoai.com/es/money-flex-ai",
             "title": "Money Flex IA: la tendencia de \"todo mi dinero es en efectivo\" con una foto",
             "first_seen": "2026-10-22T11:14:52.400771+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/es/blog/can-i-ride-dance-trend",
+            "title": "Baile Can I Ride: la canción, los pasos y cómo empezó la tendencia de TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.921432+00:00"
           }
         ]
       }
@@ -14646,6 +14690,11 @@
             "url": "https://aptvideoai.com/fr/money-flex-ai",
             "title": "Money Flex IA : la tendance « tout mon argent est en liquide » avec une photo",
             "first_seen": "2026-10-22T11:14:53.594076+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/fr/blog/can-i-ride-dance-trend",
+            "title": "Danse Can I Ride : la chanson, les pas et les débuts de la tendance TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.976515+00:00"
           }
         ]
       }
@@ -14766,6 +14815,11 @@
             "url": "https://aptvideoai.com/fr/money-flex-ai",
             "title": "Money Flex IA : la tendance « tout mon argent est en liquide » avec une photo",
             "first_seen": "2026-10-22T11:14:53.594111+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/fr/blog/can-i-ride-dance-trend",
+            "title": "Danse Can I Ride : la chanson, les pas et les débuts de la tendance TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.976502+00:00"
           }
         ]
       }
@@ -14886,6 +14940,3597 @@
             "url": "https://aptvideoai.com/fr/money-flex-ai",
             "title": "Money Flex IA : la tendance « tout mon argent est en liquide » avec une photo",
             "first_seen": "2026-10-22T11:14:53.594130+00:00"
+          }
+        ]
+      }
+    },
+    "s code rotted": {
+      "first_seen": "2026-10-22T17:08:14.609139+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/code-rot-filter-yep-its-code-rotted-indeed",
+            "title": "Code Rot Filter / Yep It's Code Rotted Indeed | Know Your Meme",
+            "first_seen": "2026-10-22T17:08:14.609139+00:00"
+          }
+        ]
+      }
+    },
+    "rot filter yep s": {
+      "first_seen": "2026-10-22T17:08:14.609156+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/code-rot-filter-yep-its-code-rotted-indeed",
+            "title": "Code Rot Filter / Yep It's Code Rotted Indeed | Know Your Meme",
+            "first_seen": "2026-10-22T17:08:14.609156+00:00"
+          }
+        ]
+      }
+    },
+    "indeed": {
+      "first_seen": "2026-10-22T17:08:14.609160+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/code-rot-filter-yep-its-code-rotted-indeed",
+            "title": "Code Rot Filter / Yep It's Code Rotted Indeed | Know Your Meme",
+            "first_seen": "2026-10-22T17:08:14.609160+00:00"
+          }
+        ]
+      }
+    },
+    "yep its code rotted": {
+      "first_seen": "2026-10-22T17:08:14.609163+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/code-rot-filter-yep-its-code-rotted-indeed",
+            "title": "Code Rot Filter / Yep It's Code Rotted Indeed | Know Your Meme",
+            "first_seen": "2026-10-22T17:08:14.609163+00:00"
+          }
+        ]
+      }
+    },
+    "yep its code": {
+      "first_seen": "2026-10-22T17:08:14.609165+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/code-rot-filter-yep-its-code-rotted-indeed",
+            "title": "Code Rot Filter / Yep It's Code Rotted Indeed | Know Your Meme",
+            "first_seen": "2026-10-22T17:08:14.609165+00:00"
+          }
+        ]
+      }
+    },
+    "code rotted": {
+      "first_seen": "2026-10-22T17:08:14.609168+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/code-rot-filter-yep-its-code-rotted-indeed",
+            "title": "Code Rot Filter / Yep It's Code Rotted Indeed | Know Your Meme",
+            "first_seen": "2026-10-22T17:08:14.609168+00:00"
+          }
+        ]
+      }
+    },
+    "s code": {
+      "first_seen": "2026-10-22T17:08:14.609171+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/code-rot-filter-yep-its-code-rotted-indeed",
+            "title": "Code Rot Filter / Yep It's Code Rotted Indeed | Know Your Meme",
+            "first_seen": "2026-10-22T17:08:14.609171+00:00"
+          }
+        ]
+      }
+    },
+    "yep s": {
+      "first_seen": "2026-10-22T17:08:14.609174+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/code-rot-filter-yep-its-code-rotted-indeed",
+            "title": "Code Rot Filter / Yep It's Code Rotted Indeed | Know Your Meme",
+            "first_seen": "2026-10-22T17:08:14.609174+00:00"
+          }
+        ]
+      }
+    },
+    "yep s code": {
+      "first_seen": "2026-10-22T17:08:14.609178+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/code-rot-filter-yep-its-code-rotted-indeed",
+            "title": "Code Rot Filter / Yep It's Code Rotted Indeed | Know Your Meme",
+            "first_seen": "2026-10-22T17:08:14.609178+00:00"
+          }
+        ]
+      }
+    },
+    "code rot": {
+      "first_seen": "2026-10-22T17:08:14.609182+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/code-rot-filter-yep-its-code-rotted-indeed",
+            "title": "Code Rot Filter / Yep It's Code Rotted Indeed | Know Your Meme",
+            "first_seen": "2026-10-22T17:08:14.609182+00:00"
+          }
+        ]
+      }
+    },
+    "code rot filter yep": {
+      "first_seen": "2026-10-22T17:08:14.609184+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/code-rot-filter-yep-its-code-rotted-indeed",
+            "title": "Code Rot Filter / Yep It's Code Rotted Indeed | Know Your Meme",
+            "first_seen": "2026-10-22T17:08:14.609184+00:00"
+          }
+        ]
+      }
+    },
+    "rotted": {
+      "first_seen": "2026-10-22T17:08:14.609187+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/code-rot-filter-yep-its-code-rotted-indeed",
+            "title": "Code Rot Filter / Yep It's Code Rotted Indeed | Know Your Meme",
+            "first_seen": "2026-10-22T17:08:14.609187+00:00"
+          }
+        ]
+      }
+    },
+    "yep": {
+      "first_seen": "2026-10-22T17:08:14.609190+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/code-rot-filter-yep-its-code-rotted-indeed",
+            "title": "Code Rot Filter / Yep It's Code Rotted Indeed | Know Your Meme",
+            "first_seen": "2026-10-22T17:08:14.609190+00:00"
+          }
+        ]
+      }
+    },
+    "rot filter yep": {
+      "first_seen": "2026-10-22T17:08:14.609193+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/code-rot-filter-yep-its-code-rotted-indeed",
+            "title": "Code Rot Filter / Yep It's Code Rotted Indeed | Know Your Meme",
+            "first_seen": "2026-10-22T17:08:14.609193+00:00"
+          }
+        ]
+      }
+    },
+    "rot": {
+      "first_seen": "2026-10-22T17:08:14.609195+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/code-rot-filter-yep-its-code-rotted-indeed",
+            "title": "Code Rot Filter / Yep It's Code Rotted Indeed | Know Your Meme",
+            "first_seen": "2026-10-22T17:08:14.609195+00:00"
+          }
+        ]
+      }
+    },
+    "code": {
+      "first_seen": "2026-10-22T17:08:14.609198+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/code-rot-filter-yep-its-code-rotted-indeed",
+            "title": "Code Rot Filter / Yep It's Code Rotted Indeed | Know Your Meme",
+            "first_seen": "2026-10-22T17:08:14.609198+00:00"
+          }
+        ]
+      }
+    },
+    "rotted indeed": {
+      "first_seen": "2026-10-22T17:08:14.609201+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/code-rot-filter-yep-its-code-rotted-indeed",
+            "title": "Code Rot Filter / Yep It's Code Rotted Indeed | Know Your Meme",
+            "first_seen": "2026-10-22T17:08:14.609201+00:00"
+          }
+        ]
+      }
+    },
+    "s code rotted indeed": {
+      "first_seen": "2026-10-22T17:08:14.609203+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/code-rot-filter-yep-its-code-rotted-indeed",
+            "title": "Code Rot Filter / Yep It's Code Rotted Indeed | Know Your Meme",
+            "first_seen": "2026-10-22T17:08:14.609203+00:00"
+          }
+        ]
+      }
+    },
+    "yep s code rotted": {
+      "first_seen": "2026-10-22T17:08:14.609205+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/code-rot-filter-yep-its-code-rotted-indeed",
+            "title": "Code Rot Filter / Yep It's Code Rotted Indeed | Know Your Meme",
+            "first_seen": "2026-10-22T17:08:14.609205+00:00"
+          }
+        ]
+      }
+    },
+    "code rotted indeed": {
+      "first_seen": "2026-10-22T17:08:14.609207+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/code-rot-filter-yep-its-code-rotted-indeed",
+            "title": "Code Rot Filter / Yep It's Code Rotted Indeed | Know Your Meme",
+            "first_seen": "2026-10-22T17:08:14.609207+00:00"
+          }
+        ]
+      }
+    },
+    "song": {
+      "first_seen": "2026-10-22T17:08:15.097742+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/blog/can-i-ride-dance-trend",
+            "title": "Can I Ride Dance: The Song, the Steps and How the TikTok Trend Started | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.097742+00:00"
+          }
+        ]
+      }
+    },
+    "started": {
+      "first_seen": "2026-10-22T17:08:15.097757+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/blog/can-i-ride-dance-trend",
+            "title": "Can I Ride Dance: The Song, the Steps and How the TikTok Trend Started | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.097757+00:00"
+          }
+        ]
+      }
+    },
+    "song the steps": {
+      "first_seen": "2026-10-22T17:08:15.097761+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/blog/can-i-ride-dance-trend",
+            "title": "Can I Ride Dance: The Song, the Steps and How the TikTok Trend Started | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.097761+00:00"
+          }
+        ]
+      }
+    },
+    "i ride": {
+      "first_seen": "2026-10-22T17:08:15.097764+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/blog/can-i-ride-dance-trend",
+            "title": "Can I Ride Dance: The Song, the Steps and How the TikTok Trend Started | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.097764+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/zh/blog/can-i-ride-dance-trend",
+            "title": "Can I Ride 舞蹈：歌曲、舞步和 TikTok 热梗的由来 | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.129437+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/zh/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Can I Ride 双人舞 AI 视频怎么做？两张照片，做出爆火的双人舞 | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.163813+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/can-i-ride-dance-ai",
+            "title": "Can I Ride Dance AI — Do the Viral Two-Person Dance From Two Photos",
+            "first_seen": "2026-10-22T17:08:15.177164+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/zh/can-i-ride-dance-ai",
+            "title": "Can I Ride Dance AI — 两张照片，跳爆火的双人舞",
+            "first_seen": "2026-10-22T17:08:15.204924+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/jp/can-i-ride-dance-ai",
+            "title": "Can I Ride Dance AI — 写真2枚で、話題の2人ダンスを",
+            "first_seen": "2026-10-22T17:08:15.234237+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "How to Make the Can I Ride Dance AI Video: The Viral Two-Person Dance From Two Photos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.274544+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/jp/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Can I Ride ダンス AI 動画の作り方：写真2枚で、話題の2人ダンスを | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.287938+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/fr/can-i-ride-dance-ai",
+            "title": "Can I Ride Dance IA — La danse virale à deux, à partir de deux photos",
+            "first_seen": "2026-10-22T17:08:15.450439+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/pt/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Como fazer o vídeo com IA da dança Can I Ride: a dança viral para duas pessoas, com duas fotos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.497524+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/fr/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Comment faire la vidéo IA de la danse Can I Ride : la danse virale à deux, à partir de deux photos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.567079+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/es/can-i-ride-dance-ai",
+            "title": "Can I Ride Dance IA: el baile viral de dos personas, con dos fotos",
+            "first_seen": "2026-10-22T17:08:15.863787+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/pt/blog/can-i-ride-dance-trend",
+            "title": "Dança Can I Ride: a música, os passos e como a trend do TikTok começou | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.875216+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/es/blog/can-i-ride-dance-trend",
+            "title": "Baile Can I Ride: la canción, los pasos y cómo empezó la tendencia de TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.921460+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/jp/blog/can-i-ride-dance-trend",
+            "title": "Can I Ride ダンス：曲、ステップ、TikTok トレンドの始まり | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.934401+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/fr/blog/can-i-ride-dance-trend",
+            "title": "Danse Can I Ride : la chanson, les pas et les débuts de la tendance TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.976517+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/es/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Cómo hacer el video con IA del baile Can I Ride: el baile viral para dos personas con dos fotos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.990277+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/pt/can-i-ride-dance-ai",
+            "title": "Can I Ride Dance IA — A dança viral de duas pessoas, com duas fotos",
+            "first_seen": "2026-10-22T17:08:16.420573+00:00"
+          }
+        ]
+      }
+    },
+    "tok trend started": {
+      "first_seen": "2026-10-22T17:08:15.097766+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/blog/can-i-ride-dance-trend",
+            "title": "Can I Ride Dance: The Song, the Steps and How the TikTok Trend Started | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.097766+00:00"
+          }
+        ]
+      }
+    },
+    "tok": {
+      "first_seen": "2026-10-22T17:08:15.097769+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/blog/can-i-ride-dance-trend",
+            "title": "Can I Ride Dance: The Song, the Steps and How the TikTok Trend Started | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.097769+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/zh/blog/can-i-ride-dance-trend",
+            "title": "Can I Ride 舞蹈：歌曲、舞步和 TikTok 热梗的由来 | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.129444+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/pt/blog/can-i-ride-dance-trend",
+            "title": "Dança Can I Ride: a música, os passos e como a trend do TikTok começou | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.875169+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/es/blog/can-i-ride-dance-trend",
+            "title": "Baile Can I Ride: la canción, los pasos y cómo empezó la tendencia de TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.921398+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/jp/blog/can-i-ride-dance-trend",
+            "title": "Can I Ride ダンス：曲、ステップ、TikTok トレンドの始まり | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.934411+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/fr/blog/can-i-ride-dance-trend",
+            "title": "Danse Can I Ride : la chanson, les pas et les débuts de la tendance TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.976456+00:00"
+          }
+        ]
+      }
+    },
+    "tik tok": {
+      "first_seen": "2026-10-22T17:08:15.097771+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/blog/can-i-ride-dance-trend",
+            "title": "Can I Ride Dance: The Song, the Steps and How the TikTok Trend Started | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.097771+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/zh/blog/can-i-ride-dance-trend",
+            "title": "Can I Ride 舞蹈：歌曲、舞步和 TikTok 热梗的由来 | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.129446+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/pt/blog/can-i-ride-dance-trend",
+            "title": "Dança Can I Ride: a música, os passos e como a trend do TikTok começou | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.875174+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/es/blog/can-i-ride-dance-trend",
+            "title": "Baile Can I Ride: la canción, los pasos y cómo empezó la tendencia de TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.921401+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/jp/blog/can-i-ride-dance-trend",
+            "title": "Can I Ride ダンス：曲、ステップ、TikTok トレンドの始まり | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.934413+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/fr/blog/can-i-ride-dance-trend",
+            "title": "Danse Can I Ride : la chanson, les pas et les débuts de la tendance TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.976461+00:00"
+          }
+        ]
+      }
+    },
+    "tik tok trend started": {
+      "first_seen": "2026-10-22T17:08:15.097774+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/blog/can-i-ride-dance-trend",
+            "title": "Can I Ride Dance: The Song, the Steps and How the TikTok Trend Started | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.097774+00:00"
+          }
+        ]
+      }
+    },
+    "tik": {
+      "first_seen": "2026-10-22T17:08:15.097776+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/blog/can-i-ride-dance-trend",
+            "title": "Can I Ride Dance: The Song, the Steps and How the TikTok Trend Started | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.097776+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/zh/blog/can-i-ride-dance-trend",
+            "title": "Can I Ride 舞蹈：歌曲、舞步和 TikTok 热梗的由来 | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.129448+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/pt/blog/can-i-ride-dance-trend",
+            "title": "Dança Can I Ride: a música, os passos e como a trend do TikTok começou | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.875204+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/es/blog/can-i-ride-dance-trend",
+            "title": "Baile Can I Ride: la canción, los pasos y cómo empezó la tendencia de TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.921447+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/jp/blog/can-i-ride-dance-trend",
+            "title": "Can I Ride ダンス：曲、ステップ、TikTok トレンドの始まり | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.934416+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/fr/blog/can-i-ride-dance-trend",
+            "title": "Danse Can I Ride : la chanson, les pas et les débuts de la tendance TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.976495+00:00"
+          }
+        ]
+      }
+    },
+    "ride": {
+      "first_seen": "2026-10-22T17:08:15.097779+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/blog/can-i-ride-dance-trend",
+            "title": "Can I Ride Dance: The Song, the Steps and How the TikTok Trend Started | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.097779+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/zh/blog/can-i-ride-dance-trend",
+            "title": "Can I Ride 舞蹈：歌曲、舞步和 TikTok 热梗的由来 | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.129450+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/zh/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Can I Ride 双人舞 AI 视频怎么做？两张照片，做出爆火的双人舞 | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.163826+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/can-i-ride-dance-ai",
+            "title": "Can I Ride Dance AI — Do the Viral Two-Person Dance From Two Photos",
+            "first_seen": "2026-10-22T17:08:15.177174+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/zh/can-i-ride-dance-ai",
+            "title": "Can I Ride Dance AI — 两张照片，跳爆火的双人舞",
+            "first_seen": "2026-10-22T17:08:15.204935+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/jp/can-i-ride-dance-ai",
+            "title": "Can I Ride Dance AI — 写真2枚で、話題の2人ダンスを",
+            "first_seen": "2026-10-22T17:08:15.234253+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "How to Make the Can I Ride Dance AI Video: The Viral Two-Person Dance From Two Photos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.274564+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/jp/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Can I Ride ダンス AI 動画の作り方：写真2枚で、話題の2人ダンスを | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.287948+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/fr/can-i-ride-dance-ai",
+            "title": "Can I Ride Dance IA — La danse virale à deux, à partir de deux photos",
+            "first_seen": "2026-10-22T17:08:15.450433+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/pt/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Como fazer o vídeo com IA da dança Can I Ride: a dança viral para duas pessoas, com duas fotos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.497501+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/fr/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Comment faire la vidéo IA de la danse Can I Ride : la danse virale à deux, à partir de deux photos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.567045+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/es/can-i-ride-dance-ai",
+            "title": "Can I Ride Dance IA: el baile viral de dos personas, con dos fotos",
+            "first_seen": "2026-10-22T17:08:15.863769+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/pt/blog/can-i-ride-dance-trend",
+            "title": "Dança Can I Ride: a música, os passos e como a trend do TikTok começou | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.875179+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/es/blog/can-i-ride-dance-trend",
+            "title": "Baile Can I Ride: la canción, los pasos y cómo empezó la tendencia de TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.921419+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/jp/blog/can-i-ride-dance-trend",
+            "title": "Can I Ride ダンス：曲、ステップ、TikTok トレンドの始まり | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.934418+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/fr/blog/can-i-ride-dance-trend",
+            "title": "Danse Can I Ride : la chanson, les pas et les débuts de la tendance TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.976466+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/es/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Cómo hacer el video con IA del baile Can I Ride: el baile viral para dos personas con dos fotos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.990239+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/pt/can-i-ride-dance-ai",
+            "title": "Can I Ride Dance IA — A dança viral de duas pessoas, com duas fotos",
+            "first_seen": "2026-10-22T17:08:16.420565+00:00"
+          }
+        ]
+      }
+    },
+    "steps": {
+      "first_seen": "2026-10-22T17:08:15.097781+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/blog/can-i-ride-dance-trend",
+            "title": "Can I Ride Dance: The Song, the Steps and How the TikTok Trend Started | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.097781+00:00"
+          }
+        ]
+      }
+    },
+    "ride dance the song": {
+      "first_seen": "2026-10-22T17:08:15.097783+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/blog/can-i-ride-dance-trend",
+            "title": "Can I Ride Dance: The Song, the Steps and How the TikTok Trend Started | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.097783+00:00"
+          }
+        ]
+      }
+    },
+    "i ride tik": {
+      "first_seen": "2026-10-22T17:08:15.129426+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/zh/blog/can-i-ride-dance-trend",
+            "title": "Can I Ride 舞蹈：歌曲、舞步和 TikTok 热梗的由来 | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.129426+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/jp/blog/can-i-ride-dance-trend",
+            "title": "Can I Ride ダンス：曲、ステップ、TikTok トレンドの始まり | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.934392+00:00"
+          }
+        ]
+      }
+    },
+    "ride tik tok": {
+      "first_seen": "2026-10-22T17:08:15.129441+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/zh/blog/can-i-ride-dance-trend",
+            "title": "Can I Ride 舞蹈：歌曲、舞步和 TikTok 热梗的由来 | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.129441+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/jp/blog/can-i-ride-dance-trend",
+            "title": "Can I Ride ダンス：曲、ステップ、TikTok トレンドの始まり | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.934408+00:00"
+          }
+        ]
+      }
+    },
+    "ride tik": {
+      "first_seen": "2026-10-22T17:08:15.129452+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/zh/blog/can-i-ride-dance-trend",
+            "title": "Can I Ride 舞蹈：歌曲、舞步和 TikTok 热梗的由来 | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.129452+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/jp/blog/can-i-ride-dance-trend",
+            "title": "Can I Ride ダンス：曲、ステップ、TikTok トレンドの始まり | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.934422+00:00"
+          }
+        ]
+      }
+    },
+    "i ride tik tok": {
+      "first_seen": "2026-10-22T17:08:15.129454+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/zh/blog/can-i-ride-dance-trend",
+            "title": "Can I Ride 舞蹈：歌曲、舞步和 TikTok 热梗的由来 | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.129454+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/jp/blog/can-i-ride-dance-trend",
+            "title": "Can I Ride ダンス：曲、ステップ、TikTok トレンドの始まり | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.934424+00:00"
+          }
+        ]
+      }
+    },
+    "two": {
+      "first_seen": "2026-10-22T17:08:15.274559+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "How to Make the Can I Ride Dance AI Video: The Viral Two-Person Dance From Two Photos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.274559+00:00"
+          }
+        ]
+      }
+    },
+    "ride ai 2": {
+      "first_seen": "2026-10-22T17:08:15.287929+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/jp/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Can I Ride ダンス AI 動画の作り方：写真2枚で、話題の2人ダンスを | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.287929+00:00"
+          }
+        ]
+      }
+    },
+    "ride ai 2 2": {
+      "first_seen": "2026-10-22T17:08:15.287942+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/jp/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Can I Ride ダンス AI 動画の作り方：写真2枚で、話題の2人ダンスを | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.287942+00:00"
+          }
+        ]
+      }
+    },
+    "i ride ai 2": {
+      "first_seen": "2026-10-22T17:08:15.287945+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/jp/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Can I Ride ダンス AI 動画の作り方：写真2枚で、話題の2人ダンスを | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.287945+00:00"
+          }
+        ]
+      }
+    },
+    "ride dance ia": {
+      "first_seen": "2026-10-22T17:08:15.450412+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/fr/can-i-ride-dance-ai",
+            "title": "Can I Ride Dance IA — La danse virale à deux, à partir de deux photos",
+            "first_seen": "2026-10-22T17:08:15.450412+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/es/can-i-ride-dance-ai",
+            "title": "Can I Ride Dance IA: el baile viral de dos personas, con dos fotos",
+            "first_seen": "2026-10-22T17:08:15.863796+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/pt/can-i-ride-dance-ai",
+            "title": "Can I Ride Dance IA — A dança viral de duas pessoas, com duas fotos",
+            "first_seen": "2026-10-22T17:08:16.420544+00:00"
+          }
+        ]
+      }
+    },
+    "i ride dance ia": {
+      "first_seen": "2026-10-22T17:08:15.450429+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/fr/can-i-ride-dance-ai",
+            "title": "Can I Ride Dance IA — La danse virale à deux, à partir de deux photos",
+            "first_seen": "2026-10-22T17:08:15.450429+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/es/can-i-ride-dance-ai",
+            "title": "Can I Ride Dance IA: el baile viral de dos personas, con dos fotos",
+            "first_seen": "2026-10-22T17:08:15.863748+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/pt/can-i-ride-dance-ai",
+            "title": "Can I Ride Dance IA — A dança viral de duas pessoas, com duas fotos",
+            "first_seen": "2026-10-22T17:08:16.420561+00:00"
+          }
+        ]
+      }
+    },
+    "ride a dan": {
+      "first_seen": "2026-10-22T17:08:15.497434+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/pt/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Como fazer o vídeo com IA da dança Can I Ride: a dança viral para duas pessoas, com duas fotos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.497434+00:00"
+          }
+        ]
+      }
+    },
+    "o v deo": {
+      "first_seen": "2026-10-22T17:08:15.497446+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/pt/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Como fazer o vídeo com IA da dança Can I Ride: a dança viral para duas pessoas, com duas fotos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.497446+00:00"
+          }
+        ]
+      }
+    },
+    "fazer": {
+      "first_seen": "2026-10-22T17:08:15.497449+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/pt/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Como fazer o vídeo com IA da dança Can I Ride: a dança viral para duas pessoas, com duas fotos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.497449+00:00"
+          }
+        ]
+      }
+    },
+    "para": {
+      "first_seen": "2026-10-22T17:08:15.497452+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/pt/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Como fazer o vídeo com IA da dança Can I Ride: a dança viral para duas pessoas, com duas fotos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.497452+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/es/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Cómo hacer el video con IA del baile Can I Ride: el baile viral para dos personas con dos fotos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.990211+00:00"
+          }
+        ]
+      }
+    },
+    "como fazer": {
+      "first_seen": "2026-10-22T17:08:15.497455+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/pt/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Como fazer o vídeo com IA da dança Can I Ride: a dança viral para duas pessoas, com duas fotos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.497455+00:00"
+          }
+        ]
+      }
+    },
+    "pessoas com duas": {
+      "first_seen": "2026-10-22T17:08:15.497457+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/pt/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Como fazer o vídeo com IA da dança Can I Ride: a dança viral para duas pessoas, com duas fotos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.497457+00:00"
+          }
+        ]
+      }
+    },
+    "ia da": {
+      "first_seen": "2026-10-22T17:08:15.497460+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/pt/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Como fazer o vídeo com IA da dança Can I Ride: a dança viral para duas pessoas, com duas fotos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.497460+00:00"
+          }
+        ]
+      }
+    },
+    "duas pessoas": {
+      "first_seen": "2026-10-22T17:08:15.497463+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/pt/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Como fazer o vídeo com IA da dança Can I Ride: a dança viral para duas pessoas, com duas fotos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.497463+00:00"
+          }
+        ]
+      }
+    },
+    "para duas": {
+      "first_seen": "2026-10-22T17:08:15.497465+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/pt/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Como fazer o vídeo com IA da dança Can I Ride: a dança viral para duas pessoas, com duas fotos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.497465+00:00"
+          }
+        ]
+      }
+    },
+    "deo com ia da": {
+      "first_seen": "2026-10-22T17:08:15.497468+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/pt/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Como fazer o vídeo com IA da dança Can I Ride: a dança viral para duas pessoas, com duas fotos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.497468+00:00"
+          }
+        ]
+      }
+    },
+    "fazer o v": {
+      "first_seen": "2026-10-22T17:08:15.497470+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/pt/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Como fazer o vídeo com IA da dança Can I Ride: a dança viral para duas pessoas, com duas fotos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.497470+00:00"
+          }
+        ]
+      }
+    },
+    "duas": {
+      "first_seen": "2026-10-22T17:08:15.497473+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/pt/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Como fazer o vídeo com IA da dança Can I Ride: a dança viral para duas pessoas, com duas fotos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.497473+00:00"
+          }
+        ]
+      }
+    },
+    "pessoas com duas fotos": {
+      "first_seen": "2026-10-22T17:08:15.497475+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/pt/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Como fazer o vídeo com IA da dança Can I Ride: a dança viral para duas pessoas, com duas fotos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.497475+00:00"
+          }
+        ]
+      }
+    },
+    "fotos": {
+      "first_seen": "2026-10-22T17:08:15.497478+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/pt/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Como fazer o vídeo com IA da dança Can I Ride: a dança viral para duas pessoas, com duas fotos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.497478+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/es/can-i-ride-dance-ai",
+            "title": "Can I Ride Dance IA: el baile viral de dos personas, con dos fotos",
+            "first_seen": "2026-10-22T17:08:15.863759+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/es/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Cómo hacer el video con IA del baile Can I Ride: el baile viral para dos personas con dos fotos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.990224+00:00"
+          }
+        ]
+      }
+    },
+    "deo com ia": {
+      "first_seen": "2026-10-22T17:08:15.497480+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/pt/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Como fazer o vídeo com IA da dança Can I Ride: a dança viral para duas pessoas, com duas fotos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.497480+00:00"
+          }
+        ]
+      }
+    },
+    "para duas pessoas": {
+      "first_seen": "2026-10-22T17:08:15.497483+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/pt/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Como fazer o vídeo com IA da dança Can I Ride: a dança viral para duas pessoas, com duas fotos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.497483+00:00"
+          }
+        ]
+      }
+    },
+    "i ride a dan": {
+      "first_seen": "2026-10-22T17:08:15.497485+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/pt/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Como fazer o vídeo com IA da dança Can I Ride: a dança viral para duas pessoas, com duas fotos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.497485+00:00"
+          }
+        ]
+      }
+    },
+    "v deo": {
+      "first_seen": "2026-10-22T17:08:15.497487+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/pt/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Como fazer o vídeo com IA da dança Can I Ride: a dança viral para duas pessoas, com duas fotos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.497487+00:00"
+          }
+        ]
+      }
+    },
+    "pessoas": {
+      "first_seen": "2026-10-22T17:08:15.497490+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/pt/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Como fazer o vídeo com IA da dança Can I Ride: a dança viral para duas pessoas, com duas fotos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.497490+00:00"
+          }
+        ]
+      }
+    },
+    "dan a viral para": {
+      "first_seen": "2026-10-22T17:08:15.497492+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/pt/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Como fazer o vídeo com IA da dança Can I Ride: a dança viral para duas pessoas, com duas fotos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.497492+00:00"
+          }
+        ]
+      }
+    },
+    "como fazer o v": {
+      "first_seen": "2026-10-22T17:08:15.497494+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/pt/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Como fazer o vídeo com IA da dança Can I Ride: a dança viral para duas pessoas, com duas fotos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.497494+00:00"
+          }
+        ]
+      }
+    },
+    "o v": {
+      "first_seen": "2026-10-22T17:08:15.497497+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/pt/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Como fazer o vídeo com IA da dança Can I Ride: a dança viral para duas pessoas, com duas fotos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.497497+00:00"
+          }
+        ]
+      }
+    },
+    "deo": {
+      "first_seen": "2026-10-22T17:08:15.497499+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/pt/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Como fazer o vídeo com IA da dança Can I Ride: a dança viral para duas pessoas, com duas fotos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.497499+00:00"
+          }
+        ]
+      }
+    },
+    "dan": {
+      "first_seen": "2026-10-22T17:08:15.497507+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/pt/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Como fazer o vídeo com IA da dança Can I Ride: a dança viral para duas pessoas, com duas fotos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.497507+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/pt/blog/can-i-ride-dance-trend",
+            "title": "Dança Can I Ride: a música, os passos e como a trend do TikTok começou | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.875182+00:00"
+          }
+        ]
+      }
+    },
+    "fazer o": {
+      "first_seen": "2026-10-22T17:08:15.497509+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/pt/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Como fazer o vídeo com IA da dança Can I Ride: a dança viral para duas pessoas, com duas fotos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.497509+00:00"
+          }
+        ]
+      }
+    },
+    "como": {
+      "first_seen": "2026-10-22T17:08:15.497511+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/pt/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Como fazer o vídeo com IA da dança Can I Ride: a dança viral para duas pessoas, com duas fotos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.497511+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/pt/blog/can-i-ride-dance-trend",
+            "title": "Dança Can I Ride: a música, os passos e como a trend do TikTok começou | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.875194+00:00"
+          }
+        ]
+      }
+    },
+    "duas pessoas com duas": {
+      "first_seen": "2026-10-22T17:08:15.497514+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/pt/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Como fazer o vídeo com IA da dança Can I Ride: a dança viral para duas pessoas, com duas fotos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.497514+00:00"
+          }
+        ]
+      }
+    },
+    "como fazer o": {
+      "first_seen": "2026-10-22T17:08:15.497516+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/pt/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Como fazer o vídeo com IA da dança Can I Ride: a dança viral para duas pessoas, com duas fotos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.497516+00:00"
+          }
+        ]
+      }
+    },
+    "da dan": {
+      "first_seen": "2026-10-22T17:08:15.497519+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/pt/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Como fazer o vídeo com IA da dança Can I Ride: a dança viral para duas pessoas, com duas fotos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.497519+00:00"
+          }
+        ]
+      }
+    },
+    "v deo com ia": {
+      "first_seen": "2026-10-22T17:08:15.497522+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/pt/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Como fazer o vídeo com IA da dança Can I Ride: a dança viral para duas pessoas, com duas fotos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.497522+00:00"
+          }
+        ]
+      }
+    },
+    "dan a can i": {
+      "first_seen": "2026-10-22T17:08:15.497529+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/pt/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Como fazer o vídeo com IA da dança Can I Ride: a dança viral para duas pessoas, com duas fotos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.497529+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/pt/blog/can-i-ride-dance-trend",
+            "title": "Dança Can I Ride: a música, os passos e como a trend do TikTok começou | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.875221+00:00"
+          }
+        ]
+      }
+    },
+    "fazer o v deo": {
+      "first_seen": "2026-10-22T17:08:15.497531+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/pt/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Como fazer o vídeo com IA da dança Can I Ride: a dança viral para duas pessoas, com duas fotos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.497531+00:00"
+          }
+        ]
+      }
+    },
+    "ia da dan": {
+      "first_seen": "2026-10-22T17:08:15.497533+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/pt/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Como fazer o vídeo com IA da dança Can I Ride: a dança viral para duas pessoas, com duas fotos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.497533+00:00"
+          }
+        ]
+      }
+    },
+    "duas fotos": {
+      "first_seen": "2026-10-22T17:08:15.497536+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/pt/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Como fazer o vídeo com IA da dança Can I Ride: a dança viral para duas pessoas, com duas fotos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.497536+00:00"
+          }
+        ]
+      }
+    },
+    "la danse virale deux": {
+      "first_seen": "2026-10-22T17:08:15.566975+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/fr/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Comment faire la vidéo IA de la danse Can I Ride : la danse virale à deux, à partir de deux photos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.566975+00:00"
+          }
+        ]
+      }
+    },
+    "i ride la danse": {
+      "first_seen": "2026-10-22T17:08:15.566990+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/fr/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Comment faire la vidéo IA de la danse Can I Ride : la danse virale à deux, à partir de deux photos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.566990+00:00"
+          }
+        ]
+      }
+    },
+    "comment faire la vid": {
+      "first_seen": "2026-10-22T17:08:15.566994+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/fr/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Comment faire la vidéo IA de la danse Can I Ride : la danse virale à deux, à partir de deux photos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.566994+00:00"
+          }
+        ]
+      }
+    },
+    "danse can i ride": {
+      "first_seen": "2026-10-22T17:08:15.566997+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/fr/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Comment faire la vidéo IA de la danse Can I Ride : la danse virale à deux, à partir de deux photos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.566997+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/fr/blog/can-i-ride-dance-trend",
+            "title": "Danse Can I Ride : la chanson, les pas et les débuts de la tendance TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.976423+00:00"
+          }
+        ]
+      }
+    },
+    "danse virale deux": {
+      "first_seen": "2026-10-22T17:08:15.566999+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/fr/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Comment faire la vidéo IA de la danse Can I Ride : la danse virale à deux, à partir de deux photos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.566999+00:00"
+          }
+        ]
+      }
+    },
+    "vid o ia": {
+      "first_seen": "2026-10-22T17:08:15.567001+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/fr/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Comment faire la vidéo IA de la danse Can I Ride : la danse virale à deux, à partir de deux photos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.567001+00:00"
+          }
+        ]
+      }
+    },
+    "faire la": {
+      "first_seen": "2026-10-22T17:08:15.567003+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/fr/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Comment faire la vidéo IA de la danse Can I Ride : la danse virale à deux, à partir de deux photos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.567003+00:00"
+          }
+        ]
+      }
+    },
+    "deux partir deux": {
+      "first_seen": "2026-10-22T17:08:15.567006+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/fr/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Comment faire la vidéo IA de la danse Can I Ride : la danse virale à deux, à partir de deux photos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.567006+00:00"
+          }
+        ]
+      }
+    },
+    "danse": {
+      "first_seen": "2026-10-22T17:08:15.567008+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/fr/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Comment faire la vidéo IA de la danse Can I Ride : la danse virale à deux, à partir de deux photos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.567008+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/fr/blog/can-i-ride-dance-trend",
+            "title": "Danse Can I Ride : la chanson, les pas et les débuts de la tendance TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.976434+00:00"
+          }
+        ]
+      }
+    },
+    "danse virale deux partir": {
+      "first_seen": "2026-10-22T17:08:15.567010+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/fr/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Comment faire la vidéo IA de la danse Can I Ride : la danse virale à deux, à partir de deux photos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.567010+00:00"
+          }
+        ]
+      }
+    },
+    "deux": {
+      "first_seen": "2026-10-22T17:08:15.567012+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/fr/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Comment faire la vidéo IA de la danse Can I Ride : la danse virale à deux, à partir de deux photos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.567012+00:00"
+          }
+        ]
+      }
+    },
+    "virale deux": {
+      "first_seen": "2026-10-22T17:08:15.567014+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/fr/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Comment faire la vidéo IA de la danse Can I Ride : la danse virale à deux, à partir de deux photos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.567014+00:00"
+          }
+        ]
+      }
+    },
+    "faire la vid": {
+      "first_seen": "2026-10-22T17:08:15.567017+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/fr/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Comment faire la vidéo IA de la danse Can I Ride : la danse virale à deux, à partir de deux photos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.567017+00:00"
+          }
+        ]
+      }
+    },
+    "comment": {
+      "first_seen": "2026-10-22T17:08:15.567019+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/fr/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Comment faire la vidéo IA de la danse Can I Ride : la danse virale à deux, à partir de deux photos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.567019+00:00"
+          }
+        ]
+      }
+    },
+    "ia la danse": {
+      "first_seen": "2026-10-22T17:08:15.567021+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/fr/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Comment faire la vidéo IA de la danse Can I Ride : la danse virale à deux, à partir de deux photos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.567021+00:00"
+          }
+        ]
+      }
+    },
+    "i ride la": {
+      "first_seen": "2026-10-22T17:08:15.567023+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/fr/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Comment faire la vidéo IA de la danse Can I Ride : la danse virale à deux, à partir de deux photos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.567023+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/es/blog/can-i-ride-dance-trend",
+            "title": "Baile Can I Ride: la canción, los pasos y cómo empezó la tendencia de TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.921389+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/fr/blog/can-i-ride-dance-trend",
+            "title": "Danse Can I Ride : la chanson, les pas et les débuts de la tendance TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.976444+00:00"
+          }
+        ]
+      }
+    },
+    "vid": {
+      "first_seen": "2026-10-22T17:08:15.567031+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/fr/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Comment faire la vidéo IA de la danse Can I Ride : la danse virale à deux, à partir de deux photos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.567031+00:00"
+          }
+        ]
+      }
+    },
+    "faire la vid o": {
+      "first_seen": "2026-10-22T17:08:15.567034+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/fr/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Comment faire la vidéo IA de la danse Can I Ride : la danse virale à deux, à partir de deux photos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.567034+00:00"
+          }
+        ]
+      }
+    },
+    "la danse virale": {
+      "first_seen": "2026-10-22T17:08:15.567040+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/fr/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Comment faire la vidéo IA de la danse Can I Ride : la danse virale à deux, à partir de deux photos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.567040+00:00"
+          }
+        ]
+      }
+    },
+    "o ia la danse": {
+      "first_seen": "2026-10-22T17:08:15.567043+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/fr/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Comment faire la vidéo IA de la danse Can I Ride : la danse virale à deux, à partir de deux photos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.567043+00:00"
+          }
+        ]
+      }
+    },
+    "deux partir": {
+      "first_seen": "2026-10-22T17:08:15.567051+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/fr/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Comment faire la vidéo IA de la danse Can I Ride : la danse virale à deux, à partir de deux photos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.567051+00:00"
+          }
+        ]
+      }
+    },
+    "virale deux partir deux": {
+      "first_seen": "2026-10-22T17:08:15.567053+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/fr/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Comment faire la vidéo IA de la danse Can I Ride : la danse virale à deux, à partir de deux photos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.567053+00:00"
+          }
+        ]
+      }
+    },
+    "danse virale": {
+      "first_seen": "2026-10-22T17:08:15.567055+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/fr/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Comment faire la vidéo IA de la danse Can I Ride : la danse virale à deux, à partir de deux photos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.567055+00:00"
+          }
+        ]
+      }
+    },
+    "virale deux partir": {
+      "first_seen": "2026-10-22T17:08:15.567058+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/fr/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Comment faire la vidéo IA de la danse Can I Ride : la danse virale à deux, à partir de deux photos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.567058+00:00"
+          }
+        ]
+      }
+    },
+    "la vid o ia": {
+      "first_seen": "2026-10-22T17:08:15.567060+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/fr/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Comment faire la vidéo IA de la danse Can I Ride : la danse virale à deux, à partir de deux photos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.567060+00:00"
+          }
+        ]
+      }
+    },
+    "ride la danse virale": {
+      "first_seen": "2026-10-22T17:08:15.567063+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/fr/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Comment faire la vidéo IA de la danse Can I Ride : la danse virale à deux, à partir de deux photos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.567063+00:00"
+          }
+        ]
+      }
+    },
+    "la danse can i": {
+      "first_seen": "2026-10-22T17:08:15.567065+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/fr/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Comment faire la vidéo IA de la danse Can I Ride : la danse virale à deux, à partir de deux photos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.567065+00:00"
+          }
+        ]
+      }
+    },
+    "la vid": {
+      "first_seen": "2026-10-22T17:08:15.567067+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/fr/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Comment faire la vidéo IA de la danse Can I Ride : la danse virale à deux, à partir de deux photos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.567067+00:00"
+          }
+        ]
+      }
+    },
+    "virale": {
+      "first_seen": "2026-10-22T17:08:15.567070+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/fr/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Comment faire la vidéo IA de la danse Can I Ride : la danse virale à deux, à partir de deux photos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.567070+00:00"
+          }
+        ]
+      }
+    },
+    "la danse": {
+      "first_seen": "2026-10-22T17:08:15.567072+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/fr/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Comment faire la vidéo IA de la danse Can I Ride : la danse virale à deux, à partir de deux photos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.567072+00:00"
+          }
+        ]
+      }
+    },
+    "ride la danse": {
+      "first_seen": "2026-10-22T17:08:15.567075+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/fr/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Comment faire la vidéo IA de la danse Can I Ride : la danse virale à deux, à partir de deux photos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.567075+00:00"
+          }
+        ]
+      }
+    },
+    "danse can i": {
+      "first_seen": "2026-10-22T17:08:15.567077+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/fr/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Comment faire la vidéo IA de la danse Can I Ride : la danse virale à deux, à partir de deux photos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.567077+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/fr/blog/can-i-ride-dance-trend",
+            "title": "Danse Can I Ride : la chanson, les pas et les débuts de la tendance TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.976512+00:00"
+          }
+        ]
+      }
+    },
+    "partir": {
+      "first_seen": "2026-10-22T17:08:15.567084+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/fr/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Comment faire la vidéo IA de la danse Can I Ride : la danse virale à deux, à partir de deux photos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.567084+00:00"
+          }
+        ]
+      }
+    },
+    "la vid o": {
+      "first_seen": "2026-10-22T17:08:15.567086+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/fr/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Comment faire la vidéo IA de la danse Can I Ride : la danse virale à deux, à partir de deux photos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.567086+00:00"
+          }
+        ]
+      }
+    },
+    "partir deux": {
+      "first_seen": "2026-10-22T17:08:15.567089+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/fr/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Comment faire la vidéo IA de la danse Can I Ride : la danse virale à deux, à partir de deux photos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.567089+00:00"
+          }
+        ]
+      }
+    },
+    "o ia": {
+      "first_seen": "2026-10-22T17:08:15.567091+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/fr/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Comment faire la vidéo IA de la danse Can I Ride : la danse virale à deux, à partir de deux photos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.567091+00:00"
+          }
+        ]
+      }
+    },
+    "ride la": {
+      "first_seen": "2026-10-22T17:08:15.567093+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/fr/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Comment faire la vidéo IA de la danse Can I Ride : la danse virale à deux, à partir de deux photos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.567093+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/es/blog/can-i-ride-dance-trend",
+            "title": "Baile Can I Ride: la canción, los pasos y cómo empezó la tendencia de TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.921471+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/fr/blog/can-i-ride-dance-trend",
+            "title": "Danse Can I Ride : la chanson, les pas et les débuts de la tendance TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.976527+00:00"
+          }
+        ]
+      }
+    },
+    "faire": {
+      "first_seen": "2026-10-22T17:08:15.567096+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/fr/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Comment faire la vidéo IA de la danse Can I Ride : la danse virale à deux, à partir de deux photos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.567096+00:00"
+          }
+        ]
+      }
+    },
+    "o ia la": {
+      "first_seen": "2026-10-22T17:08:15.567098+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/fr/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Comment faire la vidéo IA de la danse Can I Ride : la danse virale à deux, à partir de deux photos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.567098+00:00"
+          }
+        ]
+      }
+    },
+    "vid o ia la": {
+      "first_seen": "2026-10-22T17:08:15.567101+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/fr/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Comment faire la vidéo IA de la danse Can I Ride : la danse virale à deux, à partir de deux photos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.567101+00:00"
+          }
+        ]
+      }
+    },
+    "comment faire la": {
+      "first_seen": "2026-10-22T17:08:15.567104+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/fr/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Comment faire la vidéo IA de la danse Can I Ride : la danse virale à deux, à partir de deux photos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.567104+00:00"
+          }
+        ]
+      }
+    },
+    "comment faire": {
+      "first_seen": "2026-10-22T17:08:15.567106+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/fr/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Comment faire la vidéo IA de la danse Can I Ride : la danse virale à deux, à partir de deux photos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.567106+00:00"
+          }
+        ]
+      }
+    },
+    "vid o": {
+      "first_seen": "2026-10-22T17:08:15.567109+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/fr/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Comment faire la vidéo IA de la danse Can I Ride : la danse virale à deux, à partir de deux photos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.567109+00:00"
+          }
+        ]
+      }
+    },
+    "el baile": {
+      "first_seen": "2026-10-22T17:08:15.863722+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/es/can-i-ride-dance-ai",
+            "title": "Can I Ride Dance IA: el baile viral de dos personas, con dos fotos",
+            "first_seen": "2026-10-22T17:08:15.863722+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/es/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Cómo hacer el video con IA del baile Can I Ride: el baile viral para dos personas con dos fotos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.990177+00:00"
+          }
+        ]
+      }
+    },
+    "con dos": {
+      "first_seen": "2026-10-22T17:08:15.863738+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/es/can-i-ride-dance-ai",
+            "title": "Can I Ride Dance IA: el baile viral de dos personas, con dos fotos",
+            "first_seen": "2026-10-22T17:08:15.863738+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/es/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Cómo hacer el video con IA del baile Can I Ride: el baile viral para dos personas con dos fotos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.990181+00:00"
+          }
+        ]
+      }
+    },
+    "personas con": {
+      "first_seen": "2026-10-22T17:08:15.863741+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/es/can-i-ride-dance-ai",
+            "title": "Can I Ride Dance IA: el baile viral de dos personas, con dos fotos",
+            "first_seen": "2026-10-22T17:08:15.863741+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/es/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Cómo hacer el video con IA del baile Can I Ride: el baile viral para dos personas con dos fotos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.990184+00:00"
+          }
+        ]
+      }
+    },
+    "dos personas con dos": {
+      "first_seen": "2026-10-22T17:08:15.863743+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/es/can-i-ride-dance-ai",
+            "title": "Can I Ride Dance IA: el baile viral de dos personas, con dos fotos",
+            "first_seen": "2026-10-22T17:08:15.863743+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/es/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Cómo hacer el video con IA del baile Can I Ride: el baile viral para dos personas con dos fotos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.990189+00:00"
+          }
+        ]
+      }
+    },
+    "dos personas con": {
+      "first_seen": "2026-10-22T17:08:15.863746+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/es/can-i-ride-dance-ai",
+            "title": "Can I Ride Dance IA: el baile viral de dos personas, con dos fotos",
+            "first_seen": "2026-10-22T17:08:15.863746+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/es/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Cómo hacer el video con IA del baile Can I Ride: el baile viral para dos personas con dos fotos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.990196+00:00"
+          }
+        ]
+      }
+    },
+    "personas con dos": {
+      "first_seen": "2026-10-22T17:08:15.863752+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/es/can-i-ride-dance-ai",
+            "title": "Can I Ride Dance IA: el baile viral de dos personas, con dos fotos",
+            "first_seen": "2026-10-22T17:08:15.863752+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/es/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Cómo hacer el video con IA del baile Can I Ride: el baile viral para dos personas con dos fotos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.990209+00:00"
+          }
+        ]
+      }
+    },
+    "ia el baile": {
+      "first_seen": "2026-10-22T17:08:15.863754+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/es/can-i-ride-dance-ai",
+            "title": "Can I Ride Dance IA: el baile viral de dos personas, con dos fotos",
+            "first_seen": "2026-10-22T17:08:15.863754+00:00"
+          }
+        ]
+      }
+    },
+    "ia el": {
+      "first_seen": "2026-10-22T17:08:15.863756+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/es/can-i-ride-dance-ai",
+            "title": "Can I Ride Dance IA: el baile viral de dos personas, con dos fotos",
+            "first_seen": "2026-10-22T17:08:15.863756+00:00"
+          }
+        ]
+      }
+    },
+    "baile viral dos": {
+      "first_seen": "2026-10-22T17:08:15.863762+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/es/can-i-ride-dance-ai",
+            "title": "Can I Ride Dance IA: el baile viral de dos personas, con dos fotos",
+            "first_seen": "2026-10-22T17:08:15.863762+00:00"
+          }
+        ]
+      }
+    },
+    "personas con dos fotos": {
+      "first_seen": "2026-10-22T17:08:15.863776+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/es/can-i-ride-dance-ai",
+            "title": "Can I Ride Dance IA: el baile viral de dos personas, con dos fotos",
+            "first_seen": "2026-10-22T17:08:15.863776+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/es/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Cómo hacer el video con IA del baile Can I Ride: el baile viral para dos personas con dos fotos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.990248+00:00"
+          }
+        ]
+      }
+    },
+    "el baile viral dos": {
+      "first_seen": "2026-10-22T17:08:15.863779+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/es/can-i-ride-dance-ai",
+            "title": "Can I Ride Dance IA: el baile viral de dos personas, con dos fotos",
+            "first_seen": "2026-10-22T17:08:15.863779+00:00"
+          }
+        ]
+      }
+    },
+    "dos personas": {
+      "first_seen": "2026-10-22T17:08:15.863781+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/es/can-i-ride-dance-ai",
+            "title": "Can I Ride Dance IA: el baile viral de dos personas, con dos fotos",
+            "first_seen": "2026-10-22T17:08:15.863781+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/es/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Cómo hacer el video con IA del baile Can I Ride: el baile viral para dos personas con dos fotos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.990262+00:00"
+          }
+        ]
+      }
+    },
+    "personas": {
+      "first_seen": "2026-10-22T17:08:15.863783+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/es/can-i-ride-dance-ai",
+            "title": "Can I Ride Dance IA: el baile viral de dos personas, con dos fotos",
+            "first_seen": "2026-10-22T17:08:15.863783+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/es/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Cómo hacer el video con IA del baile Can I Ride: el baile viral para dos personas con dos fotos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.990274+00:00"
+          }
+        ]
+      }
+    },
+    "baile viral dos personas": {
+      "first_seen": "2026-10-22T17:08:15.863785+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/es/can-i-ride-dance-ai",
+            "title": "Can I Ride Dance IA: el baile viral de dos personas, con dos fotos",
+            "first_seen": "2026-10-22T17:08:15.863785+00:00"
+          }
+        ]
+      }
+    },
+    "ride dance ia el": {
+      "first_seen": "2026-10-22T17:08:15.863792+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/es/can-i-ride-dance-ai",
+            "title": "Can I Ride Dance IA: el baile viral de dos personas, con dos fotos",
+            "first_seen": "2026-10-22T17:08:15.863792+00:00"
+          }
+        ]
+      }
+    },
+    "dos": {
+      "first_seen": "2026-10-22T17:08:15.863794+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/es/can-i-ride-dance-ai",
+            "title": "Can I Ride Dance IA: el baile viral de dos personas, con dos fotos",
+            "first_seen": "2026-10-22T17:08:15.863794+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/es/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Cómo hacer el video con IA del baile Can I Ride: el baile viral para dos personas con dos fotos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.990280+00:00"
+          }
+        ]
+      }
+    },
+    "dos fotos": {
+      "first_seen": "2026-10-22T17:08:15.863799+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/es/can-i-ride-dance-ai",
+            "title": "Can I Ride Dance IA: el baile viral de dos personas, con dos fotos",
+            "first_seen": "2026-10-22T17:08:15.863799+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/es/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Cómo hacer el video con IA del baile Can I Ride: el baile viral para dos personas con dos fotos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.990288+00:00"
+          }
+        ]
+      }
+    },
+    "baile": {
+      "first_seen": "2026-10-22T17:08:15.863801+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/es/can-i-ride-dance-ai",
+            "title": "Can I Ride Dance IA: el baile viral de dos personas, con dos fotos",
+            "first_seen": "2026-10-22T17:08:15.863801+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/es/blog/can-i-ride-dance-trend",
+            "title": "Baile Can I Ride: la canción, los pasos y cómo empezó la tendencia de TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.921478+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/es/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Cómo hacer el video con IA del baile Can I Ride: el baile viral para dos personas con dos fotos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.990290+00:00"
+          }
+        ]
+      }
+    },
+    "con dos fotos": {
+      "first_seen": "2026-10-22T17:08:15.863804+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/es/can-i-ride-dance-ai",
+            "title": "Can I Ride Dance IA: el baile viral de dos personas, con dos fotos",
+            "first_seen": "2026-10-22T17:08:15.863804+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/es/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Cómo hacer el video con IA del baile Can I Ride: el baile viral para dos personas con dos fotos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.990292+00:00"
+          }
+        ]
+      }
+    },
+    "ride a m sica": {
+      "first_seen": "2026-10-22T17:08:15.875150+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/pt/blog/can-i-ride-dance-trend",
+            "title": "Dança Can I Ride: a música, os passos e como a trend do TikTok começou | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.875150+00:00"
+          }
+        ]
+      }
+    },
+    "sica os": {
+      "first_seen": "2026-10-22T17:08:15.875157+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/pt/blog/can-i-ride-dance-trend",
+            "title": "Dança Can I Ride: a música, os passos e como a trend do TikTok começou | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.875157+00:00"
+          }
+        ]
+      }
+    },
+    "m sica": {
+      "first_seen": "2026-10-22T17:08:15.875159+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/pt/blog/can-i-ride-dance-trend",
+            "title": "Dança Can I Ride: a música, os passos e como a trend do TikTok começou | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.875159+00:00"
+          }
+        ]
+      }
+    },
+    "m sica os": {
+      "first_seen": "2026-10-22T17:08:15.875161+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/pt/blog/can-i-ride-dance-trend",
+            "title": "Dança Can I Ride: a música, os passos e como a trend do TikTok começou | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.875161+00:00"
+          }
+        ]
+      }
+    },
+    "passos e como": {
+      "first_seen": "2026-10-22T17:08:15.875163+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/pt/blog/can-i-ride-dance-trend",
+            "title": "Dança Can I Ride: a música, os passos e como a trend do TikTok começou | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.875163+00:00"
+          }
+        ]
+      }
+    },
+    "tok come": {
+      "first_seen": "2026-10-22T17:08:15.875165+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/pt/blog/can-i-ride-dance-trend",
+            "title": "Dança Can I Ride: a música, os passos e como a trend do TikTok começou | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.875165+00:00"
+          }
+        ]
+      }
+    },
+    "come ou": {
+      "first_seen": "2026-10-22T17:08:15.875167+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/pt/blog/can-i-ride-dance-trend",
+            "title": "Dança Can I Ride: a música, os passos e como a trend do TikTok começou | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.875167+00:00"
+          }
+        ]
+      }
+    },
+    "tik tok come": {
+      "first_seen": "2026-10-22T17:08:15.875172+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/pt/blog/can-i-ride-dance-trend",
+            "title": "Dança Can I Ride: a música, os passos e como a trend do TikTok começou | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.875172+00:00"
+          }
+        ]
+      }
+    },
+    "sica": {
+      "first_seen": "2026-10-22T17:08:15.875177+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/pt/blog/can-i-ride-dance-trend",
+            "title": "Dança Can I Ride: a música, os passos e como a trend do TikTok começou | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.875177+00:00"
+          }
+        ]
+      }
+    },
+    "come": {
+      "first_seen": "2026-10-22T17:08:15.875185+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/pt/blog/can-i-ride-dance-trend",
+            "title": "Dança Can I Ride: a música, os passos e como a trend do TikTok começou | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.875185+00:00"
+          }
+        ]
+      }
+    },
+    "os passos e": {
+      "first_seen": "2026-10-22T17:08:15.875187+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/pt/blog/can-i-ride-dance-trend",
+            "title": "Dança Can I Ride: a música, os passos e como a trend do TikTok começou | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.875187+00:00"
+          }
+        ]
+      }
+    },
+    "tok come ou": {
+      "first_seen": "2026-10-22T17:08:15.875189+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/pt/blog/can-i-ride-dance-trend",
+            "title": "Dança Can I Ride: a música, os passos e como a trend do TikTok começou | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.875189+00:00"
+          }
+        ]
+      }
+    },
+    "sica os passos": {
+      "first_seen": "2026-10-22T17:08:15.875192+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/pt/blog/can-i-ride-dance-trend",
+            "title": "Dança Can I Ride: a música, os passos e como a trend do TikTok começou | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.875192+00:00"
+          }
+        ]
+      }
+    },
+    "passos e": {
+      "first_seen": "2026-10-22T17:08:15.875197+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/pt/blog/can-i-ride-dance-trend",
+            "title": "Dança Can I Ride: a música, os passos e como a trend do TikTok começou | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.875197+00:00"
+          }
+        ]
+      }
+    },
+    "m sica os passos": {
+      "first_seen": "2026-10-22T17:08:15.875200+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/pt/blog/can-i-ride-dance-trend",
+            "title": "Dança Can I Ride: a música, os passos e como a trend do TikTok começou | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.875200+00:00"
+          }
+        ]
+      }
+    },
+    "i ride a m": {
+      "first_seen": "2026-10-22T17:08:15.875202+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/pt/blog/can-i-ride-dance-trend",
+            "title": "Dança Can I Ride: a música, os passos e como a trend do TikTok começou | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.875202+00:00"
+          }
+        ]
+      }
+    },
+    "tik tok come ou": {
+      "first_seen": "2026-10-22T17:08:15.875207+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/pt/blog/can-i-ride-dance-trend",
+            "title": "Dança Can I Ride: a música, os passos e como a trend do TikTok começou | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.875207+00:00"
+          }
+        ]
+      }
+    },
+    "passos": {
+      "first_seen": "2026-10-22T17:08:15.875209+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/pt/blog/can-i-ride-dance-trend",
+            "title": "Dança Can I Ride: a música, os passos e como a trend do TikTok começou | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.875209+00:00"
+          }
+        ]
+      }
+    },
+    "os passos": {
+      "first_seen": "2026-10-22T17:08:15.875212+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/pt/blog/can-i-ride-dance-trend",
+            "title": "Dança Can I Ride: a música, os passos e como a trend do TikTok começou | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.875212+00:00"
+          }
+        ]
+      }
+    },
+    "os passos e como": {
+      "first_seen": "2026-10-22T17:08:15.875214+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/pt/blog/can-i-ride-dance-trend",
+            "title": "Dança Can I Ride: a música, os passos e como a trend do TikTok começou | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.875214+00:00"
+          }
+        ]
+      }
+    },
+    "e como": {
+      "first_seen": "2026-10-22T17:08:15.875219+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/pt/blog/can-i-ride-dance-trend",
+            "title": "Dança Can I Ride: a música, os passos e como a trend do TikTok começou | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.875219+00:00"
+          }
+        ]
+      }
+    },
+    "ride a m": {
+      "first_seen": "2026-10-22T17:08:15.875224+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/pt/blog/can-i-ride-dance-trend",
+            "title": "Dança Can I Ride: a música, os passos e como a trend do TikTok começou | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.875224+00:00"
+          }
+        ]
+      }
+    },
+    "sica os passos e": {
+      "first_seen": "2026-10-22T17:08:15.875226+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/pt/blog/can-i-ride-dance-trend",
+            "title": "Dança Can I Ride: a música, os passos e como a trend do TikTok começou | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.875226+00:00"
+          }
+        ]
+      }
+    },
+    "baile can i ride": {
+      "first_seen": "2026-10-22T17:08:15.921345+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/es/blog/can-i-ride-dance-trend",
+            "title": "Baile Can I Ride: la canción, los pasos y cómo empezó la tendencia de TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.921345+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/es/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Cómo hacer el video con IA del baile Can I Ride: el baile viral para dos personas con dos fotos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.990167+00:00"
+          }
+        ]
+      }
+    },
+    "canci": {
+      "first_seen": "2026-10-22T17:08:15.921358+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/es/blog/can-i-ride-dance-trend",
+            "title": "Baile Can I Ride: la canción, los pasos y cómo empezó la tendencia de TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.921358+00:00"
+          }
+        ]
+      }
+    },
+    "los pasos y": {
+      "first_seen": "2026-10-22T17:08:15.921362+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/es/blog/can-i-ride-dance-trend",
+            "title": "Baile Can I Ride: la canción, los pasos y cómo empezó la tendencia de TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.921362+00:00"
+          }
+        ]
+      }
+    },
+    "mo empez": {
+      "first_seen": "2026-10-22T17:08:15.921364+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/es/blog/can-i-ride-dance-trend",
+            "title": "Baile Can I Ride: la canción, los pasos y cómo empezó la tendencia de TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.921364+00:00"
+          }
+        ]
+      }
+    },
+    "la canci": {
+      "first_seen": "2026-10-22T17:08:15.921367+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/es/blog/can-i-ride-dance-trend",
+            "title": "Baile Can I Ride: la canción, los pasos y cómo empezó la tendencia de TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.921367+00:00"
+          }
+        ]
+      }
+    },
+    "n los": {
+      "first_seen": "2026-10-22T17:08:15.921369+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/es/blog/can-i-ride-dance-trend",
+            "title": "Baile Can I Ride: la canción, los pasos y cómo empezó la tendencia de TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.921369+00:00"
+          }
+        ]
+      }
+    },
+    "i ride la canci": {
+      "first_seen": "2026-10-22T17:08:15.921372+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/es/blog/can-i-ride-dance-trend",
+            "title": "Baile Can I Ride: la canción, los pasos y cómo empezó la tendencia de TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.921372+00:00"
+          }
+        ]
+      }
+    },
+    "c mo": {
+      "first_seen": "2026-10-22T17:08:15.921374+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/es/blog/can-i-ride-dance-trend",
+            "title": "Baile Can I Ride: la canción, los pasos y cómo empezó la tendencia de TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.921374+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/es/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Cómo hacer el video con IA del baile Can I Ride: el baile viral para dos personas con dos fotos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.990201+00:00"
+          }
+        ]
+      }
+    },
+    "y c mo": {
+      "first_seen": "2026-10-22T17:08:15.921376+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/es/blog/can-i-ride-dance-trend",
+            "title": "Baile Can I Ride: la canción, los pasos y cómo empezó la tendencia de TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.921376+00:00"
+          }
+        ]
+      }
+    },
+    "c mo empez la": {
+      "first_seen": "2026-10-22T17:08:15.921378+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/es/blog/can-i-ride-dance-trend",
+            "title": "Baile Can I Ride: la canción, los pasos y cómo empezó la tendencia de TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.921378+00:00"
+          }
+        ]
+      }
+    },
+    "la canci n": {
+      "first_seen": "2026-10-22T17:08:15.921380+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/es/blog/can-i-ride-dance-trend",
+            "title": "Baile Can I Ride: la canción, los pasos y cómo empezó la tendencia de TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.921380+00:00"
+          }
+        ]
+      }
+    },
+    "y c": {
+      "first_seen": "2026-10-22T17:08:15.921382+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/es/blog/can-i-ride-dance-trend",
+            "title": "Baile Can I Ride: la canción, los pasos y cómo empezó la tendencia de TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.921382+00:00"
+          }
+        ]
+      }
+    },
+    "pasos y c": {
+      "first_seen": "2026-10-22T17:08:15.921385+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/es/blog/can-i-ride-dance-trend",
+            "title": "Baile Can I Ride: la canción, los pasos y cómo empezó la tendencia de TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.921385+00:00"
+          }
+        ]
+      }
+    },
+    "pasos y": {
+      "first_seen": "2026-10-22T17:08:15.921387+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/es/blog/can-i-ride-dance-trend",
+            "title": "Baile Can I Ride: la canción, los pasos y cómo empezó la tendencia de TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.921387+00:00"
+          }
+        ]
+      }
+    },
+    "los pasos": {
+      "first_seen": "2026-10-22T17:08:15.921392+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/es/blog/can-i-ride-dance-trend",
+            "title": "Baile Can I Ride: la canción, los pasos y cómo empezó la tendencia de TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.921392+00:00"
+          }
+        ]
+      }
+    },
+    "ride la canci": {
+      "first_seen": "2026-10-22T17:08:15.921394+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/es/blog/can-i-ride-dance-trend",
+            "title": "Baile Can I Ride: la canción, los pasos y cómo empezó la tendencia de TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.921394+00:00"
+          }
+        ]
+      }
+    },
+    "la tendencia tik": {
+      "first_seen": "2026-10-22T17:08:15.921396+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/es/blog/can-i-ride-dance-trend",
+            "title": "Baile Can I Ride: la canción, los pasos y cómo empezó la tendencia de TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.921396+00:00"
+          }
+        ]
+      }
+    },
+    "ride la canci n": {
+      "first_seen": "2026-10-22T17:08:15.921404+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/es/blog/can-i-ride-dance-trend",
+            "title": "Baile Can I Ride: la canción, los pasos y cómo empezó la tendencia de TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.921404+00:00"
+          }
+        ]
+      }
+    },
+    "tendencia tik tok": {
+      "first_seen": "2026-10-22T17:08:15.921407+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/es/blog/can-i-ride-dance-trend",
+            "title": "Baile Can I Ride: la canción, los pasos y cómo empezó la tendencia de TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.921407+00:00"
+          }
+        ]
+      }
+    },
+    "empez": {
+      "first_seen": "2026-10-22T17:08:15.921410+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/es/blog/can-i-ride-dance-trend",
+            "title": "Baile Can I Ride: la canción, los pasos y cómo empezó la tendencia de TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.921410+00:00"
+          }
+        ]
+      }
+    },
+    "canci n los": {
+      "first_seen": "2026-10-22T17:08:15.921412+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/es/blog/can-i-ride-dance-trend",
+            "title": "Baile Can I Ride: la canción, los pasos y cómo empezó la tendencia de TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.921412+00:00"
+          }
+        ]
+      }
+    },
+    "baile can i": {
+      "first_seen": "2026-10-22T17:08:15.921414+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/es/blog/can-i-ride-dance-trend",
+            "title": "Baile Can I Ride: la canción, los pasos y cómo empezó la tendencia de TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.921414+00:00"
+          },
+          {
+            "url": "https://aptvideoai.com/es/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Cómo hacer el video con IA del baile Can I Ride: el baile viral para dos personas con dos fotos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.990236+00:00"
+          }
+        ]
+      }
+    },
+    "empez la": {
+      "first_seen": "2026-10-22T17:08:15.921417+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/es/blog/can-i-ride-dance-trend",
+            "title": "Baile Can I Ride: la canción, los pasos y cómo empezó la tendencia de TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.921417+00:00"
+          }
+        ]
+      }
+    },
+    "pasos": {
+      "first_seen": "2026-10-22T17:08:15.921425+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/es/blog/can-i-ride-dance-trend",
+            "title": "Baile Can I Ride: la canción, los pasos y cómo empezó la tendencia de TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.921425+00:00"
+          }
+        ]
+      }
+    },
+    "c mo empez": {
+      "first_seen": "2026-10-22T17:08:15.921427+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/es/blog/can-i-ride-dance-trend",
+            "title": "Baile Can I Ride: la canción, los pasos y cómo empezó la tendencia de TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.921427+00:00"
+          }
+        ]
+      }
+    },
+    "los pasos y c": {
+      "first_seen": "2026-10-22T17:08:15.921430+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/es/blog/can-i-ride-dance-trend",
+            "title": "Baile Can I Ride: la canción, los pasos y cómo empezó la tendencia de TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.921430+00:00"
+          }
+        ]
+      }
+    },
+    "la canci n los": {
+      "first_seen": "2026-10-22T17:08:15.921439+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/es/blog/can-i-ride-dance-trend",
+            "title": "Baile Can I Ride: la canción, los pasos y cómo empezó la tendencia de TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.921439+00:00"
+          }
+        ]
+      }
+    },
+    "mo empez la tendencia": {
+      "first_seen": "2026-10-22T17:08:15.921442+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/es/blog/can-i-ride-dance-trend",
+            "title": "Baile Can I Ride: la canción, los pasos y cómo empezó la tendencia de TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.921442+00:00"
+          }
+        ]
+      }
+    },
+    "mo empez la": {
+      "first_seen": "2026-10-22T17:08:15.921444+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/es/blog/can-i-ride-dance-trend",
+            "title": "Baile Can I Ride: la canción, los pasos y cómo empezó la tendencia de TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.921444+00:00"
+          }
+        ]
+      }
+    },
+    "tendencia tik": {
+      "first_seen": "2026-10-22T17:08:15.921450+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/es/blog/can-i-ride-dance-trend",
+            "title": "Baile Can I Ride: la canción, los pasos y cómo empezó la tendencia de TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.921450+00:00"
+          }
+        ]
+      }
+    },
+    "empez la tendencia": {
+      "first_seen": "2026-10-22T17:08:15.921453+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/es/blog/can-i-ride-dance-trend",
+            "title": "Baile Can I Ride: la canción, los pasos y cómo empezó la tendencia de TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.921453+00:00"
+          }
+        ]
+      }
+    },
+    "y c mo empez": {
+      "first_seen": "2026-10-22T17:08:15.921455+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/es/blog/can-i-ride-dance-trend",
+            "title": "Baile Can I Ride: la canción, los pasos y cómo empezó la tendencia de TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.921455+00:00"
+          }
+        ]
+      }
+    },
+    "los": {
+      "first_seen": "2026-10-22T17:08:15.921457+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/es/blog/can-i-ride-dance-trend",
+            "title": "Baile Can I Ride: la canción, los pasos y cómo empezó la tendencia de TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.921457+00:00"
+          }
+        ]
+      }
+    },
+    "empez la tendencia tik": {
+      "first_seen": "2026-10-22T17:08:15.921465+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/es/blog/can-i-ride-dance-trend",
+            "title": "Baile Can I Ride: la canción, los pasos y cómo empezó la tendencia de TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.921465+00:00"
+          }
+        ]
+      }
+    },
+    "n los pasos": {
+      "first_seen": "2026-10-22T17:08:15.921467+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/es/blog/can-i-ride-dance-trend",
+            "title": "Baile Can I Ride: la canción, los pasos y cómo empezó la tendencia de TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.921467+00:00"
+          }
+        ]
+      }
+    },
+    "canci n los pasos": {
+      "first_seen": "2026-10-22T17:08:15.921469+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/es/blog/can-i-ride-dance-trend",
+            "title": "Baile Can I Ride: la canción, los pasos y cómo empezó la tendencia de TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.921469+00:00"
+          }
+        ]
+      }
+    },
+    "pasos y c mo": {
+      "first_seen": "2026-10-22T17:08:15.921474+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/es/blog/can-i-ride-dance-trend",
+            "title": "Baile Can I Ride: la canción, los pasos y cómo empezó la tendencia de TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.921474+00:00"
+          }
+        ]
+      }
+    },
+    "canci n": {
+      "first_seen": "2026-10-22T17:08:15.921476+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/es/blog/can-i-ride-dance-trend",
+            "title": "Baile Can I Ride: la canción, los pasos y cómo empezó la tendencia de TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.921476+00:00"
+          }
+        ]
+      }
+    },
+    "la tendencia tik tok": {
+      "first_seen": "2026-10-22T17:08:15.921481+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/es/blog/can-i-ride-dance-trend",
+            "title": "Baile Can I Ride: la canción, los pasos y cómo empezó la tendencia de TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.921481+00:00"
+          }
+        ]
+      }
+    },
+    "n los pasos y": {
+      "first_seen": "2026-10-22T17:08:15.921484+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/es/blog/can-i-ride-dance-trend",
+            "title": "Baile Can I Ride: la canción, los pasos y cómo empezó la tendencia de TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.921484+00:00"
+          }
+        ]
+      }
+    },
+    "d buts la tendance": {
+      "first_seen": "2026-10-22T17:08:15.976405+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/fr/blog/can-i-ride-dance-trend",
+            "title": "Danse Can I Ride : la chanson, les pas et les débuts de la tendance TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.976405+00:00"
+          }
+        ]
+      }
+    },
+    "les d buts": {
+      "first_seen": "2026-10-22T17:08:15.976418+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/fr/blog/can-i-ride-dance-trend",
+            "title": "Danse Can I Ride : la chanson, les pas et les débuts de la tendance TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.976418+00:00"
+          }
+        ]
+      }
+    },
+    "d buts": {
+      "first_seen": "2026-10-22T17:08:15.976421+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/fr/blog/can-i-ride-dance-trend",
+            "title": "Danse Can I Ride : la chanson, les pas et les débuts de la tendance TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.976421+00:00"
+          }
+        ]
+      }
+    },
+    "pas et les d": {
+      "first_seen": "2026-10-22T17:08:15.976426+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/fr/blog/can-i-ride-dance-trend",
+            "title": "Danse Can I Ride : la chanson, les pas et les débuts de la tendance TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.976426+00:00"
+          }
+        ]
+      }
+    },
+    "pas": {
+      "first_seen": "2026-10-22T17:08:15.976429+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/fr/blog/can-i-ride-dance-trend",
+            "title": "Danse Can I Ride : la chanson, les pas et les débuts de la tendance TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.976429+00:00"
+          }
+        ]
+      }
+    },
+    "la chanson les": {
+      "first_seen": "2026-10-22T17:08:15.976431+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/fr/blog/can-i-ride-dance-trend",
+            "title": "Danse Can I Ride : la chanson, les pas et les débuts de la tendance TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.976431+00:00"
+          }
+        ]
+      }
+    },
+    "pas et": {
+      "first_seen": "2026-10-22T17:08:15.976437+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/fr/blog/can-i-ride-dance-trend",
+            "title": "Danse Can I Ride : la chanson, les pas et les débuts de la tendance TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.976437+00:00"
+          }
+        ]
+      }
+    },
+    "buts la": {
+      "first_seen": "2026-10-22T17:08:15.976439+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/fr/blog/can-i-ride-dance-trend",
+            "title": "Danse Can I Ride : la chanson, les pas et les débuts de la tendance TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.976439+00:00"
+          }
+        ]
+      }
+    },
+    "chanson les pas et": {
+      "first_seen": "2026-10-22T17:08:15.976441+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/fr/blog/can-i-ride-dance-trend",
+            "title": "Danse Can I Ride : la chanson, les pas et les débuts de la tendance TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.976441+00:00"
+          }
+        ]
+      }
+    },
+    "les": {
+      "first_seen": "2026-10-22T17:08:15.976447+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/fr/blog/can-i-ride-dance-trend",
+            "title": "Danse Can I Ride : la chanson, les pas et les débuts de la tendance TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.976447+00:00"
+          }
+        ]
+      }
+    },
+    "les pas et": {
+      "first_seen": "2026-10-22T17:08:15.976449+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/fr/blog/can-i-ride-dance-trend",
+            "title": "Danse Can I Ride : la chanson, les pas et les débuts de la tendance TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.976449+00:00"
+          }
+        ]
+      }
+    },
+    "la tendance tik": {
+      "first_seen": "2026-10-22T17:08:15.976451+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/fr/blog/can-i-ride-dance-trend",
+            "title": "Danse Can I Ride : la chanson, les pas et les débuts de la tendance TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.976451+00:00"
+          }
+        ]
+      }
+    },
+    "et les d": {
+      "first_seen": "2026-10-22T17:08:15.976454+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/fr/blog/can-i-ride-dance-trend",
+            "title": "Danse Can I Ride : la chanson, les pas et les débuts de la tendance TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.976454+00:00"
+          }
+        ]
+      }
+    },
+    "les d": {
+      "first_seen": "2026-10-22T17:08:15.976459+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/fr/blog/can-i-ride-dance-trend",
+            "title": "Danse Can I Ride : la chanson, les pas et les débuts de la tendance TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.976459+00:00"
+          }
+        ]
+      }
+    },
+    "la chanson": {
+      "first_seen": "2026-10-22T17:08:15.976464+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/fr/blog/can-i-ride-dance-trend",
+            "title": "Danse Can I Ride : la chanson, les pas et les débuts de la tendance TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.976464+00:00"
+          }
+        ]
+      }
+    },
+    "la tendance tik tok": {
+      "first_seen": "2026-10-22T17:08:15.976470+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/fr/blog/can-i-ride-dance-trend",
+            "title": "Danse Can I Ride : la chanson, les pas et les débuts de la tendance TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.976470+00:00"
+          }
+        ]
+      }
+    },
+    "et les d buts": {
+      "first_seen": "2026-10-22T17:08:15.976472+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/fr/blog/can-i-ride-dance-trend",
+            "title": "Danse Can I Ride : la chanson, les pas et les débuts de la tendance TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.976472+00:00"
+          }
+        ]
+      }
+    },
+    "ride la chanson": {
+      "first_seen": "2026-10-22T17:08:15.976474+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/fr/blog/can-i-ride-dance-trend",
+            "title": "Danse Can I Ride : la chanson, les pas et les débuts de la tendance TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.976474+00:00"
+          }
+        ]
+      }
+    },
+    "buts": {
+      "first_seen": "2026-10-22T17:08:15.976477+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/fr/blog/can-i-ride-dance-trend",
+            "title": "Danse Can I Ride : la chanson, les pas et les débuts de la tendance TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.976477+00:00"
+          }
+        ]
+      }
+    },
+    "tendance tik": {
+      "first_seen": "2026-10-22T17:08:15.976485+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/fr/blog/can-i-ride-dance-trend",
+            "title": "Danse Can I Ride : la chanson, les pas et les débuts de la tendance TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.976485+00:00"
+          }
+        ]
+      }
+    },
+    "buts la tendance": {
+      "first_seen": "2026-10-22T17:08:15.976487+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/fr/blog/can-i-ride-dance-trend",
+            "title": "Danse Can I Ride : la chanson, les pas et les débuts de la tendance TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.976487+00:00"
+          }
+        ]
+      }
+    },
+    "pas et les": {
+      "first_seen": "2026-10-22T17:08:15.976489+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/fr/blog/can-i-ride-dance-trend",
+            "title": "Danse Can I Ride : la chanson, les pas et les débuts de la tendance TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.976489+00:00"
+          }
+        ]
+      }
+    },
+    "chanson les": {
+      "first_seen": "2026-10-22T17:08:15.976491+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/fr/blog/can-i-ride-dance-trend",
+            "title": "Danse Can I Ride : la chanson, les pas et les débuts de la tendance TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.976491+00:00"
+          }
+        ]
+      }
+    },
+    "i ride la chanson": {
+      "first_seen": "2026-10-22T17:08:15.976493+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/fr/blog/can-i-ride-dance-trend",
+            "title": "Danse Can I Ride : la chanson, les pas et les débuts de la tendance TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.976493+00:00"
+          }
+        ]
+      }
+    },
+    "buts la tendance tik": {
+      "first_seen": "2026-10-22T17:08:15.976498+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/fr/blog/can-i-ride-dance-trend",
+            "title": "Danse Can I Ride : la chanson, les pas et les débuts de la tendance TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.976498+00:00"
+          }
+        ]
+      }
+    },
+    "d buts la": {
+      "first_seen": "2026-10-22T17:08:15.976500+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/fr/blog/can-i-ride-dance-trend",
+            "title": "Danse Can I Ride : la chanson, les pas et les débuts de la tendance TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.976500+00:00"
+          }
+        ]
+      }
+    },
+    "les pas": {
+      "first_seen": "2026-10-22T17:08:15.976505+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/fr/blog/can-i-ride-dance-trend",
+            "title": "Danse Can I Ride : la chanson, les pas et les débuts de la tendance TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.976505+00:00"
+          }
+        ]
+      }
+    },
+    "tendance tik tok": {
+      "first_seen": "2026-10-22T17:08:15.976507+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/fr/blog/can-i-ride-dance-trend",
+            "title": "Danse Can I Ride : la chanson, les pas et les débuts de la tendance TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.976507+00:00"
+          }
+        ]
+      }
+    },
+    "et les": {
+      "first_seen": "2026-10-22T17:08:15.976510+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/fr/blog/can-i-ride-dance-trend",
+            "title": "Danse Can I Ride : la chanson, les pas et les débuts de la tendance TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.976510+00:00"
+          }
+        ]
+      }
+    },
+    "ride la chanson les": {
+      "first_seen": "2026-10-22T17:08:15.976521+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/fr/blog/can-i-ride-dance-trend",
+            "title": "Danse Can I Ride : la chanson, les pas et les débuts de la tendance TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.976521+00:00"
+          }
+        ]
+      }
+    },
+    "la chanson les pas": {
+      "first_seen": "2026-10-22T17:08:15.976523+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/fr/blog/can-i-ride-dance-trend",
+            "title": "Danse Can I Ride : la chanson, les pas et les débuts de la tendance TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.976523+00:00"
+          }
+        ]
+      }
+    },
+    "chanson": {
+      "first_seen": "2026-10-22T17:08:15.976525+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/fr/blog/can-i-ride-dance-trend",
+            "title": "Danse Can I Ride : la chanson, les pas et les débuts de la tendance TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.976525+00:00"
+          }
+        ]
+      }
+    },
+    "les pas et les": {
+      "first_seen": "2026-10-22T17:08:15.976530+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/fr/blog/can-i-ride-dance-trend",
+            "title": "Danse Can I Ride : la chanson, les pas et les débuts de la tendance TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.976530+00:00"
+          }
+        ]
+      }
+    },
+    "chanson les pas": {
+      "first_seen": "2026-10-22T17:08:15.976532+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/fr/blog/can-i-ride-dance-trend",
+            "title": "Danse Can I Ride : la chanson, les pas et les débuts de la tendance TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.976532+00:00"
+          }
+        ]
+      }
+    },
+    "les d buts la": {
+      "first_seen": "2026-10-22T17:08:15.976534+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/fr/blog/can-i-ride-dance-trend",
+            "title": "Danse Can I Ride : la chanson, les pas et les débuts de la tendance TikTok | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.976534+00:00"
+          }
+        ]
+      }
+    },
+    "mo hacer": {
+      "first_seen": "2026-10-22T17:08:15.990187+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/es/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Cómo hacer el video con IA del baile Can I Ride: el baile viral para dos personas con dos fotos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.990187+00:00"
+          }
+        ]
+      }
+    },
+    "con ia del": {
+      "first_seen": "2026-10-22T17:08:15.990192+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/es/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Cómo hacer el video con IA del baile Can I Ride: el baile viral para dos personas con dos fotos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.990192+00:00"
+          }
+        ]
+      }
+    },
+    "para dos": {
+      "first_seen": "2026-10-22T17:08:15.990194+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/es/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Cómo hacer el video con IA del baile Can I Ride: el baile viral para dos personas con dos fotos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.990194+00:00"
+          }
+        ]
+      }
+    },
+    "hacer el video con": {
+      "first_seen": "2026-10-22T17:08:15.990199+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/es/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Cómo hacer el video con IA del baile Can I Ride: el baile viral para dos personas con dos fotos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.990199+00:00"
+          }
+        ]
+      }
+    },
+    "i ride el baile": {
+      "first_seen": "2026-10-22T17:08:15.990204+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/es/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Cómo hacer el video con IA del baile Can I Ride: el baile viral para dos personas con dos fotos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.990204+00:00"
+          }
+        ]
+      }
+    },
+    "c mo hacer": {
+      "first_seen": "2026-10-22T17:08:15.990206+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/es/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Cómo hacer el video con IA del baile Can I Ride: el baile viral para dos personas con dos fotos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.990206+00:00"
+          }
+        ]
+      }
+    },
+    "del": {
+      "first_seen": "2026-10-22T17:08:15.990214+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/es/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Cómo hacer el video con IA del baile Can I Ride: el baile viral para dos personas con dos fotos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.990214+00:00"
+          }
+        ]
+      }
+    },
+    "baile viral para": {
+      "first_seen": "2026-10-22T17:08:15.990217+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/es/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Cómo hacer el video con IA del baile Can I Ride: el baile viral para dos personas con dos fotos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.990217+00:00"
+          }
+        ]
+      }
+    },
+    "del baile": {
+      "first_seen": "2026-10-22T17:08:15.990219+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/es/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Cómo hacer el video con IA del baile Can I Ride: el baile viral para dos personas con dos fotos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.990219+00:00"
+          }
+        ]
+      }
+    },
+    "hacer el": {
+      "first_seen": "2026-10-22T17:08:15.990221+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/es/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Cómo hacer el video con IA del baile Can I Ride: el baile viral para dos personas con dos fotos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.990221+00:00"
+          }
+        ]
+      }
+    },
+    "para dos personas": {
+      "first_seen": "2026-10-22T17:08:15.990227+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/es/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Cómo hacer el video con IA del baile Can I Ride: el baile viral para dos personas con dos fotos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.990227+00:00"
+          }
+        ]
+      }
+    },
+    "ia del": {
+      "first_seen": "2026-10-22T17:08:15.990230+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/es/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Cómo hacer el video con IA del baile Can I Ride: el baile viral para dos personas con dos fotos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.990230+00:00"
+          }
+        ]
+      }
+    },
+    "baile viral para dos": {
+      "first_seen": "2026-10-22T17:08:15.990244+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/es/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Cómo hacer el video con IA del baile Can I Ride: el baile viral para dos personas con dos fotos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.990244+00:00"
+          }
+        ]
+      }
+    },
+    "del baile can i": {
+      "first_seen": "2026-10-22T17:08:15.990246+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/es/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Cómo hacer el video con IA del baile Can I Ride: el baile viral para dos personas con dos fotos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.990246+00:00"
+          }
+        ]
+      }
+    },
+    "ride el": {
+      "first_seen": "2026-10-22T17:08:15.990251+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/es/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Cómo hacer el video con IA del baile Can I Ride: el baile viral para dos personas con dos fotos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.990251+00:00"
+          }
+        ]
+      }
+    },
+    "para dos personas con": {
+      "first_seen": "2026-10-22T17:08:15.990253+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/es/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Cómo hacer el video con IA del baile Can I Ride: el baile viral para dos personas con dos fotos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.990253+00:00"
+          }
+        ]
+      }
+    },
+    "i ride el": {
+      "first_seen": "2026-10-22T17:08:15.990255+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/es/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Cómo hacer el video con IA del baile Can I Ride: el baile viral para dos personas con dos fotos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.990255+00:00"
+          }
+        ]
+      }
+    },
+    "c mo hacer el": {
+      "first_seen": "2026-10-22T17:08:15.990257+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/es/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Cómo hacer el video con IA del baile Can I Ride: el baile viral para dos personas con dos fotos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.990257+00:00"
+          }
+        ]
+      }
+    },
+    "hacer": {
+      "first_seen": "2026-10-22T17:08:15.990260+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/es/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Cómo hacer el video con IA del baile Can I Ride: el baile viral para dos personas con dos fotos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.990260+00:00"
+          }
+        ]
+      }
+    },
+    "mo hacer el": {
+      "first_seen": "2026-10-22T17:08:15.990264+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/es/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Cómo hacer el video con IA del baile Can I Ride: el baile viral para dos personas con dos fotos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.990264+00:00"
+          }
+        ]
+      }
+    },
+    "con ia": {
+      "first_seen": "2026-10-22T17:08:15.990267+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/es/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Cómo hacer el video con IA del baile Can I Ride: el baile viral para dos personas con dos fotos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.990267+00:00"
+          }
+        ]
+      }
+    },
+    "el baile viral para": {
+      "first_seen": "2026-10-22T17:08:15.990269+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/es/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Cómo hacer el video con IA del baile Can I Ride: el baile viral para dos personas con dos fotos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.990269+00:00"
+          }
+        ]
+      }
+    },
+    "el video con ia": {
+      "first_seen": "2026-10-22T17:08:15.990270+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/es/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Cómo hacer el video con IA del baile Can I Ride: el baile viral para dos personas con dos fotos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.990270+00:00"
+          }
+        ]
+      }
+    },
+    "con ia del baile": {
+      "first_seen": "2026-10-22T17:08:15.990272+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/es/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Cómo hacer el video con IA del baile Can I Ride: el baile viral para dos personas con dos fotos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.990272+00:00"
+          }
+        ]
+      }
+    },
+    "ia del baile": {
+      "first_seen": "2026-10-22T17:08:15.990283+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/es/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Cómo hacer el video con IA del baile Can I Ride: el baile viral para dos personas con dos fotos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.990283+00:00"
+          }
+        ]
+      }
+    },
+    "el video con": {
+      "first_seen": "2026-10-22T17:08:15.990285+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/es/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Cómo hacer el video con IA del baile Can I Ride: el baile viral para dos personas con dos fotos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.990285+00:00"
+          }
+        ]
+      }
+    },
+    "ride el baile": {
+      "first_seen": "2026-10-22T17:08:15.990295+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://aptvideoai.com/es/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "Cómo hacer el video con IA del baile Can I Ride: el baile viral para dos personas con dos fotos | apt video ai",
+            "first_seen": "2026-10-22T17:08:15.990295+00:00"
           }
         ]
       }
