@@ -171,6 +171,42 @@ def call_gemini_native(
         return None
 
 
+def render_new_entries_markdown(new_entries: List[dict]) -> str:
+    """标准格式化输出各站点新增 URL 详细清单，确保多层列表换行分明、排版美观"""
+    if not new_entries:
+        return "⚪ 本次窗口无新收录页面。\n"
+
+    by_src = {}
+    for e in new_entries:
+        by_src.setdefault(e.get("source_name", e.get("domain")), []).append(e)
+
+    blocks = []
+    for src_name, items in by_src.items():
+        sub_lines = [f"### 🌐 {src_name}（新增 {len(items)} 个页面）\n"]
+        for it in items:
+            u = it.get("url", "")
+            t = (it.get("title") or u).replace("\n", " ").strip()
+            sub_lines.append(f"- <a href=\"{u}\" target=\"_blank\" rel=\"noopener noreferrer\">**{t}**</a>")
+            time_parts = []
+            if it.get("first_seen"):
+                time_parts.append(f"发现时间: `{it['first_seen']}`")
+            if it.get("lastmod"):
+                time_parts.append(f"页面更新: `{it['lastmod']}`")
+            if time_parts:
+                sub_lines.append(f"  - {' ｜ '.join(time_parts)}")
+            if it.get("description"):
+                desc = it["description"].replace("\n", " ").strip()[:160]
+                sub_lines.append(f"  - 描述: {desc}")
+            if it.get("entities"):
+                ents = [e for e in it["entities"][:5] if e]
+                if ents:
+                    sub_lines.append(f"  - 实体词: `{', '.join(ents)}`")
+            sub_lines.append("")  # 每个条目间留出空行，符合 Markdown 标准规范
+        blocks.append("\n".join(sub_lines))
+
+    return "\n\n".join(blocks)
+
+
 def build_fallback_report(
     date_str: str,
     slot_str: str,
@@ -201,32 +237,7 @@ def build_fallback_report(
         lines.append("⚪ 本次窗口暂未检测到命中 >=2 个域的跨站碰撞。\n")
 
     lines.append("---\n\n## 📋 各站点新增 URL 详细清单 (全量索引)\n")
-    if new_entries:
-        by_src = {}
-        for e in new_entries:
-            by_src.setdefault(e.get("source_name", e.get("domain")), []).append(e)
-
-        for src_name, items in by_src.items():
-            lines.append(f"### 🌐 {src_name}（新增 {len(items)} 条）")
-            for it in items:
-                u = it["url"]
-                t = it.get("title") or u
-                lines.append(f"- <a href=\"{u}\" target=\"_blank\" rel=\"noopener noreferrer\">**{t}**</a>")
-                time_parts = []
-                if it.get("first_seen"):
-                    time_parts.append(f"发现时间: `{it['first_seen']}`")
-                if it.get("lastmod"):
-                    time_parts.append(f"页面更新: `{it['lastmod']}`")
-                if time_parts:
-                    lines.append(f"  - {' ｜ '.join(time_parts)}")
-                if it.get("description"):
-                    lines.append(f"  - 摘要: {it['description'][:150]}")
-                if it.get("entities"):
-                    lines.append(f"  - 实体词: `{', '.join(it['entities'][:5])}`")
-            lines.append("")
-    else:
-        lines.append("⚪ 本次窗口未检测到新上线页面。\n")
-
+    lines.append(render_new_entries_markdown(new_entries))
     return "\n".join(lines)
 
 
@@ -325,32 +336,5 @@ def generate_report(
     # 格式化外部链接并追加全量清单附录
     ai_output = ensure_blank_links(ai_output)
 
-    # 追加全量新增索引清单
-    appendix_lines = ["\n\n---\n\n## 📋 各站点新增 URL 详细清单 (全量索引)\n"]
-    if new_entries:
-        by_src = {}
-        for e in new_entries:
-            by_src.setdefault(e.get("source_name", e.get("domain")), []).append(e)
-
-        for src_name, items in by_src.items():
-            appendix_lines.append(f"### 🌐 {src_name}（新增 {len(items)} 个页面）")
-            for it in items:
-                u = it["url"]
-                t = it.get("title") or u
-                appendix_lines.append(f"- <a href=\"{u}\" target=\"_blank\" rel=\"noopener noreferrer\">**{t}**</a>")
-                time_parts = []
-                if it.get("first_seen"):
-                    time_parts.append(f"发现时间: `{it['first_seen']}`")
-                if it.get("lastmod"):
-                    time_parts.append(f"页面更新: `{it['lastmod']}`")
-                if time_parts:
-                    appendix_lines.append(f"  - {' ｜ '.join(time_parts)}")
-                if it.get("description"):
-                    appendix_lines.append(f"  - 描述: {it['description'][:150]}")
-                if it.get("entities"):
-                    appendix_lines.append(f"  - 实体词: `{', '.join(it['entities'][:5])}`")
-            appendix_lines.append("")
-    else:
-        appendix_lines.append("⚪ 本次窗口无新收录页面。\n")
-
-    return ai_output.strip() + "".join(appendix_lines)
+    appendix_text = "\n\n---\n\n## 📋 各站点新增 URL 详细清单 (全量索引)\n\n" + render_new_entries_markdown(new_entries)
+    return ai_output.strip() + appendix_text
