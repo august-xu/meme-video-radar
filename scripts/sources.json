@@ -1,0 +1,96 @@
+[
+  {
+    "id": "knowyourmeme",
+    "name": "Know Your Meme",
+    "url": "https://knowyourmeme.com/sitemap.xml",
+    "has_lastmod": true,
+    "category": "网络模因与流行文化源头",
+    "role": "meme_origin",
+    "max_detail_fetch": 20,
+    "notes": "全球流行梗、网络模因起源与流行百科词条监控"
+  },
+  {
+    "id": "aptvideoai",
+    "name": "APT Video AI",
+    "url": "https://aptvideoai.com/sitemap.xml",
+    "has_lastmod": false,
+    "dedup_multilang": true,
+    "category": "AI 模因视频与动作生成 (落地页矩阵)",
+    "role": "tool_landing",
+    "max_detail_fetch": 20,
+    "notes": "监控 TikTok/Reels 热点模因视频生成落地页、动效模板"
+  },
+  {
+    "id": "tryalorsondanse",
+    "name": "TryAlorsOnDanse",
+    "url": "https://tryalorsondanse.video/sitemap.xml",
+    "has_lastmod": true,
+    "dedup_multilang": true,
+    "category": "AI 模因舞蹈与双人动作生成 (落地页矩阵)",
+    "role": "tool_landing",
+    "max_detail_fetch": 20,
+    "notes": "监控 /tools/ 与 /effects/ 模因动效与动作生成落地页"
+  },
+  {
+    "id": "create0",
+    "name": "Create0 AI",
+    "url": "https://create0.ai/sitemap.xml",
+    "has_lastmod": true,
+    "category": "AI 视频生成与社媒爆款特效 (pSEO/动效模版)",
+    "role": "tool_landing",
+    "max_detail_fetch": 20,
+    "notes": "关注 TikTok/Reels 爆款 AI 动作舞蹈、变装动效落地页矩阵"
+  },
+  {
+    "id": "lightx",
+    "name": "LightX Editor",
+    "url": "https://www.lightxeditor.com/sitemap.xml",
+    "has_lastmod": false,
+    "category": "AI 视频与图像模因生成器 (pSEO/动效落地页)",
+    "role": "tool_landing",
+    "max_detail_fetch": 20,
+    "notes": "监控 /ai-video/image-to-video/ 社媒爆款舞蹈与变装落地页"
+  },
+  {
+    "id": "lightx-blog",
+    "name": "LightX Blog",
+    "url": "https://www.lightxeditor.com/blog/post-sitemap.xml",
+    "has_lastmod": true,
+    "category": "社媒 AI 趋势教程与 Prompt 截流博客",
+    "role": "trend_blog",
+    "max_detail_fetch": 15,
+    "notes": "监控 /blog/ 发布的社媒爆款模因教程与生图生视频 Prompt"
+  },
+  {
+    "id": "mediaio",
+    "name": "Media.io",
+    "url": "https://www.media.io/sitemap.xml",
+    "has_lastmod": false,
+    "has_dynamic_zone": true,
+    "category": "AI 多媒体与视频工具大站 (万兴科技)",
+    "role": "tool_landing",
+    "max_detail_fetch": 20,
+    "notes": "监控 AI 变装、动作重定向落地页及隐藏 /explore/zone/ 动态模板"
+  },
+  {
+    "id": "remakeyourmeme",
+    "name": "Remake Your Meme",
+    "url": "https://remakeyourmeme.com/sitemap.xml",
+    "has_lastmod": false,
+    "dedup_multilang": true,
+    "category": "AI 模因视频与换脸动效重制 (pSEO/模板矩阵)",
+    "role": "tool_landing",
+    "max_detail_fetch": 20,
+    "notes": "监控 /templates/ 与 /how-to/ 发布的 AI 热点趋势与模因动作模版"
+  },
+  {
+    "id": "getstarrd",
+    "name": "GetStarrd",
+    "url": "https://www.getstarrd.app/sitemap.xml",
+    "has_lastmod": true,
+    "category": "出海模因视频应用与模板页 (Web App)",
+    "role": "tool_landing",
+    "max_detail_fetch": 15,
+    "notes": "监控 /template/ 模因动效渲染模板与 /blog/ 爆款视频教程"
+  }
+]

@@ -1,0 +1,65 @@
+name: Meme Video Radar
+
+on:
+  schedule:
+    # 每天 4 班次定时执行 (对应北京时间 08:15, 14:15, 20:15, 02:15)
+    - cron: '15 0 * * *'
+    - cron: '15 6 * * *'
+    - cron: '15 12 * * *'
+    - cron: '15 18 * * *'
+  workflow_dispatch:
+    inputs:
+      force_report:
+        description: 'Force report generation even with zero new items'
+        required: false
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+
+jobs:
+  run-radar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run Meme & AI Video Monitor
+        env:
+          LLM_BASE_URL: ${{ secrets.LLM_BASE_URL }}
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+          LLM_MODEL: ${{ secrets.LLM_MODEL }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          FEISHU_APP_ID: ${{ secrets.FEISHU_APP_ID }}
+          FEISHU_APP_SECRET: ${{ secrets.FEISHU_APP_SECRET }}
+          FEISHU_USER_ID: ${{ secrets.FEISHU_USER_ID }}
+          FEISHU_WEBHOOK_URL: ${{ secrets.FEISHU_WEBHOOK_URL }}
+          FEISHU_WEBHOOK: ${{ secrets.FEISHU_WEBHOOK }}
+          FEISHU_SECRET: ${{ secrets.FEISHU_SECRET }}
+        run: |
+          FORCE_OPT=""
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ github.event.inputs.force_report }}" = "true" ]; then
+            FORCE_OPT="--force-report"
+          fi
+          python3 scripts/monitor.py ${FORCE_OPT}
+
+      - name: Sync Reports and State
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Actions[bot]"
+          git add reports/ data/state.json README.md
+          if git diff --staged --quiet; then
+            echo "⚪ No changes to commit"
+          else
+            git commit -m "chore(radar): sync meme & video monitor dossiers [skip ci]"
+            git pull --rebase origin main || true
+            git push origin main
+          fi
