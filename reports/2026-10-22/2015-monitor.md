@@ -60,7 +60,7 @@
 ### 🌐 Know Your Meme（新增 1 个页面）
 
 - <a href="https://knowyourmeme.com/memes/banana-tree-run" target="_blank" rel="noopener noreferrer">**Banana Tree Run (Viral Parkour Meme)**</a>
-  - 发现时间: `2026-10-22 12:15 UTC`
+  - 发现时间: `2026-10-22 20:15`
   - 描述: Banana Tree Run refers to a series of surreal viral videos of people running effortlessly across the tops of banana trees, popular on TikTok.
   - 实体词: `banana tree run, parkour dance`
 
@@ -68,7 +68,7 @@
 ### 🌐 APT Video AI（新增 1 个页面）
 
 - <a href="https://aptvideoai.com/banana-tree-run-ai" target="_blank" rel="noopener noreferrer">**Banana Tree Run AI Video Generator | Single Photo to Parkour Clip**</a>
-  - 发现时间: `2026-10-22 12:15 UTC`
+  - 发现时间: `2026-10-22 20:15`
   - 描述: Upload a photo and generate a viral 9:16 vertical video running across banana tree tops. Multi-language landing page.
   - 实体词: `banana tree run, ai video generator`
 
@@ -76,7 +76,7 @@
 ### 🌐 TryAlorsOnDanse（新增 1 个页面）
 
 - <a href="https://tryalorsondanse.video/tools/cat-in-the-hat" target="_blank" rel="noopener noreferrer">**Cat in the Hat AI Doorbell Prank Video Generator**</a>
-  - 发现时间: `2026-10-22 12:15 UTC`
+  - 发现时间: `2026-10-22 20:15`
   - 描述: Create spooky Halloween doorbell camera footage featuring the Cat in the Hat. Choose Doorbell, Window, or Behind me angles.
   - 实体词: `cat in the hat, doorbell prank`
 
@@ -84,7 +84,7 @@
 ### 🌐 Media.io（新增 1 个页面）
 
 - <a href="https://www.media.io/ai/explore/zone/hotel-lobby-ai-video-trend" target="_blank" rel="noopener noreferrer">**Media.io AI Effect Zone: Hotel Lobby AI Video Trend**</a>
-  - 发现时间: `2026-10-22 12:15 UTC`
+  - 发现时间: `2026-10-22 20:15`
   - 描述: Generate trending hotel lobby duet dance videos automatically from portraits. pSEO dynamic template.
   - 实体词: `hotel lobby, duet dance`
 
@@ -92,6 +92,6 @@
 ### 🌐 GetStarrd（新增 1 个页面）
 
 - <a href="https://www.getstarrd.app/template/bby-wow-guy-ai-video" target="_blank" rel="noopener noreferrer">**Bby Wow Guy AI Video Dance Template | Starrd**</a>
-  - 发现时间: `2026-10-22 12:15 UTC`
+  - 发现时间: `2026-10-22 20:15`
   - 描述: TikTok viral Latin dance trend Bby Wow Guy video template with KAROL G BGM.
   - 实体词: `bby wow, latin dance`

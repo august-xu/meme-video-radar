@@ -392,7 +392,7 @@ def main():
                 item_copy["source_name"] = src_name
                 item_copy["canonical_url"] = canonical_u
                 new_in_src.append(item_copy)
-                item_copy["first_seen"] = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+                item_copy["first_seen"] = datetime.now(timezone.utc).astimezone(BEIJING_TZ).strftime("%Y-%m-%d %H:%M")
 
         # 首次接入检测：若该域无任何历史记录，打上基线标记，存量不作为“突发新增”扰民
         is_first_seen_domain = (domain not in state_mgr.data.get("seen_urls", {}))
@@ -479,7 +479,7 @@ def main():
                     "description": "Banana Tree Run refers to a series of surreal viral videos of people running effortlessly across the tops of banana trees, popular on TikTok.",
                     "entities": ["banana tree run", "parkour dance"]
 ,
-                    "first_seen": datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+                    "first_seen": datetime.now(timezone.utc).astimezone(BEIJING_TZ).strftime("%Y-%m-%d %H:%M")
                 },
                 {
                     "source_name": "APT Video AI",
@@ -489,7 +489,7 @@ def main():
                     "description": "Upload a photo and generate a viral 9:16 vertical video running across banana tree tops. Multi-language landing page.",
                     "entities": ["banana tree run", "ai video generator"]
 ,
-                    "first_seen": datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+                    "first_seen": datetime.now(timezone.utc).astimezone(BEIJING_TZ).strftime("%Y-%m-%d %H:%M")
                 },
                 {
                     "source_name": "TryAlorsOnDanse",
@@ -499,7 +499,7 @@ def main():
                     "description": "Create spooky Halloween doorbell camera footage featuring the Cat in the Hat. Choose Doorbell, Window, or Behind me angles.",
                     "entities": ["cat in the hat", "doorbell prank"]
 ,
-                    "first_seen": datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+                    "first_seen": datetime.now(timezone.utc).astimezone(BEIJING_TZ).strftime("%Y-%m-%d %H:%M")
                 },
                 {
                     "source_name": "Media.io",
@@ -509,7 +509,7 @@ def main():
                     "description": "Generate trending hotel lobby duet dance videos automatically from portraits. pSEO dynamic template.",
                     "entities": ["hotel lobby", "duet dance"]
 ,
-                    "first_seen": datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+                    "first_seen": datetime.now(timezone.utc).astimezone(BEIJING_TZ).strftime("%Y-%m-%d %H:%M")
                 },
                 {
                     "source_name": "GetStarrd",
@@ -519,7 +519,7 @@ def main():
                     "description": "TikTok viral Latin dance trend Bby Wow Guy video template with KAROL G BGM.",
                     "entities": ["bby wow", "latin dance"]
 ,
-                    "first_seen": datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+                    "first_seen": datetime.now(timezone.utc).astimezone(BEIJING_TZ).strftime("%Y-%m-%d %H:%M")
                 }
             ]
             collisions = [

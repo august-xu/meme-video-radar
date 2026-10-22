@@ -31,14 +31,24 @@ def format_beijing_time(ts_str: str) -> str:
     """将任何时间串统一转换为规范格式的北京时间: YYYY-MM-DD HH:MM"""
     if not ts_str or ts_str in ("首次运行", "N/A"):
         return "首次初始化基线"
+    s = ts_str.strip()
+    if s.endswith("UTC"):
+        base_part = s[:-3].strip()
+        for fmt in ("%Y-%m-%d %H:%M", "%Y-%m-%dT%H:%M:%S", "%Y-%m-%d"):
+            try:
+                dt = datetime.strptime(base_part, fmt).replace(tzinfo=timezone.utc)
+                return dt.astimezone(BEIJING_TZ).strftime("%Y-%m-%d %H:%M")
+            except Exception:
+                pass
     try:
-        clean_s = ts_str.replace("Z", "+00:00")
+        clean_s = s.replace("Z", "+00:00")
         dt = datetime.fromisoformat(clean_s)
         if dt.tzinfo is None:
             dt = dt.replace(tzinfo=timezone.utc)
         return dt.astimezone(BEIJING_TZ).strftime("%Y-%m-%d %H:%M")
     except Exception:
-        return ts_str[:16].replace("T", " ")
+        pass
+    return s[:16].replace("T", " ")
 
 
 def compute_gap_hours(since_ts: str, until_ts: str) -> float:
@@ -219,9 +229,10 @@ def render_new_entries_markdown(new_entries: List[dict]) -> str:
             sub_lines.append(f"- <a href=\"{u}\" target=\"_blank\" rel=\"noopener noreferrer\">**{t}**</a>")
             time_parts = []
             if it.get("first_seen"):
-                time_parts.append(f"发现时间: `{it['first_seen']}`")
+                bj_time = format_beijing_time(it["first_seen"])
+                time_parts.append(f"发现时间: `{bj_time}`")
             if it.get("lastmod"):
-                time_parts.append(f"页面更新: `{it['lastmod']}`")
+                time_parts.append(f"页面更新: `{it['lastmod'][:10]}`")
             if time_parts:
                 sub_lines.append(f"  - {' ｜ '.join(time_parts)}")
             if it.get("description"):
