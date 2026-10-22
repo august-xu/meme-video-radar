@@ -21,6 +21,36 @@ import sys
 import urllib.request
 import urllib.error
 from typing import List, Dict, Any
+from datetime import datetime, timezone, timedelta
+
+# 业务展示统一时区：北京时间 (UTC+8)
+BEIJING_TZ = timezone(timedelta(hours=8))
+
+
+def format_beijing_time(ts_str: str) -> str:
+    """将任何时间串统一转换为规范格式的北京时间: YYYY-MM-DD HH:MM"""
+    if not ts_str or ts_str in ("首次运行", "N/A"):
+        return "首次初始化基线"
+    try:
+        clean_s = ts_str.replace("Z", "+00:00")
+        dt = datetime.fromisoformat(clean_s)
+        if dt.tzinfo is None:
+            dt = dt.replace(tzinfo=timezone.utc)
+        return dt.astimezone(BEIJING_TZ).strftime("%Y-%m-%d %H:%M")
+    except Exception:
+        return ts_str[:16].replace("T", " ")
+
+
+def compute_gap_hours(since_ts: str, until_ts: str) -> float:
+    """计算两次运行跨度小时数"""
+    try:
+        clean_s1 = since_ts.replace("Z", "+00:00")
+        clean_s2 = until_ts.replace("Z", "+00:00")
+        dt1 = datetime.fromisoformat(clean_s1)
+        dt2 = datetime.fromisoformat(clean_s2)
+        return round(abs((dt2 - dt1).total_seconds()) / 3600, 1)
+    except Exception:
+        return 6.0
 
 
 def ensure_blank_links(text: str) -> str:
@@ -214,12 +244,19 @@ def build_fallback_report(
     last_run_ts: str,
     new_entries: List[dict],
     collisions: List[dict],
-    source_stats: List[dict]
+    source_stats: List[dict],
+    current_run_ts: str = ""
 ) -> str:
     """保底研报：当 LLM 完全不可用时，输出结构化事实 Markdown"""
+    cur_ts = current_run_ts or datetime.now(timezone.utc).isoformat()
+    since_bj = format_beijing_time(last_run_ts)
+    until_bj = format_beijing_time(cur_ts)
+    gap_h = compute_gap_hours(last_run_ts, cur_ts)
+    window_line = f"> 📅 监测窗口：`{since_bj}` → `{until_bj}`（北京时间，跨度 {gap_h} 小时） | 🎯 窗口内新增页面：**{len(new_entries)}** 条 | 💥 检测到跨域碰撞：**{len(collisions)}** 组\n"
+
     lines = [
         f"# ⚡ 全网模因与 AI 视频落地页 6小时增量监控与跨域碰撞研报 ({report_title_date})\n",
-        f"> 📅 监测窗口：`{last_run_ts}` → 本次运行 | 🎯 窗口内新增页面：**{len(new_entries)}** 条 | 💥 检测到跨域碰撞：**{len(collisions)}** 组\n",
+        window_line,
         "---\n",
         "## 💥 核心跨域碰撞事实表 (Cross-Domain Collisions)\n"
     ]
@@ -248,7 +285,8 @@ def generate_report(
     last_run_ts: str,
     new_entries: List[dict],
     collisions: List[dict],
-    source_stats: List[dict]
+    source_stats: List[dict],
+    current_run_ts: str = ""
 ) -> str:
     """生成最终 Markdown 研报"""
     # 准备 Prompt 结构化数据
@@ -272,6 +310,12 @@ def generate_report(
         ]
     }
 
+    cur_ts = current_run_ts or datetime.now(timezone.utc).isoformat()
+    since_bj = format_beijing_time(last_run_ts)
+    until_bj = format_beijing_time(cur_ts)
+    gap_h = compute_gap_hours(last_run_ts, cur_ts)
+    window_line = f"> 📅 监测窗口：`{since_bj}` → `{until_bj}`（北京时间，跨度 {gap_h} 小时） | 🎯 窗口内新增页面：{len(new_entries)} 条 | 💥 跨域碰撞数：{len(collisions)} 组"
+
     prompt = f"""请根据以下 6 小时内捕获的【模因与短视频动效落地页增量数据及跨域碰撞事实】，编写一份结构紧凑、高信噪比的《全网模因与 AI 视频落地页 6小时增量监控与跨域碰撞研报 ({report_title_date})》。
 
 【输入数据 JSON】：
@@ -281,7 +325,7 @@ def generate_report(
 
 【撰写结构要求】：
 # ⚡ 全网模因与 AI 视频落地页 6小时增量监控与跨域碰撞研报 ({report_title_date})
-> 📅 监测窗口：`{last_run_ts}` → 本次运行 | 🎯 窗口内新增页面：{len(new_entries)} 条 | 💥 跨域碰撞数：{len(collisions)} 组
+{window_line}
 
 ## 💥 核心跨域碰撞深度解构 (Cross-Domain Collisions)
 - 逐一分析碰撞数据中的重点词条，说明：

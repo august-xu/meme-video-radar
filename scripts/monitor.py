@@ -26,7 +26,10 @@ import sys
 import time
 import urllib.request
 import xml.etree.ElementTree as ET
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
+
+# 统一时区规范：北京时间 (UTC+8)
+BEIJING_TZ = timezone(timedelta(hours=8))
 from urllib.parse import urlparse
 
 # 本模块依赖导入
@@ -456,9 +459,10 @@ def main():
                 state_mgr.save()
                 import notifier
                 now_utc = datetime.now(timezone.utc)
+                now_beijing = now_utc.astimezone(BEIJING_TZ)
                 notifier.send_feishu_heartbeat(
-                    date_str=now_utc.strftime("%Y-%m-%d"),
-                    slot_str=now_utc.strftime("%H%M"),
+                    date_str=now_beijing.strftime("%Y-%m-%d"),
+                    slot_str=now_beijing.strftime("%H%M"),
                     sources_count=len(sources_cfg),
                     tracked_urls=state_mgr.data.get("total_urls_seen", 0)
                 )
@@ -537,11 +541,13 @@ def main():
     # 5. 调用 summarizer 模块生成 Markdown 研报
     import summarizer
     now_utc = datetime.now(timezone.utc)
-    date_str = now_utc.strftime("%Y-%m-%d")
-    slot_str = now_utc.strftime("%H%M")
-    report_title_date = now_utc.strftime("%Y年%m月%d日 %H:%M")
+    now_beijing = now_utc.astimezone(BEIJING_TZ)
+    date_str = now_beijing.strftime("%Y-%m-%d")
+    slot_str = now_beijing.strftime("%H%M")
+    report_title_date = now_beijing.strftime("%Y年%m月%d日 %H:%M") + " (北京时间)"
+    current_run_ts = now_utc.isoformat()
 
-    print(f"⏳ 正在调用大模型生成《全网模因与 AI 视频 6小时增量监控研报》...")
+    print(f"⏳ 正在调用大模型生成《全网模因与 AI 视频 6小时增量监控研报》({slot_str} 北京时间)...")
     report_md = summarizer.generate_report(
         date_str=date_str,
         slot_str=slot_str,
@@ -549,7 +555,8 @@ def main():
         last_run_ts=last_run,
         new_entries=newly_crawled_entries,
         collisions=collisions,
-        source_stats=source_stats
+        source_stats=source_stats,
+        current_run_ts=current_run_ts
     )
 
     # 6. 落盘保存研报至 meme-video/<date>/<slot>-monitor.md
@@ -578,7 +585,7 @@ def main():
         slot_str=slot_str,
         total_new=total_new_count,
         collisions=collisions,
-        report_rel_path=f"meme-video/{rel_path_for_readme}"
+        report_rel_path=rel_path_for_readme
     )
 
     print("=================================================================")

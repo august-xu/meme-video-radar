@@ -223,7 +223,7 @@ def send_feishu_alert(
 
     msg_markdown = (
         f"⚡ **【全网模因与 AI 视频 6小时增量预警】**\n"
-        f"📅 **时段**：`{date_str} {slot_str[:2]}:{slot_str[2:]} UTC`\n"
+        f"📅 **时段**：`{date_str} {slot_str[:2]}:{slot_str[2:]} (北京时间)`\n"
         f"🎯 **新增页面**：{total_new} 条 | 💥 **跨域碰撞**：{len(collisions)} 组"
         f"{collision_text}\n\n"
         f"🔗 **在线阅读决策研报**：\n{gh_url}"
@@ -267,7 +267,7 @@ def send_feishu_heartbeat(
 
     msg_text = (
         f"🟢 **【模因与 AI 视频 6h 巡航打卡】**\n"
-        f"⏰ **打卡时段**：`{date_str} {slot_str[:2]}:{slot_str[2:]} UTC`\n"
+        f"⏰ **打卡时段**：`{date_str} {slot_str[:2]}:{slot_str[2:]} (北京时间)`\n"
         f"📡 **监控状态**：{sources_count} 个重点站点全部扫描完毕，存量基准库正常 ({tracked_urls} 条)。\n"
         f"⚪ **当期态势**：过去 6 小时全网无突发新模因与新增落地页，系统健康运行中。"
     )
