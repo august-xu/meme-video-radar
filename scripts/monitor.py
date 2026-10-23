@@ -477,7 +477,6 @@ def main():
         "total": len(capcut_items),
         "new": len(capcut_report_items)
     })
-        newly_crawled_entries.extend(capcut_new[:15])
 
     total_new_count = len(newly_crawled_entries)
     print(f"\n📊 扫描完毕：本次 6 小时窗口共捕捉到 {total_new_count} 个新增页面与爆款模板！")
