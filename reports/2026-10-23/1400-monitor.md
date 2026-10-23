@@ -6,7 +6,7 @@
 ## 💥 核心跨域碰撞深度解构 (Cross-Domain Collisions)
 
 ### 1. 【竞品扎堆抢跑】"Bad Times" 多模态矩阵战：APT Video AI vs RemakeYourMeme vs GetStarrd
-- **碰撞词**：`bad times`、`two`、`dog`、`mascota`/`tu mascota`、`baile`、`foto`、`con`、`el video con`
+- **碰撞词**：`bad times`
 - **判定**：**竞品扎堆抢跑**。三大 AI 视频生成站同步上线 "Bad Times"（Imael Angel - *Bad Times* 音频）衍生模版，覆盖**双人吵架**、**亲子车内**、**双宠物**、**万圣节变装**四大高互动细分场景。
 - **TikTok/Reels 真实场景**：
     - **Duo/Couple**：情侣/闺蜜「一人对镜输出，一人背后插科打诨」双人 Lip-sync，强社交属性易裂变。
@@ -18,7 +18,7 @@
     - <a href="https://www.getstarrd.app/blog/how-to-make-stop-sign-ai-video" target="_blank" rel="noopener noreferrer">GetStarrd - Stop Sign Dog (宠物被拦截梗)</a>
 
 ### 2. 【竞品扎堆抢跑】"Dime Dime Baby" / "Fergie Baby" 公园舞蹈赛道：RemakeYourMeme vs GetStarrd
-- **碰撞词**：`baby`
+- **碰撞词**：`dime dime baby`、`fergie baby`
 - **判定**：**竞品扎堆抢跑**。双方同步部署 Fergie *Glamorous* 改编版公园舞蹈教程与生成器入口。
 - **真实场景**：单人/多人在公园跟随节奏点手势、扭胯，**低门槛、高模仿、强音乐绑定**。
 - **代表性落地页**：
@@ -26,12 +26,12 @@
     - <a href="https://www.getstarrd.app/template/fergie-baby-ai-video" target="_blank" rel="noopener noreferrer">GetStarrd - Fergie Baby Template</a> | <a href="https://www.getstarrd.app/blog/how-to-make-fergie-baby-ai-video" target="_blank" rel="noopener noreferrer">GetStarrd - Tutorial</a>
 
 ### 3. 【模因落地闭环】KYM 词条 → APT Video AI 博客长尾截流："Can I Ride" / "I'm So Sorry"
-- **碰撞词**：`tik tok` / `tik` / `tok`
+- **碰撞词**：`im so sorry`、`can i ride`
 - **判定**：**模因落地闭环 (KYM × 工具站)**。KYM 收录 <a href="https://knowyourmeme.com/memes/im-so-sorry-tiktok-trend" target="_blank" rel="noopener noreferrer">"I'm So Sorry" TikTok Trend</a> 词条，APT 同步发布中/日/英三语言博客页 <a href="https://aptvideoai.com/zh/blog/can-i-ride-dance-trend" target="_blank" rel="noopener noreferrer">Can I Ride 舞蹈：歌曲、舞步和 TikTok 热梗的由来</a>，精准承接「搜源头→找工具」路径。
 - **真实场景**：双人「面对面/背靠背」同步舞步，动作幅度大、服装换装点多，适合情侣/舞蹈博主。
 
 ### 4. 【模因落地闭环】KYM 词条 → GetStarrd 模版变现："Hell Nah Cuh" → "Can You Make It Clap"
-- **碰撞词**：`nah`
+- **碰撞词**：`hell nah cuh`
 - **判定**：**模因落地闭环 (KYM × 工具站)**。KYM 词条 <a href="https://knowyourmeme.com/memes/hell-nah-cuh" target="_blank" rel="noopener noreferrer">Hell Nah Cuh</a> 对应 GetStarrd 教程 <a href="https://www.getstarrd.app/blog/how-to-make-can-you-make-it-clap-ai-video" target="_blank" rel="noopener noreferrer">Oh Nah He Tweakin Trend</a>。
 - **真实场景**：「拒绝/嫌弃」表情包动作化，单人对镜表演「听到离谱言论→Hell Nah→甩手走人」，反应视频通用模版。
 

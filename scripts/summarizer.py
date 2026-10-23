@@ -363,6 +363,7 @@ def generate_report(
 注意：
 1. 语言干练，严禁套话、废话和虚空宏大叙事。
 2. 凡是页面或站点链接，必须使用 `<a href="URL" target="_blank" rel="noopener noreferrer">名称</a>` 格式。
+3. 严禁在碰撞词中出现单个单词（如 two, dog, baby, con, baile 等），所有列出的碰撞词必须是具体的 2~4 词复合短语！
 3. 请直接输出标准 Markdown 正文："""
 
     # 读取环境变量中的模型配置

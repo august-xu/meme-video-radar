@@ -20,7 +20,6 @@ from typing import Dict, List, Set, Tuple
 from urllib.parse import urlparse
 
 # 通用停用词 + 视频/模因领域的泛化大路货（必须过滤，避免假碰撞）
-STOP_WORDS = set("""
 a an and are as at be by can for from has have in into is it its of on or that the this to with your you
 about after all also any around back been before being between both but came could did do does down each
 even find first get give go good had he her here him his how if just know like look make many may me
@@ -32,6 +31,10 @@ tiktok instagram youtube social media prompt prompts template templates guide tu
 meme memes trending trend trends viral dance dances effect effects filter filters feature features
 how make create get use turn convert easily fast simple best top new official officialsite
 download watch listen view full hd 4k 1080p page site sitemap post blog news article explore zone
+two three four five six seven eight nine ten
+dog dogs cat cats pet pets baby babies boy girl man woman person people
+mascota mascotas baile bailes foto fotos con sin del para por que como una uno un el la los las tu su
+nah cuh tik tok
 com net org io app co video me xyz
 """.split())
 
@@ -91,7 +94,8 @@ def extract_entity_terms(text: str, max_words: int = 4) -> Set[str]:
     n = len(filtered_words)
     candidates = set()
 
-    for length in range(1, min(max_words + 1, n + 1)):
+    # 核心红线：模因实体必须是具体的复合短语 (至少 2 个单词)！严禁单个单词造成泛化假碰撞
+    for length in range(2, min(max_words + 1, n + 1)):
         for i in range(n - length + 1):
             phrase_words = filtered_words[i:i + length]
             # 剥离首尾通用停用词
@@ -130,11 +134,11 @@ def extract_page_entities(url: str, title: str = "", meta_desc: str = "") -> Set
     pruned = set()
     sorted_entities = sorted(entities, key=lambda x: len(x), reverse=True)
     for ent in sorted_entities:
-        # 丢弃过短泛化词
-        if ent in STOP_WORDS or len(ent) < 3:
+        # 严格过滤单单词：实体必须至少由 2 个单词组成！
+        words = ent.split()
+        if len(words) < 2:
             continue
-        # 单独的 1 个单词如果太普通（如 "dance"）直接丢弃
-        if " " not in ent and ent in {"video", "photo", "image", "dance", "effect", "creator", "tool", "meme"}:
+        if ent in STOP_WORDS or len(ent) < 5:
             continue
         pruned.add(ent)
 
@@ -162,6 +166,10 @@ def detect_collisions(
     collisions = []
 
     for term, data in entities_db.items():
+        # 严格过滤单单词：只有 2~4 词复合短语才能发生跨域碰撞
+        if len(term.split()) < 2:
+            continue
+
         dom_map = data.get("domains", {})
         n_dom = len(dom_map)
         if n_dom < min_domains:
