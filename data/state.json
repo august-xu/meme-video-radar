@@ -1,6 +1,6 @@
 {
-  "last_run_timestamp": "2026-10-23T06:01:48.508068+00:00",
-  "total_urls_seen": 11441,
+  "last_run_timestamp": "2026-10-23T12:38:19.124874+00:00",
+  "total_urls_seen": 11443,
   "seen_urls": {
     "knowyourmeme.com": [
       "https://knowyourmeme.com/memes/yohohoho-binkusuno-sake-by-ado",
@@ -793,7 +793,8 @@
       "https://create0.ai/ai-effects/ozil-goal-ai",
       "https://create0.ai/ai-effects/chatgpt-millionaire-ai",
       "https://create0.ai/ai-effects/babydoll-dance-ai",
-      "https://create0.ai/ai-effects/unforgettable-car-trend-ai"
+      "https://create0.ai/ai-effects/unforgettable-car-trend-ai",
+      "https://create0.ai/ai-effects/bby-wow-ai"
     ],
     "www.lightxeditor.com": [
       "https://www.lightxeditor.com",
@@ -10737,7 +10738,8 @@
       "https://www.media.io/ai/explore/zone/hit-the-road-dude-ai-video",
       "https://www.media.io/ai/explore/zone/i-wasnt-finished-talking-ai-video",
       "https://www.media.io/ai/explore/zone/caught-by-the-sniffer-dog-ai-video",
-      "https://www.media.io/ai/explore/zone/you-look-lonely-ai-video"
+      "https://www.media.io/ai/explore/zone/you-look-lonely-ai-video",
+      "https://www.media.io/ai/explore/zone/how-to-do-window-peeper-ai-trend"
     ],
     "remakeyourmeme.com": [
       "https://remakeyourmeme.com",
@@ -22987,6 +22989,66 @@
             "url": "https://aptvideoai.com/es/bad-times-trend-dog-halloween",
             "title": "Video IA de la tendencia Bad Times con perro en Halloween: tu mascota disfrazada",
             "first_seen": "2026-10-23T06:00:08.930489+00:00"
+          }
+        ]
+      }
+    },
+    "window peeper": {
+      "first_seen": "2026-10-23T12:38:18.361304+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/how-to-do-window-peeper-ai-trend",
+            "title": "Window Peeper AI Video Generator – Viral Window Trend",
+            "first_seen": "2026-10-23T12:38:18.361304+00:00"
+          }
+        ]
+      }
+    },
+    "put yourself": {
+      "first_seen": "2026-10-23T12:38:19.108258+00:00",
+      "domains": {
+        "create0.ai": [
+          {
+            "url": "https://create0.ai/ai-effects/bby-wow-ai",
+            "title": "Bby Wow AI Video: Put Yourself in the Party Trend | Create0",
+            "first_seen": "2026-10-23T12:38:19.108258+00:00"
+          }
+        ]
+      }
+    },
+    "yourself in the party": {
+      "first_seen": "2026-10-23T12:38:19.108307+00:00",
+      "domains": {
+        "create0.ai": [
+          {
+            "url": "https://create0.ai/ai-effects/bby-wow-ai",
+            "title": "Bby Wow AI Video: Put Yourself in the Party Trend | Create0",
+            "first_seen": "2026-10-23T12:38:19.108307+00:00"
+          }
+        ]
+      }
+    },
+    "bby wow": {
+      "first_seen": "2026-10-23T12:38:19.108321+00:00",
+      "domains": {
+        "create0.ai": [
+          {
+            "url": "https://create0.ai/ai-effects/bby-wow-ai",
+            "title": "Bby Wow AI Video: Put Yourself in the Party Trend | Create0",
+            "first_seen": "2026-10-23T12:38:19.108321+00:00"
+          }
+        ]
+      }
+    },
+    "wow ai video put": {
+      "first_seen": "2026-10-23T12:38:19.108333+00:00",
+      "domains": {
+        "create0.ai": [
+          {
+            "url": "https://create0.ai/ai-effects/bby-wow-ai",
+            "title": "Bby Wow AI Video: Put Yourself in the Party Trend | Create0",
+            "first_seen": "2026-10-23T12:38:19.108333+00:00"
           }
         ]
       }
