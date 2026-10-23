@@ -1,6 +1,6 @@
 {
-  "last_run_timestamp": "2026-10-23T16:43:02.908633+00:00",
-  "total_urls_seen": 11555,
+  "last_run_timestamp": "2026-10-23T18:01:35.640572+00:00",
+  "total_urls_seen": 11575,
   "seen_urls": {
     "knowyourmeme.com": [
       "https://knowyourmeme.com/memes/yohohoho-binkusuno-sake-by-ado",
@@ -3345,7 +3345,13 @@
       "https://www.lightxeditor.com/blog/pt-br",
       "https://www.lightxeditor.com/blog/es-mx",
       "https://www.lightxeditor.com/blog/bn-bd",
-      "https://www.lightxeditor.com/blog/id"
+      "https://www.lightxeditor.com/blog/id",
+      "https://www.lightxeditor.com/blog/how-to-make-ramalama-bang-bang-trend-video-with-ai",
+      "https://www.lightxeditor.com/blog/how-to-make-halloween-makeup-transition-video-with-ai",
+      "https://www.lightxeditor.com/blog/how-to-make-basketball-dunk-video-with-ai",
+      "https://www.lightxeditor.com/blog/how-to-make-toc-toc-dance-video",
+      "https://www.lightxeditor.com/blog/how-to-make-ai-cartoon-video",
+      "https://www.lightxeditor.com/blog/how-to-create-ai-ugc-video-ads"
     ],
     "www.media.io": [
       "https://www.media.io/editor/watermark-remover.html",
@@ -11507,7 +11513,9 @@
       "https://www.getstarrd.app/template/no-scrubs-ai-video",
       "https://www.getstarrd.app/blog/how-to-make-no-scrubs-ai-video",
       "https://www.getstarrd.app/template/can-you-make-it-clap-ai-video",
-      "https://www.getstarrd.app/blog/how-to-make-sawadika-ai-video"
+      "https://www.getstarrd.app/blog/how-to-make-sawadika-ai-video",
+      "https://www.getstarrd.app/blog/how-to-make-middle-finger-dunk-ai-video",
+      "https://www.getstarrd.app/template/middle-finger-dunk-ai-video"
     ],
     "www.capcut.com": [
       "https://www.capcut.com/template-detail/7613449947458981136",
@@ -11562,6 +11570,18 @@
       "https://www.capcut.com/template-detail/7490728173752126773",
       "https://www.capcut.com/template-detail/7463431808831458566",
       "https://www.capcut.com/template-detail/7613449947458981136",
+      "https://www.capcut.com/template-detail/7613449947458981136",
+      "https://www.capcut.com/template-detail/7530687794755161397",
+      "https://www.capcut.com/template-detail/7493918549925203253",
+      "https://www.capcut.com/template-detail/7481809637956652349",
+      "https://www.capcut.com/template-detail/7632542815356046613",
+      "https://www.capcut.com/template-detail/7641550081010797844",
+      "https://www.capcut.com/template-detail/7505252255323426101",
+      "https://www.capcut.com/template-detail/7529617533113027893",
+      "https://www.capcut.com/template-detail/7574395599290633525",
+      "https://www.capcut.com/template-detail/7490728173752126773",
+      "https://www.capcut.com/template-detail/7482032172895964477",
+      "https://www.capcut.com/template-detail/7463431808831458566",
       "https://www.capcut.com/template-detail/7613449947458981136",
       "https://www.capcut.com/template-detail/7530687794755161397",
       "https://www.capcut.com/template-detail/7493918549925203253",
@@ -26050,6 +26070,237 @@
             "url": "https://www.media.io/ai/effect/create/girls-generation-gee-ai-dance-generator",
             "title": "Girls' Generation Gee AI Dance Video Generator | Media.io",
             "first_seen": "2026-10-23T16:41:20.170213+00:00"
+          }
+        ]
+      }
+    },
+    "middle finger dunk": {
+      "first_seen": "2026-10-23T18:00:18.292708+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-middle-finger-dunk-ai-video",
+            "title": "How to Make the Middle Finger Dunk AI Video (Dunk on Your Friend, 2026)",
+            "first_seen": "2026-10-23T18:00:18.292708+00:00"
+          },
+          {
+            "url": "https://www.getstarrd.app/template/middle-finger-dunk-ai-video",
+            "title": "Middle Finger Dunk — AI Video Template | Starrd",
+            "first_seen": "2026-10-23T18:00:19.038486+00:00"
+          }
+        ]
+      }
+    },
+    "dunk ai video dunk": {
+      "first_seen": "2026-10-23T18:00:18.292762+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-middle-finger-dunk-ai-video",
+            "title": "How to Make the Middle Finger Dunk AI Video (Dunk on Your Friend, 2026)",
+            "first_seen": "2026-10-23T18:00:18.292762+00:00"
+          }
+        ]
+      }
+    },
+    "friend 2026": {
+      "first_seen": "2026-10-23T18:00:18.292778+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-middle-finger-dunk-ai-video",
+            "title": "How to Make the Middle Finger Dunk AI Video (Dunk on Your Friend, 2026)",
+            "first_seen": "2026-10-23T18:00:18.292778+00:00"
+          }
+        ]
+      }
+    },
+    "dunk on your friend": {
+      "first_seen": "2026-10-23T18:00:18.292792+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-middle-finger-dunk-ai-video",
+            "title": "How to Make the Middle Finger Dunk AI Video (Dunk on Your Friend, 2026)",
+            "first_seen": "2026-10-23T18:00:18.292792+00:00"
+          }
+        ]
+      }
+    },
+    "middle finger": {
+      "first_seen": "2026-10-23T18:00:18.292805+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-middle-finger-dunk-ai-video",
+            "title": "How to Make the Middle Finger Dunk AI Video (Dunk on Your Friend, 2026)",
+            "first_seen": "2026-10-23T18:00:18.292805+00:00"
+          },
+          {
+            "url": "https://www.getstarrd.app/template/middle-finger-dunk-ai-video",
+            "title": "Middle Finger Dunk — AI Video Template | Starrd",
+            "first_seen": "2026-10-23T18:00:19.038595+00:00"
+          }
+        ]
+      }
+    },
+    "finger dunk": {
+      "first_seen": "2026-10-23T18:00:18.292818+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-middle-finger-dunk-ai-video",
+            "title": "How to Make the Middle Finger Dunk AI Video (Dunk on Your Friend, 2026)",
+            "first_seen": "2026-10-23T18:00:18.292818+00:00"
+          },
+          {
+            "url": "https://www.getstarrd.app/template/middle-finger-dunk-ai-video",
+            "title": "Middle Finger Dunk — AI Video Template | Starrd",
+            "first_seen": "2026-10-23T18:00:19.038613+00:00"
+          }
+        ]
+      }
+    },
+    "bang bang": {
+      "first_seen": "2026-10-23T18:00:22.328861+00:00",
+      "domains": {
+        "www.lightxeditor.com": [
+          {
+            "url": "https://www.lightxeditor.com/blog/how-to-make-ramalama-bang-bang-trend-video-with-ai/",
+            "title": "How to Make Ramalama Bang Bang Trend Video - Costume walk | LightX",
+            "first_seen": "2026-10-23T18:00:22.328861+00:00"
+          }
+        ]
+      }
+    },
+    "ramalama bang bang": {
+      "first_seen": "2026-10-23T18:00:22.328915+00:00",
+      "domains": {
+        "www.lightxeditor.com": [
+          {
+            "url": "https://www.lightxeditor.com/blog/how-to-make-ramalama-bang-bang-trend-video-with-ai/",
+            "title": "How to Make Ramalama Bang Bang Trend Video - Costume walk | LightX",
+            "first_seen": "2026-10-23T18:00:22.328915+00:00"
+          }
+        ]
+      }
+    },
+    "ramalama bang": {
+      "first_seen": "2026-10-23T18:00:22.328931+00:00",
+      "domains": {
+        "www.lightxeditor.com": [
+          {
+            "url": "https://www.lightxeditor.com/blog/how-to-make-ramalama-bang-bang-trend-video-with-ai/",
+            "title": "How to Make Ramalama Bang Bang Trend Video - Costume walk | LightX",
+            "first_seen": "2026-10-23T18:00:22.328931+00:00"
+          }
+        ]
+      }
+    },
+    "halloween makeup transition": {
+      "first_seen": "2026-10-23T18:00:23.271867+00:00",
+      "domains": {
+        "www.lightxeditor.com": [
+          {
+            "url": "https://www.lightxeditor.com/blog/how-to-make-halloween-makeup-transition-video-with-ai/",
+            "title": "How to Make Halloween Makeup Transition Video with AI | LightX",
+            "first_seen": "2026-10-23T18:00:23.271867+00:00"
+          }
+        ]
+      }
+    },
+    "makeup transition": {
+      "first_seen": "2026-10-23T18:00:23.271908+00:00",
+      "domains": {
+        "www.lightxeditor.com": [
+          {
+            "url": "https://www.lightxeditor.com/blog/how-to-make-halloween-makeup-transition-video-with-ai/",
+            "title": "How to Make Halloween Makeup Transition Video with AI | LightX",
+            "first_seen": "2026-10-23T18:00:23.271908+00:00"
+          }
+        ]
+      }
+    },
+    "halloween makeup": {
+      "first_seen": "2026-10-23T18:00:23.271915+00:00",
+      "domains": {
+        "www.lightxeditor.com": [
+          {
+            "url": "https://www.lightxeditor.com/blog/how-to-make-halloween-makeup-transition-video-with-ai/",
+            "title": "How to Make Halloween Makeup Transition Video with AI | LightX",
+            "first_seen": "2026-10-23T18:00:23.271915+00:00"
+          }
+        ]
+      }
+    },
+    "basketball dunk": {
+      "first_seen": "2026-10-23T18:00:23.342832+00:00",
+      "domains": {
+        "www.lightxeditor.com": [
+          {
+            "url": "https://www.lightxeditor.com/blog/how-to-make-basketball-dunk-video-with-ai/",
+            "title": "How to Make Basketball Dunk Video with AI (Trend Guide) | LightX",
+            "first_seen": "2026-10-23T18:00:23.342832+00:00"
+          }
+        ]
+      }
+    },
+    "toc toc": {
+      "first_seen": "2026-10-23T18:00:23.470565+00:00",
+      "domains": {
+        "www.lightxeditor.com": [
+          {
+            "url": "https://www.lightxeditor.com/blog/how-to-make-toc-toc-dance-video/",
+            "title": "How to Make Toc Toc Dance Trend Video with AI | LightX",
+            "first_seen": "2026-10-23T18:00:23.470565+00:00"
+          }
+        ]
+      }
+    },
+    "cartoon step": {
+      "first_seen": "2026-10-23T18:00:23.484991+00:00",
+      "domains": {
+        "www.lightxeditor.com": [
+          {
+            "url": "https://www.lightxeditor.com/blog/how-to-make-ai-cartoon-video/",
+            "title": "How to Make AI Cartoon Videos (Step-by-Step Guide) | LightX",
+            "first_seen": "2026-10-23T18:00:23.484991+00:00"
+          }
+        ]
+      }
+    },
+    "ads step": {
+      "first_seen": "2026-10-23T18:00:23.534030+00:00",
+      "domains": {
+        "www.lightxeditor.com": [
+          {
+            "url": "https://www.lightxeditor.com/blog/how-to-create-ai-ugc-video-ads/",
+            "title": "How to Create AI UGC Video Ads (Step-by-Step Guide) | LightX",
+            "first_seen": "2026-10-23T18:00:23.534030+00:00"
+          }
+        ]
+      }
+    },
+    "ugc video ads step": {
+      "first_seen": "2026-10-23T18:00:23.534084+00:00",
+      "domains": {
+        "www.lightxeditor.com": [
+          {
+            "url": "https://www.lightxeditor.com/blog/how-to-create-ai-ugc-video-ads/",
+            "title": "How to Create AI UGC Video Ads (Step-by-Step Guide) | LightX",
+            "first_seen": "2026-10-23T18:00:23.534084+00:00"
+          }
+        ]
+      }
+    },
+    "ugc video ads": {
+      "first_seen": "2026-10-23T18:00:23.534092+00:00",
+      "domains": {
+        "www.lightxeditor.com": [
+          {
+            "url": "https://www.lightxeditor.com/blog/how-to-create-ai-ugc-video-ads/",
+            "title": "How to Create AI UGC Video Ads (Step-by-Step Guide) | LightX",
+            "first_seen": "2026-10-23T18:00:23.534092+00:00"
           }
         ]
       }
