@@ -238,20 +238,37 @@ def fetch_page_metadata(url: str) -> dict:
         meta["description"] = re.sub(r"\s+", " ", desc)[:250]
 
     # Published / Generated Time (网页真实生成或发布时间)
-    pub_patterns = [
-        r'<meta[^>]+(?:property|name)=["\'](?:article:published_time|og:published_time|publishdate|datePublished|date)["\'][^>]+content=["\'](.*?)["\']',
-        r'<meta[^>]+content=["\'](.*?)["\'][^>]+(?:property|name)=["\'](?:article:published_time|og:published_time|publishdate|datePublished|date)["\']',
-        r'"datePublished"\s*:\s*["\'](.*?)["\']',
-        r'"dateCreated"\s*:\s*["\'](.*?)["\']',
-        r'<time[^>]+datetime=["\'](.*?)["\']'
-    ]
-    for pat in pub_patterns:
-        m_pub = re.search(pat, html_text, re.IGNORECASE)
-        if m_pub:
-            val = m_pub.group(1).strip()
+    # [性能红线] 旧写法 `<meta[^>]+content=["'](.*?)["'][^>]+...` 在大型 HTML 上会灾难性回溯，
+    # 单个页面可拖死线程数分钟。改为：先限定标签内部不含 '>'（[^>]），且用单遍扫描代替多组回溯。
+    pub_meta_names = (
+        "article:published_time", "og:published_time", "publishdate",
+        "datePublished", "datepublished", "date", "pubdate", "article:modified_time"
+    )
+    # 1) 优先：逐个 <meta ...> 标签解析属性（线性、无回溯风险）
+    for tag in re.findall(r"<meta\b[^>]{0,800}>", html_text, re.IGNORECASE):
+        low = tag.lower()
+        if not any(n.lower() in low for n in pub_meta_names):
+            continue
+        m_c = re.search(r'content\s*=\s*["\']([^"\']{4,64})["\']', tag, re.IGNORECASE)
+        if m_c:
+            val = html.unescape(m_c.group(1)).strip()
             if len(val) >= 10:
                 meta["published_at"] = val
                 break
+
+    # 2) 兜底：JSON-LD / <time datetime>（限定长度，避免回溯）
+    if "published_at" not in meta:
+        for pat in (
+            r'"datePublished"\s*:\s*"([^"]{10,40})"',
+            r'"dateCreated"\s*:\s*"([^"]{10,40})"',
+            r'<time\b[^>]{0,300}datetime=["\']([^"\']{10,40})["\']',
+        ):
+            m_pub = re.search(pat, html_text, re.IGNORECASE)
+            if m_pub:
+                val = html.unescape(m_pub.group(1)).strip()
+                if len(val) >= 10:
+                    meta["published_at"] = val
+                    break
 
     return meta
 
@@ -437,32 +454,65 @@ def main():
     print(f"\n📊 扫描完毕：本次 6 小时窗口共捕捉到 {total_new_count} 个新增页面！")
 
     # 2. 对新增页面并发补充抓取 Metadata 并提取模因实体
+    # 注意：as_completed 会无限等待单个卡死连接，必须加全局硬超时。
     if total_new_count > 0:
         print(f"⏳ 正在并发抓取 {total_new_count} 个新增页面的 Title 与 Meta 描述并抽取实体...")
-        with concurrent.futures.ThreadPoolExecutor(max_workers=8) as executor:
-            future_to_entry = {
-                executor.submit(fetch_page_metadata, e["url"]): e
-                for e in newly_crawled_entries
-            }
-            for fut in concurrent.futures.as_completed(future_to_entry):
-                entry = future_to_entry[fut]
-                meta = fut.result()
-                entry["title"] = meta.get("title") or entry.get("title") or ""
-                entry["description"] = meta.get("description", "")
-                # 网页真实生成或发布时间 (HTML published_at > Sitemap lastmod)
-                entry["page_created_at"] = meta.get("published_at") or entry.get("lastmod") or ""
-
-                # 抽取实体并沉淀入实体知识库
-                entities = term_engine.extract_page_entities(
-                    entry["url"], entry["title"], entry["description"]
+        executor = concurrent.futures.ThreadPoolExecutor(max_workers=8)
+        future_to_entry = {
+            executor.submit(fetch_page_metadata, e["url"]): e
+            for e in newly_crawled_entries
+        }
+        done_count = 0
+        try:
+            # 整体超时：36 个页面 8 线程，单页 8s，给 180s 余量
+            hard_deadline = time.time() + max(120, min(300, total_new_count * 8))
+            pending = set(future_to_entry.keys())
+            while pending:
+                remain = hard_deadline - time.time()
+                if remain <= 0:
+                    print(f"⚠️ Metadata 抓取超时，{len(pending)} 个页面使用回退标题")
+                    break
+                done, pending = concurrent.futures.wait(
+                    pending, timeout=min(remain, 10),
+                    return_when=concurrent.futures.FIRST_COMPLETED
                 )
-                entry["entities"] = list(entities)
+                for fut in done:
+                    entry = future_to_entry[fut]
+                    try:
+                        meta = fut.result(timeout=1)
+                    except Exception as ex:
+                        print(f"[WARN] metadata 抓取失败 {entry.get('url','')[:60]}: {ex}")
+                        meta = {"title": entry.get("title", ""), "description": ""}
+                    entry["title"] = meta.get("title") or entry.get("title") or ""
+                    entry["description"] = meta.get("description", "")
+                    entry["page_created_at"] = meta.get("published_at") or entry.get("lastmod") or ""
 
-                # 将 URL 标记为已见
-                if not args.dry_run:
-                    state_mgr.mark_seen(entry["domain"], entry["canonical_url"])
-                    for ent in entities:
-                        state_mgr.update_entity(ent, entry["domain"], entry["url"], entry["title"])
+                    entities = term_engine.extract_page_entities(
+                        entry["url"], entry["title"], entry["description"]
+                    )
+                    entry["entities"] = list(entities)
+
+                    if not args.dry_run:
+                        state_mgr.mark_seen(entry["domain"], entry["canonical_url"])
+                        for ent in entities:
+                            state_mgr.update_entity(ent, entry["domain"], entry["url"], entry["title"])
+                    done_count += 1
+            # 超时未完成的条目也要保留（用 slug 推导标题），避免数据丢失
+            for fut in pending:
+                entry = future_to_entry[fut]
+                if not entry.get("title"):
+                    entry["title"] = term_engine.extract_slug_text(entry["url"]).title()
+                entry["description"] = entry.get("description", "")
+                entry["page_created_at"] = entry.get("lastmod") or ""
+                entry["entities"] = list(term_engine.extract_page_entities(entry["url"], entry["title"], ""))
+        finally:
+            # cancel_futures 仅 Python 3.9+，3.8 会 TypeError，需容错
+            try:
+                executor.shutdown(wait=False, cancel_futures=True)
+            except TypeError:
+                executor.shutdown(wait=False)
+        print(f"✅ Metadata 抓取完成：{done_count}/{total_new_count} 成功")
+        _ = (lambda: None)
 
     # 3. 执行跨时差、跨域实体碰撞计算
     print("⏳ 正在结合历史实体底库执行【跨域实体碰撞计算】...")

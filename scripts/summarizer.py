@@ -18,6 +18,7 @@ import json
 import os
 import re
 import sys
+import time
 import urllib.request
 import urllib.error
 from typing import List, Dict, Any
@@ -383,11 +384,20 @@ def generate_report(
     ai_output = None
     if llm_api_key:
         print(f"🤖 正在通过 OpenAI 兼容接口请求大模型 ({llm_base_url}, model: {llm_model})...")
-        ai_output = call_openai_compatible(llm_base_url, llm_api_key, llm_model, prompt, timeout_sec=70)
+        # 长 prompt + 免费路由偶发排队，给 180s 并重试 2 轮
+        for attempt in range(1, 3):
+            ai_output = call_openai_compatible(
+                llm_base_url, llm_api_key, llm_model, prompt, timeout_sec=180
+            )
+            if ai_output and len(ai_output.strip()) >= 200:
+                break
+            if attempt < 2:
+                print(f"⚠️ 大模型第 {attempt} 次未返回有效内容，5 秒后重试...")
+                time.sleep(5)
 
     if not ai_output and gemini_key:
         print("🤖 正在通过 Google Gemini 原生接口请求大模型...")
-        ai_output = call_gemini_native(gemini_key, llm_model, prompt, timeout_sec=60)
+        ai_output = call_gemini_native(gemini_key, llm_model, prompt, timeout_sec=120)
 
     # 如果模型调用失败，使用保底模板
     if not ai_output or len(ai_output.strip()) < 200:

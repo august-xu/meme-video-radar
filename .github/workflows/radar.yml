@@ -1,12 +1,8 @@
 name: Meme Video Radar
 
 on:
-  schedule:
-    # 每天 4 班次定时执行 (对应北京时间 08:15, 14:15, 20:15, 02:15)
-    - cron: '15 0 * * *'
-    - cron: '15 6 * * *'
-    - cron: '15 12 * * *'
-    - cron: '15 18 * * *'
+  # 定时调度已迁移至 VPS systemd timer（GitHub schedule 存在数小时延迟与丢单问题）
+  # 仅保留 workflow_dispatch 供手动触发测试
   workflow_dispatch:
     inputs:
       force_report:
