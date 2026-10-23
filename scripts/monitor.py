@@ -39,6 +39,7 @@ REPO_DIR = os.path.dirname(CUR_DIR)
 sys.path.insert(0, CUR_DIR)
 
 import term_engine
+import capcut_crawler
 
 USER_AGENT = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
 LANG_CODE_REGEX = re.compile(r"/(zh|ja|jp|es|de|fr|pt|ru|ko|ar|it|tw|cn|en)(/|$)", re.IGNORECASE)
@@ -450,17 +451,62 @@ def main():
             })
             max_fetch = src.get("max_detail_fetch", 15)
             newly_crawled_entries.extend(new_in_src[:max_fetch])
+    # 1.5 专线抓取 CapCut (剪映海外版) Most Used 全球爆款模板流
+    print("  ⚡ 正在并发抓取 CapCut (剪映海外版) Most Used 全球爆款模板...")
+    capcut_items = capcut_crawler.crawl_capcut_most_used()
+    capcut_domain = "www.capcut.com"
+    capcut_new = []
+    is_first_capcut = (capcut_domain not in state_mgr.data.get("seen_urls", {}))
+
+    for item in capcut_items:
+        can_u = item["canonical_url"]
+        if is_first_capcut or getattr(args, "init_baseline", False):
+            if not args.dry_run:
+                state_mgr.mark_seen(capcut_domain, can_u)
+        else:
+            if not state_mgr.is_seen(capcut_domain, can_u):
+                capcut_new.append(item)
+
+    if is_first_capcut or getattr(args, "init_baseline", False):
+        print(f"  🌱 [CapCut (剪映海外版)] 首次接入基线初始化：将 {len(capcut_items)} 条爆款模板沉淀为底库")
+        source_stats.append({
+            "name": "CapCut (剪映海外版)",
+            "total": len(capcut_items),
+            "new": 0,
+            "note": "首次接入基线初始化"
+        })
+    else:
+        print(f"  ✅ [CapCut (剪映海外版)] 监控 {len(capcut_items)} 条热门模板 | 本次新增 {len(capcut_new)} 条")
+        source_stats.append({
+            "name": "CapCut (剪映海外版)",
+            "total": len(capcut_items),
+            "new": len(capcut_new)
+        })
+        newly_crawled_entries.extend(capcut_new[:15])
+
     total_new_count = len(newly_crawled_entries)
-    print(f"\n📊 扫描完毕：本次 6 小时窗口共捕捉到 {total_new_count} 个新增页面！")
+    print(f"\n📊 扫描完毕：本次 6 小时窗口共捕捉到 {total_new_count} 个新增页面与爆款模板！")
 
     # 2. 对新增页面并发补充抓取 Metadata 并提取模因实体
     # 注意：as_completed 会无限等待单个卡死连接，必须加全局硬超时。
     if total_new_count > 0:
         print(f"⏳ 正在并发抓取 {total_new_count} 个新增页面的 Title 与 Meta 描述并抽取实体...")
+        html_entries = [e for e in newly_crawled_entries if e.get("source_id") != "capcut"]
+        capcut_entries = [e for e in newly_crawled_entries if e.get("source_id") == "capcut"]
+
+        # 直接处理自带完整元数据的 CapCut 模板 (零网络请求，秒级完成)
+        for entry in capcut_entries:
+            entities = term_engine.extract_page_entities(entry["url"], entry["title"], entry.get("title_desc", ""))
+            entry["entities"] = list(entities)
+            if not args.dry_run:
+                state_mgr.mark_seen(entry["domain"], entry["canonical_url"])
+                for ent in entities:
+                    state_mgr.update_entity(ent, entry["domain"], entry["url"], entry["title"])
+
         executor = concurrent.futures.ThreadPoolExecutor(max_workers=8)
         future_to_entry = {
             executor.submit(fetch_page_metadata, e["url"]): e
-            for e in newly_crawled_entries
+            for e in html_entries
         }
         done_count = 0
         try:

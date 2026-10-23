@@ -128,8 +128,14 @@ def extract_page_entities(url: str, title: str = "", meta_desc: str = "") -> Set
         clean_title = re.sub(r"\s*[-|–—]\s*.*$", "", title)
         title_entities = extract_entity_terms(clean_title)
 
-    # 实体优先以 slug 和 title 的交集或高质量短语为主
-    entities = slug_entities | title_entities
+    # 支持从描述/标题中的 #hashtag 提取核心模因短语 (如 #gata_only -> gata only)
+    tag_entities = set()
+    if meta_desc and "#" in meta_desc:
+        for tag in re.findall(r"#([a-zA-Z0-9_\u4e00-\u9fa5]+)", meta_desc):
+            clean_tag = tag.replace("_", " ").replace("-", " ")
+            tag_entities |= extract_entity_terms(clean_tag)
+
+    entities = slug_entities | title_entities | tag_entities
 
     # 去嵌套：如果同时有 "banana tree run" 和 "banana", 优先保留长实体
     pruned = set()
@@ -177,17 +183,21 @@ def detect_collisions(
             continue
 
         # 检查是否命中 Know Your Meme 梗源
+        has_capcut = any("capcut.com" in d for d in dom_map.keys())
         has_meme_origin = any("knowyourmeme.com" in d for d in dom_map.keys())
-        tool_domains = [d for d in dom_map.keys() if "knowyourmeme.com" not in d]
+        tool_domains = [d for d in dom_map.keys() if "knowyourmeme.com" not in d and "capcut.com" not in d]
 
         # 碰撞类型分类
         collision_type = "multi_domain"
         confidence = "normal"
-        if has_meme_origin and len(tool_domains) >= 1:
-            collision_type = "meme_to_product"  # 梗源 + 工具落地闭环
+        if has_capcut and (has_meme_origin or len(tool_domains) >= 1):
+            collision_type = "capcut_viral_loop"  # 剪映源头爆款 × 独立工具/梗源闭环 (最高置信度)
+            confidence = "highest"
+        elif has_meme_origin and len(tool_domains) >= 1:
+            collision_type = "meme_to_product"   # 梗源 + 工具落地闭环
             confidence = "high"
         elif len(tool_domains) >= 2:
-            collision_type = "competitor_swarm" # 多个商业竞品扎堆抢跑
+            collision_type = "competitor_swarm"  # 多个商业竞品扎堆抢跑
             confidence = "high"
 
         # 整理代表性页面
@@ -212,10 +222,11 @@ def detect_collisions(
             "sample_urls": sample_urls
         })
 
-    # 排序：high 置信度优先，其次按域名数量，再次按最新发现时间
+    # 排序：highest 置信度绝对优先，其次 high，再按域名数与最新时间
+    conf_weight = {"highest": 3, "high": 2, "normal": 1}
     collisions.sort(
         key=lambda x: (
-            1 if x["confidence"] == "high" else 0,
+            conf_weight.get(x["confidence"], 0),
             x["domains_count"],
             x["first_seen"]
         ),

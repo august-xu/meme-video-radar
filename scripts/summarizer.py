@@ -244,6 +244,11 @@ def render_new_entries_markdown(new_entries: List[dict]) -> str:
 
             if time_parts:
                 sub_lines.append(f"  - {' ｜ '.join(time_parts)}")
+            # CapCut 专属爆款量化与无水印视频直链
+            if it.get("use_count"):
+                sub_lines.append(f"  - 🔥 剪同款使用量: `{it['use_count']:,} 次` ｜ 📸 所需素材: `{it.get('clips_count', 1)} 张切片` ｜ ⏱️ 时长: `{it.get('duration_sec', 0)}秒`")
+            if it.get("video_url"):
+                sub_lines.append(f"  - 🎬 视频直链: <a href=\"{it['video_url']}\" target=\"_blank\" rel=\"noopener noreferrer\">点击播放无水印预览视频 (MP4)</a>")
             if it.get("description"):
                 desc = it["description"].replace("\n", " ").strip()[:160]
                 sub_lines.append(f"  - 描述: {desc}")
