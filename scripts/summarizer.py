@@ -33,6 +33,14 @@ def format_beijing_time(ts_str: str) -> str:
     if not ts_str or ts_str in ("首次运行", "N/A"):
         return "首次初始化基线"
     s = ts_str.strip()
+    # [防二次转换红线] 纯 "YYYY-MM-DD HH:MM" / "YYYY-MM-DD" 已是北京时间，直接返回。
+    # 上游 capcut_crawler / monitor 产出的 first_seen / page_created_at 均已是北京时间，
+    # 若再套 UTC+8 会把 23:45 错移成次日 07:45（即“发现时间出现 24 号”的根因）。
+    if re.fullmatch(r"\d{4}-\d{2}-\d{2} \d{2}:\d{2}", s):
+        return s
+    if re.fullmatch(r"\d{4}-\d{2}-\d{2}", s):
+        return s
+
     if s.endswith("UTC"):
         base_part = s[:-3].strip()
         for fmt in ("%Y-%m-%d %H:%M", "%Y-%m-%dT%H:%M:%S", "%Y-%m-%d"):
@@ -45,7 +53,11 @@ def format_beijing_time(ts_str: str) -> str:
         clean_s = s.replace("Z", "+00:00")
         dt = datetime.fromisoformat(clean_s)
         if dt.tzinfo is None:
-            dt = dt.replace(tzinfo=timezone.utc)
+            # 只有带 T 的 ISO 串才视为 UTC；纯空格分隔的当北京时间直接返回
+            if "T" in clean_s:
+                dt = dt.replace(tzinfo=timezone.utc)
+            else:
+                return clean_s[:16]
         return dt.astimezone(BEIJING_TZ).strftime("%Y-%m-%d %H:%M")
     except Exception:
         pass
@@ -311,7 +323,8 @@ def generate_report(
     new_entries: List[dict],
     collisions: List[dict],
     source_stats: List[dict],
-    current_run_ts: str = ""
+    current_run_ts: str = "",
+    capcut_trend: dict = None
 ) -> str:
     """生成最终 Markdown 研报"""
     # 准备 Prompt 结构化数据
@@ -334,6 +347,30 @@ def generate_report(
             for e in new_entries[:25]
         ]
     }
+
+    # CapCut 热度时序信号注入 Prompt
+    if capcut_trend:
+        ct = capcut_trend
+        summary_data["capcut_trend"] = {
+            "snapshot_count": ct.get("snapshot_count"),
+            "calibrating": ct.get("calibrating"),
+            "surge_threshold": ct.get("surge_threshold"),
+            "new_entries": [
+                {"title": x["title"], "use": x["use_count"], "rank": x["rank"],
+                 "clips": x.get("clips_count"), "age_days": x.get("age_days"), "url": x["url"]}
+                for x in ct.get("new_entries", [])[:8]
+            ],
+            "dropped_out": [
+                {"title": x["title"], "last_use": x.get("last_use", 0), "last_rank": x.get("last_rank", 0)}
+                for x in ct.get("dropped_out", [])[:5]
+            ],
+            "lifecycle_top": [
+                {"title": x["title"], "status": x["status"], "use": x["use_count"],
+                 "delta_6h": x.get("delta_6h"), "rank_delta": x.get("rank_delta"),
+                 "age_days": x.get("age_days"), "daily_v": x.get("daily_v")}
+                for x in ct.get("lifecycle", [])[:12]
+            ],
+        }
 
     cur_ts = current_run_ts or datetime.now(timezone.utc).isoformat()
     since_bj = format_beijing_time(last_run_ts)
@@ -361,6 +398,13 @@ def generate_report(
 ## ⚡ 6小时突发单域动向 (Single-Domain Emerging)
 - 重点解构新增页面中的亮点落地页（尤其是万兴 Media.io 动态 Zone、APT Video AI、TryAlorsOnDanse 等出海团队的新模版）；
 - 提炼其背后的通用痛点词（Generic Job，如 `two photos dance video generator`）。
+
+## 🎬 CapCut Most-Used 热度生命周期与新上榜模板 (Trend Matrix)
+- 如输入数据含 capcut_trend：
+  1. 【新上榜模板】：逐一列出本期新进入榜单的模板（标题链接、使用量、所需切片张数），并判断它与本期独立站新增页面是否构成碰撞；
+  2. 【热度矩阵】：按 🔥爆火/📈升温/💎稳态/📉降温 分组列出 lifecycle_top 中对应状态的模板，标注 6h 增量与名次变动；
+  3. 【跌出榜单】：列出 dropped_out 中的模板（最强降温信号，避坑）。
+- 校准期（calibrating=true）则说明正在积累基线，仅呈现新上榜与当前榜单。
 
 ## 🚀 独立开发与微创新商机 (24~48h MVP)
 - 给独立开发者/出海团队 2~3 个具体务实的灵感（如单功能轻量站、Prompt截流博客、模板制作）。
@@ -416,4 +460,49 @@ def generate_report(
     ai_output = ensure_blank_links(ai_output)
 
     appendix_text = "\n\n---\n\n## 📋 各站点新增 URL 详细清单 (全量索引)\n\n" + render_new_entries_markdown(new_entries)
+
+    # 追加 CapCut 热度生命周期原始事实表（不依赖大模型，确定性呈现）
+    if capcut_trend:
+        appendix_text += "\n\n" + render_capcut_trend_table(capcut_trend)
+
     return ai_output.strip() + appendix_text
+
+
+def render_capcut_trend_table(ct: dict) -> str:
+    """把 CapCut 热度分析结果渲染为确定性事实表（零模型依赖）"""
+    lines = ["---\n\n## 📊 CapCut Most-Used 热度生命周期事实表 (时序差分)\n"]
+    if ct.get("calibrating"):
+        lines.append(f"> ⚙️ 冷启动校准期（快照 #{ct.get('snapshot_count')}）：正在积累基线数据，状态判定将在 {12} 个快照后启用动态阈值。\n")
+
+    # 新上榜
+    new_e = ct.get("new_entries", [])
+    if new_e:
+        lines.append(f"### 🆕 本期新上榜（{len(new_e)} 个）\n")
+        lines.append("| 模板 | 使用量 | 名次 | 所需切片 | 上架天数 | 直达 |")
+        lines.append("| :--- | ---: | ---: | ---: | ---: | :--- |")
+        for x in new_e[:10]:
+            age = f"{x.get('age_days')}天" if x.get("age_days") else "—"
+            lines.append(f"| **{x['title'][:36]}** | {x['use_count']:,} | 第{x['rank']}名 | {x.get('clips_count') or '—'}张 | {age} | <a href=\"{x['url']}\" target=\"_blank\" rel=\"noopener noreferrer\">模板页</a> |")
+        lines.append("")
+
+    # 跌出榜单
+    dropped = ct.get("dropped_out", [])
+    if dropped:
+        lines.append(f"### 📉 本期跌出榜单（{len(dropped)} 个，最强降温信号）\n")
+        for x in dropped[:6]:
+            lines.append(f"- ~~{x['title'][:40]}~~（上期第{x.get('last_rank')}名 / {x.get('last_use',0):,} 次）")
+        lines.append("")
+
+    # 全量生命周期
+    lines.append("### 🎛️ 全榜热度状态\n")
+    lines.append("| 状态 | 模板 | 使用量 | 6h增量 | 名次变动 | 日均爆发力 |")
+    lines.append("| :--- | :--- | ---: | ---: | ---: | ---: |")
+    for x in ct.get("lifecycle", [])[:20]:
+        d6 = f"+{x['delta_6h']:,}" if x.get("delta_6h") is not None else "—"
+        rd = x.get("rank_delta")
+        rd_s = f"⬆{rd}" if (rd or 0) > 0 else (f"⬇{abs(rd)}" if (rd or 0) < 0 else "—")
+        dv = f"{x['daily_v']:,}/天" if x.get("daily_v") else "—"
+        lines.append(f"| {x['status_label']} | {x['title'][:32]} | {x['use_count']:,} | {d6} | {rd_s} | {dv} |")
+    lines.append("")
+
+    return "\n".join(lines)

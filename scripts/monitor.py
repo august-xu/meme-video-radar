@@ -40,6 +40,7 @@ sys.path.insert(0, CUR_DIR)
 
 import term_engine
 import capcut_crawler
+import capcut_analyzer
 
 USER_AGENT = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
 LANG_CODE_REGEX = re.compile(r"/(zh|ja|jp|es|de|fr|pt|ru|ko|ar|it|tw|cn|en)(/|$)", re.IGNORECASE)
@@ -469,7 +470,32 @@ def main():
             if not state_mgr.is_seen(capcut_domain, can_u):
                 capcut_new.append(item)
 
-    # 无论是否首次，均将当期 CapCut Most Used 前排爆款模板纳入当期研报输出与实体提取
+    # 1.6 时序快照与热度生命周期分析（新上榜/爆火/升温/降温/跌出榜）
+    print("  ⏳ 正在计算 CapCut 时序差分与热度生命周期...")
+    capcut_trend = capcut_analyzer.analyze(capcut_items)
+    n_new = len(capcut_trend["new_entries"])
+    n_drop = len(capcut_trend["dropped_out"])
+    calib = capcut_trend["calibrating"]
+    print(f"  📊 [CapCut 热度引擎] 快照 #{capcut_trend['snapshot_count']} | 新上榜 {n_new} | 跌出榜 {n_drop} | {'校准积累期' if calib else '动态阈值已启用'}")
+
+    # 新上榜模板必逃实体提取与跨域碰撞；非新增但状态为爆火/升温的也纳入碰撞信号
+    for x in capcut_trend["lifecycle"]:
+        if x["status"] in ("new_entry", "surging", "heating"):
+            # 找到对应的原始条目并补充实体
+            for item in capcut_items:
+                if item.get("template_id") == x["template_id"]:
+                    item["trend_status"] = x["status_label"]
+                    item["delta_6h"] = x["delta_6h"]
+                    item["rank_delta"] = x["rank_delta"]
+                    ents = term_engine.extract_page_entities(item["url"], item["title"], item.get("title_desc", ""))
+                    item["entities"] = list(ents)
+                    if not args.dry_run:
+                        state_mgr.mark_seen(item["domain"], item["canonical_url"])
+                        for ent in ents:
+                            state_mgr.update_entity(ent, item["domain"], item["url"], item["title"])
+                    break
+
+    # 研报呈现策略：新上榜优先；无新增时呈现热度状态最靠前的 12 条
     capcut_report_items = capcut_new if capcut_new else capcut_items[:12]
     newly_crawled_entries.extend(capcut_report_items)
 
@@ -676,7 +702,8 @@ def main():
         new_entries=newly_crawled_entries,
         collisions=collisions,
         source_stats=source_stats,
-        current_run_ts=current_run_ts
+        current_run_ts=current_run_ts,
+        capcut_trend=capcut_trend
     )
 
     # 6. 落盘保存研报至 meme-video/<date>/<slot>-monitor.md
