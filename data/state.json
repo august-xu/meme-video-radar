@@ -1,6 +1,6 @@
 {
-  "last_run_timestamp": "2026-10-23T15:46:44.497099+00:00",
-  "total_urls_seen": 11515,
+  "last_run_timestamp": "2026-10-23T16:43:02.908633+00:00",
+  "total_urls_seen": 11555,
   "seen_urls": {
     "knowyourmeme.com": [
       "https://knowyourmeme.com/memes/yohohoho-binkusuno-sake-by-ado",
@@ -10779,7 +10779,15 @@
       "https://www.media.io/ai-prompts/3d-emoji-animation.html",
       "https://www.media.io/ai/explore/zone/atm-glitch-ai-video-generator",
       "https://www.media.io/ai/explore/zone/halloween-creative-challenge",
-      "https://www.media.io/ai/explore/zone/banana-tree-run-ai-video-generator"
+      "https://www.media.io/ai/explore/zone/banana-tree-run-ai-video-generator",
+      "https://www.media.io/ai-prompts/extreme-close-up-shot-prompts.html",
+      "https://www.media.io/ai/explore/zone/slap-everyone-ai-video-generator",
+      "https://www.media.io/ai/explore/zone/jme-check-one-check-two-ai-trend",
+      "https://www.media.io/ai/explore/zone/beth-cast-nightwing-ai-trend",
+      "https://www.media.io/ai/explore/zone/talk-dirty-dance-ai-trend",
+      "https://www.media.io/ai/explore/zone/mi-chico-ai-dance-generator",
+      "https://www.media.io/mcp",
+      "https://www.media.io/ai/effect/create/girls-generation-gee-ai-dance-generator"
     ],
     "remakeyourmeme.com": [
       "https://remakeyourmeme.com",
@@ -11522,6 +11530,38 @@
       "https://www.capcut.com/template-detail/7554031931780894013",
       "https://www.capcut.com/template-detail/7507248969974615349",
       "https://www.capcut.com/template-detail/7362969691763051782",
+      "https://www.capcut.com/template-detail/7613449947458981136",
+      "https://www.capcut.com/template-detail/7530687794755161397",
+      "https://www.capcut.com/template-detail/7493918549925203253",
+      "https://www.capcut.com/template-detail/7481809637956652349",
+      "https://www.capcut.com/template-detail/7632542815356046613",
+      "https://www.capcut.com/template-detail/7641550081010797844",
+      "https://www.capcut.com/template-detail/7505252255323426101",
+      "https://www.capcut.com/template-detail/7529617533113027893",
+      "https://www.capcut.com/template-detail/7574395599290633525",
+      "https://www.capcut.com/template-detail/7490728173752126773",
+      "https://www.capcut.com/template-detail/7482032172895964477",
+      "https://www.capcut.com/template-detail/7463431808831458566",
+      "https://www.capcut.com/template-detail/7493918549925203253",
+      "https://www.capcut.com/template-detail/7530687794755161397",
+      "https://www.capcut.com/template-detail/7574395599290633525",
+      "https://www.capcut.com/template-detail/7451201494419836213",
+      "https://www.capcut.com/template-detail/7362969691763051782",
+      "https://www.capcut.com/template-detail/7371233374855367942",
+      "https://www.capcut.com/template-detail/7505252255323426101",
+      "https://www.capcut.com/template-detail/7482032172895964477",
+      "https://www.capcut.com/template-detail/7529617533113027893",
+      "https://www.capcut.com/template-detail/7641550081010797844",
+      "https://www.capcut.com/template-detail/7481809637956652349",
+      "https://www.capcut.com/template-detail/7554031931780894013",
+      "https://www.capcut.com/template-detail/7583162501995547909",
+      "https://www.capcut.com/template-detail/7479833368293625141",
+      "https://www.capcut.com/template-detail/7346469314586742037",
+      "https://www.capcut.com/template-detail/7507248969974615349",
+      "https://www.capcut.com/template-detail/7632542815356046613",
+      "https://www.capcut.com/template-detail/7490728173752126773",
+      "https://www.capcut.com/template-detail/7463431808831458566",
+      "https://www.capcut.com/template-detail/7613449947458981136",
       "https://www.capcut.com/template-detail/7613449947458981136",
       "https://www.capcut.com/template-detail/7530687794755161397",
       "https://www.capcut.com/template-detail/7493918549925203253",
@@ -25650,6 +25690,366 @@
             "url": "https://www.media.io/ai/explore/zone/banana-tree-run-ai-video-generator",
             "title": "Banana Tree Run AI Video Generator - Make Banana Leaf Running Videos | Media.io",
             "first_seen": "2026-10-23T15:45:19.768133+00:00"
+          }
+        ]
+      }
+    },
+    "stop motion": {
+      "first_seen": "2026-10-23T16:41:19.624295+00:00",
+      "domains": {
+        "www.capcut.com": [
+          {
+            "url": "https://www.capcut.com/template-detail/7362969691763051782",
+            "title": "Stop Motion 💜",
+            "first_seen": "2026-10-23T16:41:19.624295+00:00"
+          }
+        ]
+      }
+    },
+    "velocity edit": {
+      "first_seen": "2026-10-23T16:41:19.624424+00:00",
+      "domains": {
+        "www.capcut.com": [
+          {
+            "url": "https://www.capcut.com/template-detail/7371233374855367942",
+            "title": "Velocity Edit 🖤",
+            "first_seen": "2026-10-23T16:41:19.624424+00:00"
+          }
+        ]
+      }
+    },
+    "cap cut": {
+      "first_seen": "2026-10-23T16:41:19.625015+00:00",
+      "domains": {
+        "www.capcut.com": [
+          {
+            "url": "https://www.capcut.com/template-detail/7554031931780894013",
+            "title": "Expensive Template",
+            "first_seen": "2026-10-23T16:41:19.625015+00:00"
+          }
+        ]
+      }
+    },
+    "arpon edit": {
+      "first_seen": "2026-10-23T16:41:19.625028+00:00",
+      "domains": {
+        "www.capcut.com": [
+          {
+            "url": "https://www.capcut.com/template-detail/7554031931780894013",
+            "title": "Expensive Template",
+            "first_seen": "2026-10-23T16:41:19.625028+00:00"
+          }
+        ]
+      }
+    },
+    "na na": {
+      "first_seen": "2026-10-23T16:41:19.625363+00:00",
+      "domains": {
+        "www.capcut.com": [
+          {
+            "url": "https://www.capcut.com/template-detail/7507248969974615349",
+            "title": "NA NA",
+            "first_seen": "2026-10-23T16:41:19.625363+00:00"
+          }
+        ]
+      }
+    },
+    "close up shot": {
+      "first_seen": "2026-10-23T16:41:19.739042+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/extreme-close-up-shot-prompts.html",
+            "title": "Extreme Close Up Prompt Ideas: 15 Free Macro Shots",
+            "first_seen": "2026-10-23T16:41:19.739042+00:00"
+          }
+        ]
+      }
+    },
+    "15 free macro shots": {
+      "first_seen": "2026-10-23T16:41:19.739083+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/extreme-close-up-shot-prompts.html",
+            "title": "Extreme Close Up Prompt Ideas: 15 Free Macro Shots",
+            "first_seen": "2026-10-23T16:41:19.739083+00:00"
+          }
+        ]
+      }
+    },
+    "ideas 15 free macro": {
+      "first_seen": "2026-10-23T16:41:19.739091+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/extreme-close-up-shot-prompts.html",
+            "title": "Extreme Close Up Prompt Ideas: 15 Free Macro Shots",
+            "first_seen": "2026-10-23T16:41:19.739091+00:00"
+          }
+        ]
+      }
+    },
+    "macro shots": {
+      "first_seen": "2026-10-23T16:41:19.739097+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/extreme-close-up-shot-prompts.html",
+            "title": "Extreme Close Up Prompt Ideas: 15 Free Macro Shots",
+            "first_seen": "2026-10-23T16:41:19.739097+00:00"
+          }
+        ]
+      }
+    },
+    "ideas 15": {
+      "first_seen": "2026-10-23T16:41:19.739104+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/extreme-close-up-shot-prompts.html",
+            "title": "Extreme Close Up Prompt Ideas: 15 Free Macro Shots",
+            "first_seen": "2026-10-23T16:41:19.739104+00:00"
+          }
+        ]
+      }
+    },
+    "15 free macro": {
+      "first_seen": "2026-10-23T16:41:19.739110+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/extreme-close-up-shot-prompts.html",
+            "title": "Extreme Close Up Prompt Ideas: 15 Free Macro Shots",
+            "first_seen": "2026-10-23T16:41:19.739110+00:00"
+          }
+        ]
+      }
+    },
+    "extreme close": {
+      "first_seen": "2026-10-23T16:41:19.739117+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/extreme-close-up-shot-prompts.html",
+            "title": "Extreme Close Up Prompt Ideas: 15 Free Macro Shots",
+            "first_seen": "2026-10-23T16:41:19.739117+00:00"
+          }
+        ]
+      }
+    },
+    "close up prompt ideas": {
+      "first_seen": "2026-10-23T16:41:19.739123+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/extreme-close-up-shot-prompts.html",
+            "title": "Extreme Close Up Prompt Ideas: 15 Free Macro Shots",
+            "first_seen": "2026-10-23T16:41:19.739123+00:00"
+          }
+        ]
+      }
+    },
+    "extreme close up shot": {
+      "first_seen": "2026-10-23T16:41:19.739132+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/extreme-close-up-shot-prompts.html",
+            "title": "Extreme Close Up Prompt Ideas: 15 Free Macro Shots",
+            "first_seen": "2026-10-23T16:41:19.739132+00:00"
+          }
+        ]
+      }
+    },
+    "slap everyone": {
+      "first_seen": "2026-10-23T16:41:19.799640+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/slap-everyone-ai-video-generator",
+            "title": "Slap Everyone AI Video Generator – Viral AI Slap Trend | Media.io",
+            "first_seen": "2026-10-23T16:41:19.799640+00:00"
+          }
+        ]
+      }
+    },
+    "check one": {
+      "first_seen": "2026-10-23T16:41:19.814930+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/jme-check-one-check-two-ai-trend",
+            "title": "JME Check One Check Two AI Video Generator & Trend Prompts| Media.io",
+            "first_seen": "2026-10-23T16:41:19.814930+00:00"
+          }
+        ]
+      }
+    },
+    "jme check one check": {
+      "first_seen": "2026-10-23T16:41:19.814976+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/jme-check-one-check-two-ai-trend",
+            "title": "JME Check One Check Two AI Video Generator & Trend Prompts| Media.io",
+            "first_seen": "2026-10-23T16:41:19.814976+00:00"
+          }
+        ]
+      }
+    },
+    "jme check": {
+      "first_seen": "2026-10-23T16:41:19.814988+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/jme-check-one-check-two-ai-trend",
+            "title": "JME Check One Check Two AI Video Generator & Trend Prompts| Media.io",
+            "first_seen": "2026-10-23T16:41:19.814988+00:00"
+          }
+        ]
+      }
+    },
+    "check one check": {
+      "first_seen": "2026-10-23T16:41:19.814998+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/jme-check-one-check-two-ai-trend",
+            "title": "JME Check One Check Two AI Video Generator & Trend Prompts| Media.io",
+            "first_seen": "2026-10-23T16:41:19.814998+00:00"
+          }
+        ]
+      }
+    },
+    "jme check one": {
+      "first_seen": "2026-10-23T16:41:19.815008+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/jme-check-one-check-two-ai-trend",
+            "title": "JME Check One Check Two AI Video Generator & Trend Prompts| Media.io",
+            "first_seen": "2026-10-23T16:41:19.815008+00:00"
+          }
+        ]
+      }
+    },
+    "one check": {
+      "first_seen": "2026-10-23T16:41:19.815018+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/jme-check-one-check-two-ai-trend",
+            "title": "JME Check One Check Two AI Video Generator & Trend Prompts| Media.io",
+            "first_seen": "2026-10-23T16:41:19.815018+00:00"
+          }
+        ]
+      }
+    },
+    "beth cast": {
+      "first_seen": "2026-10-23T16:41:19.843291+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/beth-cast-nightwing-ai-trend",
+            "title": "Beth Cast Nightwing AI Trend Video Generator | Media.io",
+            "first_seen": "2026-10-23T16:41:19.843291+00:00"
+          }
+        ]
+      }
+    },
+    "beth cast nightwing": {
+      "first_seen": "2026-10-23T16:41:19.843346+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/beth-cast-nightwing-ai-trend",
+            "title": "Beth Cast Nightwing AI Trend Video Generator | Media.io",
+            "first_seen": "2026-10-23T16:41:19.843346+00:00"
+          }
+        ]
+      }
+    },
+    "cast nightwing": {
+      "first_seen": "2026-10-23T16:41:19.843365+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/beth-cast-nightwing-ai-trend",
+            "title": "Beth Cast Nightwing AI Trend Video Generator | Media.io",
+            "first_seen": "2026-10-23T16:41:19.843365+00:00"
+          }
+        ]
+      }
+    },
+    "talk dirty": {
+      "first_seen": "2026-10-23T16:41:19.899938+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/talk-dirty-dance-ai-trend",
+            "title": "Talk Dirty Dance AI Video Generator & Viral Trend | Media.io",
+            "first_seen": "2026-10-23T16:41:19.899938+00:00"
+          }
+        ]
+      }
+    },
+    "mi chico": {
+      "first_seen": "2026-10-23T16:41:19.906031+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/mi-chico-ai-dance-generator",
+            "title": "Mi Chico AI Dance Video Generator | Media.io",
+            "first_seen": "2026-10-23T16:41:19.906031+00:00"
+          }
+        ]
+      }
+    },
+    "inside your ai agent": {
+      "first_seen": "2026-10-23T16:41:19.925281+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/mcp/",
+            "title": "Media.io MCP: Create AI Images & Videos Inside Your AI Agent",
+            "first_seen": "2026-10-23T16:41:19.925281+00:00"
+          }
+        ]
+      }
+    },
+    "girls generation": {
+      "first_seen": "2026-10-23T16:41:20.170150+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/effect/create/girls-generation-gee-ai-dance-generator",
+            "title": "Girls' Generation Gee AI Dance Video Generator | Media.io",
+            "first_seen": "2026-10-23T16:41:20.170150+00:00"
+          }
+        ]
+      }
+    },
+    "generation gee": {
+      "first_seen": "2026-10-23T16:41:20.170199+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/effect/create/girls-generation-gee-ai-dance-generator",
+            "title": "Girls' Generation Gee AI Dance Video Generator | Media.io",
+            "first_seen": "2026-10-23T16:41:20.170199+00:00"
+          }
+        ]
+      }
+    },
+    "girls generation gee": {
+      "first_seen": "2026-10-23T16:41:20.170213+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/effect/create/girls-generation-gee-ai-dance-generator",
+            "title": "Girls' Generation Gee AI Dance Video Generator | Media.io",
+            "first_seen": "2026-10-23T16:41:20.170213+00:00"
           }
         ]
       }
