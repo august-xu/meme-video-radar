@@ -92,5 +92,15 @@
     "role": "tool_landing",
     "max_detail_fetch": 15,
     "notes": "监控 /template/ 模因动效渲染模板与 /blog/ 爆款视频教程"
+  },
+  {
+    "id": "capcut",
+    "name": "CapCut (剪映海外版)",
+    "url": "https://www.capcut.com/explore/most-used",
+    "has_lastmod": true,
+    "category": "全球短视频爆款模板与卡点源头",
+    "role": "template_origin",
+    "max_detail_fetch": 15,
+    "notes": "监控 TikTok/CapCut Most Used 百万级剪同款爆款模板、所需切片张数与无水印视频"
   }
 ]

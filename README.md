@@ -39,3 +39,4 @@
 | `mediaio` | **Media.io (万兴科技)** | 大厂 pSEO 矩阵 | 隐藏 `/explore/zone/*` 动态模版与图生视频新动作 |
 | `remakeyourmeme` | **Remake Your Meme** | pSEO 模版矩阵 | AI 模因视频重制、换脸动效模板 |
 | `getstarrd` | **GetStarrd** | 模因动效模板 | 单图换脸生成社媒舞蹈模版及配套 How-to 博客 |
+| `capcut` | **CapCut (剪映海外版)** | 全球短视频爆款模板源头 | TikTok/CapCut Most Used 百万级剪同款热门模板与无水印视频 |

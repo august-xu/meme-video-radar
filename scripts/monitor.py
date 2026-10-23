@@ -467,21 +467,16 @@ def main():
             if not state_mgr.is_seen(capcut_domain, can_u):
                 capcut_new.append(item)
 
-    if is_first_capcut or getattr(args, "init_baseline", False):
-        print(f"  🌱 [CapCut (剪映海外版)] 首次接入基线初始化：将 {len(capcut_items)} 条爆款模板沉淀为底库")
-        source_stats.append({
-            "name": "CapCut (剪映海外版)",
-            "total": len(capcut_items),
-            "new": 0,
-            "note": "首次接入基线初始化"
-        })
-    else:
-        print(f"  ✅ [CapCut (剪映海外版)] 监控 {len(capcut_items)} 条热门模板 | 本次新增 {len(capcut_new)} 条")
-        source_stats.append({
-            "name": "CapCut (剪映海外版)",
-            "total": len(capcut_items),
-            "new": len(capcut_new)
-        })
+    # 无论是否首次，均将当期 CapCut Most Used 前排爆款模板纳入当期研报输出与实体提取
+    capcut_report_items = capcut_new if capcut_new else capcut_items[:12]
+    newly_crawled_entries.extend(capcut_report_items)
+
+    print(f"  ✅ [CapCut (剪映海外版)] 实时监控 {len(capcut_items)} 条热门模板 | 本期呈现 {len(capcut_report_items)} 条爆款")
+    source_stats.append({
+        "name": "CapCut (剪映海外版)",
+        "total": len(capcut_items),
+        "new": len(capcut_report_items)
+    })
         newly_crawled_entries.extend(capcut_new[:15])
 
     total_new_count = len(newly_crawled_entries)
