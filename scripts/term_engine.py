@@ -20,6 +20,7 @@ from typing import Dict, List, Set, Tuple
 from urllib.parse import urlparse
 
 # 通用停用词 + 视频/模因领域的泛化大路货（必须过滤，避免假碰撞）
+STOP_WORDS = set("""
 a an and are as at be by can for from has have in into is it its of on or that the this to with your you
 about after all also any around back been before being between both but came could did do does down each
 even find first get give go good had he her here him his how if just know like look make many may me
