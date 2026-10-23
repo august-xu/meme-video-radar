@@ -1,6 +1,6 @@
 {
-  "last_run_timestamp": "2026-10-23T15:29:40.088268+00:00",
-  "total_urls_seen": 11483,
+  "last_run_timestamp": "2026-10-23T15:46:44.497099+00:00",
+  "total_urls_seen": 11515,
   "seen_urls": {
     "knowyourmeme.com": [
       "https://knowyourmeme.com/memes/yohohoho-binkusuno-sake-by-ado",
@@ -10759,7 +10759,27 @@
       "https://www.media.io/ai/reference-to-video/meeting-notes-to-video",
       "https://www.media.io/ai/reference-to-video/article-to-video-ai",
       "https://www.media.io/ai-prompts/bouffant-hairdo-1960s.html",
-      "https://www.media.io/ai/reference-to-video/release-notes-to-video"
+      "https://www.media.io/ai/reference-to-video/release-notes-to-video",
+      "https://www.media.io/ai-prompts/spinning-vinyl-video-prompts.html",
+      "https://www.media.io/ai-prompts/ai-postage-stamp-image-prompts.html",
+      "https://www.media.io/ai-prompts/mugshot-comedy-video-prompts.html",
+      "https://www.media.io/ai-prompts/ai-christmas-sticker-prompts.html",
+      "https://www.media.io/ai-prompts/cyberpunk-alley-video.html",
+      "https://www.media.io/ai/explore/zone/drake-shabang-ai-video-generator",
+      "https://www.media.io/ai-prompts/ai-halloween-sticker-prompts.html",
+      "https://www.media.io/ai-prompts/ai-vintage-botanical-animal-art-prompts.html",
+      "https://www.media.io/ai/explore/zone/spiderman-mom-and-son-ai-trend",
+      "https://www.media.io/ai-prompts/dark-academia-tattoo-prompts.html",
+      "https://www.media.io/ai/explore/zone/thank-you-baby-ai-dance",
+      "https://www.media.io/ai/explore/zone/day-of-the-dead-ai-video-generator",
+      "https://www.media.io/ai/explore/zone/ive-looks-can-kill-ai-dance",
+      "https://www.media.io/ai/explore/zone/day-of-the-dead-ai-photo-prompt",
+      "https://www.media.io/ai/explore/zone/enchantress-filter-ai-trend",
+      "https://www.media.io/ai/explore/zone/karwa-chauth-ai-photo-prompts",
+      "https://www.media.io/ai-prompts/3d-emoji-animation.html",
+      "https://www.media.io/ai/explore/zone/atm-glitch-ai-video-generator",
+      "https://www.media.io/ai/explore/zone/halloween-creative-challenge",
+      "https://www.media.io/ai/explore/zone/banana-tree-run-ai-video-generator"
     ],
     "remakeyourmeme.com": [
       "https://remakeyourmeme.com",
@@ -11501,7 +11521,19 @@
       "https://www.capcut.com/template-detail/7371233374855367942",
       "https://www.capcut.com/template-detail/7554031931780894013",
       "https://www.capcut.com/template-detail/7507248969974615349",
-      "https://www.capcut.com/template-detail/7362969691763051782"
+      "https://www.capcut.com/template-detail/7362969691763051782",
+      "https://www.capcut.com/template-detail/7613449947458981136",
+      "https://www.capcut.com/template-detail/7530687794755161397",
+      "https://www.capcut.com/template-detail/7493918549925203253",
+      "https://www.capcut.com/template-detail/7481809637956652349",
+      "https://www.capcut.com/template-detail/7632542815356046613",
+      "https://www.capcut.com/template-detail/7641550081010797844",
+      "https://www.capcut.com/template-detail/7505252255323426101",
+      "https://www.capcut.com/template-detail/7529617533113027893",
+      "https://www.capcut.com/template-detail/7574395599290633525",
+      "https://www.capcut.com/template-detail/7490728173752126773",
+      "https://www.capcut.com/template-detail/7482032172895964477",
+      "https://www.capcut.com/template-detail/7463431808831458566"
     ]
   },
   "entities": {
@@ -23190,6 +23222,31 @@
             "url": "https://www.media.io/ai-prompts/chatgpt-harry-potter-baby-photo-prompts.html",
             "title": "25 ChatGPT Harry Potter Baby Photo Prompts | Hogwarts",
             "first_seen": "2026-10-23T15:29:13.857309+00:00"
+          },
+          {
+            "url": "https://www.media.io/ai-prompts/ai-postage-stamp-image-prompts.html",
+            "title": "ChatGPT and Gemini AI Postage Stamp Image Prompts for Miniature Art",
+            "first_seen": "2026-10-23T15:45:19.247922+00:00"
+          },
+          {
+            "url": "https://www.media.io/ai-prompts/ai-christmas-sticker-prompts.html",
+            "title": "Free ChatGPT and Gemini AI Christmas Sticker Prompts: 25 Festive Designs to Try",
+            "first_seen": "2026-10-23T15:45:19.278867+00:00"
+          },
+          {
+            "url": "https://www.media.io/ai-prompts/ai-halloween-sticker-prompts.html",
+            "title": "25+ ChatGPT and Gemini AI Halloween Sticker Prompts for Cute & Spooky Designs",
+            "first_seen": "2026-10-23T15:45:19.353615+00:00"
+          },
+          {
+            "url": "https://www.media.io/ai-prompts/ai-vintage-botanical-animal-art-prompts.html",
+            "title": "Gemini and ChatGPT AI Vintage Botanical Animal Art Prompts: Antique-Inspired Prints",
+            "first_seen": "2026-10-23T15:45:19.440169+00:00"
+          },
+          {
+            "url": "https://www.media.io/ai-prompts/dark-academia-tattoo-prompts.html",
+            "title": "25+ ChatGPT and Gemini Dark Academia Tattoo Prompts & AI Tattoo Ideas",
+            "first_seen": "2026-10-23T15:45:19.482009+00:00"
           }
         ]
       }
@@ -23490,6 +23547,26 @@
             "url": "https://www.media.io/ai-prompts/ai-felt-art-photo-prompts.html",
             "title": "AI Felt Art Photo Prompts for ChatGPT and Gemini: 25 Ideas for Portraits and Pets",
             "first_seen": "2026-10-23T15:29:13.655096+00:00"
+          },
+          {
+            "url": "https://www.media.io/ai-prompts/ai-postage-stamp-image-prompts.html",
+            "title": "ChatGPT and Gemini AI Postage Stamp Image Prompts for Miniature Art",
+            "first_seen": "2026-10-23T15:45:19.247858+00:00"
+          },
+          {
+            "url": "https://www.media.io/ai-prompts/ai-christmas-sticker-prompts.html",
+            "title": "Free ChatGPT and Gemini AI Christmas Sticker Prompts: 25 Festive Designs to Try",
+            "first_seen": "2026-10-23T15:45:19.278820+00:00"
+          },
+          {
+            "url": "https://www.media.io/ai-prompts/ai-halloween-sticker-prompts.html",
+            "title": "25+ ChatGPT and Gemini AI Halloween Sticker Prompts for Cute & Spooky Designs",
+            "first_seen": "2026-10-23T15:45:19.353564+00:00"
+          },
+          {
+            "url": "https://www.media.io/ai-prompts/dark-academia-tattoo-prompts.html",
+            "title": "25+ ChatGPT and Gemini Dark Academia Tattoo Prompts & AI Tattoo Ideas",
+            "first_seen": "2026-10-23T15:45:19.481925+00:00"
           }
         ]
       }
@@ -23538,6 +23615,26 @@
             "url": "https://www.media.io/ai-prompts/ai-felt-art-photo-prompts.html",
             "title": "AI Felt Art Photo Prompts for ChatGPT and Gemini: 25 Ideas for Portraits and Pets",
             "first_seen": "2026-10-23T15:29:13.655151+00:00"
+          },
+          {
+            "url": "https://www.media.io/ai-prompts/ai-postage-stamp-image-prompts.html",
+            "title": "ChatGPT and Gemini AI Postage Stamp Image Prompts for Miniature Art",
+            "first_seen": "2026-10-23T15:45:19.247930+00:00"
+          },
+          {
+            "url": "https://www.media.io/ai-prompts/ai-christmas-sticker-prompts.html",
+            "title": "Free ChatGPT and Gemini AI Christmas Sticker Prompts: 25 Festive Designs to Try",
+            "first_seen": "2026-10-23T15:45:19.278897+00:00"
+          },
+          {
+            "url": "https://www.media.io/ai-prompts/ai-halloween-sticker-prompts.html",
+            "title": "25+ ChatGPT and Gemini AI Halloween Sticker Prompts for Cute & Spooky Designs",
+            "first_seen": "2026-10-23T15:45:19.353662+00:00"
+          },
+          {
+            "url": "https://www.media.io/ai-prompts/dark-academia-tattoo-prompts.html",
+            "title": "25+ ChatGPT and Gemini Dark Academia Tattoo Prompts & AI Tattoo Ideas",
+            "first_seen": "2026-10-23T15:45:19.482047+00:00"
           }
         ]
       }
@@ -23951,6 +24048,16 @@
             "url": "https://www.media.io/ai-prompts/chatgpt-harry-potter-baby-photo-prompts.html",
             "title": "25 ChatGPT Harry Potter Baby Photo Prompts | Hogwarts",
             "first_seen": "2026-10-23T15:29:13.857285+00:00"
+          },
+          {
+            "url": "https://www.media.io/ai-prompts/ai-halloween-sticker-prompts.html",
+            "title": "25+ ChatGPT and Gemini AI Halloween Sticker Prompts for Cute & Spooky Designs",
+            "first_seen": "2026-10-23T15:45:19.353628+00:00"
+          },
+          {
+            "url": "https://www.media.io/ai-prompts/dark-academia-tattoo-prompts.html",
+            "title": "25+ ChatGPT and Gemini Dark Academia Tattoo Prompts & AI Tattoo Ideas",
+            "first_seen": "2026-10-23T15:45:19.482022+00:00"
           }
         ]
       }
@@ -24004,6 +24111,16 @@
             "url": "https://www.media.io/ai-prompts/chatgpt-harry-potter-baby-photo-prompts.html",
             "title": "25 ChatGPT Harry Potter Baby Photo Prompts | Hogwarts",
             "first_seen": "2026-10-23T15:29:13.857335+00:00"
+          },
+          {
+            "url": "https://www.media.io/ai-prompts/ai-halloween-sticker-prompts.html",
+            "title": "25+ ChatGPT and Gemini AI Halloween Sticker Prompts for Cute & Spooky Designs",
+            "first_seen": "2026-10-23T15:45:19.353484+00:00"
+          },
+          {
+            "url": "https://www.media.io/ai-prompts/dark-academia-tattoo-prompts.html",
+            "title": "25+ ChatGPT and Gemini Dark Academia Tattoo Prompts & AI Tattoo Ideas",
+            "first_seen": "2026-10-23T15:45:19.481664+00:00"
           }
         ]
       }
@@ -24460,6 +24577,1079 @@
             "url": "https://www.media.io/ai/reference-to-video/release-notes-to-video",
             "title": "Release Notes to Video AI - Turn Product Updates into Videos",
             "first_seen": "2026-10-23T15:29:14.077472+00:00"
+          }
+        ]
+      }
+    },
+    "used aircraft": {
+      "first_seen": "2026-10-23T15:45:19.112215+00:00",
+      "domains": {
+        "www.capcut.com": [
+          {
+            "url": "https://www.capcut.com/template-detail/7613449947458981136",
+            "title": "Most Used Aircraft",
+            "first_seen": "2026-10-23T15:45:19.112215+00:00"
+          }
+        ]
+      }
+    },
+    "df edit": {
+      "first_seen": "2026-10-23T15:45:19.112605+00:00",
+      "domains": {
+        "www.capcut.com": [
+          {
+            "url": "https://www.capcut.com/template-detail/7632542815356046613",
+            "title": "Trending Df Edit",
+            "first_seen": "2026-10-23T15:45:19.112605+00:00"
+          }
+        ]
+      }
+    },
+    "spiderman edit": {
+      "first_seen": "2026-10-23T15:45:19.112703+00:00",
+      "domains": {
+        "www.capcut.com": [
+          {
+            "url": "https://www.capcut.com/template-detail/7641550081010797844",
+            "title": "Spiderman edit",
+            "first_seen": "2026-10-23T15:45:19.112703+00:00"
+          }
+        ]
+      }
+    },
+    "airplane mode": {
+      "first_seen": "2026-10-23T15:45:19.112958+00:00",
+      "domains": {
+        "www.capcut.com": [
+          {
+            "url": "https://www.capcut.com/template-detail/7574395599290633525",
+            "title": "Airplane Mode On",
+            "first_seen": "2026-10-23T15:45:19.112958+00:00"
+          }
+        ]
+      }
+    },
+    "spinning vinyl": {
+      "first_seen": "2026-10-23T15:45:19.220364+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/spinning-vinyl-video-prompts.html",
+            "title": "15+ Spinning Vinyl Video Prompts (Copy-Ready Loops)",
+            "first_seen": "2026-10-23T15:45:19.220364+00:00"
+          }
+        ]
+      }
+    },
+    "vinyl video prompts copy": {
+      "first_seen": "2026-10-23T15:45:19.220396+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/spinning-vinyl-video-prompts.html",
+            "title": "15+ Spinning Vinyl Video Prompts (Copy-Ready Loops)",
+            "first_seen": "2026-10-23T15:45:19.220396+00:00"
+          }
+        ]
+      }
+    },
+    "15 spinning vinyl": {
+      "first_seen": "2026-10-23T15:45:19.220403+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/spinning-vinyl-video-prompts.html",
+            "title": "15+ Spinning Vinyl Video Prompts (Copy-Ready Loops)",
+            "first_seen": "2026-10-23T15:45:19.220403+00:00"
+          }
+        ]
+      }
+    },
+    "15 spinning": {
+      "first_seen": "2026-10-23T15:45:19.220410+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/spinning-vinyl-video-prompts.html",
+            "title": "15+ Spinning Vinyl Video Prompts (Copy-Ready Loops)",
+            "first_seen": "2026-10-23T15:45:19.220410+00:00"
+          }
+        ]
+      }
+    },
+    "gemini ai postage": {
+      "first_seen": "2026-10-23T15:45:19.247894+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/ai-postage-stamp-image-prompts.html",
+            "title": "ChatGPT and Gemini AI Postage Stamp Image Prompts for Miniature Art",
+            "first_seen": "2026-10-23T15:45:19.247894+00:00"
+          }
+        ]
+      }
+    },
+    "miniature art": {
+      "first_seen": "2026-10-23T15:45:19.247902+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/ai-postage-stamp-image-prompts.html",
+            "title": "ChatGPT and Gemini AI Postage Stamp Image Prompts for Miniature Art",
+            "first_seen": "2026-10-23T15:45:19.247902+00:00"
+          }
+        ]
+      }
+    },
+    "postage stamp": {
+      "first_seen": "2026-10-23T15:45:19.247909+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/ai-postage-stamp-image-prompts.html",
+            "title": "ChatGPT and Gemini AI Postage Stamp Image Prompts for Miniature Art",
+            "first_seen": "2026-10-23T15:45:19.247909+00:00"
+          }
+        ]
+      }
+    },
+    "gemini ai postage stamp": {
+      "first_seen": "2026-10-23T15:45:19.247916+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/ai-postage-stamp-image-prompts.html",
+            "title": "ChatGPT and Gemini AI Postage Stamp Image Prompts for Miniature Art",
+            "first_seen": "2026-10-23T15:45:19.247916+00:00"
+          }
+        ]
+      }
+    },
+    "15 mugshot comedy": {
+      "first_seen": "2026-10-23T15:45:19.278589+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/mugshot-comedy-video-prompts.html",
+            "title": "15+ Mugshot Comedy Video Prompts (Free & Funny)",
+            "first_seen": "2026-10-23T15:45:19.278589+00:00"
+          }
+        ]
+      }
+    },
+    "mugshot comedy": {
+      "first_seen": "2026-10-23T15:45:19.278616+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/mugshot-comedy-video-prompts.html",
+            "title": "15+ Mugshot Comedy Video Prompts (Free & Funny)",
+            "first_seen": "2026-10-23T15:45:19.278616+00:00"
+          }
+        ]
+      }
+    },
+    "15 mugshot": {
+      "first_seen": "2026-10-23T15:45:19.278624+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/mugshot-comedy-video-prompts.html",
+            "title": "15+ Mugshot Comedy Video Prompts (Free & Funny)",
+            "first_seen": "2026-10-23T15:45:19.278624+00:00"
+          }
+        ]
+      }
+    },
+    "sticker prompts 25 festive": {
+      "first_seen": "2026-10-23T15:45:19.278789+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/ai-christmas-sticker-prompts.html",
+            "title": "Free ChatGPT and Gemini AI Christmas Sticker Prompts: 25 Festive Designs to Try",
+            "first_seen": "2026-10-23T15:45:19.278789+00:00"
+          }
+        ]
+      }
+    },
+    "sticker prompts 25": {
+      "first_seen": "2026-10-23T15:45:19.278801+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/ai-christmas-sticker-prompts.html",
+            "title": "Free ChatGPT and Gemini AI Christmas Sticker Prompts: 25 Festive Designs to Try",
+            "first_seen": "2026-10-23T15:45:19.278801+00:00"
+          }
+        ]
+      }
+    },
+    "christmas sticker": {
+      "first_seen": "2026-10-23T15:45:19.278808+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/ai-christmas-sticker-prompts.html",
+            "title": "Free ChatGPT and Gemini AI Christmas Sticker Prompts: 25 Festive Designs to Try",
+            "first_seen": "2026-10-23T15:45:19.278808+00:00"
+          }
+        ]
+      }
+    },
+    "designs to try": {
+      "first_seen": "2026-10-23T15:45:19.278814+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/ai-christmas-sticker-prompts.html",
+            "title": "Free ChatGPT and Gemini AI Christmas Sticker Prompts: 25 Festive Designs to Try",
+            "first_seen": "2026-10-23T15:45:19.278814+00:00"
+          }
+        ]
+      }
+    },
+    "25 festive designs": {
+      "first_seen": "2026-10-23T15:45:19.278829+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/ai-christmas-sticker-prompts.html",
+            "title": "Free ChatGPT and Gemini AI Christmas Sticker Prompts: 25 Festive Designs to Try",
+            "first_seen": "2026-10-23T15:45:19.278829+00:00"
+          }
+        ]
+      }
+    },
+    "festive designs to try": {
+      "first_seen": "2026-10-23T15:45:19.278879+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/ai-christmas-sticker-prompts.html",
+            "title": "Free ChatGPT and Gemini AI Christmas Sticker Prompts: 25 Festive Designs to Try",
+            "first_seen": "2026-10-23T15:45:19.278879+00:00"
+          }
+        ]
+      }
+    },
+    "festive designs": {
+      "first_seen": "2026-10-23T15:45:19.278885+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/ai-christmas-sticker-prompts.html",
+            "title": "Free ChatGPT and Gemini AI Christmas Sticker Prompts: 25 Festive Designs to Try",
+            "first_seen": "2026-10-23T15:45:19.278885+00:00"
+          }
+        ]
+      }
+    },
+    "25 festive": {
+      "first_seen": "2026-10-23T15:45:19.278892+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/ai-christmas-sticker-prompts.html",
+            "title": "Free ChatGPT and Gemini AI Christmas Sticker Prompts: 25 Festive Designs to Try",
+            "first_seen": "2026-10-23T15:45:19.278892+00:00"
+          }
+        ]
+      }
+    },
+    "christmas sticker prompts 25": {
+      "first_seen": "2026-10-23T15:45:19.278904+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/ai-christmas-sticker-prompts.html",
+            "title": "Free ChatGPT and Gemini AI Christmas Sticker Prompts: 25 Festive Designs to Try",
+            "first_seen": "2026-10-23T15:45:19.278904+00:00"
+          }
+        ]
+      }
+    },
+    "gemini ai christmas sticker": {
+      "first_seen": "2026-10-23T15:45:19.278910+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/ai-christmas-sticker-prompts.html",
+            "title": "Free ChatGPT and Gemini AI Christmas Sticker Prompts: 25 Festive Designs to Try",
+            "first_seen": "2026-10-23T15:45:19.278910+00:00"
+          }
+        ]
+      }
+    },
+    "gemini ai christmas": {
+      "first_seen": "2026-10-23T15:45:19.278916+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/ai-christmas-sticker-prompts.html",
+            "title": "Free ChatGPT and Gemini AI Christmas Sticker Prompts: 25 Festive Designs to Try",
+            "first_seen": "2026-10-23T15:45:19.278916+00:00"
+          }
+        ]
+      }
+    },
+    "neon scenes": {
+      "first_seen": "2026-10-23T15:45:19.284694+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/cyberpunk-alley-video.html",
+            "title": "15+ Cyberpunk Alley Video Prompts (Free Neon Scenes)",
+            "first_seen": "2026-10-23T15:45:19.284694+00:00"
+          }
+        ]
+      }
+    },
+    "15 cyberpunk": {
+      "first_seen": "2026-10-23T15:45:19.284717+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/cyberpunk-alley-video.html",
+            "title": "15+ Cyberpunk Alley Video Prompts (Free Neon Scenes)",
+            "first_seen": "2026-10-23T15:45:19.284717+00:00"
+          }
+        ]
+      }
+    },
+    "15 cyberpunk alley": {
+      "first_seen": "2026-10-23T15:45:19.284725+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/cyberpunk-alley-video.html",
+            "title": "15+ Cyberpunk Alley Video Prompts (Free Neon Scenes)",
+            "first_seen": "2026-10-23T15:45:19.284725+00:00"
+          }
+        ]
+      }
+    },
+    "cyberpunk alley": {
+      "first_seen": "2026-10-23T15:45:19.284732+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/cyberpunk-alley-video.html",
+            "title": "15+ Cyberpunk Alley Video Prompts (Free Neon Scenes)",
+            "first_seen": "2026-10-23T15:45:19.284732+00:00"
+          }
+        ]
+      }
+    },
+    "drake shabang": {
+      "first_seen": "2026-10-23T15:45:19.322978+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/drake-shabang-ai-video-generator",
+            "title": "Drake Shabang AI Video Generator & Trend Prompts | Media.io",
+            "first_seen": "2026-10-23T15:45:19.322978+00:00"
+          }
+        ]
+      }
+    },
+    "spooky designs": {
+      "first_seen": "2026-10-23T15:45:19.353544+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/ai-halloween-sticker-prompts.html",
+            "title": "25+ ChatGPT and Gemini AI Halloween Sticker Prompts for Cute & Spooky Designs",
+            "first_seen": "2026-10-23T15:45:19.353544+00:00"
+          }
+        ]
+      }
+    },
+    "halloween sticker": {
+      "first_seen": "2026-10-23T15:45:19.353581+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/ai-halloween-sticker-prompts.html",
+            "title": "25+ ChatGPT and Gemini AI Halloween Sticker Prompts for Cute & Spooky Designs",
+            "first_seen": "2026-10-23T15:45:19.353581+00:00"
+          }
+        ]
+      }
+    },
+    "gemini ai halloween": {
+      "first_seen": "2026-10-23T15:45:19.353594+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/ai-halloween-sticker-prompts.html",
+            "title": "25+ ChatGPT and Gemini AI Halloween Sticker Prompts for Cute & Spooky Designs",
+            "first_seen": "2026-10-23T15:45:19.353594+00:00"
+          }
+        ]
+      }
+    },
+    "cute spooky": {
+      "first_seen": "2026-10-23T15:45:19.353604+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/ai-halloween-sticker-prompts.html",
+            "title": "25+ ChatGPT and Gemini AI Halloween Sticker Prompts for Cute & Spooky Designs",
+            "first_seen": "2026-10-23T15:45:19.353604+00:00"
+          }
+        ]
+      }
+    },
+    "cute spooky designs": {
+      "first_seen": "2026-10-23T15:45:19.353639+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/ai-halloween-sticker-prompts.html",
+            "title": "25+ ChatGPT and Gemini AI Halloween Sticker Prompts for Cute & Spooky Designs",
+            "first_seen": "2026-10-23T15:45:19.353639+00:00"
+          }
+        ]
+      }
+    },
+    "sticker prompts for cute": {
+      "first_seen": "2026-10-23T15:45:19.353650+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/ai-halloween-sticker-prompts.html",
+            "title": "25+ ChatGPT and Gemini AI Halloween Sticker Prompts for Cute & Spooky Designs",
+            "first_seen": "2026-10-23T15:45:19.353650+00:00"
+          }
+        ]
+      }
+    },
+    "gemini ai halloween sticker": {
+      "first_seen": "2026-10-23T15:45:19.353675+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/ai-halloween-sticker-prompts.html",
+            "title": "25+ ChatGPT and Gemini AI Halloween Sticker Prompts for Cute & Spooky Designs",
+            "first_seen": "2026-10-23T15:45:19.353675+00:00"
+          }
+        ]
+      }
+    },
+    "botanical animal art": {
+      "first_seen": "2026-10-23T15:45:19.440018+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/ai-vintage-botanical-animal-art-prompts.html",
+            "title": "Gemini and ChatGPT AI Vintage Botanical Animal Art Prompts: Antique-Inspired Prints",
+            "first_seen": "2026-10-23T15:45:19.440018+00:00"
+          }
+        ]
+      }
+    },
+    "chat gpt ai vintage": {
+      "first_seen": "2026-10-23T15:45:19.440073+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/ai-vintage-botanical-animal-art-prompts.html",
+            "title": "Gemini and ChatGPT AI Vintage Botanical Animal Art Prompts: Antique-Inspired Prints",
+            "first_seen": "2026-10-23T15:45:19.440073+00:00"
+          }
+        ]
+      }
+    },
+    "vintage botanical animal art": {
+      "first_seen": "2026-10-23T15:45:19.440087+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/ai-vintage-botanical-animal-art-prompts.html",
+            "title": "Gemini and ChatGPT AI Vintage Botanical Animal Art Prompts: Antique-Inspired Prints",
+            "first_seen": "2026-10-23T15:45:19.440087+00:00"
+          }
+        ]
+      }
+    },
+    "gemini and chat gpt": {
+      "first_seen": "2026-10-23T15:45:19.440098+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/ai-vintage-botanical-animal-art-prompts.html",
+            "title": "Gemini and ChatGPT AI Vintage Botanical Animal Art Prompts: Antique-Inspired Prints",
+            "first_seen": "2026-10-23T15:45:19.440098+00:00"
+          }
+        ]
+      }
+    },
+    "art prompts antique": {
+      "first_seen": "2026-10-23T15:45:19.440121+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/ai-vintage-botanical-animal-art-prompts.html",
+            "title": "Gemini and ChatGPT AI Vintage Botanical Animal Art Prompts: Antique-Inspired Prints",
+            "first_seen": "2026-10-23T15:45:19.440121+00:00"
+          }
+        ]
+      }
+    },
+    "vintage botanical animal": {
+      "first_seen": "2026-10-23T15:45:19.440134+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/ai-vintage-botanical-animal-art-prompts.html",
+            "title": "Gemini and ChatGPT AI Vintage Botanical Animal Art Prompts: Antique-Inspired Prints",
+            "first_seen": "2026-10-23T15:45:19.440134+00:00"
+          }
+        ]
+      }
+    },
+    "botanical animal": {
+      "first_seen": "2026-10-23T15:45:19.440146+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/ai-vintage-botanical-animal-art-prompts.html",
+            "title": "Gemini and ChatGPT AI Vintage Botanical Animal Art Prompts: Antique-Inspired Prints",
+            "first_seen": "2026-10-23T15:45:19.440146+00:00"
+          }
+        ]
+      }
+    },
+    "vintage botanical": {
+      "first_seen": "2026-10-23T15:45:19.440157+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/ai-vintage-botanical-animal-art-prompts.html",
+            "title": "Gemini and ChatGPT AI Vintage Botanical Animal Art Prompts: Antique-Inspired Prints",
+            "first_seen": "2026-10-23T15:45:19.440157+00:00"
+          }
+        ]
+      }
+    },
+    "gpt ai vintage": {
+      "first_seen": "2026-10-23T15:45:19.440186+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/ai-vintage-botanical-animal-art-prompts.html",
+            "title": "Gemini and ChatGPT AI Vintage Botanical Animal Art Prompts: Antique-Inspired Prints",
+            "first_seen": "2026-10-23T15:45:19.440186+00:00"
+          }
+        ]
+      }
+    },
+    "gpt ai vintage botanical": {
+      "first_seen": "2026-10-23T15:45:19.440199+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/ai-vintage-botanical-animal-art-prompts.html",
+            "title": "Gemini and ChatGPT AI Vintage Botanical Animal Art Prompts: Antique-Inspired Prints",
+            "first_seen": "2026-10-23T15:45:19.440199+00:00"
+          }
+        ]
+      }
+    },
+    "animal art": {
+      "first_seen": "2026-10-23T15:45:19.440210+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/ai-vintage-botanical-animal-art-prompts.html",
+            "title": "Gemini and ChatGPT AI Vintage Botanical Animal Art Prompts: Antique-Inspired Prints",
+            "first_seen": "2026-10-23T15:45:19.440210+00:00"
+          }
+        ]
+      }
+    },
+    "gemini and chat": {
+      "first_seen": "2026-10-23T15:45:19.440221+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/ai-vintage-botanical-animal-art-prompts.html",
+            "title": "Gemini and ChatGPT AI Vintage Botanical Animal Art Prompts: Antique-Inspired Prints",
+            "first_seen": "2026-10-23T15:45:19.440221+00:00"
+          }
+        ]
+      }
+    },
+    "animal art prompts antique": {
+      "first_seen": "2026-10-23T15:45:19.440233+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/ai-vintage-botanical-animal-art-prompts.html",
+            "title": "Gemini and ChatGPT AI Vintage Botanical Animal Art Prompts: Antique-Inspired Prints",
+            "first_seen": "2026-10-23T15:45:19.440233+00:00"
+          }
+        ]
+      }
+    },
+    "mom and son": {
+      "first_seen": "2026-10-23T15:45:19.451927+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/spiderman-mom-and-son-ai-trend",
+            "title": "Spiderman Mom and Son AI Photo Generator & Prompts | Media.io",
+            "first_seen": "2026-10-23T15:45:19.451927+00:00"
+          }
+        ]
+      }
+    },
+    "spiderman mom": {
+      "first_seen": "2026-10-23T15:45:19.451973+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/spiderman-mom-and-son-ai-trend",
+            "title": "Spiderman Mom and Son AI Photo Generator & Prompts | Media.io",
+            "first_seen": "2026-10-23T15:45:19.451973+00:00"
+          }
+        ]
+      }
+    },
+    "spiderman mom and son": {
+      "first_seen": "2026-10-23T15:45:19.451989+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/spiderman-mom-and-son-ai-trend",
+            "title": "Spiderman Mom and Son AI Photo Generator & Prompts | Media.io",
+            "first_seen": "2026-10-23T15:45:19.451989+00:00"
+          }
+        ]
+      }
+    },
+    "academia tattoo": {
+      "first_seen": "2026-10-23T15:45:19.481614+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/dark-academia-tattoo-prompts.html",
+            "title": "25+ ChatGPT and Gemini Dark Academia Tattoo Prompts & AI Tattoo Ideas",
+            "first_seen": "2026-10-23T15:45:19.481614+00:00"
+          }
+        ]
+      }
+    },
+    "gpt and gemini dark": {
+      "first_seen": "2026-10-23T15:45:19.481860+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/dark-academia-tattoo-prompts.html",
+            "title": "25+ ChatGPT and Gemini Dark Academia Tattoo Prompts & AI Tattoo Ideas",
+            "first_seen": "2026-10-23T15:45:19.481860+00:00"
+          }
+        ]
+      }
+    },
+    "gemini dark academia tattoo": {
+      "first_seen": "2026-10-23T15:45:19.481913+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/dark-academia-tattoo-prompts.html",
+            "title": "25+ ChatGPT and Gemini Dark Academia Tattoo Prompts & AI Tattoo Ideas",
+            "first_seen": "2026-10-23T15:45:19.481913+00:00"
+          }
+        ]
+      }
+    },
+    "gemini dark": {
+      "first_seen": "2026-10-23T15:45:19.481980+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/dark-academia-tattoo-prompts.html",
+            "title": "25+ ChatGPT and Gemini Dark Academia Tattoo Prompts & AI Tattoo Ideas",
+            "first_seen": "2026-10-23T15:45:19.481980+00:00"
+          }
+        ]
+      }
+    },
+    "gemini dark academia": {
+      "first_seen": "2026-10-23T15:45:19.481993+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/dark-academia-tattoo-prompts.html",
+            "title": "25+ ChatGPT and Gemini Dark Academia Tattoo Prompts & AI Tattoo Ideas",
+            "first_seen": "2026-10-23T15:45:19.481993+00:00"
+          }
+        ]
+      }
+    },
+    "tattoo ideas": {
+      "first_seen": "2026-10-23T15:45:19.482001+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/dark-academia-tattoo-prompts.html",
+            "title": "25+ ChatGPT and Gemini Dark Academia Tattoo Prompts & AI Tattoo Ideas",
+            "first_seen": "2026-10-23T15:45:19.482001+00:00"
+          }
+        ]
+      }
+    },
+    "tattoo prompts ai tattoo": {
+      "first_seen": "2026-10-23T15:45:19.482073+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/dark-academia-tattoo-prompts.html",
+            "title": "25+ ChatGPT and Gemini Dark Academia Tattoo Prompts & AI Tattoo Ideas",
+            "first_seen": "2026-10-23T15:45:19.482073+00:00"
+          }
+        ]
+      }
+    },
+    "dark academia": {
+      "first_seen": "2026-10-23T15:45:19.482082+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/dark-academia-tattoo-prompts.html",
+            "title": "25+ ChatGPT and Gemini Dark Academia Tattoo Prompts & AI Tattoo Ideas",
+            "first_seen": "2026-10-23T15:45:19.482082+00:00"
+          }
+        ]
+      }
+    },
+    "dark academia tattoo": {
+      "first_seen": "2026-10-23T15:45:19.482090+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/dark-academia-tattoo-prompts.html",
+            "title": "25+ ChatGPT and Gemini Dark Academia Tattoo Prompts & AI Tattoo Ideas",
+            "first_seen": "2026-10-23T15:45:19.482090+00:00"
+          }
+        ]
+      }
+    },
+    "day of the dead": {
+      "first_seen": "2026-10-23T15:45:19.487080+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/day-of-the-dead-ai-video-generator",
+            "title": "Day of the Dead AI Video Generator & 30+ Viral Effects | Media.io",
+            "first_seen": "2026-10-23T15:45:19.487080+00:00"
+          },
+          {
+            "url": "https://www.media.io/ai/explore/zone/day-of-the-dead-ai-photo-prompt",
+            "title": "50+ Day of the Dead AI Photo Prompts & Catrina Filters | Media.io",
+            "first_seen": "2026-10-23T15:45:19.609286+00:00"
+          }
+        ]
+      }
+    },
+    "ive looks": {
+      "first_seen": "2026-10-23T15:45:19.583791+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/ive-looks-can-kill-ai-dance",
+            "title": "IVE Looks Can Kill AI Dance | Create a Looks Can Kill Challenge | Media.io",
+            "first_seen": "2026-10-23T15:45:19.583791+00:00"
+          }
+        ]
+      }
+    },
+    "looks can kill": {
+      "first_seen": "2026-10-23T15:45:19.583827+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/ive-looks-can-kill-ai-dance",
+            "title": "IVE Looks Can Kill AI Dance | Create a Looks Can Kill Challenge | Media.io",
+            "first_seen": "2026-10-23T15:45:19.583827+00:00"
+          }
+        ]
+      }
+    },
+    "ive looks can kill": {
+      "first_seen": "2026-10-23T15:45:19.583836+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/ive-looks-can-kill-ai-dance",
+            "title": "IVE Looks Can Kill AI Dance | Create a Looks Can Kill Challenge | Media.io",
+            "first_seen": "2026-10-23T15:45:19.583836+00:00"
+          }
+        ]
+      }
+    },
+    "50 day": {
+      "first_seen": "2026-10-23T15:45:19.609247+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/day-of-the-dead-ai-photo-prompt",
+            "title": "50+ Day of the Dead AI Photo Prompts & Catrina Filters | Media.io",
+            "first_seen": "2026-10-23T15:45:19.609247+00:00"
+          }
+        ]
+      }
+    },
+    "witch transformation": {
+      "first_seen": "2026-10-23T15:45:19.629590+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/enchantress-filter-ai-trend",
+            "title": "Enchantress Filter AI: Create the Viral Witch Transformation Video | Media.io",
+            "first_seen": "2026-10-23T15:45:19.629590+00:00"
+          }
+        ]
+      }
+    },
+    "karwa chauth": {
+      "first_seen": "2026-10-23T15:45:19.672982+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/karwa-chauth-ai-photo-prompts",
+            "title": "Karwa Chauth AI Photo Prompts & Couple Photo Editing | Media.io",
+            "first_seen": "2026-10-23T15:45:19.672982+00:00"
+          }
+        ]
+      }
+    },
+    "couple photo editing": {
+      "first_seen": "2026-10-23T15:45:19.673018+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/karwa-chauth-ai-photo-prompts",
+            "title": "Karwa Chauth AI Photo Prompts & Couple Photo Editing | Media.io",
+            "first_seen": "2026-10-23T15:45:19.673018+00:00"
+          }
+        ]
+      }
+    },
+    "animation 15 free copy": {
+      "first_seen": "2026-10-23T15:45:19.673184+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/3d-emoji-animation.html",
+            "title": "3D Emoji Animation (15+ Free, Copy-Ready Prompts)",
+            "first_seen": "2026-10-23T15:45:19.673184+00:00"
+          }
+        ]
+      }
+    },
+    "3d emoji animation 15": {
+      "first_seen": "2026-10-23T15:45:19.673199+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/3d-emoji-animation.html",
+            "title": "3D Emoji Animation (15+ Free, Copy-Ready Prompts)",
+            "first_seen": "2026-10-23T15:45:19.673199+00:00"
+          }
+        ]
+      }
+    },
+    "animation 15": {
+      "first_seen": "2026-10-23T15:45:19.673206+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/3d-emoji-animation.html",
+            "title": "3D Emoji Animation (15+ Free, Copy-Ready Prompts)",
+            "first_seen": "2026-10-23T15:45:19.673206+00:00"
+          }
+        ]
+      }
+    },
+    "3d emoji": {
+      "first_seen": "2026-10-23T15:45:19.673213+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/3d-emoji-animation.html",
+            "title": "3D Emoji Animation (15+ Free, Copy-Ready Prompts)",
+            "first_seen": "2026-10-23T15:45:19.673213+00:00"
+          }
+        ]
+      }
+    },
+    "emoji animation 15": {
+      "first_seen": "2026-10-23T15:45:19.673220+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/3d-emoji-animation.html",
+            "title": "3D Emoji Animation (15+ Free, Copy-Ready Prompts)",
+            "first_seen": "2026-10-23T15:45:19.673220+00:00"
+          }
+        ]
+      }
+    },
+    "emoji animation": {
+      "first_seen": "2026-10-23T15:45:19.673227+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/3d-emoji-animation.html",
+            "title": "3D Emoji Animation (15+ Free, Copy-Ready Prompts)",
+            "first_seen": "2026-10-23T15:45:19.673227+00:00"
+          }
+        ]
+      }
+    },
+    "15 free copy": {
+      "first_seen": "2026-10-23T15:45:19.673234+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/3d-emoji-animation.html",
+            "title": "3D Emoji Animation (15+ Free, Copy-Ready Prompts)",
+            "first_seen": "2026-10-23T15:45:19.673234+00:00"
+          }
+        ]
+      }
+    },
+    "3d emoji animation": {
+      "first_seen": "2026-10-23T15:45:19.673241+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/3d-emoji-animation.html",
+            "title": "3D Emoji Animation (15+ Free, Copy-Ready Prompts)",
+            "first_seen": "2026-10-23T15:45:19.673241+00:00"
+          }
+        ]
+      }
+    },
+    "atm glitch": {
+      "first_seen": "2026-10-23T15:45:19.717182+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/atm-glitch-ai-video-generator",
+            "title": "ATM Glitch AI Video Generator – Money Explosion Trend | Media.io",
+            "first_seen": "2026-10-23T15:45:19.717182+00:00"
+          }
+        ]
+      }
+    },
+    "creative challenge 2026": {
+      "first_seen": "2026-10-23T15:45:19.741476+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/halloween-creative-challenge",
+            "title": "Halloween Creative Challenge 2026 – Win 20K+ AI Credits | Media.io",
+            "first_seen": "2026-10-23T15:45:19.741476+00:00"
+          }
+        ]
+      }
+    },
+    "halloween creative": {
+      "first_seen": "2026-10-23T15:45:19.741539+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/halloween-creative-challenge",
+            "title": "Halloween Creative Challenge 2026 – Win 20K+ AI Credits | Media.io",
+            "first_seen": "2026-10-23T15:45:19.741539+00:00"
+          }
+        ]
+      }
+    },
+    "challenge 2026": {
+      "first_seen": "2026-10-23T15:45:19.741550+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/halloween-creative-challenge",
+            "title": "Halloween Creative Challenge 2026 – Win 20K+ AI Credits | Media.io",
+            "first_seen": "2026-10-23T15:45:19.741550+00:00"
+          }
+        ]
+      }
+    },
+    "halloween creative challenge": {
+      "first_seen": "2026-10-23T15:45:19.741558+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/halloween-creative-challenge",
+            "title": "Halloween Creative Challenge 2026 – Win 20K+ AI Credits | Media.io",
+            "first_seen": "2026-10-23T15:45:19.741558+00:00"
+          }
+        ]
+      }
+    },
+    "creative challenge": {
+      "first_seen": "2026-10-23T15:45:19.741566+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/halloween-creative-challenge",
+            "title": "Halloween Creative Challenge 2026 – Win 20K+ AI Credits | Media.io",
+            "first_seen": "2026-10-23T15:45:19.741566+00:00"
+          }
+        ]
+      }
+    },
+    "halloween creative challenge 2026": {
+      "first_seen": "2026-10-23T15:45:19.741574+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/halloween-creative-challenge",
+            "title": "Halloween Creative Challenge 2026 – Win 20K+ AI Credits | Media.io",
+            "first_seen": "2026-10-23T15:45:19.741574+00:00"
+          }
+        ]
+      }
+    },
+    "banana tree run": {
+      "first_seen": "2026-10-23T15:45:19.768080+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/banana-tree-run-ai-video-generator",
+            "title": "Banana Tree Run AI Video Generator - Make Banana Leaf Running Videos | Media.io",
+            "first_seen": "2026-10-23T15:45:19.768080+00:00"
+          }
+        ]
+      }
+    },
+    "tree run": {
+      "first_seen": "2026-10-23T15:45:19.768119+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/banana-tree-run-ai-video-generator",
+            "title": "Banana Tree Run AI Video Generator - Make Banana Leaf Running Videos | Media.io",
+            "first_seen": "2026-10-23T15:45:19.768119+00:00"
+          }
+        ]
+      }
+    },
+    "banana tree": {
+      "first_seen": "2026-10-23T15:45:19.768133+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/banana-tree-run-ai-video-generator",
+            "title": "Banana Tree Run AI Video Generator - Make Banana Leaf Running Videos | Media.io",
+            "first_seen": "2026-10-23T15:45:19.768133+00:00"
           }
         ]
       }
