@@ -405,6 +405,8 @@ def main():
         src_url = src["url"]
         domain = urlparse(src_url).netloc
         dedup_multi = src.get("dedup_multilang", False)
+        if src_id == "capcut":
+            continue
 
         raw_urls = parse_sitemap_recursive(src_url)
         # 若是 Media.io 且开启动态 zone，合并动态嗅探结果
