@@ -84,6 +84,18 @@ def ensure_blank_links(text: str) -> str:
         text
     )
 
+def strip_reasoning_noise(text: str) -> str:
+    """剥离推理模型泄漏到 content 里的思考过程：只保留首个 Markdown 标题及其后的正文。
+    gpt-oss / DeepSeek-R1 等推理模型常把 "Let me analyze..." 一类的思考文本混进 content 开头。"""
+    if not text:
+        return text
+    m = re.search(r"^#{1,3}\s", text, re.MULTILINE)
+    if m and m.start() > 0:
+        # 研报规范本就以标题开头；标题之前的任何内容（思考过程/寒暄）一律剥离
+        return text[m.start():].lstrip()
+    return text
+
+
 
 def call_openai_compatible(
     base_url: str,
@@ -137,9 +149,12 @@ def call_openai_compatible(
     headers = {
         "Content-Type": "application/json",
         "Authorization": f"Bearer {api_key.strip()}",
+        # [Cloudflare 红线] Python 默认 UA (Python-urllib) 会被 Groq 等 CF 站点 403 (error 1010)，必须携带浏览器 UA
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+        "Accept": "application/json",
     }
     if is_openrouter:
-        headers["HTTP-Referer"] = "https://github.com/august-xu/research-dossiers"
+        headers["HTTP-Referer"] = "https://github.com/august-xu/meme-video-radar"
         headers["X-Title"] = "Meme Video Radar"
 
     for current_model in candidate_models:
@@ -463,7 +478,8 @@ def generate_report(
             current_run_ts=current_run_ts, capcut_trend=capcut_trend
         )
 
-    # 格式化外部链接并追加全量清单附录
+    # 先剥离推理模型泄漏的思考文本，再格式化外部链接
+    ai_output = strip_reasoning_noise(ai_output)
     ai_output = ensure_blank_links(ai_output)
 
     appendix_text = "\n\n---\n\n## 📋 各站点新增 URL 详细清单 (全量索引)\n\n" + render_new_entries_markdown(new_entries)
