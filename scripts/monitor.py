@@ -584,8 +584,12 @@ def main():
 
     # 3. 执行跨时差、跨域实体碰撞计算
     print("⏳ 正在结合历史实体底库执行【跨域实体碰撞计算】...")
-    collisions = term_engine.detect_collisions(state_mgr.data.get("entities", {}), min_domains=2)
-    print(f"💥 跨域碰撞分析完成：共检测到 {len(collisions)} 组命中多域的模因与落地页碰撞！")
+    collisions = term_engine.detect_collisions(
+        state_mgr.data.get("entities", {}),
+        min_domains=2,
+        since_iso=last_run if last_run != "首次运行" else ""
+    )
+    print(f"💥 跨域碰撞分析完成：共检测到 {len(collisions)} 组【本期窗口内新激活】的跨域碰撞！")
 
     # 4. 零新增且无碰撞判定 (防刷屏与无意义落盘)
     if total_new_count == 0 and len(collisions) == 0:

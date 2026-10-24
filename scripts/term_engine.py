@@ -154,7 +154,8 @@ def extract_page_entities(url: str, title: str = "", meta_desc: str = "") -> Set
 
 def detect_collisions(
     entities_db: Dict[str, dict],
-    min_domains: int = 2
+    min_domains: int = 2,
+    since_iso: str = ""
 ) -> List[dict]:
     """
     跨域碰撞判定：
@@ -182,6 +183,20 @@ def detect_collisions(
         if n_dom < min_domains:
             continue
 
+        # [新鲜度红线] 只报本期窗口内至少有一个域新入库证据的碰撞；
+        # 昨天的旧碰撞不再每期复读（除非本期又有新域/新页面跟进）。
+        if since_iso:
+            fresh_any = False
+            for u_list in dom_map.values():
+                for item in u_list:
+                    if (item.get("first_seen") or "") >= since_iso:
+                        fresh_any = True
+                        break
+                if fresh_any:
+                    break
+            if not fresh_any:
+                continue
+
         # 检查是否命中 Know Your Meme 梗源
         has_capcut = any("capcut.com" in d for d in dom_map.keys())
         has_meme_origin = any("knowyourmeme.com" in d for d in dom_map.keys())
@@ -200,10 +215,11 @@ def detect_collisions(
             collision_type = "competitor_swarm"  # 多个商业竞品扎堆抢跑
             confidence = "high"
 
-        # 整理代表性页面
+        # 整理代表性页面：本期新入库的优先排在前面
         sample_urls = []
         for d, u_list in dom_map.items():
-            for item in u_list[:2]:  # 每个域取前 2 条代表 URL
+            fresh_first = sorted(u_list[:4], key=lambda it: (it.get("first_seen") or "") < since_iso if since_iso else False)
+            for item in fresh_first[:2]:  # 每个域取前 2 条代表 URL
                 sample_urls.append({
                     "domain": d,
                     "url": item.get("url"),

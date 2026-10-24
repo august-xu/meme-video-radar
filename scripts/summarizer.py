@@ -282,7 +282,8 @@ def build_fallback_report(
     new_entries: List[dict],
     collisions: List[dict],
     source_stats: List[dict],
-    current_run_ts: str = ""
+    current_run_ts: str = "",
+    capcut_trend: dict = None
 ) -> str:
     """保底研报：当 LLM 完全不可用时，输出结构化事实 Markdown"""
     cur_ts = current_run_ts or datetime.now(timezone.utc).isoformat()
@@ -312,6 +313,11 @@ def build_fallback_report(
 
     lines.append("---\n\n## 📋 各站点新增 URL 详细清单 (全量索引)\n")
     lines.append(render_new_entries_markdown(new_entries))
+
+    # 保底路径同样必须携带 CapCut 热度事实表（确定性数据，零模型依赖）
+    if capcut_trend:
+        lines.append("\n\n" + render_capcut_trend_table(capcut_trend))
+
     return "\n".join(lines)
 
 
@@ -453,7 +459,8 @@ def generate_report(
     if not ai_output or len(ai_output.strip()) < 200:
         print("⚠️ LLM 调用未返回有效内容，使用高精度事实保底报告。")
         return build_fallback_report(
-            date_str, slot_str, report_title_date, last_run_ts, new_entries, collisions, source_stats
+            date_str, slot_str, report_title_date, last_run_ts, new_entries, collisions, source_stats,
+            current_run_ts=current_run_ts, capcut_trend=capcut_trend
         )
 
     # 格式化外部链接并追加全量清单附录
