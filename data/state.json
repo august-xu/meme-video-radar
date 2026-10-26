@@ -1,6 +1,6 @@
 {
-  "last_run_timestamp": "2026-10-26T12:00:14.643533+00:00",
-  "total_urls_seen": 11839,
+  "last_run_timestamp": "2026-10-26T18:00:16.384752+00:00",
+  "total_urls_seen": 11852,
   "seen_urls": {
     "knowyourmeme.com": [
       "https://knowyourmeme.com/memes/yohohoho-binkusuno-sake-by-ado",
@@ -57,7 +57,8 @@
       "https://knowyourmeme.com/memes/ethan-klein-cheating-controversy",
       "https://knowyourmeme.com/memes/nagi-and-pokke",
       "https://knowyourmeme.com/sensitive/memes/piss-drawer",
-      "https://knowyourmeme.com/memes/you-vs-the-guy-she-told-you-not-to-worry-about"
+      "https://knowyourmeme.com/memes/you-vs-the-guy-she-told-you-not-to-worry-about",
+      "https://knowyourmeme.com/memes/im-so-in-love-with-you-dragon-ball-dance"
     ],
     "aptvideoai.com": [
       "https://aptvideoai.com",
@@ -11798,6 +11799,18 @@
       "https://www.capcut.com/template-detail/7390652995983183160",
       "https://www.capcut.com/template-detail/7485813510438440253",
       "https://www.capcut.com/template-detail/7395264498258496774",
+      "https://www.capcut.com/template-detail/7613449947458981136",
+      "https://www.capcut.com/template-detail/7582856536771300613",
+      "https://www.capcut.com/template-detail/7638923151618886928",
+      "https://www.capcut.com/template-detail/7573721589477297425",
+      "https://www.capcut.com/template-detail/7287603367658982662",
+      "https://www.capcut.com/template-detail/7530687794755161397",
+      "https://www.capcut.com/template-detail/7390652995983183160",
+      "https://www.capcut.com/template-detail/7641550081010797844",
+      "https://www.capcut.com/template-detail/7574395599290633525",
+      "https://www.capcut.com/template-detail/7481809637956652349",
+      "https://www.capcut.com/template-detail/7493918549925203253",
+      "https://www.capcut.com/template-detail/7505252255323426101",
       "https://www.capcut.com/template-detail/7613449947458981136",
       "https://www.capcut.com/template-detail/7582856536771300613",
       "https://www.capcut.com/template-detail/7638923151618886928",
@@ -31683,6 +31696,54 @@
             "url": "https://www.getstarrd.app/template/choosin-texas-remix-emo-version-ai-video",
             "title": "Choosin’ Texas Remix Emo Version — AI Video Template | Starrd",
             "first_seen": "2026-10-26T06:00:10.924448+00:00"
+          }
+        ]
+      }
+    },
+    "dragon ball": {
+      "first_seen": "2026-10-26T18:00:09.328691+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/im-so-in-love-with-you-dragon-ball-dance",
+            "title": "\"I'm So In Love With You\" Dragon Ball Dance | Know Your Meme",
+            "first_seen": "2026-10-26T18:00:09.328691+00:00"
+          }
+        ]
+      }
+    },
+    "m so in love": {
+      "first_seen": "2026-10-26T18:00:09.328754+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/im-so-in-love-with-you-dragon-ball-dance",
+            "title": "\"I'm So In Love With You\" Dragon Ball Dance | Know Your Meme",
+            "first_seen": "2026-10-26T18:00:09.328754+00:00"
+          }
+        ]
+      }
+    },
+    "im so in love": {
+      "first_seen": "2026-10-26T18:00:09.328773+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/im-so-in-love-with-you-dragon-ball-dance",
+            "title": "\"I'm So In Love With You\" Dragon Ball Dance | Know Your Meme",
+            "first_seen": "2026-10-26T18:00:09.328773+00:00"
+          }
+        ]
+      }
+    },
+    "love with you dragon": {
+      "first_seen": "2026-10-26T18:00:09.328785+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/im-so-in-love-with-you-dragon-ball-dance",
+            "title": "\"I'm So In Love With You\" Dragon Ball Dance | Know Your Meme",
+            "first_seen": "2026-10-26T18:00:09.328785+00:00"
           }
         ]
       }
