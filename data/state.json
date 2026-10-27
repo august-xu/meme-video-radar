@@ -1,6 +1,6 @@
 {
-  "last_run_timestamp": "2026-10-27T12:00:21.497992+00:00",
-  "total_urls_seen": 11969,
+  "last_run_timestamp": "2026-10-27T18:00:17.321162+00:00",
+  "total_urls_seen": 12003,
   "seen_urls": {
     "knowyourmeme.com": [
       "https://knowyourmeme.com/memes/yohohoho-binkusuno-sake-by-ado",
@@ -573,7 +573,27 @@
       "https://maketrendai.com/ramalama-ai",
       "https://maketrendai.com/blog/how-to-make-ozil-ai-goal-video",
       "https://maketrendai.com/ramalama-squad-ai",
-      "https://maketrendai.com/bad-times-trend-dog"
+      "https://maketrendai.com/bad-times-trend-dog",
+      "https://maketrendai.com/dime-dime-baby-ai",
+      "https://maketrendai.com/banana-tree-run-ai",
+      "https://maketrendai.com/coldplay-kiss-cam-ai",
+      "https://maketrendai.com/ba-ba-ba-dance-ai",
+      "https://maketrendai.com/bulin-47-ai-baby-dance",
+      "https://maketrendai.com/skull-cap-trend-ai",
+      "https://maketrendai.com/can-i-ride-dance-ai",
+      "https://maketrendai.com/its-my-life-dog-ai",
+      "https://maketrendai.com/bad-times-trend-duo",
+      "https://maketrendai.com/money-flex-ai-dog",
+      "https://maketrendai.com/charme-dance-ai",
+      "https://maketrendai.com/money-flex-ai",
+      "https://maketrendai.com/skull-cap-trend-dog-ai",
+      "https://maketrendai.com/bad-times-trend-dog-halloween",
+      "https://maketrendai.com/bad-times-trend-family",
+      "https://maketrendai.com/bad-times-trend-halloween",
+      "https://maketrendai.com/middle-finger-dunk-ai",
+      "https://maketrendai.com/im-so-sorry-i-lied-ai",
+      "https://maketrendai.com/bad-times-trend-two-dogs",
+      "https://maketrendai.com/dont-call-me-lip-sync-ai"
     ],
     "tryalorsondanse.video": [
       "https://tryalorsondanse.video",
@@ -11005,7 +11025,8 @@
       "https://remakeyourmeme.com/tiny-desk-ai-meme",
       "https://remakeyourmeme.com/nfl-coaches-tiny-desk-ai",
       "https://remakeyourmeme.com/family-band-tiny-desk-ai",
-      "https://remakeyourmeme.com/couple-tiny-desk-ai"
+      "https://remakeyourmeme.com/couple-tiny-desk-ai",
+      "https://remakeyourmeme.com/templates/tip-toeing-in-my-jordans-ai"
     ],
     "www.getstarrd.app": [
       "https://www.getstarrd.app",
@@ -11688,7 +11709,8 @@
       "https://www.getstarrd.app/template/smalltown-boy-ai-video",
       "https://www.getstarrd.app/template/outstanding-tiny-desk-ai-video",
       "https://www.getstarrd.app/template/sunset-dj-set-ai-video",
-      "https://www.getstarrd.app/template/money-flex-ai-video"
+      "https://www.getstarrd.app/template/money-flex-ai-video",
+      "https://www.getstarrd.app/template/kung-fu-dog-vet-ai-video"
     ],
     "www.capcut.com": [
       "https://www.capcut.com/template-detail/7613449947458981136",
@@ -11987,7 +12009,19 @@
       "https://www.capcut.com/template-detail/7368372792443686160",
       "https://www.capcut.com/template-detail/7590649367787261200",
       "https://www.capcut.com/template-detail/7550281815563570485",
-      "https://www.capcut.com/template-detail/7635575278093356289"
+      "https://www.capcut.com/template-detail/7635575278093356289",
+      "https://www.capcut.com/template-detail/7613449947458981136",
+      "https://www.capcut.com/template-detail/7573721589477297425",
+      "https://www.capcut.com/template-detail/7574395599290633525",
+      "https://www.capcut.com/template-detail/7530039551377607997",
+      "https://www.capcut.com/template-detail/7485823454126624053",
+      "https://www.capcut.com/template-detail/7530687794755161397",
+      "https://www.capcut.com/template-detail/7390652995983183160",
+      "https://www.capcut.com/template-detail/7487630394569805117",
+      "https://www.capcut.com/template-detail/7576228420338699521",
+      "https://www.capcut.com/template-detail/7493918549925203253",
+      "https://www.capcut.com/template-detail/7623819239924698384",
+      "https://www.capcut.com/template-detail/7368372792443686160"
     ]
   },
   "entities": {
@@ -12838,6 +12872,16 @@
             "url": "https://aptvideoai.com/fr/money-flex-ai",
             "title": "Money Flex IA : la tendance « tout mon argent est en liquide » avec une photo",
             "first_seen": "2026-10-22T11:14:53.594067+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/money-flex-ai-dog",
+            "title": "Money Flex Dog AI — Your Dog or Cat Shows Off Its Cash, From One Photo",
+            "first_seen": "2026-10-27T18:00:10.703124+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/money-flex-ai",
+            "title": "Money Flex AI — The \"All My Money Is Cash\" Trend From One Photo",
+            "first_seen": "2026-10-27T18:00:10.911142+00:00"
           }
         ],
         "www.lightxeditor.com": [
@@ -16000,6 +16044,11 @@
             "url": "https://aptvideoai.com/zh/im-so-sorry-i-lied-ai",
             "title": "I'm So Sorry I Lied AI：一张照片做出万圣节装扮、婴儿照和宠物照片梗",
             "first_seen": "2026-10-24T06:00:07.867673+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/im-so-sorry-i-lied-ai",
+            "title": "I'm So Sorry I Lied AI — Halloween Costume, Baby & Pet Photo Trend From One Photo",
+            "first_seen": "2026-10-27T18:00:11.236061+00:00"
           }
         ]
       }
@@ -16044,6 +16093,11 @@
             "url": "https://aptvideoai.com/zh/im-so-sorry-i-lied-ai",
             "title": "I'm So Sorry I Lied AI：一张照片做出万圣节装扮、婴儿照和宠物照片梗",
             "first_seen": "2026-10-24T06:00:07.867663+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/im-so-sorry-i-lied-ai",
+            "title": "I'm So Sorry I Lied AI — Halloween Costume, Baby & Pet Photo Trend From One Photo",
+            "first_seen": "2026-10-27T18:00:11.236123+00:00"
           }
         ]
       }
@@ -16144,6 +16198,11 @@
             "url": "https://aptvideoai.com/zh/im-so-sorry-i-lied-ai",
             "title": "I'm So Sorry I Lied AI：一张照片做出万圣节装扮、婴儿照和宠物照片梗",
             "first_seen": "2026-10-24T06:00:07.867731+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/im-so-sorry-i-lied-ai",
+            "title": "I'm So Sorry I Lied AI — Halloween Costume, Baby & Pet Photo Trend From One Photo",
+            "first_seen": "2026-10-27T18:00:11.236108+00:00"
           }
         ]
       }
@@ -16652,6 +16711,11 @@
             "url": "https://aptvideoai.com/pt/blog/can-i-ride-dance-trend",
             "title": "Dança Can I Ride: a música, os passos e como a trend do TikTok começou | apt video ai",
             "first_seen": "2026-10-23T05:20:38.011787+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/can-i-ride-dance-ai",
+            "title": "Can I Ride Dance AI — Do the Viral Two-Person Dance From Two Photos",
+            "first_seen": "2026-10-27T18:00:10.298990+00:00"
           }
         ]
       }
@@ -18362,6 +18426,13 @@
             "url": "https://remakeyourmeme.com/es/baile-dime-dime-baby-ia/",
             "title": "Baile Dime Dime Baby IA: crea el video con tu foto o tu mascota",
             "first_seen": "2026-10-23T05:20:37.746152+00:00"
+          }
+        ],
+        "aptvideoai.com": [
+          {
+            "url": "https://maketrendai.com/dime-dime-baby-ai",
+            "title": "Dime Dime Baby AI — Be the BbY WOW Guy, From One Photo",
+            "first_seen": "2026-10-27T18:00:09.739519+00:00"
           }
         ]
       }
@@ -21087,6 +21158,31 @@
             "url": "https://maketrendai.com/bad-times-trend-dog",
             "title": "Bad Times Trend Dog & Cat AI Video — Your Pet Argues With the Camera",
             "first_seen": "2026-10-27T12:00:09.201321+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/bad-times-trend-duo",
+            "title": "Bad Times Trend Couple & Duo AI Video — Two of You, One Argument",
+            "first_seen": "2026-10-27T18:00:10.645222+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/bad-times-trend-dog-halloween",
+            "title": "Bad Times Trend Dog Halloween AI Video — Your Pet in Costume",
+            "first_seen": "2026-10-27T18:00:11.040170+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/bad-times-trend-family",
+            "title": "Bad Times Trend Parent & Child AI Video — The Car Version",
+            "first_seen": "2026-10-27T18:00:11.084641+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/bad-times-trend-halloween",
+            "title": "Bad Times Trend Halloween AI Video — The Argument in Costume",
+            "first_seen": "2026-10-27T18:00:11.113137+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/bad-times-trend-two-dogs",
+            "title": "Bad Times Trend Two Dogs AI Video — One Argues, One Watches",
+            "first_seen": "2026-10-27T18:00:11.634889+00:00"
           }
         ]
       }
@@ -21221,6 +21317,11 @@
             "url": "https://aptvideoai.com/es/bad-times-trend-duo",
             "title": "Video IA de la tendencia Bad Times en pareja o dúo: ustedes dos, una sola discusión",
             "first_seen": "2026-10-23T06:00:07.644757+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/bad-times-trend-duo",
+            "title": "Bad Times Trend Couple & Duo AI Video — Two of You, One Argument",
+            "first_seen": "2026-10-27T18:00:10.645251+00:00"
           }
         ]
       }
@@ -21382,6 +21483,11 @@
             "url": "https://aptvideoai.com/es/bad-times-trend-duo",
             "title": "Video IA de la tendencia Bad Times en pareja o dúo: ustedes dos, una sola discusión",
             "first_seen": "2026-10-23T06:00:07.644805+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/bad-times-trend-duo",
+            "title": "Bad Times Trend Couple & Duo AI Video — Two of You, One Argument",
+            "first_seen": "2026-10-27T18:00:10.645169+00:00"
           }
         ]
       }
@@ -21409,6 +21515,11 @@
             "url": "https://aptvideoai.com/es/bad-times-trend-family",
             "title": "Video IA de la tendencia Bad Times de padre o madre e hijo: la versión en el auto",
             "first_seen": "2026-10-23T06:00:07.598759+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/bad-times-trend-family",
+            "title": "Bad Times Trend Parent & Child AI Video — The Car Version",
+            "first_seen": "2026-10-27T18:00:11.084593+00:00"
           }
         ]
       }
@@ -21436,6 +21547,11 @@
             "url": "https://aptvideoai.com/es/bad-times-trend-family",
             "title": "Video IA de la tendencia Bad Times de padre o madre e hijo: la versión en el auto",
             "first_seen": "2026-10-23T06:00:07.598959+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/bad-times-trend-family",
+            "title": "Bad Times Trend Parent & Child AI Video — The Car Version",
+            "first_seen": "2026-10-27T18:00:11.084681+00:00"
           }
         ]
       }
@@ -21475,6 +21591,11 @@
             "url": "https://aptvideoai.com/bad-times-trend-family",
             "title": "Bad Times Trend Parent & Child AI Video — The Car Version",
             "first_seen": "2026-10-23T06:00:07.104900+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/bad-times-trend-family",
+            "title": "Bad Times Trend Parent & Child AI Video — The Car Version",
+            "first_seen": "2026-10-27T18:00:11.084695+00:00"
           }
         ]
       }
@@ -21487,6 +21608,11 @@
             "url": "https://aptvideoai.com/bad-times-trend-family",
             "title": "Bad Times Trend Parent & Child AI Video — The Car Version",
             "first_seen": "2026-10-23T06:00:07.104941+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/bad-times-trend-family",
+            "title": "Bad Times Trend Parent & Child AI Video — The Car Version",
+            "first_seen": "2026-10-27T18:00:11.084668+00:00"
           }
         ]
       }
@@ -21511,6 +21637,11 @@
             "url": "https://aptvideoai.com/bad-times-trend-family",
             "title": "Bad Times Trend Parent & Child AI Video — The Car Version",
             "first_seen": "2026-10-23T06:00:07.104980+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/bad-times-trend-family",
+            "title": "Bad Times Trend Parent & Child AI Video — The Car Version",
+            "first_seen": "2026-10-27T18:00:11.084706+00:00"
           }
         ]
       }
@@ -21535,6 +21666,11 @@
             "url": "https://aptvideoai.com/bad-times-trend-family",
             "title": "Bad Times Trend Parent & Child AI Video — The Car Version",
             "first_seen": "2026-10-23T06:00:07.105018+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/bad-times-trend-family",
+            "title": "Bad Times Trend Parent & Child AI Video — The Car Version",
+            "first_seen": "2026-10-27T18:00:11.084717+00:00"
           }
         ]
       }
@@ -21562,6 +21698,11 @@
             "url": "https://aptvideoai.com/es/bad-times-trend-halloween",
             "title": "Video IA de la tendencia Bad Times de Halloween: la discusión disfrazado",
             "first_seen": "2026-10-23T06:00:07.903544+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/bad-times-trend-halloween",
+            "title": "Bad Times Trend Halloween AI Video — The Argument in Costume",
+            "first_seen": "2026-10-27T18:00:11.113166+00:00"
           }
         ]
       }
@@ -21636,6 +21777,11 @@
             "url": "https://aptvideoai.com/es/bad-times-trend-halloween",
             "title": "Video IA de la tendencia Bad Times de Halloween: la discusión disfrazado",
             "first_seen": "2026-10-23T06:00:07.903583+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/bad-times-trend-halloween",
+            "title": "Bad Times Trend Halloween AI Video — The Argument in Costume",
+            "first_seen": "2026-10-27T18:00:11.113085+00:00"
           }
         ]
       }
@@ -21648,6 +21794,11 @@
             "url": "https://aptvideoai.com/bad-times-trend-duo",
             "title": "Bad Times Trend Couple & Duo AI Video — Two of You, One Argument",
             "first_seen": "2026-10-23T06:00:07.195785+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/bad-times-trend-duo",
+            "title": "Bad Times Trend Couple & Duo AI Video — Two of You, One Argument",
+            "first_seen": "2026-10-27T18:00:10.645269+00:00"
           }
         ]
       }
@@ -21660,6 +21811,11 @@
             "url": "https://aptvideoai.com/bad-times-trend-duo",
             "title": "Bad Times Trend Couple & Duo AI Video — Two of You, One Argument",
             "first_seen": "2026-10-23T06:00:07.195802+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/bad-times-trend-duo",
+            "title": "Bad Times Trend Couple & Duo AI Video — Two of You, One Argument",
+            "first_seen": "2026-10-27T18:00:10.645215+00:00"
           }
         ]
       }
@@ -21672,6 +21828,11 @@
             "url": "https://aptvideoai.com/bad-times-trend-duo",
             "title": "Bad Times Trend Couple & Duo AI Video — Two of You, One Argument",
             "first_seen": "2026-10-23T06:00:07.195815+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/bad-times-trend-duo",
+            "title": "Bad Times Trend Couple & Duo AI Video — Two of You, One Argument",
+            "first_seen": "2026-10-27T18:00:10.645261+00:00"
           }
         ]
       }
@@ -21684,6 +21845,11 @@
             "url": "https://aptvideoai.com/bad-times-trend-duo",
             "title": "Bad Times Trend Couple & Duo AI Video — Two of You, One Argument",
             "first_seen": "2026-10-23T06:00:07.195873+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/bad-times-trend-duo",
+            "title": "Bad Times Trend Couple & Duo AI Video — Two of You, One Argument",
+            "first_seen": "2026-10-27T18:00:10.645206+00:00"
           }
         ]
       }
@@ -21858,6 +22024,11 @@
             "url": "https://aptvideoai.com/es/bad-times-trend-dog-halloween",
             "title": "Video IA de la tendencia Bad Times con perro en Halloween: tu mascota disfrazada",
             "first_seen": "2026-10-23T06:00:08.930162+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/bad-times-trend-dog-halloween",
+            "title": "Bad Times Trend Dog Halloween AI Video — Your Pet in Costume",
+            "first_seen": "2026-10-27T18:00:11.040227+00:00"
           }
         ]
       }
@@ -26313,6 +26484,13 @@
             "title": "Banana Tree Run AI Video Generator - Make Banana Leaf Running Videos | Media.io",
             "first_seen": "2026-10-23T15:45:19.768080+00:00"
           }
+        ],
+        "aptvideoai.com": [
+          {
+            "url": "https://maketrendai.com/banana-tree-run-ai",
+            "title": "Banana Tree Run AI — Run Across the Tops of Banana Trees, From One Photo",
+            "first_seen": "2026-10-27T18:00:09.774894+00:00"
+          }
         ]
       }
     },
@@ -26325,6 +26503,13 @@
             "title": "Banana Tree Run AI Video Generator - Make Banana Leaf Running Videos | Media.io",
             "first_seen": "2026-10-23T15:45:19.768119+00:00"
           }
+        ],
+        "aptvideoai.com": [
+          {
+            "url": "https://maketrendai.com/banana-tree-run-ai",
+            "title": "Banana Tree Run AI — Run Across the Tops of Banana Trees, From One Photo",
+            "first_seen": "2026-10-27T18:00:09.774881+00:00"
+          }
         ]
       }
     },
@@ -26336,6 +26521,13 @@
             "url": "https://www.media.io/ai/explore/zone/banana-tree-run-ai-video-generator",
             "title": "Banana Tree Run AI Video Generator - Make Banana Leaf Running Videos | Media.io",
             "first_seen": "2026-10-23T15:45:19.768133+00:00"
+          }
+        ],
+        "aptvideoai.com": [
+          {
+            "url": "https://maketrendai.com/banana-tree-run-ai",
+            "title": "Banana Tree Run AI — Run Across the Tops of Banana Trees, From One Photo",
+            "first_seen": "2026-10-27T18:00:09.774832+00:00"
           }
         ]
       }
@@ -26784,6 +26976,11 @@
             "url": "https://aptvideoai.com/zh/blog/how-to-make-middle-finger-dunk-ai-video",
             "title": "中指扣篮 AI 视频怎么做（My Prime 1v1）？两张照片，隔着朋友扣篮 | apt video ai",
             "first_seen": "2026-10-25T18:00:08.620827+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/middle-finger-dunk-ai",
+            "title": "Middle Finger Dunk AI — The 1v1 Dunk Trend From Your Photos",
+            "first_seen": "2026-10-27T18:00:11.207162+00:00"
           }
         ],
         "remakeyourmeme.com": [
@@ -26930,6 +27127,11 @@
             "url": "https://aptvideoai.com/zh/blog/how-to-make-middle-finger-dunk-ai-video",
             "title": "中指扣篮 AI 视频怎么做（My Prime 1v1）？两张照片，隔着朋友扣篮 | apt video ai",
             "first_seen": "2026-10-25T18:00:08.620777+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/middle-finger-dunk-ai",
+            "title": "Middle Finger Dunk AI — The 1v1 Dunk Trend From Your Photos",
+            "first_seen": "2026-10-27T18:00:11.207091+00:00"
           }
         ],
         "remakeyourmeme.com": [
@@ -27026,6 +27228,11 @@
             "url": "https://aptvideoai.com/zh/blog/how-to-make-middle-finger-dunk-ai-video",
             "title": "中指扣篮 AI 视频怎么做（My Prime 1v1）？两张照片，隔着朋友扣篮 | apt video ai",
             "first_seen": "2026-10-25T18:00:08.620837+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/middle-finger-dunk-ai",
+            "title": "Middle Finger Dunk AI — The 1v1 Dunk Trend From Your Photos",
+            "first_seen": "2026-10-27T18:00:11.207144+00:00"
           }
         ],
         "remakeyourmeme.com": [
@@ -27544,6 +27751,11 @@
             "url": "https://aptvideoai.com/zh/im-so-sorry-i-lied-ai",
             "title": "I'm So Sorry I Lied AI：一张照片做出万圣节装扮、婴儿照和宠物照片梗",
             "first_seen": "2026-10-24T06:00:07.867717+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/im-so-sorry-i-lied-ai",
+            "title": "I'm So Sorry I Lied AI — Halloween Costume, Baby & Pet Photo Trend From One Photo",
+            "first_seen": "2026-10-27T18:00:11.236093+00:00"
           }
         ]
       }
@@ -27646,6 +27858,11 @@
             "url": "https://aptvideoai.com/zh/im-so-sorry-i-lied-ai",
             "title": "I'm So Sorry I Lied AI：一张照片做出万圣节装扮、婴儿照和宠物照片梗",
             "first_seen": "2026-10-24T06:00:07.867682+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/im-so-sorry-i-lied-ai",
+            "title": "I'm So Sorry I Lied AI — Halloween Costume, Baby & Pet Photo Trend From One Photo",
+            "first_seen": "2026-10-27T18:00:11.235993+00:00"
           }
         ]
       }
@@ -27683,6 +27900,11 @@
             "url": "https://aptvideoai.com/zh/im-so-sorry-i-lied-ai",
             "title": "I'm So Sorry I Lied AI：一张照片做出万圣节装扮、婴儿照和宠物照片梗",
             "first_seen": "2026-10-24T06:00:07.867690+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/im-so-sorry-i-lied-ai",
+            "title": "I'm So Sorry I Lied AI — Halloween Costume, Baby & Pet Photo Trend From One Photo",
+            "first_seen": "2026-10-27T18:00:11.236138+00:00"
           }
         ]
       }
@@ -27732,6 +27954,11 @@
             "url": "https://aptvideoai.com/zh/im-so-sorry-i-lied-ai",
             "title": "I'm So Sorry I Lied AI：一张照片做出万圣节装扮、婴儿照和宠物照片梗",
             "first_seen": "2026-10-24T06:00:07.867740+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/im-so-sorry-i-lied-ai",
+            "title": "I'm So Sorry I Lied AI — Halloween Costume, Baby & Pet Photo Trend From One Photo",
+            "first_seen": "2026-10-27T18:00:11.236043+00:00"
           }
         ]
       }
@@ -27781,6 +28008,11 @@
             "url": "https://aptvideoai.com/zh/im-so-sorry-i-lied-ai",
             "title": "I'm So Sorry I Lied AI：一张照片做出万圣节装扮、婴儿照和宠物照片梗",
             "first_seen": "2026-10-24T06:00:07.867619+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/im-so-sorry-i-lied-ai",
+            "title": "I'm So Sorry I Lied AI — Halloween Costume, Baby & Pet Photo Trend From One Photo",
+            "first_seen": "2026-10-27T18:00:11.236078+00:00"
           }
         ]
       }
@@ -28574,6 +28806,11 @@
             "url": "https://aptvideoai.com/fr/dont-call-me-lip-sync-ai",
             "title": "Don't Call Me Lip Sync IA — Le selfie en voiture « We're Done! » à partir d'une photo",
             "first_seen": "2026-10-25T06:00:08.068396+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/dont-call-me-lip-sync-ai",
+            "title": "Don't Call Me Lip Sync AI — The \"We're Done!\" Car Selfie From One Photo",
+            "first_seen": "2026-10-27T18:00:11.866021+00:00"
           }
         ]
       }
@@ -28633,6 +28870,11 @@
             "url": "https://aptvideoai.com/fr/dont-call-me-lip-sync-ai",
             "title": "Don't Call Me Lip Sync IA — Le selfie en voiture « We're Done! » à partir d'une photo",
             "first_seen": "2026-10-25T06:00:08.068417+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/dont-call-me-lip-sync-ai",
+            "title": "Don't Call Me Lip Sync AI — The \"We're Done!\" Car Selfie From One Photo",
+            "first_seen": "2026-10-27T18:00:11.866037+00:00"
           }
         ]
       }
@@ -28670,6 +28912,11 @@
             "url": "https://aptvideoai.com/fr/dont-call-me-lip-sync-ai",
             "title": "Don't Call Me Lip Sync IA — Le selfie en voiture « We're Done! » à partir d'une photo",
             "first_seen": "2026-10-25T06:00:08.068424+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/dont-call-me-lip-sync-ai",
+            "title": "Don't Call Me Lip Sync AI — The \"We're Done!\" Car Selfie From One Photo",
+            "first_seen": "2026-10-27T18:00:11.866006+00:00"
           }
         ]
       }
@@ -28697,6 +28944,11 @@
             "url": "https://aptvideoai.com/fr/dont-call-me-lip-sync-ai",
             "title": "Don't Call Me Lip Sync IA — Le selfie en voiture « We're Done! » à partir d'une photo",
             "first_seen": "2026-10-25T06:00:08.068431+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/dont-call-me-lip-sync-ai",
+            "title": "Don't Call Me Lip Sync AI — The \"We're Done!\" Car Selfie From One Photo",
+            "first_seen": "2026-10-27T18:00:11.865992+00:00"
           }
         ]
       }
@@ -28758,6 +29010,11 @@
             "url": "https://aptvideoai.com/fr/dont-call-me-lip-sync-ai",
             "title": "Don't Call Me Lip Sync IA — Le selfie en voiture « We're Done! » à partir d'une photo",
             "first_seen": "2026-10-25T06:00:08.068437+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/dont-call-me-lip-sync-ai",
+            "title": "Don't Call Me Lip Sync AI — The \"We're Done!\" Car Selfie From One Photo",
+            "first_seen": "2026-10-27T18:00:11.865960+00:00"
           }
         ]
       }
@@ -28807,6 +29064,11 @@
             "url": "https://aptvideoai.com/fr/dont-call-me-lip-sync-ai",
             "title": "Don't Call Me Lip Sync IA — Le selfie en voiture « We're Done! » à partir d'une photo",
             "first_seen": "2026-10-25T06:00:08.068443+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/dont-call-me-lip-sync-ai",
+            "title": "Don't Call Me Lip Sync AI — The \"We're Done!\" Car Selfie From One Photo",
+            "first_seen": "2026-10-27T18:00:11.866054+00:00"
           }
         ]
       }
@@ -28878,6 +29140,11 @@
             "url": "https://aptvideoai.com/fr/dont-call-me-lip-sync-ai",
             "title": "Don't Call Me Lip Sync IA — Le selfie en voiture « We're Done! » à partir d'une photo",
             "first_seen": "2026-10-25T06:00:08.068455+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/dont-call-me-lip-sync-ai",
+            "title": "Don't Call Me Lip Sync AI — The \"We're Done!\" Car Selfie From One Photo",
+            "first_seen": "2026-10-27T18:00:11.865943+00:00"
           }
         ]
       }
@@ -28915,6 +29182,11 @@
             "url": "https://aptvideoai.com/fr/dont-call-me-lip-sync-ai",
             "title": "Don't Call Me Lip Sync IA — Le selfie en voiture « We're Done! » à partir d'une photo",
             "first_seen": "2026-10-25T06:00:08.068462+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/dont-call-me-lip-sync-ai",
+            "title": "Don't Call Me Lip Sync AI — The \"We're Done!\" Car Selfie From One Photo",
+            "first_seen": "2026-10-27T18:00:11.865893+00:00"
           }
         ]
       }
@@ -28964,6 +29236,11 @@
             "url": "https://aptvideoai.com/fr/dont-call-me-lip-sync-ai",
             "title": "Don't Call Me Lip Sync IA — Le selfie en voiture « We're Done! » à partir d'une photo",
             "first_seen": "2026-10-25T06:00:08.068468+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/dont-call-me-lip-sync-ai",
+            "title": "Don't Call Me Lip Sync AI — The \"We're Done!\" Car Selfie From One Photo",
+            "first_seen": "2026-10-27T18:00:11.865976+00:00"
           }
         ]
       }
@@ -29314,6 +29591,11 @@
             "url": "https://aptvideoai.com/es/ba-ba-ba-dance-ai",
             "title": "Ba Ba Ba Dance IA: el baile viral de dos personas, con tus fotos",
             "first_seen": "2026-10-25T18:00:09.279906+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/ba-ba-ba-dance-ai",
+            "title": "Ba Ba Ba Dance AI — Do the Viral Two-Person Dance From Your Photos",
+            "first_seen": "2026-10-27T18:00:09.936421+00:00"
           }
         ]
       }
@@ -29371,6 +29653,11 @@
             "url": "https://aptvideoai.com/es/ba-ba-ba-dance-ai",
             "title": "Ba Ba Ba Dance IA: el baile viral de dos personas, con tus fotos",
             "first_seen": "2026-10-25T18:00:09.279888+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/ba-ba-ba-dance-ai",
+            "title": "Ba Ba Ba Dance AI — Do the Viral Two-Person Dance From Your Photos",
+            "first_seen": "2026-10-27T18:00:09.936388+00:00"
           }
         ]
       }
@@ -30392,6 +30679,16 @@
             "url": "https://aptvideoai.com/pt/skull-cap-trend-ai",
             "title": "Skull Cap Trend AI — \"0.01 segundo depois de colocar uma skull cap\" com uma foto",
             "first_seen": "2026-10-26T06:00:10.289200+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/skull-cap-trend-ai",
+            "title": "Skull Cap Trend AI — \"0.01 Seconds After Putting On a Skull Cap\" From One Photo",
+            "first_seen": "2026-10-27T18:00:10.172164+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/skull-cap-trend-dog-ai",
+            "title": "Skull Cap Trend Dog AI — Your Dog or Cat Gets the Skull Cap Too",
+            "first_seen": "2026-10-27T18:00:10.911289+00:00"
           }
         ]
       }
@@ -33640,6 +33937,11 @@
             "url": "https://maketrendai.com/bulin-47-ai",
             "title": "Bulin 47 AI Video Generator — One Photo, You Freestyle in the Viral Clip",
             "first_seen": "2026-10-27T12:00:07.607672+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/bulin-47-ai-baby-dance",
+            "title": "Dame Hombro Baby AI Dance — Bulin 47 Baby Video From One Photo",
+            "first_seen": "2026-10-27T18:00:10.137560+00:00"
           }
         ]
       }
@@ -34334,6 +34636,186 @@
             "url": "https://knowyourmeme.com/memes/tesla-roadster-flip-flying-tesla-car",
             "title": "Tesla Roadster Flip / Flying Tesla Car | Know Your Meme",
             "first_seen": "2026-10-27T12:00:08.898187+00:00"
+          }
+        ]
+      }
+    },
+    "coldplay kiss": {
+      "first_seen": "2026-10-27T18:00:09.936227+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://maketrendai.com/coldplay-kiss-cam-ai",
+            "title": "Coldplay Kiss Cam AI — You Two Caught on the Big Screen, From Two Photos",
+            "first_seen": "2026-10-27T18:00:09.936227+00:00"
+          }
+        ]
+      }
+    },
+    "kiss cam": {
+      "first_seen": "2026-10-27T18:00:09.936260+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://maketrendai.com/coldplay-kiss-cam-ai",
+            "title": "Coldplay Kiss Cam AI — You Two Caught on the Big Screen, From Two Photos",
+            "first_seen": "2026-10-27T18:00:09.936260+00:00"
+          }
+        ]
+      }
+    },
+    "coldplay kiss cam": {
+      "first_seen": "2026-10-27T18:00:09.936268+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://maketrendai.com/coldplay-kiss-cam-ai",
+            "title": "Coldplay Kiss Cam AI — You Two Caught on the Big Screen, From Two Photos",
+            "first_seen": "2026-10-27T18:00:09.936268+00:00"
+          }
+        ]
+      }
+    },
+    "dame hombro": {
+      "first_seen": "2026-10-27T18:00:10.137525+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://maketrendai.com/bulin-47-ai-baby-dance",
+            "title": "Dame Hombro Baby AI Dance — Bulin 47 Baby Video From One Photo",
+            "first_seen": "2026-10-27T18:00:10.137525+00:00"
+          }
+        ]
+      }
+    },
+    "s my life": {
+      "first_seen": "2026-10-27T18:00:10.301723+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://maketrendai.com/its-my-life-dog-ai",
+            "title": "It's My Life Dog AI — Your Pet Sings Along in the Car From One Photo",
+            "first_seen": "2026-10-27T18:00:10.301723+00:00"
+          }
+        ]
+      }
+    },
+    "toeing in my jordans": {
+      "first_seen": "2026-10-27T18:00:11.113408+00:00",
+      "domains": {
+        "remakeyourmeme.com": [
+          {
+            "url": "https://remakeyourmeme.com/templates/tip-toeing-in-my-jordans-ai/",
+            "title": "Tip Toeing In My Jordans AI Meme Generator: Two Photos In",
+            "first_seen": "2026-10-27T18:00:11.113408+00:00"
+          }
+        ]
+      }
+    },
+    "tip toeing": {
+      "first_seen": "2026-10-27T18:00:11.113430+00:00",
+      "domains": {
+        "remakeyourmeme.com": [
+          {
+            "url": "https://remakeyourmeme.com/templates/tip-toeing-in-my-jordans-ai/",
+            "title": "Tip Toeing In My Jordans AI Meme Generator: Two Photos In",
+            "first_seen": "2026-10-27T18:00:11.113430+00:00"
+          }
+        ]
+      }
+    },
+    "kung fu dog vet": {
+      "first_seen": "2026-10-27T18:00:12.100807+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/template/kung-fu-dog-vet-ai-video",
+            "title": "Kung Fu Vet Visit — AI Video Template | Starrd",
+            "first_seen": "2026-10-27T18:00:12.100807+00:00"
+          }
+        ]
+      }
+    },
+    "fu vet": {
+      "first_seen": "2026-10-27T18:00:12.100848+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/template/kung-fu-dog-vet-ai-video",
+            "title": "Kung Fu Vet Visit — AI Video Template | Starrd",
+            "first_seen": "2026-10-27T18:00:12.100848+00:00"
+          }
+        ]
+      }
+    },
+    "kung fu vet": {
+      "first_seen": "2026-10-27T18:00:12.100866+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/template/kung-fu-dog-vet-ai-video",
+            "title": "Kung Fu Vet Visit — AI Video Template | Starrd",
+            "first_seen": "2026-10-27T18:00:12.100866+00:00"
+          }
+        ]
+      }
+    },
+    "fu dog vet": {
+      "first_seen": "2026-10-27T18:00:12.100875+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/template/kung-fu-dog-vet-ai-video",
+            "title": "Kung Fu Vet Visit — AI Video Template | Starrd",
+            "first_seen": "2026-10-27T18:00:12.100875+00:00"
+          }
+        ]
+      }
+    },
+    "vet visit": {
+      "first_seen": "2026-10-27T18:00:12.100882+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/template/kung-fu-dog-vet-ai-video",
+            "title": "Kung Fu Vet Visit — AI Video Template | Starrd",
+            "first_seen": "2026-10-27T18:00:12.100882+00:00"
+          }
+        ]
+      }
+    },
+    "fu vet visit": {
+      "first_seen": "2026-10-27T18:00:12.100890+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/template/kung-fu-dog-vet-ai-video",
+            "title": "Kung Fu Vet Visit — AI Video Template | Starrd",
+            "first_seen": "2026-10-27T18:00:12.100890+00:00"
+          }
+        ]
+      }
+    },
+    "kung fu vet visit": {
+      "first_seen": "2026-10-27T18:00:12.100897+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/template/kung-fu-dog-vet-ai-video",
+            "title": "Kung Fu Vet Visit — AI Video Template | Starrd",
+            "first_seen": "2026-10-27T18:00:12.100897+00:00"
+          }
+        ]
+      }
+    },
+    "kung fu": {
+      "first_seen": "2026-10-27T18:00:12.100903+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/template/kung-fu-dog-vet-ai-video",
+            "title": "Kung Fu Vet Visit — AI Video Template | Starrd",
+            "first_seen": "2026-10-27T18:00:12.100903+00:00"
           }
         ]
       }
