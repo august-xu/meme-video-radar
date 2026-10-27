@@ -1,6 +1,6 @@
 {
-  "last_run_timestamp": "2026-10-26T18:00:16.384752+00:00",
-  "total_urls_seen": 11852,
+  "last_run_timestamp": "2026-10-27T00:00:18.420686+00:00",
+  "total_urls_seen": 11884,
   "seen_urls": {
     "knowyourmeme.com": [
       "https://knowyourmeme.com/memes/yohohoho-binkusuno-sake-by-ado",
@@ -58,7 +58,10 @@
       "https://knowyourmeme.com/memes/nagi-and-pokke",
       "https://knowyourmeme.com/sensitive/memes/piss-drawer",
       "https://knowyourmeme.com/memes/you-vs-the-guy-she-told-you-not-to-worry-about",
-      "https://knowyourmeme.com/memes/im-so-in-love-with-you-dragon-ball-dance"
+      "https://knowyourmeme.com/memes/im-so-in-love-with-you-dragon-ball-dance",
+      "https://knowyourmeme.com/memes/people/yanito932",
+      "https://knowyourmeme.com/memes/tesla-roadster-flip",
+      "https://knowyourmeme.com/sensitive/memes/guy-shooting-himself-with-a-shotgun"
     ],
     "aptvideoai.com": [
       "https://aptvideoai.com",
@@ -11622,7 +11625,10 @@
       "https://www.getstarrd.app/blog/how-to-make-deep-down-in-my-heart-ai-video",
       "https://www.getstarrd.app/blog/how-to-make-choosin-texas-remix-emo-version-ai-video",
       "https://www.getstarrd.app/template/deep-down-in-my-heart-ai-video",
-      "https://www.getstarrd.app/template/choosin-texas-remix-emo-version-ai-video"
+      "https://www.getstarrd.app/template/choosin-texas-remix-emo-version-ai-video",
+      "https://www.getstarrd.app/blog/how-to-make-outstanding-tiny-desk-ai-video",
+      "https://www.getstarrd.app/template/smalltown-boy-ai-video",
+      "https://www.getstarrd.app/template/outstanding-tiny-desk-ai-video"
     ],
     "www.capcut.com": [
       "https://www.capcut.com/template-detail/7613449947458981136",
@@ -11870,7 +11876,33 @@
       "https://www.capcut.com/template-detail/7574395599290633525",
       "https://www.capcut.com/template-detail/7481809637956652349",
       "https://www.capcut.com/template-detail/7493918549925203253",
-      "https://www.capcut.com/template-detail/7505252255323426101"
+      "https://www.capcut.com/template-detail/7505252255323426101",
+      "https://www.capcut.com/template-detail/7576228420338699521",
+      "https://www.capcut.com/template-detail/7479665271486123325",
+      "https://www.capcut.com/template-detail/7567912685145197877",
+      "https://www.capcut.com/template-detail/7360345383802834184",
+      "https://www.capcut.com/template-detail/7485823454126624053",
+      "https://www.capcut.com/template-detail/7498581353139539253",
+      "https://www.capcut.com/template-detail/7544763435276406069",
+      "https://www.capcut.com/template-detail/7601555915468262674",
+      "https://www.capcut.com/template-detail/7477105562845449525",
+      "https://www.capcut.com/template-detail/7577090014090169608",
+      "https://www.capcut.com/template-detail/7558967207464635709",
+      "https://www.capcut.com/template-detail/7487630394569805117",
+      "https://www.capcut.com/template-detail/7582856536771300613",
+      "https://www.capcut.com/template-detail/7573721589477297425",
+      "https://www.capcut.com/template-detail/7479665271486123325",
+      "https://www.capcut.com/template-detail/7360345383802834184",
+      "https://www.capcut.com/template-detail/7485823454126624053",
+      "https://www.capcut.com/template-detail/7601555915468262674",
+      "https://www.capcut.com/template-detail/7487630394569805117",
+      "https://www.capcut.com/template-detail/7567912685145197877",
+      "https://www.capcut.com/template-detail/7498581353139539253",
+      "https://www.capcut.com/template-detail/7576228420338699521",
+      "https://www.capcut.com/template-detail/7544763435276406069",
+      "https://www.capcut.com/template-detail/7477105562845449525",
+      "https://www.capcut.com/template-detail/7577090014090169608",
+      "https://www.capcut.com/template-detail/7558967207464635709"
     ]
   },
   "entities": {
@@ -31744,6 +31776,446 @@
             "url": "https://knowyourmeme.com/memes/im-so-in-love-with-you-dragon-ball-dance",
             "title": "\"I'm So In Love With You\" Dragon Ball Dance | Know Your Meme",
             "first_seen": "2026-10-26T18:00:09.328785+00:00"
+          }
+        ]
+      }
+    },
+    "kevin editz": {
+      "first_seen": "2026-10-27T00:00:07.967759+00:00",
+      "domains": {
+        "www.capcut.com": [
+          {
+            "url": "https://www.capcut.com/template-detail/7479665271486123325",
+            "title": "PELIGROSA",
+            "first_seen": "2026-10-27T00:00:07.967759+00:00"
+          }
+        ]
+      }
+    },
+    "velocity x color": {
+      "first_seen": "2026-10-27T00:00:07.968017+00:00",
+      "domains": {
+        "www.capcut.com": [
+          {
+            "url": "https://www.capcut.com/template-detail/7567912685145197877",
+            "title": "VELOCITY x COLOR AD",
+            "first_seen": "2026-10-27T00:00:07.968017+00:00"
+          }
+        ]
+      }
+    },
+    "x color": {
+      "first_seen": "2026-10-27T00:00:07.968056+00:00",
+      "domains": {
+        "www.capcut.com": [
+          {
+            "url": "https://www.capcut.com/template-detail/7567912685145197877",
+            "title": "VELOCITY x COLOR AD",
+            "first_seen": "2026-10-27T00:00:07.968056+00:00"
+          }
+        ]
+      }
+    },
+    "x color ad": {
+      "first_seen": "2026-10-27T00:00:07.968124+00:00",
+      "domains": {
+        "www.capcut.com": [
+          {
+            "url": "https://www.capcut.com/template-detail/7567912685145197877",
+            "title": "VELOCITY x COLOR AD",
+            "first_seen": "2026-10-27T00:00:07.968124+00:00"
+          }
+        ]
+      }
+    },
+    "velocity x": {
+      "first_seen": "2026-10-27T00:00:07.968141+00:00",
+      "domains": {
+        "www.capcut.com": [
+          {
+            "url": "https://www.capcut.com/template-detail/7567912685145197877",
+            "title": "VELOCITY x COLOR AD",
+            "first_seen": "2026-10-27T00:00:07.968141+00:00"
+          }
+        ]
+      }
+    },
+    "color ad": {
+      "first_seen": "2026-10-27T00:00:07.968164+00:00",
+      "domains": {
+        "www.capcut.com": [
+          {
+            "url": "https://www.capcut.com/template-detail/7567912685145197877",
+            "title": "VELOCITY x COLOR AD",
+            "first_seen": "2026-10-27T00:00:07.968164+00:00"
+          }
+        ]
+      }
+    },
+    "velocity x color ad": {
+      "first_seen": "2026-10-27T00:00:07.968180+00:00",
+      "domains": {
+        "www.capcut.com": [
+          {
+            "url": "https://www.capcut.com/template-detail/7567912685145197877",
+            "title": "VELOCITY x COLOR AD",
+            "first_seen": "2026-10-27T00:00:07.968180+00:00"
+          }
+        ]
+      }
+    },
+    "ino reverse": {
+      "first_seen": "2026-10-27T00:00:07.968554+00:00",
+      "domains": {
+        "www.capcut.com": [
+          {
+            "url": "https://www.capcut.com/template-detail/7485823454126624053",
+            "title": "Ino reverse fr",
+            "first_seen": "2026-10-27T00:00:07.968554+00:00"
+          }
+        ]
+      }
+    },
+    "kahan se yeah": {
+      "first_seen": "2026-10-27T00:00:07.968774+00:00",
+      "domains": {
+        "www.capcut.com": [
+          {
+            "url": "https://www.capcut.com/template-detail/7498581353139539253",
+            "title": "Kahan Se Yeah Haowa",
+            "first_seen": "2026-10-27T00:00:07.968774+00:00"
+          }
+        ]
+      }
+    },
+    "se yeah": {
+      "first_seen": "2026-10-27T00:00:07.968794+00:00",
+      "domains": {
+        "www.capcut.com": [
+          {
+            "url": "https://www.capcut.com/template-detail/7498581353139539253",
+            "title": "Kahan Se Yeah Haowa",
+            "first_seen": "2026-10-27T00:00:07.968794+00:00"
+          }
+        ]
+      }
+    },
+    "kahan se yeah haowa": {
+      "first_seen": "2026-10-27T00:00:07.968807+00:00",
+      "domains": {
+        "www.capcut.com": [
+          {
+            "url": "https://www.capcut.com/template-detail/7498581353139539253",
+            "title": "Kahan Se Yeah Haowa",
+            "first_seen": "2026-10-27T00:00:07.968807+00:00"
+          }
+        ]
+      }
+    },
+    "yeah haowa": {
+      "first_seen": "2026-10-27T00:00:07.968819+00:00",
+      "domains": {
+        "www.capcut.com": [
+          {
+            "url": "https://www.capcut.com/template-detail/7498581353139539253",
+            "title": "Kahan Se Yeah Haowa",
+            "first_seen": "2026-10-27T00:00:07.968819+00:00"
+          }
+        ]
+      }
+    },
+    "kahan se": {
+      "first_seen": "2026-10-27T00:00:07.968832+00:00",
+      "domains": {
+        "www.capcut.com": [
+          {
+            "url": "https://www.capcut.com/template-detail/7498581353139539253",
+            "title": "Kahan Se Yeah Haowa",
+            "first_seen": "2026-10-27T00:00:07.968832+00:00"
+          }
+        ]
+      }
+    },
+    "se yeah haowa": {
+      "first_seen": "2026-10-27T00:00:07.968845+00:00",
+      "domains": {
+        "www.capcut.com": [
+          {
+            "url": "https://www.capcut.com/template-detail/7498581353139539253",
+            "title": "Kahan Se Yeah Haowa",
+            "first_seen": "2026-10-27T00:00:07.968845+00:00"
+          }
+        ]
+      }
+    },
+    "shoot my shot": {
+      "first_seen": "2026-10-27T00:00:07.969186+00:00",
+      "domains": {
+        "www.capcut.com": [
+          {
+            "url": "https://www.capcut.com/template-detail/7601555915468262674",
+            "title": "shoot my shot",
+            "first_seen": "2026-10-27T00:00:07.969186+00:00"
+          }
+        ]
+      }
+    },
+    "showing my obsession": {
+      "first_seen": "2026-10-27T00:00:07.969745+00:00",
+      "domains": {
+        "www.capcut.com": [
+          {
+            "url": "https://www.capcut.com/template-detail/7558967207464635709",
+            "title": "showing my obsession",
+            "first_seen": "2026-10-27T00:00:07.969745+00:00"
+          }
+        ]
+      }
+    },
+    "cool flash": {
+      "first_seen": "2026-10-27T00:00:07.969948+00:00",
+      "domains": {
+        "www.capcut.com": [
+          {
+            "url": "https://www.capcut.com/template-detail/7487630394569805117",
+            "title": "Cool Flash Template",
+            "first_seen": "2026-10-27T00:00:07.969948+00:00"
+          }
+        ]
+      }
+    },
+    "outstanding tiny desk": {
+      "first_seen": "2026-10-27T00:00:08.078348+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-outstanding-tiny-desk-ai-video",
+            "title": "How to Make the 'Outstanding' Tiny Desk AI Video (Charlie Wilson Trend, 2026)",
+            "first_seen": "2026-10-27T00:00:08.078348+00:00"
+          },
+          {
+            "url": "https://www.getstarrd.app/template/outstanding-tiny-desk-ai-video",
+            "title": "Outstanding Tiny Desk AI: Charlie Wilson Meme With Friends | Starrd",
+            "first_seen": "2026-10-27T00:00:09.108785+00:00"
+          }
+        ]
+      }
+    },
+    "tiny desk": {
+      "first_seen": "2026-10-27T00:00:08.078387+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-outstanding-tiny-desk-ai-video",
+            "title": "How to Make the 'Outstanding' Tiny Desk AI Video (Charlie Wilson Trend, 2026)",
+            "first_seen": "2026-10-27T00:00:08.078387+00:00"
+          },
+          {
+            "url": "https://www.getstarrd.app/template/outstanding-tiny-desk-ai-video",
+            "title": "Outstanding Tiny Desk AI: Charlie Wilson Meme With Friends | Starrd",
+            "first_seen": "2026-10-27T00:00:09.108801+00:00"
+          }
+        ]
+      }
+    },
+    "charlie wilson trend 2026": {
+      "first_seen": "2026-10-27T00:00:08.078396+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-outstanding-tiny-desk-ai-video",
+            "title": "How to Make the 'Outstanding' Tiny Desk AI Video (Charlie Wilson Trend, 2026)",
+            "first_seen": "2026-10-27T00:00:08.078396+00:00"
+          }
+        ]
+      }
+    },
+    "desk ai video charlie": {
+      "first_seen": "2026-10-27T00:00:08.078403+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-outstanding-tiny-desk-ai-video",
+            "title": "How to Make the 'Outstanding' Tiny Desk AI Video (Charlie Wilson Trend, 2026)",
+            "first_seen": "2026-10-27T00:00:08.078403+00:00"
+          }
+        ]
+      }
+    },
+    "wilson trend 2026": {
+      "first_seen": "2026-10-27T00:00:08.078409+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-outstanding-tiny-desk-ai-video",
+            "title": "How to Make the 'Outstanding' Tiny Desk AI Video (Charlie Wilson Trend, 2026)",
+            "first_seen": "2026-10-27T00:00:08.078409+00:00"
+          }
+        ]
+      }
+    },
+    "outstanding tiny": {
+      "first_seen": "2026-10-27T00:00:08.078415+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-outstanding-tiny-desk-ai-video",
+            "title": "How to Make the 'Outstanding' Tiny Desk AI Video (Charlie Wilson Trend, 2026)",
+            "first_seen": "2026-10-27T00:00:08.078415+00:00"
+          },
+          {
+            "url": "https://www.getstarrd.app/template/outstanding-tiny-desk-ai-video",
+            "title": "Outstanding Tiny Desk AI: Charlie Wilson Meme With Friends | Starrd",
+            "first_seen": "2026-10-27T00:00:09.108828+00:00"
+          }
+        ]
+      }
+    },
+    "charlie wilson": {
+      "first_seen": "2026-10-27T00:00:08.078420+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-outstanding-tiny-desk-ai-video",
+            "title": "How to Make the 'Outstanding' Tiny Desk AI Video (Charlie Wilson Trend, 2026)",
+            "first_seen": "2026-10-27T00:00:08.078420+00:00"
+          },
+          {
+            "url": "https://www.getstarrd.app/template/outstanding-tiny-desk-ai-video",
+            "title": "Outstanding Tiny Desk AI: Charlie Wilson Meme With Friends | Starrd",
+            "first_seen": "2026-10-27T00:00:09.108814+00:00"
+          }
+        ]
+      }
+    },
+    "tesla roadster flip": {
+      "first_seen": "2026-10-27T00:00:08.797726+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/tesla-roadster-flip",
+            "title": "Tesla Roadster Flip | Know Your Meme",
+            "first_seen": "2026-10-27T00:00:08.797726+00:00"
+          }
+        ]
+      }
+    },
+    "tesla roadster": {
+      "first_seen": "2026-10-27T00:00:08.797774+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/tesla-roadster-flip",
+            "title": "Tesla Roadster Flip | Know Your Meme",
+            "first_seen": "2026-10-27T00:00:08.797774+00:00"
+          }
+        ]
+      }
+    },
+    "roadster flip": {
+      "first_seen": "2026-10-27T00:00:08.797786+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/tesla-roadster-flip",
+            "title": "Tesla Roadster Flip | Know Your Meme",
+            "first_seen": "2026-10-27T00:00:08.797786+00:00"
+          }
+        ]
+      }
+    },
+    "wilson meme with friends": {
+      "first_seen": "2026-10-27T00:00:09.108741+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/template/outstanding-tiny-desk-ai-video",
+            "title": "Outstanding Tiny Desk AI: Charlie Wilson Meme With Friends | Starrd",
+            "first_seen": "2026-10-27T00:00:09.108741+00:00"
+          }
+        ]
+      }
+    },
+    "tiny desk ai charlie": {
+      "first_seen": "2026-10-27T00:00:09.108794+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/template/outstanding-tiny-desk-ai-video",
+            "title": "Outstanding Tiny Desk AI: Charlie Wilson Meme With Friends | Starrd",
+            "first_seen": "2026-10-27T00:00:09.108794+00:00"
+          }
+        ]
+      }
+    },
+    "desk ai charlie": {
+      "first_seen": "2026-10-27T00:00:09.108808+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/template/outstanding-tiny-desk-ai-video",
+            "title": "Outstanding Tiny Desk AI: Charlie Wilson Meme With Friends | Starrd",
+            "first_seen": "2026-10-27T00:00:09.108808+00:00"
+          }
+        ]
+      }
+    },
+    "desk ai charlie wilson": {
+      "first_seen": "2026-10-27T00:00:09.108821+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/template/outstanding-tiny-desk-ai-video",
+            "title": "Outstanding Tiny Desk AI: Charlie Wilson Meme With Friends | Starrd",
+            "first_seen": "2026-10-27T00:00:09.108821+00:00"
+          }
+        ]
+      }
+    },
+    "himself with a shotgun": {
+      "first_seen": "2026-10-27T00:00:11.231540+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/sensitive/memes/guy-shooting-himself-with-a-shotgun",
+            "title": "Guy Shooting Himself With a Shotgun | Know Your Meme",
+            "first_seen": "2026-10-27T00:00:11.231540+00:00"
+          }
+        ]
+      }
+    },
+    "shooting himself": {
+      "first_seen": "2026-10-27T00:00:11.231601+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/sensitive/memes/guy-shooting-himself-with-a-shotgun",
+            "title": "Guy Shooting Himself With a Shotgun | Know Your Meme",
+            "first_seen": "2026-10-27T00:00:11.231601+00:00"
+          }
+        ]
+      }
+    },
+    "guy shooting": {
+      "first_seen": "2026-10-27T00:00:11.231611+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/sensitive/memes/guy-shooting-himself-with-a-shotgun",
+            "title": "Guy Shooting Himself With a Shotgun | Know Your Meme",
+            "first_seen": "2026-10-27T00:00:11.231611+00:00"
+          }
+        ]
+      }
+    },
+    "guy shooting himself": {
+      "first_seen": "2026-10-27T00:00:11.231617+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/sensitive/memes/guy-shooting-himself-with-a-shotgun",
+            "title": "Guy Shooting Himself With a Shotgun | Know Your Meme",
+            "first_seen": "2026-10-27T00:00:11.231617+00:00"
           }
         ]
       }
