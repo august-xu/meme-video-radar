@@ -1,6 +1,6 @@
 {
-  "last_run_timestamp": "2026-10-28T12:00:46.792732+00:00",
-  "total_urls_seen": 12117,
+  "last_run_timestamp": "2026-10-28T18:00:17.495929+00:00",
+  "total_urls_seen": 12149,
   "seen_urls": {
     "knowyourmeme.com": [
       "https://knowyourmeme.com/memes/yohohoho-binkusuno-sake-by-ado",
@@ -67,7 +67,8 @@
       "https://knowyourmeme.com/memes/then-i-walk-in",
       "https://knowyourmeme.com/memes/didy",
       "https://knowyourmeme.com/memes/skull-cap-trend",
-      "https://knowyourmeme.com/memes/dictator-mbappe"
+      "https://knowyourmeme.com/memes/dictator-mbappe",
+      "https://knowyourmeme.com/memes/freddy-krueger-cancelled"
     ],
     "aptvideoai.com": [
       "https://aptvideoai.com",
@@ -11028,7 +11029,27 @@
       "https://www.media.io/comparison/arting-ai.html",
       "https://www.media.io/ai-prompts/ai-pet-memorial-photo-prompts.html",
       "https://www.media.io/ai-prompts/chatgpt-prompts-for-photos-with-deceased-pets.html",
-      "https://www.media.io/ai/explore/zone/bestie-love-options-ai-dance-generator"
+      "https://www.media.io/ai/explore/zone/bestie-love-options-ai-dance-generator",
+      "https://www.media.io/ai-prompts/rainbow-bridge-pet-photo-prompts.html",
+      "https://www.media.io/ai-prompts/animal-comedy-video-prompts.html",
+      "https://www.media.io/ai-prompts/educational-instagram-reels-prompts.html",
+      "https://www.media.io/ai-prompts/gemini-ai-skateboard-portrait-prompts.html",
+      "https://www.media.io/ai-prompts/surreal-ai-desert-animation-prompts.html",
+      "https://www.media.io/ai-prompts/film-moodboard-video-prompts.html",
+      "https://www.media.io/ai-prompts/carpet-cleaning-time-lapse-video-prompts.html",
+      "https://www.media.io/ai-prompts/stick-figure-animation-prompts.html",
+      "https://www.media.io/ai-prompts/dreamlike-nighttime-animation-prompts.html",
+      "https://www.media.io/ai-prompts/roller-coaster-video-prompts.html",
+      "https://www.media.io/ai-prompts/dark-animation-video-prompts.html",
+      "https://www.media.io/ai-prompts/wes-anderson-style-video-prompts.html",
+      "https://www.media.io/ai-prompts/peel-off-mask-asmr-video-prompts.html",
+      "https://www.media.io/ai-prompts/cartoon-comedy-video-prompts.html",
+      "https://www.media.io/ai/explore/zone/neon-eyes-cinematic-ai-photo-prompts",
+      "https://www.media.io/ai/explore/zone/no-scrubs-ai-video-generator",
+      "https://www.media.io/ai/explore/zone/tiny-desk-ai-trend",
+      "https://www.media.io/ai/explore/zone/ballon-dor-ai-filter",
+      "https://www.media.io/ai/explore/zone/ak-creator-yt-ai-prompt",
+      "https://www.media.io/ai/explore/zone/instagram-reels-trends"
     ],
     "remakeyourmeme.com": [
       "https://remakeyourmeme.com",
@@ -11788,7 +11809,9 @@
       "https://www.getstarrd.app/template/money-flex-ai-video",
       "https://www.getstarrd.app/template/kung-fu-dog-vet-ai-video",
       "https://www.getstarrd.app/template/whats-up-in-a-minute-ai-video",
-      "https://www.getstarrd.app/template/i-thought-we-were-having-a-nice-date-ai-video"
+      "https://www.getstarrd.app/template/i-thought-we-were-having-a-nice-date-ai-video",
+      "https://www.getstarrd.app/blog/how-to-make-gangnam-style-ai-video",
+      "https://www.getstarrd.app/template/gangnam-style-ai-video"
     ],
     "www.capcut.com": [
       "https://www.capcut.com/template-detail/7613449947458981136",
@@ -12135,7 +12158,16 @@
       "https://www.capcut.com/template-detail/7590649367787261200",
       "https://www.capcut.com/template-detail/7493918549925203253",
       "https://www.capcut.com/template-detail/7583727312403860741",
-      "https://www.capcut.com/template-detail/7544763435276406069"
+      "https://www.capcut.com/template-detail/7544763435276406069",
+      "https://www.capcut.com/template-detail/7444126033852321045",
+      "https://www.capcut.com/template-detail/7533330731842522421",
+      "https://www.capcut.com/template-detail/7575464722389306629",
+      "https://www.capcut.com/template-detail/7639796622330776853",
+      "https://www.capcut.com/template-detail/7582856536771300613",
+      "https://www.capcut.com/template-detail/7533330731842522421",
+      "https://www.capcut.com/template-detail/7444126033852321045",
+      "https://www.capcut.com/template-detail/7575464722389306629",
+      "https://www.capcut.com/template-detail/7639796622330776853"
     ]
   },
   "entities": {
@@ -24320,6 +24352,11 @@
             "url": "https://www.media.io/ai-prompts/chatgpt-prompts-for-photos-with-deceased-pets.html",
             "title": "ChatGPT Prompts for Photos with Deceased Pets: 25 Ideas",
             "first_seen": "2026-10-28T12:00:36.022698+00:00"
+          },
+          {
+            "url": "https://www.media.io/ai-prompts/rainbow-bridge-pet-photo-prompts.html",
+            "title": "25+ Gemini and ChatGPT Rainbow Bridge Pet Photo Prompts & Memorial Portrait Ideas",
+            "first_seen": "2026-10-28T18:00:08.252675+00:00"
           }
         ]
       }
@@ -25550,6 +25587,11 @@
             "url": "https://www.media.io/ai-prompts/animal-pov-snowboard-selfies.html",
             "title": "Animal POV Snowboard Selfies (15+ Copy-Ready Prompts)",
             "first_seen": "2026-10-23T15:29:13.961703+00:00"
+          },
+          {
+            "url": "https://www.media.io/ai-prompts/peel-off-mask-asmr-video-prompts.html",
+            "title": "Peel Off Mask ASMR Video Prompts: 15 Copy-Ready Clips",
+            "first_seen": "2026-10-28T18:00:08.394090+00:00"
           }
         ]
       }
@@ -26186,6 +26228,11 @@
             "url": "https://www.media.io/ai-prompts/ai-vintage-botanical-animal-art-prompts.html",
             "title": "Gemini and ChatGPT AI Vintage Botanical Animal Art Prompts: Antique-Inspired Prints",
             "first_seen": "2026-10-23T15:45:19.440098+00:00"
+          },
+          {
+            "url": "https://www.media.io/ai-prompts/rainbow-bridge-pet-photo-prompts.html",
+            "title": "25+ Gemini and ChatGPT Rainbow Bridge Pet Photo Prompts & Memorial Portrait Ideas",
+            "first_seen": "2026-10-28T18:00:08.252550+00:00"
           }
         ]
       }
@@ -26282,6 +26329,11 @@
             "url": "https://www.media.io/ai-prompts/ai-vintage-botanical-animal-art-prompts.html",
             "title": "Gemini and ChatGPT AI Vintage Botanical Animal Art Prompts: Antique-Inspired Prints",
             "first_seen": "2026-10-23T15:45:19.440221+00:00"
+          },
+          {
+            "url": "https://www.media.io/ai-prompts/rainbow-bridge-pet-photo-prompts.html",
+            "title": "25+ Gemini and ChatGPT Rainbow Bridge Pet Photo Prompts & Memorial Portrait Ideas",
+            "first_seen": "2026-10-28T18:00:08.252589+00:00"
           }
         ]
       }
@@ -26623,6 +26675,11 @@
             "url": "https://www.media.io/ai-prompts/3d-emoji-animation.html",
             "title": "3D Emoji Animation (15+ Free, Copy-Ready Prompts)",
             "first_seen": "2026-10-23T15:45:19.673234+00:00"
+          },
+          {
+            "url": "https://www.media.io/ai-prompts/cartoon-comedy-video-prompts.html",
+            "title": "Cartoon Comedy Prompts: 15 Free Copy-Ready Gags",
+            "first_seen": "2026-10-28T18:00:08.416378+00:00"
           }
         ]
       }
@@ -29687,6 +29744,18 @@
             "url": "https://www.lightxeditor.com/blog/how-to-make-ai-gangnam-style-trend-video/",
             "title": "How to Make Gangnam Style Trend Video (Step by Step) | LightX",
             "first_seen": "2026-10-28T06:00:09.387227+00:00"
+          }
+        ],
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-gangnam-style-ai-video",
+            "title": "How to Make the Gangnam Style AI Video With 3 Friends (2026)",
+            "first_seen": "2026-10-28T18:00:10.014685+00:00"
+          },
+          {
+            "url": "https://www.getstarrd.app/template/gangnam-style-ai-video",
+            "title": "Gangnam Style — AI Video Template | Starrd",
+            "first_seen": "2026-10-28T18:00:10.239139+00:00"
           }
         ]
       }
@@ -33777,6 +33846,13 @@
             "url": "https://www.lightxeditor.com/blog/blog-how-to-make-outstanding-tiny-desk-ai-video/",
             "title": "How to Make Outstanding Tiny Desk AI Video | LightX",
             "first_seen": "2026-10-28T06:00:09.872841+00:00"
+          }
+        ],
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/tiny-desk-ai-trend",
+            "title": "Tiny Desk AI Trend – AI Concert Video Generator from Photo",
+            "first_seen": "2026-10-28T18:00:08.620351+00:00"
           }
         ]
       }
@@ -39227,6 +39303,911 @@
             "url": "https://www.media.io/ai/explore/zone/bestie-love-options-ai-dance-generator",
             "title": "Love Options AI Dance Generator | BESTie Dance Challenge | Media.io",
             "first_seen": "2026-10-28T12:00:37.137386+00:00"
+          }
+        ]
+      }
+    },
+    "king troll": {
+      "first_seen": "2026-10-28T18:00:08.173002+00:00",
+      "domains": {
+        "www.capcut.com": [
+          {
+            "url": "https://www.capcut.com/template-detail/7444126033852321045",
+            "title": "King Troll Template",
+            "first_seen": "2026-10-28T18:00:08.173002+00:00"
+          }
+        ]
+      }
+    },
+    "speedramp shake": {
+      "first_seen": "2026-10-28T18:00:08.173310+00:00",
+      "domains": {
+        "www.capcut.com": [
+          {
+            "url": "https://www.capcut.com/template-detail/7575464722389306629",
+            "title": "Speedramp+Shake",
+            "first_seen": "2026-10-28T18:00:08.173310+00:00"
+          }
+        ]
+      }
+    },
+    "popo hrtz": {
+      "first_seen": "2026-10-28T18:00:08.173362+00:00",
+      "domains": {
+        "www.capcut.com": [
+          {
+            "url": "https://www.capcut.com/template-detail/7575464722389306629",
+            "title": "Speedramp+Shake",
+            "first_seen": "2026-10-28T18:00:08.173362+00:00"
+          }
+        ]
+      }
+    },
+    "gpt rainbow": {
+      "first_seen": "2026-10-28T18:00:08.252499+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/rainbow-bridge-pet-photo-prompts.html",
+            "title": "25+ Gemini and ChatGPT Rainbow Bridge Pet Photo Prompts & Memorial Portrait Ideas",
+            "first_seen": "2026-10-28T18:00:08.252499+00:00"
+          }
+        ]
+      }
+    },
+    "memorial portrait ideas": {
+      "first_seen": "2026-10-28T18:00:08.252571+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/rainbow-bridge-pet-photo-prompts.html",
+            "title": "25+ Gemini and ChatGPT Rainbow Bridge Pet Photo Prompts & Memorial Portrait Ideas",
+            "first_seen": "2026-10-28T18:00:08.252571+00:00"
+          }
+        ]
+      }
+    },
+    "chat gpt rainbow bridge": {
+      "first_seen": "2026-10-28T18:00:08.252606+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/rainbow-bridge-pet-photo-prompts.html",
+            "title": "25+ Gemini and ChatGPT Rainbow Bridge Pet Photo Prompts & Memorial Portrait Ideas",
+            "first_seen": "2026-10-28T18:00:08.252606+00:00"
+          }
+        ]
+      }
+    },
+    "chat gpt rainbow": {
+      "first_seen": "2026-10-28T18:00:08.252620+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/rainbow-bridge-pet-photo-prompts.html",
+            "title": "25+ Gemini and ChatGPT Rainbow Bridge Pet Photo Prompts & Memorial Portrait Ideas",
+            "first_seen": "2026-10-28T18:00:08.252620+00:00"
+          }
+        ]
+      }
+    },
+    "25 gemini": {
+      "first_seen": "2026-10-28T18:00:08.252634+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/rainbow-bridge-pet-photo-prompts.html",
+            "title": "25+ Gemini and ChatGPT Rainbow Bridge Pet Photo Prompts & Memorial Portrait Ideas",
+            "first_seen": "2026-10-28T18:00:08.252634+00:00"
+          },
+          {
+            "url": "https://www.media.io/ai-prompts/gemini-ai-skateboard-portrait-prompts.html",
+            "title": "25 Gemini AI Skateboard Portrait Prompts for Cool Action",
+            "first_seen": "2026-10-28T18:00:08.274912+00:00"
+          }
+        ]
+      }
+    },
+    "portrait ideas": {
+      "first_seen": "2026-10-28T18:00:08.252649+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/rainbow-bridge-pet-photo-prompts.html",
+            "title": "25+ Gemini and ChatGPT Rainbow Bridge Pet Photo Prompts & Memorial Portrait Ideas",
+            "first_seen": "2026-10-28T18:00:08.252649+00:00"
+          }
+        ]
+      }
+    },
+    "memorial portrait": {
+      "first_seen": "2026-10-28T18:00:08.252662+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/rainbow-bridge-pet-photo-prompts.html",
+            "title": "25+ Gemini and ChatGPT Rainbow Bridge Pet Photo Prompts & Memorial Portrait Ideas",
+            "first_seen": "2026-10-28T18:00:08.252662+00:00"
+          }
+        ]
+      }
+    },
+    "25 gemini and chat": {
+      "first_seen": "2026-10-28T18:00:08.252692+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/rainbow-bridge-pet-photo-prompts.html",
+            "title": "25+ Gemini and ChatGPT Rainbow Bridge Pet Photo Prompts & Memorial Portrait Ideas",
+            "first_seen": "2026-10-28T18:00:08.252692+00:00"
+          }
+        ]
+      }
+    },
+    "rainbow bridge": {
+      "first_seen": "2026-10-28T18:00:08.252703+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/rainbow-bridge-pet-photo-prompts.html",
+            "title": "25+ Gemini and ChatGPT Rainbow Bridge Pet Photo Prompts & Memorial Portrait Ideas",
+            "first_seen": "2026-10-28T18:00:08.252703+00:00"
+          }
+        ]
+      }
+    },
+    "gpt rainbow bridge": {
+      "first_seen": "2026-10-28T18:00:08.252714+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/rainbow-bridge-pet-photo-prompts.html",
+            "title": "25+ Gemini and ChatGPT Rainbow Bridge Pet Photo Prompts & Memorial Portrait Ideas",
+            "first_seen": "2026-10-28T18:00:08.252714+00:00"
+          }
+        ]
+      }
+    },
+    "comedy video prompts copy": {
+      "first_seen": "2026-10-28T18:00:08.265954+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/animal-comedy-video-prompts.html",
+            "title": "Free Animal Comedy Video Prompts: Copy-Ready Skits",
+            "first_seen": "2026-10-28T18:00:08.265954+00:00"
+          }
+        ]
+      }
+    },
+    "animal comedy": {
+      "first_seen": "2026-10-28T18:00:08.265985+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/animal-comedy-video-prompts.html",
+            "title": "Free Animal Comedy Video Prompts: Copy-Ready Skits",
+            "first_seen": "2026-10-28T18:00:08.265985+00:00"
+          }
+        ]
+      }
+    },
+    "15 free ideas": {
+      "first_seen": "2026-10-28T18:00:08.274663+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/educational-instagram-reels-prompts.html",
+            "title": "Educational Instagram Reels Prompts, 15 Free Ideas",
+            "first_seen": "2026-10-28T18:00:08.274663+00:00"
+          }
+        ]
+      }
+    },
+    "gemini ai skateboard portrait": {
+      "first_seen": "2026-10-28T18:00:08.274848+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/gemini-ai-skateboard-portrait-prompts.html",
+            "title": "25 Gemini AI Skateboard Portrait Prompts for Cool Action",
+            "first_seen": "2026-10-28T18:00:08.274848+00:00"
+          }
+        ]
+      }
+    },
+    "skateboard portrait": {
+      "first_seen": "2026-10-28T18:00:08.274868+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/gemini-ai-skateboard-portrait-prompts.html",
+            "title": "25 Gemini AI Skateboard Portrait Prompts for Cool Action",
+            "first_seen": "2026-10-28T18:00:08.274868+00:00"
+          }
+        ]
+      }
+    },
+    "gemini ai skateboard": {
+      "first_seen": "2026-10-28T18:00:08.274884+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/gemini-ai-skateboard-portrait-prompts.html",
+            "title": "25 Gemini AI Skateboard Portrait Prompts for Cool Action",
+            "first_seen": "2026-10-28T18:00:08.274884+00:00"
+          }
+        ]
+      }
+    },
+    "portrait prompts for cool": {
+      "first_seen": "2026-10-28T18:00:08.274899+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/gemini-ai-skateboard-portrait-prompts.html",
+            "title": "25 Gemini AI Skateboard Portrait Prompts for Cool Action",
+            "first_seen": "2026-10-28T18:00:08.274899+00:00"
+          }
+        ]
+      }
+    },
+    "cool action": {
+      "first_seen": "2026-10-28T18:00:08.274921+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/gemini-ai-skateboard-portrait-prompts.html",
+            "title": "25 Gemini AI Skateboard Portrait Prompts for Cool Action",
+            "first_seen": "2026-10-28T18:00:08.274921+00:00"
+          }
+        ]
+      }
+    },
+    "25 gemini ai skateboard": {
+      "first_seen": "2026-10-28T18:00:08.274927+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/gemini-ai-skateboard-portrait-prompts.html",
+            "title": "25 Gemini AI Skateboard Portrait Prompts for Cool Action",
+            "first_seen": "2026-10-28T18:00:08.274927+00:00"
+          }
+        ]
+      }
+    },
+    "desert animation": {
+      "first_seen": "2026-10-28T18:00:08.322524+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/surreal-ai-desert-animation-prompts.html",
+            "title": "Surreal AI Desert Animation Prompts: A Free Set",
+            "first_seen": "2026-10-28T18:00:08.322524+00:00"
+          }
+        ]
+      }
+    },
+    "surreal ai desert": {
+      "first_seen": "2026-10-28T18:00:08.322555+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/surreal-ai-desert-animation-prompts.html",
+            "title": "Surreal AI Desert Animation Prompts: A Free Set",
+            "first_seen": "2026-10-28T18:00:08.322555+00:00"
+          }
+        ]
+      }
+    },
+    "surreal ai desert animation": {
+      "first_seen": "2026-10-28T18:00:08.322610+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/surreal-ai-desert-animation-prompts.html",
+            "title": "Surreal AI Desert Animation Prompts: A Free Set",
+            "first_seen": "2026-10-28T18:00:08.322610+00:00"
+          }
+        ]
+      }
+    },
+    "film moodboard": {
+      "first_seen": "2026-10-28T18:00:08.325779+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/film-moodboard-video-prompts.html",
+            "title": "20 Film Moodboard Video Prompts, All Free",
+            "first_seen": "2026-10-28T18:00:08.325779+00:00"
+          }
+        ]
+      }
+    },
+    "20 film moodboard": {
+      "first_seen": "2026-10-28T18:00:08.325804+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/film-moodboard-video-prompts.html",
+            "title": "20 Film Moodboard Video Prompts, All Free",
+            "first_seen": "2026-10-28T18:00:08.325804+00:00"
+          }
+        ]
+      }
+    },
+    "20 film": {
+      "first_seen": "2026-10-28T18:00:08.325813+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/film-moodboard-video-prompts.html",
+            "title": "20 Film Moodboard Video Prompts, All Free",
+            "first_seen": "2026-10-28T18:00:08.325813+00:00"
+          }
+        ]
+      }
+    },
+    "carpet cleaning time lapse": {
+      "first_seen": "2026-10-28T18:00:08.353009+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/carpet-cleaning-time-lapse-video-prompts.html",
+            "title": "Carpet Cleaning Time Lapse Prompts - Ready to Paste",
+            "first_seen": "2026-10-28T18:00:08.353009+00:00"
+          }
+        ]
+      }
+    },
+    "carpet cleaning": {
+      "first_seen": "2026-10-28T18:00:08.353042+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/carpet-cleaning-time-lapse-video-prompts.html",
+            "title": "Carpet Cleaning Time Lapse Prompts - Ready to Paste",
+            "first_seen": "2026-10-28T18:00:08.353042+00:00"
+          }
+        ]
+      }
+    },
+    "cleaning time lapse": {
+      "first_seen": "2026-10-28T18:00:08.353050+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/carpet-cleaning-time-lapse-video-prompts.html",
+            "title": "Carpet Cleaning Time Lapse Prompts - Ready to Paste",
+            "first_seen": "2026-10-28T18:00:08.353050+00:00"
+          }
+        ]
+      }
+    },
+    "stick figure": {
+      "first_seen": "2026-10-28T18:00:08.364475+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/stick-figure-animation-prompts.html",
+            "title": "Free Stick Figure Animation Prompts to Paste and Render",
+            "first_seen": "2026-10-28T18:00:08.364475+00:00"
+          }
+        ]
+      }
+    },
+    "animation prompts to paste": {
+      "first_seen": "2026-10-28T18:00:08.364504+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/stick-figure-animation-prompts.html",
+            "title": "Free Stick Figure Animation Prompts to Paste and Render",
+            "first_seen": "2026-10-28T18:00:08.364504+00:00"
+          }
+        ]
+      }
+    },
+    "paste and render": {
+      "first_seen": "2026-10-28T18:00:08.364512+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/stick-figure-animation-prompts.html",
+            "title": "Free Stick Figure Animation Prompts to Paste and Render",
+            "first_seen": "2026-10-28T18:00:08.364512+00:00"
+          }
+        ]
+      }
+    },
+    "stick figure animation": {
+      "first_seen": "2026-10-28T18:00:08.364520+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/stick-figure-animation-prompts.html",
+            "title": "Free Stick Figure Animation Prompts to Paste and Render",
+            "first_seen": "2026-10-28T18:00:08.364520+00:00"
+          }
+        ]
+      }
+    },
+    "figure animation": {
+      "first_seen": "2026-10-28T18:00:08.364527+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/stick-figure-animation-prompts.html",
+            "title": "Free Stick Figure Animation Prompts to Paste and Render",
+            "first_seen": "2026-10-28T18:00:08.364527+00:00"
+          }
+        ]
+      }
+    },
+    "dreamlike nighttime animation": {
+      "first_seen": "2026-10-28T18:00:08.364651+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/dreamlike-nighttime-animation-prompts.html",
+            "title": "Dreamlike Nighttime Animation Prompts You Can Copy Free",
+            "first_seen": "2026-10-28T18:00:08.364651+00:00"
+          }
+        ]
+      }
+    },
+    "dreamlike nighttime": {
+      "first_seen": "2026-10-28T18:00:08.364663+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/dreamlike-nighttime-animation-prompts.html",
+            "title": "Dreamlike Nighttime Animation Prompts You Can Copy Free",
+            "first_seen": "2026-10-28T18:00:08.364663+00:00"
+          }
+        ]
+      }
+    },
+    "nighttime animation": {
+      "first_seen": "2026-10-28T18:00:08.364671+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/dreamlike-nighttime-animation-prompts.html",
+            "title": "Dreamlike Nighttime Animation Prompts You Can Copy Free",
+            "first_seen": "2026-10-28T18:00:08.364671+00:00"
+          }
+        ]
+      }
+    },
+    "roller coaster": {
+      "first_seen": "2026-10-28T18:00:08.367885+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/roller-coaster-video-prompts.html",
+            "title": "Copy-Ready Roller Coaster Video Prompts: 15 Free",
+            "first_seen": "2026-10-28T18:00:08.367885+00:00"
+          }
+        ]
+      }
+    },
+    "dark animation": {
+      "first_seen": "2026-10-28T18:00:08.393475+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/dark-animation-video-prompts.html",
+            "title": "Ready-to-Paste Dark Animation Prompts: 15 Gothic Ideas",
+            "first_seen": "2026-10-28T18:00:08.393475+00:00"
+          }
+        ]
+      }
+    },
+    "style prompts 15": {
+      "first_seen": "2026-10-28T18:00:08.393708+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/wes-anderson-style-video-prompts.html",
+            "title": "Wes Anderson Style Prompts: 15 Symmetrical Free Ideas",
+            "first_seen": "2026-10-28T18:00:08.393708+00:00"
+          }
+        ]
+      }
+    },
+    "anderson style": {
+      "first_seen": "2026-10-28T18:00:08.393723+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/wes-anderson-style-video-prompts.html",
+            "title": "Wes Anderson Style Prompts: 15 Symmetrical Free Ideas",
+            "first_seen": "2026-10-28T18:00:08.393723+00:00"
+          }
+        ]
+      }
+    },
+    "wes anderson": {
+      "first_seen": "2026-10-28T18:00:08.393731+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/wes-anderson-style-video-prompts.html",
+            "title": "Wes Anderson Style Prompts: 15 Symmetrical Free Ideas",
+            "first_seen": "2026-10-28T18:00:08.393731+00:00"
+          }
+        ]
+      }
+    },
+    "symmetrical free ideas": {
+      "first_seen": "2026-10-28T18:00:08.393739+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/wes-anderson-style-video-prompts.html",
+            "title": "Wes Anderson Style Prompts: 15 Symmetrical Free Ideas",
+            "first_seen": "2026-10-28T18:00:08.393739+00:00"
+          }
+        ]
+      }
+    },
+    "15 symmetrical free ideas": {
+      "first_seen": "2026-10-28T18:00:08.393745+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/wes-anderson-style-video-prompts.html",
+            "title": "Wes Anderson Style Prompts: 15 Symmetrical Free Ideas",
+            "first_seen": "2026-10-28T18:00:08.393745+00:00"
+          }
+        ]
+      }
+    },
+    "style prompts 15 symmetrical": {
+      "first_seen": "2026-10-28T18:00:08.393751+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/wes-anderson-style-video-prompts.html",
+            "title": "Wes Anderson Style Prompts: 15 Symmetrical Free Ideas",
+            "first_seen": "2026-10-28T18:00:08.393751+00:00"
+          }
+        ]
+      }
+    },
+    "15 symmetrical": {
+      "first_seen": "2026-10-28T18:00:08.393757+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/wes-anderson-style-video-prompts.html",
+            "title": "Wes Anderson Style Prompts: 15 Symmetrical Free Ideas",
+            "first_seen": "2026-10-28T18:00:08.393757+00:00"
+          }
+        ]
+      }
+    },
+    "wes anderson style": {
+      "first_seen": "2026-10-28T18:00:08.393764+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/wes-anderson-style-video-prompts.html",
+            "title": "Wes Anderson Style Prompts: 15 Symmetrical Free Ideas",
+            "first_seen": "2026-10-28T18:00:08.393764+00:00"
+          }
+        ]
+      }
+    },
+    "anderson style prompts 15": {
+      "first_seen": "2026-10-28T18:00:08.393777+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/wes-anderson-style-video-prompts.html",
+            "title": "Wes Anderson Style Prompts: 15 Symmetrical Free Ideas",
+            "first_seen": "2026-10-28T18:00:08.393777+00:00"
+          }
+        ]
+      }
+    },
+    "asmr video prompts 15": {
+      "first_seen": "2026-10-28T18:00:08.394040+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/peel-off-mask-asmr-video-prompts.html",
+            "title": "Peel Off Mask ASMR Video Prompts: 15 Copy-Ready Clips",
+            "first_seen": "2026-10-28T18:00:08.394040+00:00"
+          }
+        ]
+      }
+    },
+    "peel off mask": {
+      "first_seen": "2026-10-28T18:00:08.394062+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/peel-off-mask-asmr-video-prompts.html",
+            "title": "Peel Off Mask ASMR Video Prompts: 15 Copy-Ready Clips",
+            "first_seen": "2026-10-28T18:00:08.394062+00:00"
+          }
+        ]
+      }
+    },
+    "mask asmr": {
+      "first_seen": "2026-10-28T18:00:08.394077+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/peel-off-mask-asmr-video-prompts.html",
+            "title": "Peel Off Mask ASMR Video Prompts: 15 Copy-Ready Clips",
+            "first_seen": "2026-10-28T18:00:08.394077+00:00"
+          }
+        ]
+      }
+    },
+    "peel off mask asmr": {
+      "first_seen": "2026-10-28T18:00:08.394103+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/peel-off-mask-asmr-video-prompts.html",
+            "title": "Peel Off Mask ASMR Video Prompts: 15 Copy-Ready Clips",
+            "first_seen": "2026-10-28T18:00:08.394103+00:00"
+          }
+        ]
+      }
+    },
+    "comedy prompts 15": {
+      "first_seen": "2026-10-28T18:00:08.416421+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/cartoon-comedy-video-prompts.html",
+            "title": "Cartoon Comedy Prompts: 15 Free Copy-Ready Gags",
+            "first_seen": "2026-10-28T18:00:08.416421+00:00"
+          }
+        ]
+      }
+    },
+    "cartoon comedy": {
+      "first_seen": "2026-10-28T18:00:08.416433+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/cartoon-comedy-video-prompts.html",
+            "title": "Cartoon Comedy Prompts: 15 Free Copy-Ready Gags",
+            "first_seen": "2026-10-28T18:00:08.416433+00:00"
+          }
+        ]
+      }
+    },
+    "cartoon comedy prompts 15": {
+      "first_seen": "2026-10-28T18:00:08.416440+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/cartoon-comedy-video-prompts.html",
+            "title": "Cartoon Comedy Prompts: 15 Free Copy-Ready Gags",
+            "first_seen": "2026-10-28T18:00:08.416440+00:00"
+          }
+        ]
+      }
+    },
+    "neon eyes": {
+      "first_seen": "2026-10-28T18:00:08.617221+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/neon-eyes-cinematic-ai-photo-prompts",
+            "title": "Viral Close-Up Neon Eyes Cinematic AI Photo Editing Prompts for Gemini & ChatGPT | Media.io",
+            "first_seen": "2026-10-28T18:00:08.617221+00:00"
+          }
+        ]
+      }
+    },
+    "eyes cinematic": {
+      "first_seen": "2026-10-28T18:00:08.617258+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/neon-eyes-cinematic-ai-photo-prompts",
+            "title": "Viral Close-Up Neon Eyes Cinematic AI Photo Editing Prompts for Gemini & ChatGPT | Media.io",
+            "first_seen": "2026-10-28T18:00:08.617258+00:00"
+          }
+        ]
+      }
+    },
+    "neon eyes cinematic": {
+      "first_seen": "2026-10-28T18:00:08.617269+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/neon-eyes-cinematic-ai-photo-prompts",
+            "title": "Viral Close-Up Neon Eyes Cinematic AI Photo Editing Prompts for Gemini & ChatGPT | Media.io",
+            "first_seen": "2026-10-28T18:00:08.617269+00:00"
+          }
+        ]
+      }
+    },
+    "ballon d": {
+      "first_seen": "2026-10-28T18:00:08.671710+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/ballon-dor-ai-filter",
+            "title": "Ballon d’Or AI Filter – Golden Ball Prank Video | Media.io",
+            "first_seen": "2026-10-28T18:00:08.671710+00:00"
+          }
+        ]
+      }
+    },
+    "ballon dor": {
+      "first_seen": "2026-10-28T18:00:08.671745+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/ballon-dor-ai-filter",
+            "title": "Ballon d’Or AI Filter – Golden Ball Prank Video | Media.io",
+            "first_seen": "2026-10-28T18:00:08.671745+00:00"
+          }
+        ]
+      }
+    },
+    "editing styles for boys": {
+      "first_seen": "2026-10-28T18:00:08.679834+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/ak-creator-yt-ai-prompt",
+            "title": "Trending AK Creator YT AI Photo Editing Styles for Boys & Girls | Media.io",
+            "first_seen": "2026-10-28T18:00:08.679834+00:00"
+          }
+        ]
+      }
+    },
+    "boys girls": {
+      "first_seen": "2026-10-28T18:00:08.679871+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/ak-creator-yt-ai-prompt",
+            "title": "Trending AK Creator YT AI Photo Editing Styles for Boys & Girls | Media.io",
+            "first_seen": "2026-10-28T18:00:08.679871+00:00"
+          }
+        ]
+      }
+    },
+    "editing styles": {
+      "first_seen": "2026-10-28T18:00:08.679881+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/ak-creator-yt-ai-prompt",
+            "title": "Trending AK Creator YT AI Photo Editing Styles for Boys & Girls | Media.io",
+            "first_seen": "2026-10-28T18:00:08.679881+00:00"
+          }
+        ]
+      }
+    },
+    "styles for boys": {
+      "first_seen": "2026-10-28T18:00:08.679895+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/ak-creator-yt-ai-prompt",
+            "title": "Trending AK Creator YT AI Photo Editing Styles for Boys & Girls | Media.io",
+            "first_seen": "2026-10-28T18:00:08.679895+00:00"
+          }
+        ]
+      }
+    },
+    "yt ai photo editing": {
+      "first_seen": "2026-10-28T18:00:08.679908+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/ak-creator-yt-ai-prompt",
+            "title": "Trending AK Creator YT AI Photo Editing Styles for Boys & Girls | Media.io",
+            "first_seen": "2026-10-28T18:00:08.679908+00:00"
+          }
+        ]
+      }
+    },
+    "ak creator yt": {
+      "first_seen": "2026-10-28T18:00:08.679922+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/ak-creator-yt-ai-prompt",
+            "title": "Trending AK Creator YT AI Photo Editing Styles for Boys & Girls | Media.io",
+            "first_seen": "2026-10-28T18:00:08.679922+00:00"
+          }
+        ]
+      }
+    },
+    "styles for boys girls": {
+      "first_seen": "2026-10-28T18:00:08.679934+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/ak-creator-yt-ai-prompt",
+            "title": "Trending AK Creator YT AI Photo Editing Styles for Boys & Girls | Media.io",
+            "first_seen": "2026-10-28T18:00:08.679934+00:00"
+          }
+        ]
+      }
+    },
+    "krueger cancelled": {
+      "first_seen": "2026-10-28T18:00:09.088622+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/freddy-krueger-cancelled",
+            "title": "Freddy Krueger Cancelled | Know Your Meme",
+            "first_seen": "2026-10-28T18:00:09.088622+00:00"
+          }
+        ]
+      }
+    },
+    "freddy krueger": {
+      "first_seen": "2026-10-28T18:00:09.088667+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/freddy-krueger-cancelled",
+            "title": "Freddy Krueger Cancelled | Know Your Meme",
+            "first_seen": "2026-10-28T18:00:09.088667+00:00"
+          }
+        ]
+      }
+    },
+    "freddy krueger cancelled": {
+      "first_seen": "2026-10-28T18:00:09.088676+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/freddy-krueger-cancelled",
+            "title": "Freddy Krueger Cancelled | Know Your Meme",
+            "first_seen": "2026-10-28T18:00:09.088676+00:00"
+          }
+        ]
+      }
+    },
+    "friends 2026": {
+      "first_seen": "2026-10-28T18:00:10.014601+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-gangnam-style-ai-video",
+            "title": "How to Make the Gangnam Style AI Video With 3 Friends (2026)",
+            "first_seen": "2026-10-28T18:00:10.014601+00:00"
+          }
+        ]
+      }
+    },
+    "3 friends 2026": {
+      "first_seen": "2026-10-28T18:00:10.014656+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-gangnam-style-ai-video",
+            "title": "How to Make the Gangnam Style AI Video With 3 Friends (2026)",
+            "first_seen": "2026-10-28T18:00:10.014656+00:00"
+          }
+        ]
+      }
+    },
+    "3 friends": {
+      "first_seen": "2026-10-28T18:00:10.014671+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-gangnam-style-ai-video",
+            "title": "How to Make the Gangnam Style AI Video With 3 Friends (2026)",
+            "first_seen": "2026-10-28T18:00:10.014671+00:00"
           }
         ]
       }
