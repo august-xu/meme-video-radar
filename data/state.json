@@ -1,6 +1,6 @@
 {
-  "last_run_timestamp": "2026-10-27T18:00:17.321162+00:00",
-  "total_urls_seen": 12003,
+  "last_run_timestamp": "2026-10-28T00:00:16.233103+00:00",
+  "total_urls_seen": 12038,
   "seen_urls": {
     "knowyourmeme.com": [
       "https://knowyourmeme.com/memes/yohohoho-binkusuno-sake-by-ado",
@@ -63,7 +63,10 @@
       "https://knowyourmeme.com/memes/tesla-roadster-flip",
       "https://knowyourmeme.com/sensitive/memes/guy-shooting-himself-with-a-shotgun",
       "https://knowyourmeme.com/memes/events/ethan-klein-cheating-controversy-h3-affair-scandal",
-      "https://knowyourmeme.com/memes/tesla-roadster-flip-flying-tesla-car"
+      "https://knowyourmeme.com/memes/tesla-roadster-flip-flying-tesla-car",
+      "https://knowyourmeme.com/memes/then-i-walk-in",
+      "https://knowyourmeme.com/memes/didy",
+      "https://knowyourmeme.com/memes/skull-cap-trend"
     ],
     "aptvideoai.com": [
       "https://aptvideoai.com",
@@ -593,7 +596,27 @@
       "https://maketrendai.com/middle-finger-dunk-ai",
       "https://maketrendai.com/im-so-sorry-i-lied-ai",
       "https://maketrendai.com/bad-times-trend-two-dogs",
-      "https://maketrendai.com/dont-call-me-lip-sync-ai"
+      "https://maketrendai.com/dont-call-me-lip-sync-ai",
+      "https://maketrendai.com/blog/how-to-make-bulin-47-ai-video",
+      "https://maketrendai.com/blog/how-to-make-bulin-47-baby-dance-video",
+      "https://maketrendai.com/blog/how-to-make-coldplay-kiss-cam-ai-video",
+      "https://maketrendai.com/blog/how-to-make-bad-times-toddler-video",
+      "https://maketrendai.com/blog/best-coldplay-kiss-cam-ai-video-generators",
+      "https://maketrendai.com/blog/best-devil-wears-prada-ai-video-generators",
+      "https://maketrendai.com/blog/how-to-make-gas-station-dance-ai-video",
+      "https://maketrendai.com/blog/how-to-make-bad-times-dog-video",
+      "https://maketrendai.com/blog/how-to-make-dime-dime-baby-ai-video",
+      "https://maketrendai.com/blog/how-to-make-can-i-ride-dance-ai-video",
+      "https://maketrendai.com/blog/how-to-make-ba-ba-ba-dance-ai-video",
+      "https://maketrendai.com/blog/ba-ba-ba-dance-trend",
+      "https://maketrendai.com/blog/how-to-make-devil-wears-prada-ai-video",
+      "https://maketrendai.com/blog/how-to-make-middle-finger-dunk-ai-video",
+      "https://maketrendai.com/blog/ai-pet-video-trends",
+      "https://maketrendai.com/blog/best-ai-baby-dance-video-generators",
+      "https://maketrendai.com/blog/how-to-make-charme-dance-ai-video",
+      "https://maketrendai.com/blog/best-ramalama-ai-video-generators",
+      "https://maketrendai.com/blog/capcut-templates-vs-ai-trend-videos",
+      "https://maketrendai.com/blog/can-i-ride-dance-trend"
     ],
     "tryalorsondanse.video": [
       "https://tryalorsondanse.video",
@@ -12021,7 +12044,19 @@
       "https://www.capcut.com/template-detail/7576228420338699521",
       "https://www.capcut.com/template-detail/7493918549925203253",
       "https://www.capcut.com/template-detail/7623819239924698384",
-      "https://www.capcut.com/template-detail/7368372792443686160"
+      "https://www.capcut.com/template-detail/7368372792443686160",
+      "https://www.capcut.com/template-detail/7479664400392080693",
+      "https://www.capcut.com/template-detail/7411527335012240648",
+      "https://www.capcut.com/template-detail/7564743649842744581",
+      "https://www.capcut.com/template-detail/7583727312403860741",
+      "https://www.capcut.com/template-detail/7413242495188110598",
+      "https://www.capcut.com/template-detail/7481823210971876613",
+      "https://www.capcut.com/template-detail/7479664400392080693",
+      "https://www.capcut.com/template-detail/7564743649842744581",
+      "https://www.capcut.com/template-detail/7411527335012240648",
+      "https://www.capcut.com/template-detail/7583727312403860741",
+      "https://www.capcut.com/template-detail/7413242495188110598",
+      "https://www.capcut.com/template-detail/7481823210971876613"
     ]
   },
   "entities": {
@@ -16716,6 +16751,16 @@
             "url": "https://maketrendai.com/can-i-ride-dance-ai",
             "title": "Can I Ride Dance AI — Do the Viral Two-Person Dance From Two Photos",
             "first_seen": "2026-10-27T18:00:10.298990+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/how-to-make-can-i-ride-dance-ai-video",
+            "title": "How to Make the Can I Ride Dance AI Video: The Viral Two-Person Dance From Two Photos | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:09.815394+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/can-i-ride-dance-trend",
+            "title": "Can I Ride Dance: The Song, the Steps and How the TikTok Trend Started | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:11.017848+00:00"
           }
         ]
       }
@@ -16990,6 +17035,11 @@
             "url": "https://aptvideoai.com/blog/can-i-ride-dance-trend",
             "title": "Can I Ride Dance: The Song, the Steps and How the TikTok Trend Started | apt video ai",
             "first_seen": "2026-10-23T05:20:37.180529+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/can-i-ride-dance-trend",
+            "title": "Can I Ride Dance: The Song, the Steps and How the TikTok Trend Started | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:11.017779+00:00"
           }
         ]
       }
@@ -17014,6 +17064,11 @@
             "url": "https://aptvideoai.com/blog/can-i-ride-dance-trend",
             "title": "Can I Ride Dance: The Song, the Steps and How the TikTok Trend Started | apt video ai",
             "first_seen": "2026-10-23T05:20:37.180561+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/can-i-ride-dance-trend",
+            "title": "Can I Ride Dance: The Song, the Steps and How the TikTok Trend Started | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:11.017838+00:00"
           }
         ]
       }
@@ -18433,6 +18488,11 @@
             "url": "https://maketrendai.com/dime-dime-baby-ai",
             "title": "Dime Dime Baby AI — Be the BbY WOW Guy, From One Photo",
             "first_seen": "2026-10-27T18:00:09.739519+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/how-to-make-dime-dime-baby-ai-video",
+            "title": "How to Make the Dime Dime Baby AI Video: Be the BbY WOW Guy From One Photo | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:09.742285+00:00"
           }
         ]
       }
@@ -21183,6 +21243,16 @@
             "url": "https://maketrendai.com/bad-times-trend-two-dogs",
             "title": "Bad Times Trend Two Dogs AI Video — One Argues, One Watches",
             "first_seen": "2026-10-27T18:00:11.634889+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/how-to-make-bad-times-toddler-video",
+            "title": "How to Make the Bad Times Trend Toddler Video From a Photo of Your Child | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:09.284306+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/how-to-make-bad-times-dog-video",
+            "title": "How to Make the Bad Times Trend With Your Dog or Cat (From One Photo) | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:09.684138+00:00"
           }
         ]
       }
@@ -26564,6 +26634,11 @@
             "url": "https://www.capcut.com/template-detail/7554031931780894013",
             "title": "Expensive Template",
             "first_seen": "2026-10-23T16:41:19.625015+00:00"
+          },
+          {
+            "url": "https://www.capcut.com/template-detail/7479664400392080693",
+            "title": "Ical CapCut Template",
+            "first_seen": "2026-10-28T00:00:08.406438+00:00"
           }
         ],
         "remakeyourmeme.com": [
@@ -26583,6 +26658,16 @@
             "url": "https://maketrendai.com/blog/best-ozil-ai-goal-video-generators",
             "title": "Ozil AI Goal: CapCut Template vs Dreamina vs 4 AI Generators Compared (2026) | MakeTrend AI",
             "first_seen": "2026-10-27T12:00:08.069169+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/best-coldplay-kiss-cam-ai-video-generators",
+            "title": "Coldplay Kiss Cam AI Generators (2026): CapCut Template vs Kavel vs MakeViral vs MakeTrend AI | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:09.377541+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/capcut-templates-vs-ai-trend-videos",
+            "title": "CapCut Templates vs AI Trend Videos: When a Template Isn't Enough (2026) | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:10.936226+00:00"
           }
         ]
       }
@@ -26981,6 +27066,11 @@
             "url": "https://maketrendai.com/middle-finger-dunk-ai",
             "title": "Middle Finger Dunk AI — The 1v1 Dunk Trend From Your Photos",
             "first_seen": "2026-10-27T18:00:11.207162+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/how-to-make-middle-finger-dunk-ai-video",
+            "title": "How to Make the Middle Finger Dunk AI Video (My Prime 1v1): Dunk on Your Friend From Two Photos | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:10.252004+00:00"
           }
         ],
         "remakeyourmeme.com": [
@@ -27051,6 +27141,11 @@
             "url": "https://aptvideoai.com/blog/how-to-make-middle-finger-dunk-ai-video",
             "title": "How to Make the Middle Finger Dunk AI Video (My Prime 1v1): Dunk on Your Friend From Two Photos | apt video ai",
             "first_seen": "2026-10-25T18:00:07.772595+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/how-to-make-middle-finger-dunk-ai-video",
+            "title": "How to Make the Middle Finger Dunk AI Video (My Prime 1v1): Dunk on Your Friend From Two Photos | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:10.251991+00:00"
           }
         ],
         "remakeyourmeme.com": [
@@ -27132,6 +27227,11 @@
             "url": "https://maketrendai.com/middle-finger-dunk-ai",
             "title": "Middle Finger Dunk AI — The 1v1 Dunk Trend From Your Photos",
             "first_seen": "2026-10-27T18:00:11.207091+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/how-to-make-middle-finger-dunk-ai-video",
+            "title": "How to Make the Middle Finger Dunk AI Video (My Prime 1v1): Dunk on Your Friend From Two Photos | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:10.251932+00:00"
           }
         ],
         "remakeyourmeme.com": [
@@ -27233,6 +27333,11 @@
             "url": "https://maketrendai.com/middle-finger-dunk-ai",
             "title": "Middle Finger Dunk AI — The 1v1 Dunk Trend From Your Photos",
             "first_seen": "2026-10-27T18:00:11.207144+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/how-to-make-middle-finger-dunk-ai-video",
+            "title": "How to Make the Middle Finger Dunk AI Video (My Prime 1v1): Dunk on Your Friend From Two Photos | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:10.251960+00:00"
           }
         ],
         "remakeyourmeme.com": [
@@ -29596,6 +29701,16 @@
             "url": "https://maketrendai.com/ba-ba-ba-dance-ai",
             "title": "Ba Ba Ba Dance AI — Do the Viral Two-Person Dance From Your Photos",
             "first_seen": "2026-10-27T18:00:09.936421+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/how-to-make-ba-ba-ba-dance-ai-video",
+            "title": "How to Make the Ba Ba Ba Dance AI Video: The Viral Two-Person Dance From Your Photos | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:09.953492+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/ba-ba-ba-dance-trend",
+            "title": "Ba Ba Ba Dance: The Routine, Who Made It and How the TikTok Trend Started | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:10.107070+00:00"
           }
         ]
       }
@@ -29658,6 +29773,16 @@
             "url": "https://maketrendai.com/ba-ba-ba-dance-ai",
             "title": "Ba Ba Ba Dance AI — Do the Viral Two-Person Dance From Your Photos",
             "first_seen": "2026-10-27T18:00:09.936388+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/how-to-make-ba-ba-ba-dance-ai-video",
+            "title": "How to Make the Ba Ba Ba Dance AI Video: The Viral Two-Person Dance From Your Photos | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:09.953451+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/ba-ba-ba-dance-trend",
+            "title": "Ba Ba Ba Dance: The Routine, Who Made It and How the TikTok Trend Started | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:10.107056+00:00"
           }
         ]
       }
@@ -29728,6 +29853,11 @@
             "url": "https://aptvideoai.com/blog/ba-ba-ba-dance-trend",
             "title": "Ba Ba Ba Dance: The Routine, Who Made It and How the TikTok Trend Started | apt video ai",
             "first_seen": "2026-10-25T18:00:07.698061+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/ba-ba-ba-dance-trend",
+            "title": "Ba Ba Ba Dance: The Routine, Who Made It and How the TikTok Trend Started | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:10.107080+00:00"
           }
         ]
       }
@@ -29740,6 +29870,11 @@
             "url": "https://aptvideoai.com/blog/ba-ba-ba-dance-trend",
             "title": "Ba Ba Ba Dance: The Routine, Who Made It and How the TikTok Trend Started | apt video ai",
             "first_seen": "2026-10-25T18:00:07.698088+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/ba-ba-ba-dance-trend",
+            "title": "Ba Ba Ba Dance: The Routine, Who Made It and How the TikTok Trend Started | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:10.106996+00:00"
           }
         ]
       }
@@ -29752,6 +29887,11 @@
             "url": "https://aptvideoai.com/blog/how-to-make-middle-finger-dunk-ai-video",
             "title": "How to Make the Middle Finger Dunk AI Video (My Prime 1v1): Dunk on Your Friend From Two Photos | apt video ai",
             "first_seen": "2026-10-25T18:00:07.772663+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/how-to-make-middle-finger-dunk-ai-video",
+            "title": "How to Make the Middle Finger Dunk AI Video (My Prime 1v1): Dunk on Your Friend From Two Photos | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:10.251982+00:00"
           }
         ]
       }
@@ -29774,6 +29914,11 @@
             "url": "https://aptvideoai.com/zh/blog/how-to-make-middle-finger-dunk-ai-video",
             "title": "中指扣篮 AI 视频怎么做（My Prime 1v1）？两张照片，隔着朋友扣篮 | apt video ai",
             "first_seen": "2026-10-25T18:00:08.620819+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/how-to-make-middle-finger-dunk-ai-video",
+            "title": "How to Make the Middle Finger Dunk AI Video (My Prime 1v1): Dunk on Your Friend From Two Photos | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:10.251892+00:00"
           }
         ],
         "remakeyourmeme.com": [
@@ -29793,6 +29938,11 @@
             "url": "https://aptvideoai.com/blog/how-to-make-middle-finger-dunk-ai-video",
             "title": "How to Make the Middle Finger Dunk AI Video (My Prime 1v1): Dunk on Your Friend From Two Photos | apt video ai",
             "first_seen": "2026-10-25T18:00:07.772727+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/how-to-make-middle-finger-dunk-ai-video",
+            "title": "How to Make the Middle Finger Dunk AI Video (My Prime 1v1): Dunk on Your Friend From Two Photos | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:10.251997+00:00"
           }
         ]
       }
@@ -29924,6 +30074,26 @@
             "url": "https://maketrendai.com/blog/best-bad-times-ai-video-generators",
             "title": "Bad Times AI Video Generators (2026): No CapCut Template? Starrd vs Kavel vs Fuzana vs MakeTrend AI | MakeTrend AI",
             "first_seen": "2026-10-27T12:00:07.920411+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/best-coldplay-kiss-cam-ai-video-generators",
+            "title": "Coldplay Kiss Cam AI Generators (2026): CapCut Template vs Kavel vs MakeViral vs MakeTrend AI | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:09.377461+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/best-devil-wears-prada-ai-video-generators",
+            "title": "Devil Wears Prada AI Video Generators (2026): devilwearspradatrend.com vs MakeViral vs Kavel vs MakeTrend AI | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:09.530509+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/best-ai-baby-dance-video-generators",
+            "title": "AI Baby Dance Generators (2026): Dame Hombro Baby Dance, MakeViral, Kavel, AI Baby Dance and Baby Dance AI Compared | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:10.691111+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/best-ramalama-ai-video-generators",
+            "title": "Ramalama AI Video Generators (2026): GoFaceless vs Media.io vs MakeViral vs Kavel vs MakeTrend AI | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:10.841295+00:00"
           }
         ]
       }
@@ -30689,6 +30859,13 @@
             "url": "https://maketrendai.com/skull-cap-trend-dog-ai",
             "title": "Skull Cap Trend Dog AI — Your Dog or Cat Gets the Skull Cap Too",
             "first_seen": "2026-10-27T18:00:10.911289+00:00"
+          }
+        ],
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/skull-cap-trend",
+            "title": "Skull Cap Trend | Know Your Meme",
+            "first_seen": "2026-10-28T00:00:08.905710+00:00"
           }
         ]
       }
@@ -33159,6 +33336,11 @@
             "url": "https://maketrendai.com/gas-station-dance",
             "title": "Gas Station Dance AI Video Generator — Three Photos, One Viral Clip",
             "first_seen": "2026-10-27T06:00:35.328082+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/how-to-make-gas-station-dance-ai-video",
+            "title": "How to Make the Gas Station Dance AI Video With Two or Three Friends | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:09.614203+00:00"
           }
         ]
       }
@@ -33942,6 +34124,16 @@
             "url": "https://maketrendai.com/bulin-47-ai-baby-dance",
             "title": "Dame Hombro Baby AI Dance — Bulin 47 Baby Video From One Photo",
             "first_seen": "2026-10-27T18:00:10.137560+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/how-to-make-bulin-47-ai-video",
+            "title": "Bulin 47 AI: What 'Soy Bulin 47' Is and How to Make the Freestyle Video From One Photo | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:08.693919+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/how-to-make-bulin-47-baby-dance-video",
+            "title": "Dame Hombro Baby AI Dance: How to Make the Bulin 47 Baby Video From a Photo of Your Child | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:08.822627+00:00"
           }
         ]
       }
@@ -34060,6 +34252,21 @@
             "url": "https://maketrendai.com/blog/best-bad-times-ai-video-generators",
             "title": "Bad Times AI Video Generators (2026): No CapCut Template? Starrd vs Kavel vs Fuzana vs MakeTrend AI | MakeTrend AI",
             "first_seen": "2026-10-27T12:00:07.920444+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/best-coldplay-kiss-cam-ai-video-generators",
+            "title": "Coldplay Kiss Cam AI Generators (2026): CapCut Template vs Kavel vs MakeViral vs MakeTrend AI | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:09.377601+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/best-devil-wears-prada-ai-video-generators",
+            "title": "Devil Wears Prada AI Video Generators (2026): devilwearspradatrend.com vs MakeViral vs Kavel vs MakeTrend AI | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:09.530495+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/best-ramalama-ai-video-generators",
+            "title": "Ramalama AI Video Generators (2026): GoFaceless vs Media.io vs MakeViral vs Kavel vs MakeTrend AI | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:10.841252+00:00"
           }
         ]
       }
@@ -34072,6 +34279,21 @@
             "url": "https://maketrendai.com/blog/best-bad-times-ai-video-generators",
             "title": "Bad Times AI Video Generators (2026): No CapCut Template? Starrd vs Kavel vs Fuzana vs MakeTrend AI | MakeTrend AI",
             "first_seen": "2026-10-27T12:00:07.920451+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/best-coldplay-kiss-cam-ai-video-generators",
+            "title": "Coldplay Kiss Cam AI Generators (2026): CapCut Template vs Kavel vs MakeViral vs MakeTrend AI | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:09.377661+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/best-devil-wears-prada-ai-video-generators",
+            "title": "Devil Wears Prada AI Video Generators (2026): devilwearspradatrend.com vs MakeViral vs Kavel vs MakeTrend AI | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:09.530532+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/best-ramalama-ai-video-generators",
+            "title": "Ramalama AI Video Generators (2026): GoFaceless vs Media.io vs MakeViral vs Kavel vs MakeTrend AI | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:10.841326+00:00"
           }
         ]
       }
@@ -34192,6 +34414,21 @@
             "url": "https://maketrendai.com/blog/best-bad-times-ai-video-generators",
             "title": "Bad Times AI Video Generators (2026): No CapCut Template? Starrd vs Kavel vs Fuzana vs MakeTrend AI | MakeTrend AI",
             "first_seen": "2026-10-27T12:00:07.920518+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/best-coldplay-kiss-cam-ai-video-generators",
+            "title": "Coldplay Kiss Cam AI Generators (2026): CapCut Template vs Kavel vs MakeViral vs MakeTrend AI | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:09.377550+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/best-devil-wears-prada-ai-video-generators",
+            "title": "Devil Wears Prada AI Video Generators (2026): devilwearspradatrend.com vs MakeViral vs Kavel vs MakeTrend AI | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:09.530543+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/best-ramalama-ai-video-generators",
+            "title": "Ramalama AI Video Generators (2026): GoFaceless vs Media.io vs MakeViral vs Kavel vs MakeTrend AI | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:10.841319+00:00"
           }
         ]
       }
@@ -34240,6 +34477,16 @@
             "url": "https://maketrendai.com/devil-wears-prada-ai",
             "title": "Devil Wears Prada Trend AI — The \"Prada Prada Prada\" Glow-Up From One Photo",
             "first_seen": "2026-10-27T12:00:07.981216+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/best-devil-wears-prada-ai-video-generators",
+            "title": "Devil Wears Prada AI Video Generators (2026): devilwearspradatrend.com vs MakeViral vs Kavel vs MakeTrend AI | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:09.530661+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/how-to-make-devil-wears-prada-ai-video",
+            "title": "How to Make the Devil Wears Prada Trend Video With AI (\"Prada Prada Prada\") From One Photo | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:10.120536+00:00"
           }
         ]
       }
@@ -34252,6 +34499,16 @@
             "url": "https://maketrendai.com/devil-wears-prada-ai",
             "title": "Devil Wears Prada Trend AI — The \"Prada Prada Prada\" Glow-Up From One Photo",
             "first_seen": "2026-10-27T12:00:07.981260+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/best-devil-wears-prada-ai-video-generators",
+            "title": "Devil Wears Prada AI Video Generators (2026): devilwearspradatrend.com vs MakeViral vs Kavel vs MakeTrend AI | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:09.530566+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/how-to-make-devil-wears-prada-ai-video",
+            "title": "How to Make the Devil Wears Prada Trend Video With AI (\"Prada Prada Prada\") From One Photo | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:10.120601+00:00"
           }
         ]
       }
@@ -34264,6 +34521,16 @@
             "url": "https://maketrendai.com/devil-wears-prada-ai",
             "title": "Devil Wears Prada Trend AI — The \"Prada Prada Prada\" Glow-Up From One Photo",
             "first_seen": "2026-10-27T12:00:07.981277+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/best-devil-wears-prada-ai-video-generators",
+            "title": "Devil Wears Prada AI Video Generators (2026): devilwearspradatrend.com vs MakeViral vs Kavel vs MakeTrend AI | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:09.530621+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/how-to-make-devil-wears-prada-ai-video",
+            "title": "How to Make the Devil Wears Prada Trend Video With AI (\"Prada Prada Prada\") From One Photo | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:10.120615+00:00"
           }
         ]
       }
@@ -34348,6 +34615,11 @@
             "url": "https://maketrendai.com/blog/best-ozil-ai-goal-video-generators",
             "title": "Ozil AI Goal: CapCut Template vs Dreamina vs 4 AI Generators Compared (2026) | MakeTrend AI",
             "first_seen": "2026-10-27T12:00:08.069081+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/best-coldplay-kiss-cam-ai-video-generators",
+            "title": "Coldplay Kiss Cam AI Generators (2026): CapCut Template vs Kavel vs MakeViral vs MakeTrend AI | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:09.377520+00:00"
           }
         ]
       }
@@ -34444,6 +34716,11 @@
             "url": "https://maketrendai.com/blog/best-ozil-ai-goal-video-generators",
             "title": "Ozil AI Goal: CapCut Template vs Dreamina vs 4 AI Generators Compared (2026) | MakeTrend AI",
             "first_seen": "2026-10-27T12:00:08.069232+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/best-coldplay-kiss-cam-ai-video-generators",
+            "title": "Coldplay Kiss Cam AI Generators (2026): CapCut Template vs Kavel vs MakeViral vs MakeTrend AI | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:09.377668+00:00"
           }
         ]
       }
@@ -34492,6 +34769,11 @@
             "url": "https://maketrendai.com/bad-times-trend-toddler",
             "title": "Bad Times Trend Toddler & Baby AI Video — From a Photo of Your Child",
             "first_seen": "2026-10-27T12:00:08.195818+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/how-to-make-bad-times-toddler-video",
+            "title": "How to Make the Bad Times Trend Toddler Video From a Photo of Your Child | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:09.284265+00:00"
           }
         ]
       }
@@ -34504,6 +34786,11 @@
             "url": "https://maketrendai.com/bad-times-trend-toddler",
             "title": "Bad Times Trend Toddler & Baby AI Video — From a Photo of Your Child",
             "first_seen": "2026-10-27T12:00:08.195872+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/how-to-make-bad-times-toddler-video",
+            "title": "How to Make the Bad Times Trend Toddler Video From a Photo of Your Child | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:09.284297+00:00"
           }
         ]
       }
@@ -34648,6 +34935,16 @@
             "url": "https://maketrendai.com/coldplay-kiss-cam-ai",
             "title": "Coldplay Kiss Cam AI — You Two Caught on the Big Screen, From Two Photos",
             "first_seen": "2026-10-27T18:00:09.936227+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/how-to-make-coldplay-kiss-cam-ai-video",
+            "title": "How to Do the Coldplay Kiss Cam AI Trend: You Two on the Big Screen From Two Photos | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:08.980086+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/best-coldplay-kiss-cam-ai-video-generators",
+            "title": "Coldplay Kiss Cam AI Generators (2026): CapCut Template vs Kavel vs MakeViral vs MakeTrend AI | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:09.377577+00:00"
           }
         ]
       }
@@ -34660,6 +34957,16 @@
             "url": "https://maketrendai.com/coldplay-kiss-cam-ai",
             "title": "Coldplay Kiss Cam AI — You Two Caught on the Big Screen, From Two Photos",
             "first_seen": "2026-10-27T18:00:09.936260+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/how-to-make-coldplay-kiss-cam-ai-video",
+            "title": "How to Do the Coldplay Kiss Cam AI Trend: You Two on the Big Screen From Two Photos | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:08.980077+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/best-coldplay-kiss-cam-ai-video-generators",
+            "title": "Coldplay Kiss Cam AI Generators (2026): CapCut Template vs Kavel vs MakeViral vs MakeTrend AI | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:09.377680+00:00"
           }
         ]
       }
@@ -34672,6 +34979,16 @@
             "url": "https://maketrendai.com/coldplay-kiss-cam-ai",
             "title": "Coldplay Kiss Cam AI — You Two Caught on the Big Screen, From Two Photos",
             "first_seen": "2026-10-27T18:00:09.936268+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/how-to-make-coldplay-kiss-cam-ai-video",
+            "title": "How to Do the Coldplay Kiss Cam AI Trend: You Two on the Big Screen From Two Photos | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:08.980092+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/best-coldplay-kiss-cam-ai-video-generators",
+            "title": "Coldplay Kiss Cam AI Generators (2026): CapCut Template vs Kavel vs MakeViral vs MakeTrend AI | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:09.377500+00:00"
           }
         ]
       }
@@ -34684,6 +35001,16 @@
             "url": "https://maketrendai.com/bulin-47-ai-baby-dance",
             "title": "Dame Hombro Baby AI Dance — Bulin 47 Baby Video From One Photo",
             "first_seen": "2026-10-27T18:00:10.137525+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/how-to-make-bulin-47-baby-dance-video",
+            "title": "Dame Hombro Baby AI Dance: How to Make the Bulin 47 Baby Video From a Photo of Your Child | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:08.822666+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/best-ai-baby-dance-video-generators",
+            "title": "AI Baby Dance Generators (2026): Dame Hombro Baby Dance, MakeViral, Kavel, AI Baby Dance and Baby Dance AI Compared | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:10.691141+00:00"
           }
         ]
       }
@@ -34816,6 +35143,784 @@
             "url": "https://www.getstarrd.app/template/kung-fu-dog-vet-ai-video",
             "title": "Kung Fu Vet Visit — AI Video Template | Starrd",
             "first_seen": "2026-10-27T18:00:12.100903+00:00"
+          }
+        ]
+      }
+    },
+    "ical cap cut": {
+      "first_seen": "2026-10-28T00:00:08.406505+00:00",
+      "domains": {
+        "www.capcut.com": [
+          {
+            "url": "https://www.capcut.com/template-detail/7479664400392080693",
+            "title": "Ical CapCut Template",
+            "first_seen": "2026-10-28T00:00:08.406505+00:00"
+          }
+        ]
+      }
+    },
+    "ical cap": {
+      "first_seen": "2026-10-28T00:00:08.406517+00:00",
+      "domains": {
+        "www.capcut.com": [
+          {
+            "url": "https://www.capcut.com/template-detail/7479664400392080693",
+            "title": "Ical CapCut Template",
+            "first_seen": "2026-10-28T00:00:08.406517+00:00"
+          }
+        ]
+      }
+    },
+    "song slowmo": {
+      "first_seen": "2026-10-28T00:00:08.406648+00:00",
+      "domains": {
+        "www.capcut.com": [
+          {
+            "url": "https://www.capcut.com/template-detail/7411527335012240648",
+            "title": "Viral Song Slowmo",
+            "first_seen": "2026-10-28T00:00:08.406648+00:00"
+          }
+        ]
+      }
+    },
+    "x wishes": {
+      "first_seen": "2026-10-28T00:00:08.406826+00:00",
+      "domains": {
+        "www.capcut.com": [
+          {
+            "url": "https://www.capcut.com/template-detail/7564743649842744581",
+            "title": "Samjho Na x Wishes",
+            "first_seen": "2026-10-28T00:00:08.406826+00:00"
+          }
+        ]
+      }
+    },
+    "samjho na x": {
+      "first_seen": "2026-10-28T00:00:08.406840+00:00",
+      "domains": {
+        "www.capcut.com": [
+          {
+            "url": "https://www.capcut.com/template-detail/7564743649842744581",
+            "title": "Samjho Na x Wishes",
+            "first_seen": "2026-10-28T00:00:08.406840+00:00"
+          }
+        ]
+      }
+    },
+    "samjho na x wishes": {
+      "first_seen": "2026-10-28T00:00:08.406846+00:00",
+      "domains": {
+        "www.capcut.com": [
+          {
+            "url": "https://www.capcut.com/template-detail/7564743649842744581",
+            "title": "Samjho Na x Wishes",
+            "first_seen": "2026-10-28T00:00:08.406846+00:00"
+          }
+        ]
+      }
+    },
+    "samjho na": {
+      "first_seen": "2026-10-28T00:00:08.406852+00:00",
+      "domains": {
+        "www.capcut.com": [
+          {
+            "url": "https://www.capcut.com/template-detail/7564743649842744581",
+            "title": "Samjho Na x Wishes",
+            "first_seen": "2026-10-28T00:00:08.406852+00:00"
+          }
+        ]
+      }
+    },
+    "na x wishes": {
+      "first_seen": "2026-10-28T00:00:08.406858+00:00",
+      "domains": {
+        "www.capcut.com": [
+          {
+            "url": "https://www.capcut.com/template-detail/7564743649842744581",
+            "title": "Samjho Na x Wishes",
+            "first_seen": "2026-10-28T00:00:08.406858+00:00"
+          }
+        ]
+      }
+    },
+    "kamin etz": {
+      "first_seen": "2026-10-28T00:00:08.407011+00:00",
+      "domains": {
+        "www.capcut.com": [
+          {
+            "url": "https://www.capcut.com/template-detail/7583727312403860741",
+            "title": "Kamin Etz",
+            "first_seen": "2026-10-28T00:00:08.407011+00:00"
+          }
+        ]
+      }
+    },
+    "47 ai what soy": {
+      "first_seen": "2026-10-28T00:00:08.693861+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://maketrendai.com/blog/how-to-make-bulin-47-ai-video",
+            "title": "Bulin 47 AI: What 'Soy Bulin 47' Is and How to Make the Freestyle Video From One Photo | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:08.693861+00:00"
+          }
+        ]
+      }
+    },
+    "soy bulin 47": {
+      "first_seen": "2026-10-28T00:00:08.693898+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://maketrendai.com/blog/how-to-make-bulin-47-ai-video",
+            "title": "Bulin 47 AI: What 'Soy Bulin 47' Is and How to Make the Freestyle Video From One Photo | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:08.693898+00:00"
+          }
+        ]
+      }
+    },
+    "soy bulin": {
+      "first_seen": "2026-10-28T00:00:08.693906+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://maketrendai.com/blog/how-to-make-bulin-47-ai-video",
+            "title": "Bulin 47 AI: What 'Soy Bulin 47' Is and How to Make the Freestyle Video From One Photo | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:08.693906+00:00"
+          }
+        ]
+      }
+    },
+    "freestyle video from one": {
+      "first_seen": "2026-10-28T00:00:08.693913+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://maketrendai.com/blog/how-to-make-bulin-47-ai-video",
+            "title": "Bulin 47 AI: What 'Soy Bulin 47' Is and How to Make the Freestyle Video From One Photo | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:08.693913+00:00"
+          }
+        ]
+      }
+    },
+    "i walk": {
+      "first_seen": "2026-10-28T00:00:08.711187+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/then-i-walk-in",
+            "title": "Then I Walk In | Know Your Meme",
+            "first_seen": "2026-10-28T00:00:08.711187+00:00"
+          }
+        ]
+      }
+    },
+    "big screen": {
+      "first_seen": "2026-10-28T00:00:08.980039+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://maketrendai.com/blog/how-to-make-coldplay-kiss-cam-ai-video",
+            "title": "How to Do the Coldplay Kiss Cam AI Trend: You Two on the Big Screen From Two Photos | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:08.980039+00:00"
+          }
+        ]
+      }
+    },
+    "bad times toddler": {
+      "first_seen": "2026-10-28T00:00:09.284227+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://maketrendai.com/blog/how-to-make-bad-times-toddler-video",
+            "title": "How to Make the Bad Times Trend Toddler Video From a Photo of Your Child | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:09.284227+00:00"
+          }
+        ]
+      }
+    },
+    "times toddler": {
+      "first_seen": "2026-10-28T00:00:09.284348+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://maketrendai.com/blog/how-to-make-bad-times-toddler-video",
+            "title": "How to Make the Bad Times Trend Toddler Video From a Photo of Your Child | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:09.284348+00:00"
+          }
+        ]
+      }
+    },
+    "cut template vs kavel": {
+      "first_seen": "2026-10-28T00:00:09.377422+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://maketrendai.com/blog/best-coldplay-kiss-cam-ai-video-generators",
+            "title": "Coldplay Kiss Cam AI Generators (2026): CapCut Template vs Kavel vs MakeViral vs MakeTrend AI | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:09.377422+00:00"
+          }
+        ]
+      }
+    },
+    "2026 cap": {
+      "first_seen": "2026-10-28T00:00:09.377490+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://maketrendai.com/blog/best-coldplay-kiss-cam-ai-video-generators",
+            "title": "Coldplay Kiss Cam AI Generators (2026): CapCut Template vs Kavel vs MakeViral vs MakeTrend AI | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:09.377490+00:00"
+          }
+        ]
+      }
+    },
+    "cam ai generators": {
+      "first_seen": "2026-10-28T00:00:09.377508+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://maketrendai.com/blog/best-coldplay-kiss-cam-ai-video-generators",
+            "title": "Coldplay Kiss Cam AI Generators (2026): CapCut Template vs Kavel vs MakeViral vs MakeTrend AI | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:09.377508+00:00"
+          }
+        ]
+      }
+    },
+    "cam ai generators 2026": {
+      "first_seen": "2026-10-28T00:00:09.377514+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://maketrendai.com/blog/best-coldplay-kiss-cam-ai-video-generators",
+            "title": "Coldplay Kiss Cam AI Generators (2026): CapCut Template vs Kavel vs MakeViral vs MakeTrend AI | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:09.377514+00:00"
+          }
+        ]
+      }
+    },
+    "cam ai video generators": {
+      "first_seen": "2026-10-28T00:00:09.377569+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://maketrendai.com/blog/best-coldplay-kiss-cam-ai-video-generators",
+            "title": "Coldplay Kiss Cam AI Generators (2026): CapCut Template vs Kavel vs MakeViral vs MakeTrend AI | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:09.377569+00:00"
+          }
+        ]
+      }
+    },
+    "generators 2026 cap": {
+      "first_seen": "2026-10-28T00:00:09.377632+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://maketrendai.com/blog/best-coldplay-kiss-cam-ai-video-generators",
+            "title": "Coldplay Kiss Cam AI Generators (2026): CapCut Template vs Kavel vs MakeViral vs MakeTrend AI | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:09.377632+00:00"
+          }
+        ]
+      }
+    },
+    "kiss cam ai generators": {
+      "first_seen": "2026-10-28T00:00:09.377642+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://maketrendai.com/blog/best-coldplay-kiss-cam-ai-video-generators",
+            "title": "Coldplay Kiss Cam AI Generators (2026): CapCut Template vs Kavel vs MakeViral vs MakeTrend AI | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:09.377642+00:00"
+          }
+        ]
+      }
+    },
+    "vs make viral vs": {
+      "first_seen": "2026-10-28T00:00:09.377649+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://maketrendai.com/blog/best-coldplay-kiss-cam-ai-video-generators",
+            "title": "Coldplay Kiss Cam AI Generators (2026): CapCut Template vs Kavel vs MakeViral vs MakeTrend AI | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:09.377649+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/best-devil-wears-prada-ai-video-generators",
+            "title": "Devil Wears Prada AI Video Generators (2026): devilwearspradatrend.com vs MakeViral vs Kavel vs MakeTrend AI | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:09.530521+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/best-ramalama-ai-video-generators",
+            "title": "Ramalama AI Video Generators (2026): GoFaceless vs Media.io vs MakeViral vs Kavel vs MakeTrend AI | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:10.841305+00:00"
+          }
+        ]
+      }
+    },
+    "2026 cap cut": {
+      "first_seen": "2026-10-28T00:00:09.377655+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://maketrendai.com/blog/best-coldplay-kiss-cam-ai-video-generators",
+            "title": "Coldplay Kiss Cam AI Generators (2026): CapCut Template vs Kavel vs MakeViral vs MakeTrend AI | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:09.377655+00:00"
+          }
+        ]
+      }
+    },
+    "generators 2026 cap cut": {
+      "first_seen": "2026-10-28T00:00:09.377674+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://maketrendai.com/blog/best-coldplay-kiss-cam-ai-video-generators",
+            "title": "Coldplay Kiss Cam AI Generators (2026): CapCut Template vs Kavel vs MakeViral vs MakeTrend AI | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:09.377674+00:00"
+          }
+        ]
+      }
+    },
+    "prada ai video generators": {
+      "first_seen": "2026-10-28T00:00:09.530429+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://maketrendai.com/blog/best-devil-wears-prada-ai-video-generators",
+            "title": "Devil Wears Prada AI Video Generators (2026): devilwearspradatrend.com vs MakeViral vs Kavel vs MakeTrend AI | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:09.530429+00:00"
+          }
+        ]
+      }
+    },
+    "generators 2026 devilwearspradatrend": {
+      "first_seen": "2026-10-28T00:00:09.530472+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://maketrendai.com/blog/best-devil-wears-prada-ai-video-generators",
+            "title": "Devil Wears Prada AI Video Generators (2026): devilwearspradatrend.com vs MakeViral vs Kavel vs MakeTrend AI | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:09.530472+00:00"
+          }
+        ]
+      }
+    },
+    "2026 devilwearspradatrend": {
+      "first_seen": "2026-10-28T00:00:09.530484+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://maketrendai.com/blog/best-devil-wears-prada-ai-video-generators",
+            "title": "Devil Wears Prada AI Video Generators (2026): devilwearspradatrend.com vs MakeViral vs Kavel vs MakeTrend AI | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:09.530484+00:00"
+          }
+        ]
+      }
+    },
+    "devilwearspradatrend com vs": {
+      "first_seen": "2026-10-28T00:00:09.530555+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://maketrendai.com/blog/best-devil-wears-prada-ai-video-generators",
+            "title": "Devil Wears Prada AI Video Generators (2026): devilwearspradatrend.com vs MakeViral vs Kavel vs MakeTrend AI | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:09.530555+00:00"
+          }
+        ]
+      }
+    },
+    "2026 devilwearspradatrend com vs": {
+      "first_seen": "2026-10-28T00:00:09.530676+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://maketrendai.com/blog/best-devil-wears-prada-ai-video-generators",
+            "title": "Devil Wears Prada AI Video Generators (2026): devilwearspradatrend.com vs MakeViral vs Kavel vs MakeTrend AI | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:09.530676+00:00"
+          }
+        ]
+      }
+    },
+    "bb y wow guy": {
+      "first_seen": "2026-10-28T00:00:09.742342+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://maketrendai.com/blog/how-to-make-dime-dime-baby-ai-video",
+            "title": "How to Make the Dime Dime Baby AI Video: Be the BbY WOW Guy From One Photo | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:09.742342+00:00"
+          }
+        ]
+      }
+    },
+    "guy from one": {
+      "first_seen": "2026-10-28T00:00:09.742360+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://maketrendai.com/blog/how-to-make-dime-dime-baby-ai-video",
+            "title": "How to Make the Dime Dime Baby AI Video: Be the BbY WOW Guy From One Photo | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:09.742360+00:00"
+          }
+        ]
+      }
+    },
+    "wow guy from one": {
+      "first_seen": "2026-10-28T00:00:09.742378+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://maketrendai.com/blog/how-to-make-dime-dime-baby-ai-video",
+            "title": "How to Make the Dime Dime Baby AI Video: Be the BbY WOW Guy From One Photo | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:09.742378+00:00"
+          }
+        ]
+      }
+    },
+    "bb y wow": {
+      "first_seen": "2026-10-28T00:00:09.742391+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://maketrendai.com/blog/how-to-make-dime-dime-baby-ai-video",
+            "title": "How to Make the Dime Dime Baby AI Video: Be the BbY WOW Guy From One Photo | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:09.742391+00:00"
+          }
+        ]
+      }
+    },
+    "wow guy": {
+      "first_seen": "2026-10-28T00:00:09.742403+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://maketrendai.com/blog/how-to-make-dime-dime-baby-ai-video",
+            "title": "How to Make the Dime Dime Baby AI Video: Be the BbY WOW Guy From One Photo | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:09.742403+00:00"
+          }
+        ]
+      }
+    },
+    "y wow": {
+      "first_seen": "2026-10-28T00:00:09.742428+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://maketrendai.com/blog/how-to-make-dime-dime-baby-ai-video",
+            "title": "How to Make the Dime Dime Baby AI Video: Be the BbY WOW Guy From One Photo | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:09.742428+00:00"
+          }
+        ]
+      }
+    },
+    "y wow guy": {
+      "first_seen": "2026-10-28T00:00:09.742437+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://maketrendai.com/blog/how-to-make-dime-dime-baby-ai-video",
+            "title": "How to Make the Dime Dime Baby AI Video: Be the BbY WOW Guy From One Photo | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:09.742437+00:00"
+          }
+        ]
+      }
+    },
+    "prada prada from one": {
+      "first_seen": "2026-10-28T00:00:10.120577+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://maketrendai.com/blog/how-to-make-devil-wears-prada-ai-video",
+            "title": "How to Make the Devil Wears Prada Trend Video With AI (\"Prada Prada Prada\") From One Photo | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:10.120577+00:00"
+          }
+        ]
+      }
+    },
+    "prada prada": {
+      "first_seen": "2026-10-28T00:00:10.120609+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://maketrendai.com/blog/how-to-make-devil-wears-prada-ai-video",
+            "title": "How to Make the Devil Wears Prada Trend Video With AI (\"Prada Prada Prada\") From One Photo | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:10.120609+00:00"
+          }
+        ]
+      }
+    },
+    "prada from one": {
+      "first_seen": "2026-10-28T00:00:10.120622+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://maketrendai.com/blog/how-to-make-devil-wears-prada-ai-video",
+            "title": "How to Make the Devil Wears Prada Trend Video With AI (\"Prada Prada Prada\") From One Photo | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:10.120622+00:00"
+          }
+        ]
+      }
+    },
+    "prada prada prada": {
+      "first_seen": "2026-10-28T00:00:10.120628+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://maketrendai.com/blog/how-to-make-devil-wears-prada-ai-video",
+            "title": "How to Make the Devil Wears Prada Trend Video With AI (\"Prada Prada Prada\") From One Photo | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:10.120628+00:00"
+          }
+        ]
+      }
+    },
+    "generators 2026 dame": {
+      "first_seen": "2026-10-28T00:00:10.691063+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://maketrendai.com/blog/best-ai-baby-dance-video-generators",
+            "title": "AI Baby Dance Generators (2026): Dame Hombro Baby Dance, MakeViral, Kavel, AI Baby Dance and Baby Dance AI Compared | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:10.691063+00:00"
+          }
+        ]
+      }
+    },
+    "2026 dame": {
+      "first_seen": "2026-10-28T00:00:10.691129+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://maketrendai.com/blog/best-ai-baby-dance-video-generators",
+            "title": "AI Baby Dance Generators (2026): Dame Hombro Baby Dance, MakeViral, Kavel, AI Baby Dance and Baby Dance AI Compared | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:10.691129+00:00"
+          }
+        ]
+      }
+    },
+    "2026 dame hombro": {
+      "first_seen": "2026-10-28T00:00:10.691156+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://maketrendai.com/blog/best-ai-baby-dance-video-generators",
+            "title": "AI Baby Dance Generators (2026): Dame Hombro Baby Dance, MakeViral, Kavel, AI Baby Dance and Baby Dance AI Compared | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:10.691156+00:00"
+          }
+        ]
+      }
+    },
+    "generators 2026 dame hombro": {
+      "first_seen": "2026-10-28T00:00:10.691168+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://maketrendai.com/blog/best-ai-baby-dance-video-generators",
+            "title": "AI Baby Dance Generators (2026): Dame Hombro Baby Dance, MakeViral, Kavel, AI Baby Dance and Baby Dance AI Compared | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:10.691168+00:00"
+          }
+        ]
+      }
+    },
+    "charme in rio": {
+      "first_seen": "2026-10-28T00:00:10.710920+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://maketrendai.com/blog/how-to-make-charme-dance-ai-video",
+            "title": "How to Make the Charme Dance AI Video: Dance Baile Charme in Rio From One Photo | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:10.710920+00:00"
+          }
+        ]
+      }
+    },
+    "rio from one": {
+      "first_seen": "2026-10-28T00:00:10.710965+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://maketrendai.com/blog/how-to-make-charme-dance-ai-video",
+            "title": "How to Make the Charme Dance AI Video: Dance Baile Charme in Rio From One Photo | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:10.710965+00:00"
+          }
+        ]
+      }
+    },
+    "generators 2026 go faceless": {
+      "first_seen": "2026-10-28T00:00:10.841312+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://maketrendai.com/blog/best-ramalama-ai-video-generators",
+            "title": "Ramalama AI Video Generators (2026): GoFaceless vs Media.io vs MakeViral vs Kavel vs MakeTrend AI | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:10.841312+00:00"
+          }
+        ]
+      }
+    },
+    "ramalama ai video generators": {
+      "first_seen": "2026-10-28T00:00:10.841333+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://maketrendai.com/blog/best-ramalama-ai-video-generators",
+            "title": "Ramalama AI Video Generators (2026): GoFaceless vs Media.io vs MakeViral vs Kavel vs MakeTrend AI | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:10.841333+00:00"
+          }
+        ]
+      }
+    },
+    "vs media io vs": {
+      "first_seen": "2026-10-28T00:00:10.841338+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://maketrendai.com/blog/best-ramalama-ai-video-generators",
+            "title": "Ramalama AI Video Generators (2026): GoFaceless vs Media.io vs MakeViral vs Kavel vs MakeTrend AI | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:10.841338+00:00"
+          }
+        ]
+      }
+    },
+    "faceless vs": {
+      "first_seen": "2026-10-28T00:00:10.841344+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://maketrendai.com/blog/best-ramalama-ai-video-generators",
+            "title": "Ramalama AI Video Generators (2026): GoFaceless vs Media.io vs MakeViral vs Kavel vs MakeTrend AI | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:10.841344+00:00"
+          }
+        ]
+      }
+    },
+    "2026 go faceless": {
+      "first_seen": "2026-10-28T00:00:10.841352+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://maketrendai.com/blog/best-ramalama-ai-video-generators",
+            "title": "Ramalama AI Video Generators (2026): GoFaceless vs Media.io vs MakeViral vs Kavel vs MakeTrend AI | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:10.841352+00:00"
+          }
+        ]
+      }
+    },
+    "2026 go faceless vs": {
+      "first_seen": "2026-10-28T00:00:10.841357+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://maketrendai.com/blog/best-ramalama-ai-video-generators",
+            "title": "Ramalama AI Video Generators (2026): GoFaceless vs Media.io vs MakeViral vs Kavel vs MakeTrend AI | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:10.841357+00:00"
+          }
+        ]
+      }
+    },
+    "isn t enough": {
+      "first_seen": "2026-10-28T00:00:10.936286+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://maketrendai.com/blog/capcut-templates-vs-ai-trend-videos",
+            "title": "CapCut Templates vs AI Trend Videos: When a Template Isn't Enough (2026) | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:10.936286+00:00"
+          }
+        ]
+      }
+    },
+    "t enough 2026": {
+      "first_seen": "2026-10-28T00:00:10.936297+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://maketrendai.com/blog/capcut-templates-vs-ai-trend-videos",
+            "title": "CapCut Templates vs AI Trend Videos: When a Template Isn't Enough (2026) | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:10.936297+00:00"
+          }
+        ]
+      }
+    },
+    "isn t": {
+      "first_seen": "2026-10-28T00:00:10.936304+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://maketrendai.com/blog/capcut-templates-vs-ai-trend-videos",
+            "title": "CapCut Templates vs AI Trend Videos: When a Template Isn't Enough (2026) | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:10.936304+00:00"
+          }
+        ]
+      }
+    },
+    "enough 2026": {
+      "first_seen": "2026-10-28T00:00:10.936310+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://maketrendai.com/blog/capcut-templates-vs-ai-trend-videos",
+            "title": "CapCut Templates vs AI Trend Videos: When a Template Isn't Enough (2026) | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:10.936310+00:00"
+          }
+        ]
+      }
+    },
+    "capcut vs": {
+      "first_seen": "2026-10-28T00:00:10.936315+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://maketrendai.com/blog/capcut-templates-vs-ai-trend-videos",
+            "title": "CapCut Templates vs AI Trend Videos: When a Template Isn't Enough (2026) | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:10.936315+00:00"
+          }
+        ]
+      }
+    },
+    "t enough": {
+      "first_seen": "2026-10-28T00:00:10.936321+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://maketrendai.com/blog/capcut-templates-vs-ai-trend-videos",
+            "title": "CapCut Templates vs AI Trend Videos: When a Template Isn't Enough (2026) | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:10.936321+00:00"
+          }
+        ]
+      }
+    },
+    "cut vs": {
+      "first_seen": "2026-10-28T00:00:10.936327+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://maketrendai.com/blog/capcut-templates-vs-ai-trend-videos",
+            "title": "CapCut Templates vs AI Trend Videos: When a Template Isn't Enough (2026) | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:10.936327+00:00"
+          }
+        ]
+      }
+    },
+    "cap cut vs": {
+      "first_seen": "2026-10-28T00:00:10.936333+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://maketrendai.com/blog/capcut-templates-vs-ai-trend-videos",
+            "title": "CapCut Templates vs AI Trend Videos: When a Template Isn't Enough (2026) | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:10.936333+00:00"
+          }
+        ]
+      }
+    },
+    "isn t enough 2026": {
+      "first_seen": "2026-10-28T00:00:10.936339+00:00",
+      "domains": {
+        "aptvideoai.com": [
+          {
+            "url": "https://maketrendai.com/blog/capcut-templates-vs-ai-trend-videos",
+            "title": "CapCut Templates vs AI Trend Videos: When a Template Isn't Enough (2026) | MakeTrend AI",
+            "first_seen": "2026-10-28T00:00:10.936339+00:00"
           }
         ]
       }
