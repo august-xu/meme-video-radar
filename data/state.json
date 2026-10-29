@@ -1,6 +1,6 @@
 {
-  "last_run_timestamp": "2026-10-28T18:00:17.495929+00:00",
-  "total_urls_seen": 12149,
+  "last_run_timestamp": "2026-10-29T00:00:18.537862+00:00",
+  "total_urls_seen": 12187,
   "seen_urls": {
     "knowyourmeme.com": [
       "https://knowyourmeme.com/memes/yohohoho-binkusuno-sake-by-ado",
@@ -68,7 +68,9 @@
       "https://knowyourmeme.com/memes/didy",
       "https://knowyourmeme.com/memes/skull-cap-trend",
       "https://knowyourmeme.com/memes/dictator-mbappe",
-      "https://knowyourmeme.com/memes/freddy-krueger-cancelled"
+      "https://knowyourmeme.com/memes/freddy-krueger-cancelled",
+      "https://knowyourmeme.com/memes/events/2026-japan-vs-france-twitter-war",
+      "https://knowyourmeme.com/memes/people/mini-producer-jay-thomas-manuel"
     ],
     "aptvideoai.com": [
       "https://aptvideoai.com",
@@ -11049,7 +11051,27 @@
       "https://www.media.io/ai/explore/zone/tiny-desk-ai-trend",
       "https://www.media.io/ai/explore/zone/ballon-dor-ai-filter",
       "https://www.media.io/ai/explore/zone/ak-creator-yt-ai-prompt",
-      "https://www.media.io/ai/explore/zone/instagram-reels-trends"
+      "https://www.media.io/ai/explore/zone/instagram-reels-trends",
+      "https://www.media.io/comparison/pixeldojo-ai.html",
+      "https://www.media.io/comparison/xmk-ai.html",
+      "https://www.media.io/comparison/photogpt-ai.html",
+      "https://www.media.io/comparison/pfpmaker.html",
+      "https://www.media.io/comparison/moescape-ai.html",
+      "https://www.media.io/comparison/jxp-ai.html",
+      "https://www.media.io/comparison/updream-ai.html",
+      "https://www.media.io/comparison/a1-art.html",
+      "https://www.media.io/comparison/fetra-ai.html",
+      "https://www.media.io/ai/explore/zone/transmission-5-dance-ai-video",
+      "https://www.media.io/ai/explore/zone/kda-firestarter-dance-ai-video",
+      "https://www.media.io/ai/explore/zone/middle-finger-dunk-ai-video",
+      "https://www.media.io/ai/explore/zone/outstanding-tiny-desk-ai-tutorial",
+      "https://www.media.io/ai/explore/zone/diwali-instagram-profile-cleaning-ai-trend",
+      "https://www.media.io/ai/explore/zone/choosin-texas-emo-remix-ai-video",
+      "https://www.media.io/ai/explore/zone/im-so-sorry-i-lied-ai-halloween-photo-trend",
+      "https://www.media.io/ai/explore/zone/shaking-head-ai-trend",
+      "https://www.media.io/ai/effect/create/mirror-panther-ai-video",
+      "https://www.media.io/ai/effect/create/deep-down-in-my-heart-ai-crying-video",
+      "https://www.media.io/ai/explore/zone/dime-dime-baby-ai-video-generator"
     ],
     "remakeyourmeme.com": [
       "https://remakeyourmeme.com",
@@ -11811,7 +11833,11 @@
       "https://www.getstarrd.app/template/whats-up-in-a-minute-ai-video",
       "https://www.getstarrd.app/template/i-thought-we-were-having-a-nice-date-ai-video",
       "https://www.getstarrd.app/blog/how-to-make-gangnam-style-ai-video",
-      "https://www.getstarrd.app/template/gangnam-style-ai-video"
+      "https://www.getstarrd.app/template/gangnam-style-ai-video",
+      "https://www.getstarrd.app/blog/how-to-make-cardo-dinner-ai-video",
+      "https://www.getstarrd.app/blog/how-to-make-mop-dance-ai-video",
+      "https://www.getstarrd.app/template/mop-dance-ai-video",
+      "https://www.getstarrd.app/template/cardo-dinner-ai-video"
     ],
     "www.capcut.com": [
       "https://www.capcut.com/template-detail/7613449947458981136",
@@ -12167,7 +12193,19 @@
       "https://www.capcut.com/template-detail/7533330731842522421",
       "https://www.capcut.com/template-detail/7444126033852321045",
       "https://www.capcut.com/template-detail/7575464722389306629",
-      "https://www.capcut.com/template-detail/7639796622330776853"
+      "https://www.capcut.com/template-detail/7639796622330776853",
+      "https://www.capcut.com/template-detail/7613449947458981136",
+      "https://www.capcut.com/template-detail/7582856536771300613",
+      "https://www.capcut.com/template-detail/7533330731842522421",
+      "https://www.capcut.com/template-detail/7574395599290633525",
+      "https://www.capcut.com/template-detail/7573721589477297425",
+      "https://www.capcut.com/template-detail/7287603367658982662",
+      "https://www.capcut.com/template-detail/7530039551377607997",
+      "https://www.capcut.com/template-detail/7641550081010797844",
+      "https://www.capcut.com/template-detail/7567912685145197877",
+      "https://www.capcut.com/template-detail/7444126033852321045",
+      "https://www.capcut.com/template-detail/7493918549925203253",
+      "https://www.capcut.com/template-detail/7635575278093356289"
     ]
   },
   "entities": {
@@ -16201,6 +16239,13 @@
             "title": "I'm So Sorry I Lied AI — Halloween Costume, Baby & Pet Photo Trend From One Photo",
             "first_seen": "2026-10-27T18:00:11.236061+00:00"
           }
+        ],
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/im-so-sorry-i-lied-ai-halloween-photo-trend",
+            "title": "I'm So Sorry I Lied AI Trend – Halloween Photo Generator",
+            "first_seen": "2026-10-29T00:00:11.106500+00:00"
+          }
         ]
       }
     },
@@ -16249,6 +16294,13 @@
             "url": "https://maketrendai.com/im-so-sorry-i-lied-ai",
             "title": "I'm So Sorry I Lied AI — Halloween Costume, Baby & Pet Photo Trend From One Photo",
             "first_seen": "2026-10-27T18:00:11.236123+00:00"
+          }
+        ],
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/im-so-sorry-i-lied-ai-halloween-photo-trend",
+            "title": "I'm So Sorry I Lied AI Trend – Halloween Photo Generator",
+            "first_seen": "2026-10-29T00:00:11.106507+00:00"
           }
         ]
       }
@@ -16354,6 +16406,13 @@
             "url": "https://maketrendai.com/im-so-sorry-i-lied-ai",
             "title": "I'm So Sorry I Lied AI — Halloween Costume, Baby & Pet Photo Trend From One Photo",
             "first_seen": "2026-10-27T18:00:11.236108+00:00"
+          }
+        ],
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/im-so-sorry-i-lied-ai-halloween-photo-trend",
+            "title": "I'm So Sorry I Lied AI Trend – Halloween Photo Generator",
+            "first_seen": "2026-10-29T00:00:11.106537+00:00"
           }
         ]
       }
@@ -18656,6 +18715,13 @@
             "url": "https://maketrendai.com/blog/how-to-make-dime-dime-baby-ai-video",
             "title": "How to Make the Dime Dime Baby AI Video: Be the BbY WOW Guy From One Photo | MakeTrend AI",
             "first_seen": "2026-10-28T00:00:09.742285+00:00"
+          }
+        ],
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/dime-dime-baby-ai-video-generator",
+            "title": "Dime Dime Baby AI Video Generator – BbY WOW Guy| Media.io",
+            "first_seen": "2026-10-29T00:00:11.756980+00:00"
           }
         ]
       }
@@ -27349,6 +27415,13 @@
             "title": "Dunk on My Friend AI: Middle Finger Dunk Over Your Friend",
             "first_seen": "2026-10-25T18:00:08.974267+00:00"
           }
+        ],
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/middle-finger-dunk-ai-video",
+            "title": "Middle Finger Dunk AI Video Generator – Viral AI Dunk Trend",
+            "first_seen": "2026-10-29T00:00:10.567891+00:00"
+          }
         ]
       }
     },
@@ -27535,6 +27608,13 @@
             "title": "Dunk on My Friend AI: Middle Finger Dunk Over Your Friend",
             "first_seen": "2026-10-25T18:00:08.974249+00:00"
           }
+        ],
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/middle-finger-dunk-ai-video",
+            "title": "Middle Finger Dunk AI Video Generator – Viral AI Dunk Trend",
+            "first_seen": "2026-10-29T00:00:10.567856+00:00"
+          }
         ]
       }
     },
@@ -27655,6 +27735,13 @@
             "url": "https://remakeyourmeme.com/dunk-on-my-friend-ai/",
             "title": "Dunk on My Friend AI: Middle Finger Dunk Over Your Friend",
             "first_seen": "2026-10-25T18:00:08.974239+00:00"
+          }
+        ],
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/middle-finger-dunk-ai-video",
+            "title": "Middle Finger Dunk AI Video Generator – Viral AI Dunk Trend",
+            "first_seen": "2026-10-29T00:00:10.567913+00:00"
           }
         ]
       }
@@ -28157,6 +28244,13 @@
             "title": "I'm So Sorry I Lied AI — Halloween Costume, Baby & Pet Photo Trend From One Photo",
             "first_seen": "2026-10-27T18:00:11.236093+00:00"
           }
+        ],
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/im-so-sorry-i-lied-ai-halloween-photo-trend",
+            "title": "I'm So Sorry I Lied AI Trend – Halloween Photo Generator",
+            "first_seen": "2026-10-29T00:00:11.106493+00:00"
+          }
         ]
       }
     },
@@ -28264,6 +28358,13 @@
             "title": "I'm So Sorry I Lied AI — Halloween Costume, Baby & Pet Photo Trend From One Photo",
             "first_seen": "2026-10-27T18:00:11.235993+00:00"
           }
+        ],
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/im-so-sorry-i-lied-ai-halloween-photo-trend",
+            "title": "I'm So Sorry I Lied AI Trend – Halloween Photo Generator",
+            "first_seen": "2026-10-29T00:00:11.106531+00:00"
+          }
         ]
       }
     },
@@ -28305,6 +28406,13 @@
             "url": "https://maketrendai.com/im-so-sorry-i-lied-ai",
             "title": "I'm So Sorry I Lied AI — Halloween Costume, Baby & Pet Photo Trend From One Photo",
             "first_seen": "2026-10-27T18:00:11.236138+00:00"
+          }
+        ],
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/im-so-sorry-i-lied-ai-halloween-photo-trend",
+            "title": "I'm So Sorry I Lied AI Trend – Halloween Photo Generator",
+            "first_seen": "2026-10-29T00:00:11.106479+00:00"
           }
         ]
       }
@@ -28360,6 +28468,13 @@
             "title": "I'm So Sorry I Lied AI — Halloween Costume, Baby & Pet Photo Trend From One Photo",
             "first_seen": "2026-10-27T18:00:11.236043+00:00"
           }
+        ],
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/im-so-sorry-i-lied-ai-halloween-photo-trend",
+            "title": "I'm So Sorry I Lied AI Trend – Halloween Photo Generator",
+            "first_seen": "2026-10-29T00:00:11.106519+00:00"
+          }
         ]
       }
     },
@@ -28413,6 +28528,13 @@
             "url": "https://maketrendai.com/im-so-sorry-i-lied-ai",
             "title": "I'm So Sorry I Lied AI — Halloween Costume, Baby & Pet Photo Trend From One Photo",
             "first_seen": "2026-10-27T18:00:11.236078+00:00"
+          }
+        ],
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/im-so-sorry-i-lied-ai-halloween-photo-trend",
+            "title": "I'm So Sorry I Lied AI Trend – Halloween Photo Generator",
+            "first_seen": "2026-10-29T00:00:11.106513+00:00"
           }
         ]
       }
@@ -33462,6 +33584,13 @@
             "title": "Choosin Texas",
             "first_seen": "2026-10-27T12:00:11.472356+00:00"
           }
+        ],
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/choosin-texas-emo-remix-ai-video",
+            "title": "Choosin Texas Emo Remix AI Video Generator – From Photo",
+            "first_seen": "2026-10-29T00:00:11.106301+00:00"
+          }
         ]
       }
     },
@@ -33769,6 +33898,13 @@
             "title": "How to Make Outstanding Tiny Desk AI Video | LightX",
             "first_seen": "2026-10-28T06:00:09.872800+00:00"
           }
+        ],
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/outstanding-tiny-desk-ai-tutorial",
+            "title": "Outstanding Tiny Desk AI Tutorial – How to Make the Tiny Desk ai Viral Video",
+            "first_seen": "2026-10-29T00:00:10.952250+00:00"
+          }
         ]
       }
     },
@@ -33853,6 +33989,11 @@
             "url": "https://www.media.io/ai/explore/zone/tiny-desk-ai-trend",
             "title": "Tiny Desk AI Trend – AI Concert Video Generator from Photo",
             "first_seen": "2026-10-28T18:00:08.620351+00:00"
+          },
+          {
+            "url": "https://www.media.io/ai/explore/zone/outstanding-tiny-desk-ai-tutorial",
+            "title": "Outstanding Tiny Desk AI Tutorial – How to Make the Tiny Desk ai Viral Video",
+            "first_seen": "2026-10-29T00:00:10.952285+00:00"
           }
         ]
       }
@@ -33927,6 +34068,13 @@
             "url": "https://www.lightxeditor.com/blog/blog-how-to-make-outstanding-tiny-desk-ai-video/",
             "title": "How to Make Outstanding Tiny Desk AI Video | LightX",
             "first_seen": "2026-10-28T06:00:09.872833+00:00"
+          }
+        ],
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/outstanding-tiny-desk-ai-tutorial",
+            "title": "Outstanding Tiny Desk AI Tutorial – How to Make the Tiny Desk ai Viral Video",
+            "first_seen": "2026-10-29T00:00:10.952309+00:00"
           }
         ]
       }
@@ -37922,6 +38070,11 @@
             "url": "https://www.media.io/comparison/viddo-ai.html",
             "title": "Viddo AI Review: Video Models, Credits & Alternatives",
             "first_seen": "2026-10-28T12:00:35.730660+00:00"
+          },
+          {
+            "url": "https://www.media.io/comparison/xmk-ai.html",
+            "title": "XMK AI Review: Video Models, Credit Pricing & Value",
+            "first_seen": "2026-10-29T00:00:09.973957+00:00"
           }
         ]
       }
@@ -40208,6 +40361,1281 @@
             "url": "https://www.getstarrd.app/blog/how-to-make-gangnam-style-ai-video",
             "title": "How to Make the Gangnam Style AI Video With 3 Friends (2026)",
             "first_seen": "2026-10-28T18:00:10.014671+00:00"
+          }
+        ]
+      }
+    },
+    "dojo ai review": {
+      "first_seen": "2026-10-29T00:00:09.935156+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/pixeldojo-ai.html",
+            "title": "PixelDojo AI Review: Is It Worth It for Images & Video?",
+            "first_seen": "2026-10-29T00:00:09.935156+00:00"
+          }
+        ]
+      }
+    },
+    "pixel dojo": {
+      "first_seen": "2026-10-29T00:00:09.935190+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/pixeldojo-ai.html",
+            "title": "PixelDojo AI Review: Is It Worth It for Images & Video?",
+            "first_seen": "2026-10-29T00:00:09.935190+00:00"
+          }
+        ]
+      }
+    },
+    "pixel dojo ai review": {
+      "first_seen": "2026-10-29T00:00:09.935198+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/pixeldojo-ai.html",
+            "title": "PixelDojo AI Review: Is It Worth It for Images & Video?",
+            "first_seen": "2026-10-29T00:00:09.935198+00:00"
+          }
+        ]
+      }
+    },
+    "review is worth": {
+      "first_seen": "2026-10-29T00:00:09.935205+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/pixeldojo-ai.html",
+            "title": "PixelDojo AI Review: Is It Worth It for Images & Video?",
+            "first_seen": "2026-10-29T00:00:09.935205+00:00"
+          }
+        ]
+      }
+    },
+    "models credit pricing": {
+      "first_seen": "2026-10-29T00:00:09.973906+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/xmk-ai.html",
+            "title": "XMK AI Review: Video Models, Credit Pricing & Value",
+            "first_seen": "2026-10-29T00:00:09.973906+00:00"
+          }
+        ]
+      }
+    },
+    "review video models credit": {
+      "first_seen": "2026-10-29T00:00:09.973942+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/xmk-ai.html",
+            "title": "XMK AI Review: Video Models, Credit Pricing & Value",
+            "first_seen": "2026-10-29T00:00:09.973942+00:00"
+          }
+        ]
+      }
+    },
+    "credit pricing": {
+      "first_seen": "2026-10-29T00:00:09.973951+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/xmk-ai.html",
+            "title": "XMK AI Review: Video Models, Credit Pricing & Value",
+            "first_seen": "2026-10-29T00:00:09.973951+00:00"
+          }
+        ]
+      }
+    },
+    "models credit pricing value": {
+      "first_seen": "2026-10-29T00:00:09.973965+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/xmk-ai.html",
+            "title": "XMK AI Review: Video Models, Credit Pricing & Value",
+            "first_seen": "2026-10-29T00:00:09.973965+00:00"
+          }
+        ]
+      }
+    },
+    "pricing value": {
+      "first_seen": "2026-10-29T00:00:09.973972+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/xmk-ai.html",
+            "title": "XMK AI Review: Video Models, Credit Pricing & Value",
+            "first_seen": "2026-10-29T00:00:09.973972+00:00"
+          }
+        ]
+      }
+    },
+    "xmk ai review": {
+      "first_seen": "2026-10-29T00:00:09.973978+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/xmk-ai.html",
+            "title": "XMK AI Review: Video Models, Credit Pricing & Value",
+            "first_seen": "2026-10-29T00:00:09.973978+00:00"
+          }
+        ]
+      }
+    },
+    "credit pricing value": {
+      "first_seen": "2026-10-29T00:00:09.973985+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/xmk-ai.html",
+            "title": "XMK AI Review: Video Models, Credit Pricing & Value",
+            "first_seen": "2026-10-29T00:00:09.973985+00:00"
+          }
+        ]
+      }
+    },
+    "models credit": {
+      "first_seen": "2026-10-29T00:00:09.973992+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/xmk-ai.html",
+            "title": "XMK AI Review: Video Models, Credit Pricing & Value",
+            "first_seen": "2026-10-29T00:00:09.973992+00:00"
+          }
+        ]
+      }
+    },
+    "2026 japan vs": {
+      "first_seen": "2026-10-29T00:00:10.015349+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/events/2026-japan-vs-france-twitter-war",
+            "title": "2026 Japan vs. France Twitter War | Know Your Meme",
+            "first_seen": "2026-10-29T00:00:10.015349+00:00"
+          }
+        ]
+      }
+    },
+    "2026 japan vs france": {
+      "first_seen": "2026-10-29T00:00:10.015384+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/events/2026-japan-vs-france-twitter-war",
+            "title": "2026 Japan vs. France Twitter War | Know Your Meme",
+            "first_seen": "2026-10-29T00:00:10.015384+00:00"
+          }
+        ]
+      }
+    },
+    "japan vs france twitter": {
+      "first_seen": "2026-10-29T00:00:10.015392+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/events/2026-japan-vs-france-twitter-war",
+            "title": "2026 Japan vs. France Twitter War | Know Your Meme",
+            "first_seen": "2026-10-29T00:00:10.015392+00:00"
+          }
+        ]
+      }
+    },
+    "japan vs france": {
+      "first_seen": "2026-10-29T00:00:10.015400+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/events/2026-japan-vs-france-twitter-war",
+            "title": "2026 Japan vs. France Twitter War | Know Your Meme",
+            "first_seen": "2026-10-29T00:00:10.015400+00:00"
+          }
+        ]
+      }
+    },
+    "2026 japan": {
+      "first_seen": "2026-10-29T00:00:10.015406+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/events/2026-japan-vs-france-twitter-war",
+            "title": "2026 Japan vs. France Twitter War | Know Your Meme",
+            "first_seen": "2026-10-29T00:00:10.015406+00:00"
+          }
+        ]
+      }
+    },
+    "vs france twitter war": {
+      "first_seen": "2026-10-29T00:00:10.015412+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/events/2026-japan-vs-france-twitter-war",
+            "title": "2026 Japan vs. France Twitter War | Know Your Meme",
+            "first_seen": "2026-10-29T00:00:10.015412+00:00"
+          }
+        ]
+      }
+    },
+    "vs france twitter": {
+      "first_seen": "2026-10-29T00:00:10.015418+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/events/2026-japan-vs-france-twitter-war",
+            "title": "2026 Japan vs. France Twitter War | Know Your Meme",
+            "first_seen": "2026-10-29T00:00:10.015418+00:00"
+          }
+        ]
+      }
+    },
+    "japan vs": {
+      "first_seen": "2026-10-29T00:00:10.015425+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/events/2026-japan-vs-france-twitter-war",
+            "title": "2026 Japan vs. France Twitter War | Know Your Meme",
+            "first_seen": "2026-10-29T00:00:10.015425+00:00"
+          }
+        ]
+      }
+    },
+    "twitter war": {
+      "first_seen": "2026-10-29T00:00:10.015478+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/events/2026-japan-vs-france-twitter-war",
+            "title": "2026 Japan vs. France Twitter War | Know Your Meme",
+            "first_seen": "2026-10-29T00:00:10.015478+00:00"
+          }
+        ]
+      }
+    },
+    "france twitter": {
+      "first_seen": "2026-10-29T00:00:10.015486+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/events/2026-japan-vs-france-twitter-war",
+            "title": "2026 Japan vs. France Twitter War | Know Your Meme",
+            "first_seen": "2026-10-29T00:00:10.015486+00:00"
+          }
+        ]
+      }
+    },
+    "vs france": {
+      "first_seen": "2026-10-29T00:00:10.015495+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/events/2026-japan-vs-france-twitter-war",
+            "title": "2026 Japan vs. France Twitter War | Know Your Meme",
+            "first_seen": "2026-10-29T00:00:10.015495+00:00"
+          }
+        ]
+      }
+    },
+    "france twitter war": {
+      "first_seen": "2026-10-29T00:00:10.015507+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/events/2026-japan-vs-france-twitter-war",
+            "title": "2026 Japan vs. France Twitter War | Know Your Meme",
+            "first_seen": "2026-10-29T00:00:10.015507+00:00"
+          }
+        ]
+      }
+    },
+    "personal models photos pricing": {
+      "first_seen": "2026-10-29T00:00:10.044920+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/photogpt-ai.html",
+            "title": "PhotoGPT AI Review: Personal Models, Photos & Pricing",
+            "first_seen": "2026-10-29T00:00:10.044920+00:00"
+          }
+        ]
+      }
+    },
+    "gpt ai review": {
+      "first_seen": "2026-10-29T00:00:10.044955+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/photogpt-ai.html",
+            "title": "PhotoGPT AI Review: Personal Models, Photos & Pricing",
+            "first_seen": "2026-10-29T00:00:10.044955+00:00"
+          }
+        ]
+      }
+    },
+    "review personal models": {
+      "first_seen": "2026-10-29T00:00:10.044963+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/photogpt-ai.html",
+            "title": "PhotoGPT AI Review: Personal Models, Photos & Pricing",
+            "first_seen": "2026-10-29T00:00:10.044963+00:00"
+          }
+        ]
+      }
+    },
+    "models photos pricing": {
+      "first_seen": "2026-10-29T00:00:10.044969+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/photogpt-ai.html",
+            "title": "PhotoGPT AI Review: Personal Models, Photos & Pricing",
+            "first_seen": "2026-10-29T00:00:10.044969+00:00"
+          }
+        ]
+      }
+    },
+    "review personal": {
+      "first_seen": "2026-10-29T00:00:10.044976+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/photogpt-ai.html",
+            "title": "PhotoGPT AI Review: Personal Models, Photos & Pricing",
+            "first_seen": "2026-10-29T00:00:10.044976+00:00"
+          }
+        ]
+      }
+    },
+    "personal models": {
+      "first_seen": "2026-10-29T00:00:10.044983+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/photogpt-ai.html",
+            "title": "PhotoGPT AI Review: Personal Models, Photos & Pricing",
+            "first_seen": "2026-10-29T00:00:10.044983+00:00"
+          }
+        ]
+      }
+    },
+    "gpt ai review personal": {
+      "first_seen": "2026-10-29T00:00:10.044989+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/photogpt-ai.html",
+            "title": "PhotoGPT AI Review: Personal Models, Photos & Pricing",
+            "first_seen": "2026-10-29T00:00:10.044989+00:00"
+          }
+        ]
+      }
+    },
+    "profile pics vs": {
+      "first_seen": "2026-10-29T00:00:10.093207+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/pfpmaker.html",
+            "title": "PFPMaker Review: Free Profile Pics vs AI Headshots",
+            "first_seen": "2026-10-29T00:00:10.093207+00:00"
+          }
+        ]
+      }
+    },
+    "pfpmaker review": {
+      "first_seen": "2026-10-29T00:00:10.093240+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/pfpmaker.html",
+            "title": "PFPMaker Review: Free Profile Pics vs AI Headshots",
+            "first_seen": "2026-10-29T00:00:10.093240+00:00"
+          }
+        ]
+      }
+    },
+    "pfpmaker review free profile": {
+      "first_seen": "2026-10-29T00:00:10.093248+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/pfpmaker.html",
+            "title": "PFPMaker Review: Free Profile Pics vs AI Headshots",
+            "first_seen": "2026-10-29T00:00:10.093248+00:00"
+          }
+        ]
+      }
+    },
+    "review free profile": {
+      "first_seen": "2026-10-29T00:00:10.093255+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/pfpmaker.html",
+            "title": "PFPMaker Review: Free Profile Pics vs AI Headshots",
+            "first_seen": "2026-10-29T00:00:10.093255+00:00"
+          }
+        ]
+      }
+    },
+    "vs ai headshots": {
+      "first_seen": "2026-10-29T00:00:10.093261+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/pfpmaker.html",
+            "title": "PFPMaker Review: Free Profile Pics vs AI Headshots",
+            "first_seen": "2026-10-29T00:00:10.093261+00:00"
+          }
+        ]
+      }
+    },
+    "review anime art roleplay": {
+      "first_seen": "2026-10-29T00:00:10.137369+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/moescape-ai.html",
+            "title": "Moescape AI Review: Anime Art, Roleplay & Mochi Costs",
+            "first_seen": "2026-10-29T00:00:10.137369+00:00"
+          }
+        ]
+      }
+    },
+    "mochi costs": {
+      "first_seen": "2026-10-29T00:00:10.137405+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/moescape-ai.html",
+            "title": "Moescape AI Review: Anime Art, Roleplay & Mochi Costs",
+            "first_seen": "2026-10-29T00:00:10.137405+00:00"
+          }
+        ]
+      }
+    },
+    "anime art roleplay": {
+      "first_seen": "2026-10-29T00:00:10.137413+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/moescape-ai.html",
+            "title": "Moescape AI Review: Anime Art, Roleplay & Mochi Costs",
+            "first_seen": "2026-10-29T00:00:10.137413+00:00"
+          }
+        ]
+      }
+    },
+    "review anime art": {
+      "first_seen": "2026-10-29T00:00:10.137420+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/moescape-ai.html",
+            "title": "Moescape AI Review: Anime Art, Roleplay & Mochi Costs",
+            "first_seen": "2026-10-29T00:00:10.137420+00:00"
+          }
+        ]
+      }
+    },
+    "anime art roleplay mochi": {
+      "first_seen": "2026-10-29T00:00:10.137426+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/moescape-ai.html",
+            "title": "Moescape AI Review: Anime Art, Roleplay & Mochi Costs",
+            "first_seen": "2026-10-29T00:00:10.137426+00:00"
+          }
+        ]
+      }
+    },
+    "art roleplay": {
+      "first_seen": "2026-10-29T00:00:10.137433+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/moescape-ai.html",
+            "title": "Moescape AI Review: Anime Art, Roleplay & Mochi Costs",
+            "first_seen": "2026-10-29T00:00:10.137433+00:00"
+          }
+        ]
+      }
+    },
+    "roleplay mochi": {
+      "first_seen": "2026-10-29T00:00:10.137439+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/moescape-ai.html",
+            "title": "Moescape AI Review: Anime Art, Roleplay & Mochi Costs",
+            "first_seen": "2026-10-29T00:00:10.137439+00:00"
+          }
+        ]
+      }
+    },
+    "anime art": {
+      "first_seen": "2026-10-29T00:00:10.137445+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/moescape-ai.html",
+            "title": "Moescape AI Review: Anime Art, Roleplay & Mochi Costs",
+            "first_seen": "2026-10-29T00:00:10.137445+00:00"
+          }
+        ]
+      }
+    },
+    "review anime": {
+      "first_seen": "2026-10-29T00:00:10.137452+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/moescape-ai.html",
+            "title": "Moescape AI Review: Anime Art, Roleplay & Mochi Costs",
+            "first_seen": "2026-10-29T00:00:10.137452+00:00"
+          }
+        ]
+      }
+    },
+    "moescape ai review anime": {
+      "first_seen": "2026-10-29T00:00:10.137457+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/moescape-ai.html",
+            "title": "Moescape AI Review: Anime Art, Roleplay & Mochi Costs",
+            "first_seen": "2026-10-29T00:00:10.137457+00:00"
+          }
+        ]
+      }
+    },
+    "art roleplay mochi costs": {
+      "first_seen": "2026-10-29T00:00:10.137463+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/moescape-ai.html",
+            "title": "Moescape AI Review: Anime Art, Roleplay & Mochi Costs",
+            "first_seen": "2026-10-29T00:00:10.137463+00:00"
+          }
+        ]
+      }
+    },
+    "moescape ai review": {
+      "first_seen": "2026-10-29T00:00:10.137469+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/moescape-ai.html",
+            "title": "Moescape AI Review: Anime Art, Roleplay & Mochi Costs",
+            "first_seen": "2026-10-29T00:00:10.137469+00:00"
+          }
+        ]
+      }
+    },
+    "roleplay mochi costs": {
+      "first_seen": "2026-10-29T00:00:10.137475+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/moescape-ai.html",
+            "title": "Moescape AI Review: Anime Art, Roleplay & Mochi Costs",
+            "first_seen": "2026-10-29T00:00:10.137475+00:00"
+          }
+        ]
+      }
+    },
+    "art roleplay mochi": {
+      "first_seen": "2026-10-29T00:00:10.137481+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/moescape-ai.html",
+            "title": "Moescape AI Review: Anime Art, Roleplay & Mochi Costs",
+            "first_seen": "2026-10-29T00:00:10.137481+00:00"
+          }
+        ]
+      }
+    },
+    "review seedance video references": {
+      "first_seen": "2026-10-29T00:00:10.146049+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/jxp-ai.html",
+            "title": "JXP AI Review: Seedance Video, References & Pricing",
+            "first_seen": "2026-10-29T00:00:10.146049+00:00"
+          }
+        ]
+      }
+    },
+    "seedance video references": {
+      "first_seen": "2026-10-29T00:00:10.146086+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/jxp-ai.html",
+            "title": "JXP AI Review: Seedance Video, References & Pricing",
+            "first_seen": "2026-10-29T00:00:10.146086+00:00"
+          }
+        ]
+      }
+    },
+    "seedance video references pricing": {
+      "first_seen": "2026-10-29T00:00:10.146094+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/jxp-ai.html",
+            "title": "JXP AI Review: Seedance Video, References & Pricing",
+            "first_seen": "2026-10-29T00:00:10.146094+00:00"
+          }
+        ]
+      }
+    },
+    "jxp ai review seedance": {
+      "first_seen": "2026-10-29T00:00:10.146102+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/jxp-ai.html",
+            "title": "JXP AI Review: Seedance Video, References & Pricing",
+            "first_seen": "2026-10-29T00:00:10.146102+00:00"
+          }
+        ]
+      }
+    },
+    "review seedance": {
+      "first_seen": "2026-10-29T00:00:10.146108+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/jxp-ai.html",
+            "title": "JXP AI Review: Seedance Video, References & Pricing",
+            "first_seen": "2026-10-29T00:00:10.146108+00:00"
+          }
+        ]
+      }
+    },
+    "jxp ai review": {
+      "first_seen": "2026-10-29T00:00:10.146114+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/jxp-ai.html",
+            "title": "JXP AI Review: Seedance Video, References & Pricing",
+            "first_seen": "2026-10-29T00:00:10.146114+00:00"
+          }
+        ]
+      }
+    },
+    "references pricing": {
+      "first_seen": "2026-10-29T00:00:10.146120+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/jxp-ai.html",
+            "title": "JXP AI Review: Seedance Video, References & Pricing",
+            "first_seen": "2026-10-29T00:00:10.146120+00:00"
+          }
+        ]
+      }
+    },
+    "updream ai review": {
+      "first_seen": "2026-10-29T00:00:10.227290+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/updream-ai.html",
+            "title": "Updream AI Review: Agent, Storyboards & Video Models",
+            "first_seen": "2026-10-29T00:00:10.227290+00:00"
+          }
+        ]
+      }
+    },
+    "review agent storyboards": {
+      "first_seen": "2026-10-29T00:00:10.227337+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/updream-ai.html",
+            "title": "Updream AI Review: Agent, Storyboards & Video Models",
+            "first_seen": "2026-10-29T00:00:10.227337+00:00"
+          }
+        ]
+      }
+    },
+    "agent storyboards": {
+      "first_seen": "2026-10-29T00:00:10.227353+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/updream-ai.html",
+            "title": "Updream AI Review: Agent, Storyboards & Video Models",
+            "first_seen": "2026-10-29T00:00:10.227353+00:00"
+          }
+        ]
+      }
+    },
+    "agent storyboards video models": {
+      "first_seen": "2026-10-29T00:00:10.227367+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/updream-ai.html",
+            "title": "Updream AI Review: Agent, Storyboards & Video Models",
+            "first_seen": "2026-10-29T00:00:10.227367+00:00"
+          }
+        ]
+      }
+    },
+    "review agent": {
+      "first_seen": "2026-10-29T00:00:10.227379+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/updream-ai.html",
+            "title": "Updream AI Review: Agent, Storyboards & Video Models",
+            "first_seen": "2026-10-29T00:00:10.227379+00:00"
+          }
+        ]
+      }
+    },
+    "updream ai review agent": {
+      "first_seen": "2026-10-29T00:00:10.227393+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/updream-ai.html",
+            "title": "Updream AI Review: Agent, Storyboards & Video Models",
+            "first_seen": "2026-10-29T00:00:10.227393+00:00"
+          }
+        ]
+      }
+    },
+    "storyboards video models": {
+      "first_seen": "2026-10-29T00:00:10.227407+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/updream-ai.html",
+            "title": "Updream AI Review: Agent, Storyboards & Video Models",
+            "first_seen": "2026-10-29T00:00:10.227407+00:00"
+          }
+        ]
+      }
+    },
+    "a1 art review": {
+      "first_seen": "2026-10-29T00:00:10.285483+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/a1-art.html",
+            "title": "a1.art Review: AI Filters, Free Credits & Video Apps",
+            "first_seen": "2026-10-29T00:00:10.285483+00:00"
+          }
+        ]
+      }
+    },
+    "a1 art": {
+      "first_seen": "2026-10-29T00:00:10.285534+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/a1-art.html",
+            "title": "a1.art Review: AI Filters, Free Credits & Video Apps",
+            "first_seen": "2026-10-29T00:00:10.285534+00:00"
+          }
+        ]
+      }
+    },
+    "art review": {
+      "first_seen": "2026-10-29T00:00:10.285549+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/a1-art.html",
+            "title": "a1.art Review: AI Filters, Free Credits & Video Apps",
+            "first_seen": "2026-10-29T00:00:10.285549+00:00"
+          }
+        ]
+      }
+    },
+    "fetra ai review": {
+      "first_seen": "2026-10-29T00:00:10.369024+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/fetra-ai.html",
+            "title": "Fetra AI Review: AI Director, Viral Remix & Pricing",
+            "first_seen": "2026-10-29T00:00:10.369024+00:00"
+          }
+        ]
+      }
+    },
+    "review ai director": {
+      "first_seen": "2026-10-29T00:00:10.369064+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/fetra-ai.html",
+            "title": "Fetra AI Review: AI Director, Viral Remix & Pricing",
+            "first_seen": "2026-10-29T00:00:10.369064+00:00"
+          }
+        ]
+      }
+    },
+    "director viral remix pricing": {
+      "first_seen": "2026-10-29T00:00:10.369072+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/fetra-ai.html",
+            "title": "Fetra AI Review: AI Director, Viral Remix & Pricing",
+            "first_seen": "2026-10-29T00:00:10.369072+00:00"
+          }
+        ]
+      }
+    },
+    "remix pricing": {
+      "first_seen": "2026-10-29T00:00:10.369078+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/fetra-ai.html",
+            "title": "Fetra AI Review: AI Director, Viral Remix & Pricing",
+            "first_seen": "2026-10-29T00:00:10.369078+00:00"
+          }
+        ]
+      }
+    },
+    "director viral remix": {
+      "first_seen": "2026-10-29T00:00:10.369085+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/fetra-ai.html",
+            "title": "Fetra AI Review: AI Director, Viral Remix & Pricing",
+            "first_seen": "2026-10-29T00:00:10.369085+00:00"
+          }
+        ]
+      }
+    },
+    "transmission 5": {
+      "first_seen": "2026-10-29T00:00:10.426716+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/transmission-5-dance-ai-video",
+            "title": "Transmission 5 Dance AI Video Generator – Solo & Duo Trend",
+            "first_seen": "2026-10-29T00:00:10.426716+00:00"
+          }
+        ]
+      }
+    },
+    "kda firestarter": {
+      "first_seen": "2026-10-29T00:00:10.469550+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/kda-firestarter-dance-ai-video",
+            "title": "K/DA FIRESTARTER Dance AI Video Generator – From Photo",
+            "first_seen": "2026-10-29T00:00:10.469550+00:00"
+          }
+        ]
+      }
+    },
+    "da firestarter": {
+      "first_seen": "2026-10-29T00:00:10.469584+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/kda-firestarter-dance-ai-video",
+            "title": "K/DA FIRESTARTER Dance AI Video Generator – From Photo",
+            "first_seen": "2026-10-29T00:00:10.469584+00:00"
+          }
+        ]
+      }
+    },
+    "k da firestarter": {
+      "first_seen": "2026-10-29T00:00:10.469591+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/kda-firestarter-dance-ai-video",
+            "title": "K/DA FIRESTARTER Dance AI Video Generator – From Photo",
+            "first_seen": "2026-10-29T00:00:10.469591+00:00"
+          }
+        ]
+      }
+    },
+    "diwali instagram profile": {
+      "first_seen": "2026-10-29T00:00:11.032626+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/diwali-instagram-profile-cleaning-ai-trend",
+            "title": "Diwali Instagram Profile Cleaning AI Video Generator & Prompts | Media.io",
+            "first_seen": "2026-10-29T00:00:11.032626+00:00"
+          }
+        ]
+      }
+    },
+    "profile cleaning": {
+      "first_seen": "2026-10-29T00:00:11.032672+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/diwali-instagram-profile-cleaning-ai-trend",
+            "title": "Diwali Instagram Profile Cleaning AI Video Generator & Prompts | Media.io",
+            "first_seen": "2026-10-29T00:00:11.032672+00:00"
+          }
+        ]
+      }
+    },
+    "diwali instagram profile cleaning": {
+      "first_seen": "2026-10-29T00:00:11.032680+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/diwali-instagram-profile-cleaning-ai-trend",
+            "title": "Diwali Instagram Profile Cleaning AI Video Generator & Prompts | Media.io",
+            "first_seen": "2026-10-29T00:00:11.032680+00:00"
+          }
+        ]
+      }
+    },
+    "texas emo remix": {
+      "first_seen": "2026-10-29T00:00:11.106244+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/choosin-texas-emo-remix-ai-video",
+            "title": "Choosin Texas Emo Remix AI Video Generator – From Photo",
+            "first_seen": "2026-10-29T00:00:11.106244+00:00"
+          }
+        ]
+      }
+    },
+    "choosin texas emo remix": {
+      "first_seen": "2026-10-29T00:00:11.106280+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/choosin-texas-emo-remix-ai-video",
+            "title": "Choosin Texas Emo Remix AI Video Generator – From Photo",
+            "first_seen": "2026-10-29T00:00:11.106280+00:00"
+          }
+        ]
+      }
+    },
+    "texas emo": {
+      "first_seen": "2026-10-29T00:00:11.106288+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/choosin-texas-emo-remix-ai-video",
+            "title": "Choosin Texas Emo Remix AI Video Generator – From Photo",
+            "first_seen": "2026-10-29T00:00:11.106288+00:00"
+          }
+        ]
+      }
+    },
+    "emo remix": {
+      "first_seen": "2026-10-29T00:00:11.106294+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/choosin-texas-emo-remix-ai-video",
+            "title": "Choosin Texas Emo Remix AI Video Generator – From Photo",
+            "first_seen": "2026-10-29T00:00:11.106294+00:00"
+          }
+        ]
+      }
+    },
+    "choosin texas emo": {
+      "first_seen": "2026-10-29T00:00:11.106308+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/choosin-texas-emo-remix-ai-video",
+            "title": "Choosin Texas Emo Remix AI Video Generator – From Photo",
+            "first_seen": "2026-10-29T00:00:11.106308+00:00"
+          }
+        ]
+      }
+    },
+    "lied ai halloween": {
+      "first_seen": "2026-10-29T00:00:11.106525+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/im-so-sorry-i-lied-ai-halloween-photo-trend",
+            "title": "I'm So Sorry I Lied AI Trend – Halloween Photo Generator",
+            "first_seen": "2026-10-29T00:00:11.106525+00:00"
+          }
+        ]
+      }
+    },
+    "i lied ai halloween": {
+      "first_seen": "2026-10-29T00:00:11.106544+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/im-so-sorry-i-lied-ai-halloween-photo-trend",
+            "title": "I'm So Sorry I Lied AI Trend – Halloween Photo Generator",
+            "first_seen": "2026-10-29T00:00:11.106544+00:00"
+          }
+        ]
+      }
+    },
+    "shaking head": {
+      "first_seen": "2026-10-29T00:00:11.115333+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/shaking-head-ai-trend",
+            "title": "Shaking Head AI Trend Video Generator & Prompts | Media.io",
+            "first_seen": "2026-10-29T00:00:11.115333+00:00"
+          }
+        ]
+      }
+    },
+    "mirror panther": {
+      "first_seen": "2026-10-29T00:00:11.144714+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/effect/create/mirror-panther-ai-video",
+            "title": "Mirror Panther AI Video Generator – Black Panther Mirror Trend",
+            "first_seen": "2026-10-29T00:00:11.144714+00:00"
+          }
+        ]
+      }
+    },
+    "heart ai crying": {
+      "first_seen": "2026-10-29T00:00:11.716081+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/effect/create/deep-down-in-my-heart-ai-crying-video",
+            "title": "Deep Down in My Heart AI Crying Video Generator",
+            "first_seen": "2026-10-29T00:00:11.716081+00:00"
+          }
+        ]
+      }
+    },
+    "ready ai video 2026": {
+      "first_seen": "2026-10-29T00:00:12.386804+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-cardo-dinner-ai-video",
+            "title": "How to Make the 'Cardo, Your Dinner Is Ready' AI Video (2026)",
+            "first_seen": "2026-10-29T00:00:12.386804+00:00"
+          }
+        ]
+      }
+    },
+    "dinner is ready": {
+      "first_seen": "2026-10-29T00:00:12.386854+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-cardo-dinner-ai-video",
+            "title": "How to Make the 'Cardo, Your Dinner Is Ready' AI Video (2026)",
+            "first_seen": "2026-10-29T00:00:12.386854+00:00"
+          },
+          {
+            "url": "https://www.getstarrd.app/template/cardo-dinner-ai-video",
+            "title": "Cardo, Your Dinner Is Ready — AI Video Template | Starrd",
+            "first_seen": "2026-10-29T00:00:13.310633+00:00"
+          }
+        ]
+      }
+    },
+    "cardo your dinner": {
+      "first_seen": "2026-10-29T00:00:12.386872+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-cardo-dinner-ai-video",
+            "title": "How to Make the 'Cardo, Your Dinner Is Ready' AI Video (2026)",
+            "first_seen": "2026-10-29T00:00:12.386872+00:00"
+          },
+          {
+            "url": "https://www.getstarrd.app/template/cardo-dinner-ai-video",
+            "title": "Cardo, Your Dinner Is Ready — AI Video Template | Starrd",
+            "first_seen": "2026-10-29T00:00:13.310694+00:00"
+          }
+        ]
+      }
+    },
+    "cardo dinner": {
+      "first_seen": "2026-10-29T00:00:12.386886+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-cardo-dinner-ai-video",
+            "title": "How to Make the 'Cardo, Your Dinner Is Ready' AI Video (2026)",
+            "first_seen": "2026-10-29T00:00:12.386886+00:00"
+          },
+          {
+            "url": "https://www.getstarrd.app/template/cardo-dinner-ai-video",
+            "title": "Cardo, Your Dinner Is Ready — AI Video Template | Starrd",
+            "first_seen": "2026-10-29T00:00:13.310703+00:00"
+          }
+        ]
+      }
+    },
+    "meet trend 2026": {
+      "first_seen": "2026-10-29T00:00:12.427868+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-mop-dance-ai-video",
+            "title": "How to Make the Mop Dance AI Video (Car Meet Trend, 2026)",
+            "first_seen": "2026-10-29T00:00:12.427868+00:00"
+          }
+        ]
+      }
+    },
+    "car meet trend 2026": {
+      "first_seen": "2026-10-29T00:00:12.427912+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-mop-dance-ai-video",
+            "title": "How to Make the Mop Dance AI Video (Car Meet Trend, 2026)",
+            "first_seen": "2026-10-29T00:00:12.427912+00:00"
+          }
+        ]
+      }
+    },
+    "car meet": {
+      "first_seen": "2026-10-29T00:00:12.427924+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-mop-dance-ai-video",
+            "title": "How to Make the Mop Dance AI Video (Car Meet Trend, 2026)",
+            "first_seen": "2026-10-29T00:00:12.427924+00:00"
+          }
+        ]
+      }
+    },
+    "producer jay thomas manuel": {
+      "first_seen": "2026-10-29T00:00:12.740060+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/people/mini-producer-jay-thomas-manuel",
+            "title": "Mini Producer / Jay Thomas Manuel | Know Your Meme",
+            "first_seen": "2026-10-29T00:00:12.740060+00:00"
+          }
+        ]
+      }
+    },
+    "producer jay thomas": {
+      "first_seen": "2026-10-29T00:00:12.740102+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/people/mini-producer-jay-thomas-manuel",
+            "title": "Mini Producer / Jay Thomas Manuel | Know Your Meme",
+            "first_seen": "2026-10-29T00:00:12.740102+00:00"
+          }
+        ]
+      }
+    },
+    "jay thomas": {
+      "first_seen": "2026-10-29T00:00:12.740110+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/people/mini-producer-jay-thomas-manuel",
+            "title": "Mini Producer / Jay Thomas Manuel | Know Your Meme",
+            "first_seen": "2026-10-29T00:00:12.740110+00:00"
+          }
+        ]
+      }
+    },
+    "producer jay": {
+      "first_seen": "2026-10-29T00:00:12.740117+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/people/mini-producer-jay-thomas-manuel",
+            "title": "Mini Producer / Jay Thomas Manuel | Know Your Meme",
+            "first_seen": "2026-10-29T00:00:12.740117+00:00"
+          }
+        ]
+      }
+    },
+    "mini producer jay thomas": {
+      "first_seen": "2026-10-29T00:00:12.740124+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/people/mini-producer-jay-thomas-manuel",
+            "title": "Mini Producer / Jay Thomas Manuel | Know Your Meme",
+            "first_seen": "2026-10-29T00:00:12.740124+00:00"
+          }
+        ]
+      }
+    },
+    "jay thomas manuel": {
+      "first_seen": "2026-10-29T00:00:12.740131+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/people/mini-producer-jay-thomas-manuel",
+            "title": "Mini Producer / Jay Thomas Manuel | Know Your Meme",
+            "first_seen": "2026-10-29T00:00:12.740131+00:00"
+          }
+        ]
+      }
+    },
+    "thomas manuel": {
+      "first_seen": "2026-10-29T00:00:12.740146+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/people/mini-producer-jay-thomas-manuel",
+            "title": "Mini Producer / Jay Thomas Manuel | Know Your Meme",
+            "first_seen": "2026-10-29T00:00:12.740146+00:00"
+          }
+        ]
+      }
+    },
+    "mini producer": {
+      "first_seen": "2026-10-29T00:00:12.740155+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/people/mini-producer-jay-thomas-manuel",
+            "title": "Mini Producer / Jay Thomas Manuel | Know Your Meme",
+            "first_seen": "2026-10-29T00:00:12.740155+00:00"
+          }
+        ]
+      }
+    },
+    "mini producer jay": {
+      "first_seen": "2026-10-29T00:00:12.740169+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/people/mini-producer-jay-thomas-manuel",
+            "title": "Mini Producer / Jay Thomas Manuel | Know Your Meme",
+            "first_seen": "2026-10-29T00:00:12.740169+00:00"
           }
         ]
       }
