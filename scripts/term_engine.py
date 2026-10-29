@@ -165,7 +165,7 @@ def detect_collisions(
         "first_seen": "2026-10-20T08:00:00",
         "domains": {
           "knowyourmeme.com": [{"url": "...", "title": "...", "first_seen": "..."}],
-          "aptvideoai.com": [{"url": "...", "title": "...", "first_seen": "..."}]
+          "maketrendai.com": [{"url": "...", "title": "...", "first_seen": "..."}]
         }
       }
     }

@@ -624,9 +624,9 @@ def main():
                     "first_seen": datetime.now(timezone.utc).astimezone(BEIJING_TZ).strftime("%Y-%m-%d %H:%M")
                 },
                 {
-                    "source_name": "APT Video AI",
-                    "domain": "aptvideoai.com",
-                    "url": "https://aptvideoai.com/banana-tree-run-ai",
+                    "source_name": "MakeTrend AI (原 APT Video AI)",
+                    "domain": "maketrendai.com",
+                    "url": "https://maketrendai.com/banana-tree-run-ai",
                     "title": "Banana Tree Run AI Video Generator | Single Photo to Parkour Clip",
                     "description": "Upload a photo and generate a viral 9:16 vertical video running across banana tree tops. Multi-language landing page.",
                     "entities": ["banana tree run", "ai video generator"]
@@ -676,14 +676,14 @@ def main():
                 {
                     "term": "banana tree run",
                     "domains_count": 2,
-                    "domains": ["knowyourmeme.com", "aptvideoai.com"],
+                    "domains": ["knowyourmeme.com", "maketrendai.com"],
                     "collision_type": "meme_to_product",
                     "confidence": "high",
                     "has_meme_origin": True,
                     "first_seen": datetime.now(timezone.utc).isoformat()[:10],
                     "sample_urls": [
                         {"domain": "knowyourmeme.com", "url": "https://knowyourmeme.com/memes/banana-tree-run", "title": "Banana Tree Run Meme"},
-                        {"domain": "aptvideoai.com", "url": "https://aptvideoai.com/banana-tree-run-ai", "title": "Banana Tree Run AI Generator"}
+                        {"domain": "maketrendai.com", "url": "https://maketrendai.com/banana-tree-run-ai", "title": "Banana Tree Run AI Generator"}
                     ]
                 }
             ]

@@ -10,15 +10,15 @@
     "notes": "全球流行梗、网络模因起源与流行百科词条监控"
   },
   {
-    "id": "aptvideoai",
-    "name": "APT Video AI",
-    "url": "https://aptvideoai.com/sitemap.xml",
+    "id": "maketrendai",
+    "name": "MakeTrend AI (原 APT Video AI)",
+    "url": "https://maketrendai.com/sitemap.xml",
     "has_lastmod": false,
     "dedup_multilang": true,
     "category": "AI 模因视频与动作生成 (落地页矩阵)",
     "role": "tool_landing",
     "max_detail_fetch": 20,
-    "notes": "监控 TikTok/Reels 热点模因视频生成落地页、动效模板"
+    "notes": "原 aptvideoai.com 已 301 到 maketrendai.com；监控 TikTok/Reels 热点模因视频落地页、动效模板"
   },
   {
     "id": "tryalorsondanse",
