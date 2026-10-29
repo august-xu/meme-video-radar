@@ -1,6 +1,6 @@
 {
-  "last_run_timestamp": "2026-10-29T12:00:27.848158+00:00",
-  "total_urls_seen": 12286,
+  "last_run_timestamp": "2026-10-29T18:00:19.971287+00:00",
+  "total_urls_seen": 12301,
   "seen_urls": {
     "knowyourmeme.com": [
       "https://knowyourmeme.com/memes/yohohoho-binkusuno-sake-by-ado",
@@ -70,7 +70,9 @@
       "https://knowyourmeme.com/memes/dictator-mbappe",
       "https://knowyourmeme.com/memes/freddy-krueger-cancelled",
       "https://knowyourmeme.com/memes/events/2026-japan-vs-france-twitter-war",
-      "https://knowyourmeme.com/memes/people/mini-producer-jay-thomas-manuel"
+      "https://knowyourmeme.com/memes/people/mini-producer-jay-thomas-manuel",
+      "https://knowyourmeme.com/memes/snow-leopard-paws-at-you",
+      "https://knowyourmeme.com/memes/events/paris-hilton-beauty-and-the-beast-halloween-costume-controversy"
     ],
     "aptvideoai.com": [
       "https://aptvideoai.com",
@@ -11133,7 +11135,8 @@
       "https://www.media.io/ai/explore/zone/airplane-flying-over-head-ai-trend",
       "https://www.media.io/ai/explore/zone/drake-what-did-i-miss-ai-video-generator",
       "https://www.media.io/ai/explore/zone/elevator-outfit-change-ai",
-      "https://www.media.io/ai/reference-to-video/whiny-dog-ai-trend"
+      "https://www.media.io/ai/reference-to-video/whiny-dog-ai-trend",
+      "https://www.media.io/ai/explore/zone/toz-pembe-ai-dance"
     ],
     "remakeyourmeme.com": [
       "https://remakeyourmeme.com",
@@ -12293,6 +12296,18 @@
       "https://www.capcut.com/template-detail/7336416355337473285",
       "https://www.capcut.com/template-detail/7610700044202724624",
       "https://www.capcut.com/template-detail/7374142449071000837",
+      "https://www.capcut.com/template-detail/7613449947458981136",
+      "https://www.capcut.com/template-detail/7360345383802834184",
+      "https://www.capcut.com/template-detail/7574395599290633525",
+      "https://www.capcut.com/template-detail/7562638007359245573",
+      "https://www.capcut.com/template-detail/7444126033852321045",
+      "https://www.capcut.com/template-detail/7390652995983183160",
+      "https://www.capcut.com/template-detail/7641550081010797844",
+      "https://www.capcut.com/template-detail/7505252255323426101",
+      "https://www.capcut.com/template-detail/7482032172895964477",
+      "https://www.capcut.com/template-detail/7493918549925203253",
+      "https://www.capcut.com/template-detail/7477105562845449525",
+      "https://www.capcut.com/template-detail/7583162501995547909",
       "https://www.capcut.com/template-detail/7613449947458981136",
       "https://www.capcut.com/template-detail/7360345383802834184",
       "https://www.capcut.com/template-detail/7574395599290633525",
@@ -46285,6 +46300,174 @@
             "url": "https://www.getstarrd.app/template/put-a-mind-chip-ai-video",
             "title": "Put A Mind Chip — AI Video Template | Starrd",
             "first_seen": "2026-10-29T12:00:20.619372+00:00"
+          }
+        ]
+      }
+    },
+    "toz pembe": {
+      "first_seen": "2026-10-29T18:00:13.159665+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/toz-pembe-ai-dance",
+            "title": "Toz Pembe AI Dance Generator – Cat & Group Dance | Media.io",
+            "first_seen": "2026-10-29T18:00:13.159665+00:00"
+          }
+        ]
+      }
+    },
+    "leopard paws": {
+      "first_seen": "2026-10-29T18:00:13.161728+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/snow-leopard-paws-at-you",
+            "title": "Snow Leopard Paws at You | Know Your Meme",
+            "first_seen": "2026-10-29T18:00:13.161728+00:00"
+          }
+        ]
+      }
+    },
+    "snow leopard paws": {
+      "first_seen": "2026-10-29T18:00:13.161744+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/snow-leopard-paws-at-you",
+            "title": "Snow Leopard Paws at You | Know Your Meme",
+            "first_seen": "2026-10-29T18:00:13.161744+00:00"
+          }
+        ]
+      }
+    },
+    "snow leopard": {
+      "first_seen": "2026-10-29T18:00:13.161751+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/snow-leopard-paws-at-you",
+            "title": "Snow Leopard Paws at You | Know Your Meme",
+            "first_seen": "2026-10-29T18:00:13.161751+00:00"
+          }
+        ]
+      }
+    },
+    "beast halloween costume": {
+      "first_seen": "2026-10-29T18:00:13.295265+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/events/paris-hilton-beauty-and-the-beast-halloween-costume-controversy",
+            "title": "Paris Hilton Beauty and the Beast Halloween Costume Controversy | Know Your Meme",
+            "first_seen": "2026-10-29T18:00:13.295265+00:00"
+          }
+        ]
+      }
+    },
+    "halloween costume controversy": {
+      "first_seen": "2026-10-29T18:00:13.295303+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/events/paris-hilton-beauty-and-the-beast-halloween-costume-controversy",
+            "title": "Paris Hilton Beauty and the Beast Halloween Costume Controversy | Know Your Meme",
+            "first_seen": "2026-10-29T18:00:13.295303+00:00"
+          }
+        ]
+      }
+    },
+    "beast halloween costume controversy": {
+      "first_seen": "2026-10-29T18:00:13.295311+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/events/paris-hilton-beauty-and-the-beast-halloween-costume-controversy",
+            "title": "Paris Hilton Beauty and the Beast Halloween Costume Controversy | Know Your Meme",
+            "first_seen": "2026-10-29T18:00:13.295311+00:00"
+          }
+        ]
+      }
+    },
+    "paris hilton beauty": {
+      "first_seen": "2026-10-29T18:00:13.295317+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/events/paris-hilton-beauty-and-the-beast-halloween-costume-controversy",
+            "title": "Paris Hilton Beauty and the Beast Halloween Costume Controversy | Know Your Meme",
+            "first_seen": "2026-10-29T18:00:13.295317+00:00"
+          }
+        ]
+      }
+    },
+    "costume controversy": {
+      "first_seen": "2026-10-29T18:00:13.295323+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/events/paris-hilton-beauty-and-the-beast-halloween-costume-controversy",
+            "title": "Paris Hilton Beauty and the Beast Halloween Costume Controversy | Know Your Meme",
+            "first_seen": "2026-10-29T18:00:13.295323+00:00"
+          }
+        ]
+      }
+    },
+    "halloween costume": {
+      "first_seen": "2026-10-29T18:00:13.295328+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/events/paris-hilton-beauty-and-the-beast-halloween-costume-controversy",
+            "title": "Paris Hilton Beauty and the Beast Halloween Costume Controversy | Know Your Meme",
+            "first_seen": "2026-10-29T18:00:13.295328+00:00"
+          }
+        ]
+      }
+    },
+    "paris hilton": {
+      "first_seen": "2026-10-29T18:00:13.295335+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/events/paris-hilton-beauty-and-the-beast-halloween-costume-controversy",
+            "title": "Paris Hilton Beauty and the Beast Halloween Costume Controversy | Know Your Meme",
+            "first_seen": "2026-10-29T18:00:13.295335+00:00"
+          }
+        ]
+      }
+    },
+    "hilton beauty": {
+      "first_seen": "2026-10-29T18:00:13.295341+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/events/paris-hilton-beauty-and-the-beast-halloween-costume-controversy",
+            "title": "Paris Hilton Beauty and the Beast Halloween Costume Controversy | Know Your Meme",
+            "first_seen": "2026-10-29T18:00:13.295341+00:00"
+          }
+        ]
+      }
+    },
+    "beauty and the beast": {
+      "first_seen": "2026-10-29T18:00:13.295347+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/events/paris-hilton-beauty-and-the-beast-halloween-costume-controversy",
+            "title": "Paris Hilton Beauty and the Beast Halloween Costume Controversy | Know Your Meme",
+            "first_seen": "2026-10-29T18:00:13.295347+00:00"
+          }
+        ]
+      }
+    },
+    "beast halloween": {
+      "first_seen": "2026-10-29T18:00:13.295354+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/events/paris-hilton-beauty-and-the-beast-halloween-costume-controversy",
+            "title": "Paris Hilton Beauty and the Beast Halloween Costume Controversy | Know Your Meme",
+            "first_seen": "2026-10-29T18:00:13.295354+00:00"
           }
         ]
       }
