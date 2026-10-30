@@ -1,6 +1,6 @@
 {
-  "last_run_timestamp": "2026-10-29T18:00:19.971287+00:00",
-  "total_urls_seen": 12301,
+  "last_run_timestamp": "2026-10-30T00:00:19.460083+00:00",
+  "total_urls_seen": 12339,
   "seen_urls": {
     "knowyourmeme.com": [
       "https://knowyourmeme.com/memes/yohohoho-binkusuno-sake-by-ado",
@@ -72,7 +72,11 @@
       "https://knowyourmeme.com/memes/events/2026-japan-vs-france-twitter-war",
       "https://knowyourmeme.com/memes/people/mini-producer-jay-thomas-manuel",
       "https://knowyourmeme.com/memes/snow-leopard-paws-at-you",
-      "https://knowyourmeme.com/memes/events/paris-hilton-beauty-and-the-beast-halloween-costume-controversy"
+      "https://knowyourmeme.com/memes/events/paris-hilton-beauty-and-the-beast-halloween-costume-controversy",
+      "https://knowyourmeme.com/memes/jimmy-dean-breakfast-sandwich-harmonica-commercial",
+      "https://knowyourmeme.com/memes/her-curls",
+      "https://knowyourmeme.com/memes/ethan-klein-ai-edits-kleinification",
+      "https://knowyourmeme.com/memes/jennifer-lawrence-plastic-surgery"
     ],
     "aptvideoai.com": [
       "https://aptvideoai.com",
@@ -11915,7 +11919,9 @@
       "https://www.getstarrd.app/blog/how-to-make-wit-the-pinga-ai-video",
       "https://www.getstarrd.app/template/pov-getting-chased-ai-video",
       "https://www.getstarrd.app/template/sleeping-in-the-attic-ai-video",
-      "https://www.getstarrd.app/template/put-a-mind-chip-ai-video"
+      "https://www.getstarrd.app/template/put-a-mind-chip-ai-video",
+      "https://www.getstarrd.app/blog/how-to-make-i-hope-he-buys-you-flowers-pet-ai-video",
+      "https://www.getstarrd.app/template/i-hope-he-buys-you-flowers-ai-video"
     ],
     "www.capcut.com": [
       "https://www.capcut.com/template-detail/7613449947458981136",
@@ -12319,7 +12325,41 @@
       "https://www.capcut.com/template-detail/7482032172895964477",
       "https://www.capcut.com/template-detail/7493918549925203253",
       "https://www.capcut.com/template-detail/7477105562845449525",
+      "https://www.capcut.com/template-detail/7583162501995547909",
+      "https://www.capcut.com/template-detail/7613449947458981136",
+      "https://www.capcut.com/template-detail/7360345383802834184",
+      "https://www.capcut.com/template-detail/7574395599290633525",
+      "https://www.capcut.com/template-detail/7562638007359245573",
+      "https://www.capcut.com/template-detail/7444126033852321045",
+      "https://www.capcut.com/template-detail/7390652995983183160",
+      "https://www.capcut.com/template-detail/7641550081010797844",
+      "https://www.capcut.com/template-detail/7505252255323426101",
+      "https://www.capcut.com/template-detail/7482032172895964477",
+      "https://www.capcut.com/template-detail/7493918549925203253",
+      "https://www.capcut.com/template-detail/7477105562845449525",
       "https://www.capcut.com/template-detail/7583162501995547909"
+    ],
+    "maketrendai.com": [
+      "https://maketrendai.com/studio",
+      "https://maketrendai.com/pricing",
+      "https://maketrendai.com/terms",
+      "https://maketrendai.com/about",
+      "https://maketrendai.com",
+      "https://maketrendai.com/apt-ai-character-swap",
+      "https://maketrendai.com/apt-ai-video",
+      "https://maketrendai.com/privacy",
+      "https://maketrendai.com/templates",
+      "https://maketrendai.com/how-to-make-apt-ai-video",
+      "https://maketrendai.com/how-to-make-alors-on-danse-ai-video",
+      "https://maketrendai.com/blog/rumpelstiltskin-meme",
+      "https://maketrendai.com/blog/alors-on-danse-meme",
+      "https://maketrendai.com/apt-ai-free",
+      "https://maketrendai.com/alors-on-danse",
+      "https://maketrendai.com/blog",
+      "https://maketrendai.com/blog/ai-video-trends-october-2026",
+      "https://maketrendai.com/gas-station-dance",
+      "https://maketrendai.com/rumpelstiltskin-ai",
+      "https://maketrendai.com/burning-bridges-ai"
     ]
   },
   "entities": {
@@ -28367,6 +28407,11 @@
             "url": "https://knowyourmeme.com/memes/events/ethan-klein-cheating-controversy-h3-affair-scandal",
             "title": "Ethan Klein Cheating Controversy / H3 Affair Scandal | Know Your Meme",
             "first_seen": "2026-10-27T12:00:07.578359+00:00"
+          },
+          {
+            "url": "https://knowyourmeme.com/memes/ethan-klein-ai-edits-kleinification",
+            "title": "Ethan Klein AI Edits / Kleinification | Know Your Meme",
+            "first_seen": "2026-10-30T00:00:07.433809+00:00"
           }
         ]
       }
@@ -34834,6 +34879,13 @@
             "title": "Terms of Service | MakeTrend AI",
             "first_seen": "2026-10-27T06:00:34.109112+00:00"
           }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/terms",
+            "title": "Terms of Service | MakeTrend AI",
+            "first_seen": "2026-10-30T00:00:07.749461+00:00"
+          }
         ]
       }
     },
@@ -34845,6 +34897,13 @@
             "url": "https://maketrendai.com/privacy",
             "title": "Privacy Policy | MakeTrend AI",
             "first_seen": "2026-10-27T06:00:34.482639+00:00"
+          }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/privacy",
+            "title": "Privacy Policy | MakeTrend AI",
+            "first_seen": "2026-10-30T00:00:08.322943+00:00"
           }
         ]
       }
@@ -34858,6 +34917,13 @@
             "title": "APT AI Character Swap — Cast Your Duo in the Pink Studio",
             "first_seen": "2026-10-27T06:00:34.612470+00:00"
           }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/apt-ai-character-swap",
+            "title": "APT AI Character Swap — Cast Your Duo in the Pink Studio",
+            "first_seen": "2026-10-30T00:00:08.292937+00:00"
+          }
         ]
       }
     },
@@ -34869,6 +34935,13 @@
             "url": "https://maketrendai.com/apt-ai-character-swap",
             "title": "APT AI Character Swap — Cast Your Duo in the Pink Studio",
             "first_seen": "2026-10-27T06:00:34.612519+00:00"
+          }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/apt-ai-character-swap",
+            "title": "APT AI Character Swap — Cast Your Duo in the Pink Studio",
+            "first_seen": "2026-10-30T00:00:08.292945+00:00"
           }
         ]
       }
@@ -34887,6 +34960,18 @@
             "title": "APT Music Video AI Character Swap — Two Photos, One Pink Studio | MakeTrend AI",
             "first_seen": "2026-10-27T06:00:36.102224+00:00"
           }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/apt-ai-character-swap",
+            "title": "APT AI Character Swap — Cast Your Duo in the Pink Studio",
+            "first_seen": "2026-10-30T00:00:08.292887+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/apt-ai-video",
+            "title": "APT Music Video AI Character Swap — Two Photos, One Pink Studio | MakeTrend AI",
+            "first_seen": "2026-10-30T00:00:08.296588+00:00"
+          }
         ]
       }
     },
@@ -34898,6 +34983,13 @@
             "url": "https://maketrendai.com/blog/rumpelstiltskin-meme",
             "title": "The Rumpelstiltskin Meme Explained: Origin, Song and How to Make Your Own | MakeTrend AI",
             "first_seen": "2026-10-27T06:00:35.037989+00:00"
+          }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/rumpelstiltskin-meme",
+            "title": "The Rumpelstiltskin Meme Explained: Origin, Song and How to Make Your Own | MakeTrend AI",
+            "first_seen": "2026-10-30T00:00:08.811162+00:00"
           }
         ]
       }
@@ -34911,6 +35003,13 @@
             "title": "The Rumpelstiltskin Meme Explained: Origin, Song and How to Make Your Own | MakeTrend AI",
             "first_seen": "2026-10-27T06:00:35.038025+00:00"
           }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/rumpelstiltskin-meme",
+            "title": "The Rumpelstiltskin Meme Explained: Origin, Song and How to Make Your Own | MakeTrend AI",
+            "first_seen": "2026-10-30T00:00:08.811169+00:00"
+          }
         ]
       }
     },
@@ -34922,6 +35021,13 @@
             "url": "https://maketrendai.com/blog/rumpelstiltskin-meme",
             "title": "The Rumpelstiltskin Meme Explained: Origin, Song and How to Make Your Own | MakeTrend AI",
             "first_seen": "2026-10-27T06:00:35.038032+00:00"
+          }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/rumpelstiltskin-meme",
+            "title": "The Rumpelstiltskin Meme Explained: Origin, Song and How to Make Your Own | MakeTrend AI",
+            "first_seen": "2026-10-30T00:00:08.811175+00:00"
           }
         ]
       }
@@ -34935,6 +35041,13 @@
             "title": "The Rumpelstiltskin Meme Explained: Origin, Song and How to Make Your Own | MakeTrend AI",
             "first_seen": "2026-10-27T06:00:35.038039+00:00"
           }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/rumpelstiltskin-meme",
+            "title": "The Rumpelstiltskin Meme Explained: Origin, Song and How to Make Your Own | MakeTrend AI",
+            "first_seen": "2026-10-30T00:00:08.811119+00:00"
+          }
         ]
       }
     },
@@ -34946,6 +35059,13 @@
             "url": "https://maketrendai.com/blog/rumpelstiltskin-meme",
             "title": "The Rumpelstiltskin Meme Explained: Origin, Song and How to Make Your Own | MakeTrend AI",
             "first_seen": "2026-10-27T06:00:35.038045+00:00"
+          }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/rumpelstiltskin-meme",
+            "title": "The Rumpelstiltskin Meme Explained: Origin, Song and How to Make Your Own | MakeTrend AI",
+            "first_seen": "2026-10-30T00:00:08.811155+00:00"
           }
         ]
       }
@@ -34959,6 +35079,13 @@
             "title": "Alors on danse Meaning, Song and Meme: Why Stromae's Hit Is Trending Again | MakeTrend AI",
             "first_seen": "2026-10-27T06:00:35.084745+00:00"
           }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/alors-on-danse-meme",
+            "title": "Alors on danse Meaning, Song and Meme: Why Stromae's Hit Is Trending Again | MakeTrend AI",
+            "first_seen": "2026-10-30T00:00:08.895150+00:00"
+          }
         ]
       }
     },
@@ -34970,6 +35097,13 @@
             "url": "https://maketrendai.com/blog/alors-on-danse-meme",
             "title": "Alors on danse Meaning, Song and Meme: Why Stromae's Hit Is Trending Again | MakeTrend AI",
             "first_seen": "2026-10-27T06:00:35.084794+00:00"
+          }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/alors-on-danse-meme",
+            "title": "Alors on danse Meaning, Song and Meme: Why Stromae's Hit Is Trending Again | MakeTrend AI",
+            "first_seen": "2026-10-30T00:00:08.895235+00:00"
           }
         ]
       }
@@ -34983,6 +35117,13 @@
             "title": "Alors on danse Meaning, Song and Meme: Why Stromae's Hit Is Trending Again | MakeTrend AI",
             "first_seen": "2026-10-27T06:00:35.084811+00:00"
           }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/alors-on-danse-meme",
+            "title": "Alors on danse Meaning, Song and Meme: Why Stromae's Hit Is Trending Again | MakeTrend AI",
+            "first_seen": "2026-10-30T00:00:08.895218+00:00"
+          }
         ]
       }
     },
@@ -34995,6 +35136,13 @@
             "title": "Alors on danse Meaning, Song and Meme: Why Stromae's Hit Is Trending Again | MakeTrend AI",
             "first_seen": "2026-10-27T06:00:35.084828+00:00"
           }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/alors-on-danse-meme",
+            "title": "Alors on danse Meaning, Song and Meme: Why Stromae's Hit Is Trending Again | MakeTrend AI",
+            "first_seen": "2026-10-30T00:00:08.895211+00:00"
+          }
         ]
       }
     },
@@ -35006,6 +35154,13 @@
             "url": "https://maketrendai.com/blog/alors-on-danse-meme",
             "title": "Alors on danse Meaning, Song and Meme: Why Stromae's Hit Is Trending Again | MakeTrend AI",
             "first_seen": "2026-10-27T06:00:35.084841+00:00"
+          }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/alors-on-danse-meme",
+            "title": "Alors on danse Meaning, Song and Meme: Why Stromae's Hit Is Trending Again | MakeTrend AI",
+            "first_seen": "2026-10-30T00:00:08.895199+00:00"
           }
         ]
       }
@@ -35029,6 +35184,23 @@
             "title": "Alors on danse AI Video — Two Photos, the White-Studio Keyboard Trend",
             "first_seen": "2026-10-27T06:00:35.760029+00:00"
           }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/how-to-make-alors-on-danse-ai-video",
+            "title": "How to Make an Alors on danse AI Video — Step-by-Step Guide",
+            "first_seen": "2026-10-30T00:00:08.706536+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/alors-on-danse-meme",
+            "title": "Alors on danse Meaning, Song and Meme: Why Stromae's Hit Is Trending Again | MakeTrend AI",
+            "first_seen": "2026-10-30T00:00:08.895205+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/alors-on-danse",
+            "title": "Alors on danse AI Video — Two Photos, the White-Studio Keyboard Trend",
+            "first_seen": "2026-10-30T00:00:09.101238+00:00"
+          }
         ]
       }
     },
@@ -35040,6 +35212,13 @@
             "url": "https://maketrendai.com/blog/alors-on-danse-meme",
             "title": "Alors on danse Meaning, Song and Meme: Why Stromae's Hit Is Trending Again | MakeTrend AI",
             "first_seen": "2026-10-27T06:00:35.084863+00:00"
+          }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/alors-on-danse-meme",
+            "title": "Alors on danse Meaning, Song and Meme: Why Stromae's Hit Is Trending Again | MakeTrend AI",
+            "first_seen": "2026-10-30T00:00:08.895241+00:00"
           }
         ]
       }
@@ -35053,6 +35232,13 @@
             "title": "Alors on danse Meaning, Song and Meme: Why Stromae's Hit Is Trending Again | MakeTrend AI",
             "first_seen": "2026-10-27T06:00:35.084876+00:00"
           }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/alors-on-danse-meme",
+            "title": "Alors on danse Meaning, Song and Meme: Why Stromae's Hit Is Trending Again | MakeTrend AI",
+            "first_seen": "2026-10-30T00:00:08.895253+00:00"
+          }
         ]
       }
     },
@@ -35064,6 +35250,13 @@
             "url": "https://maketrendai.com/blog/alors-on-danse-meme",
             "title": "Alors on danse Meaning, Song and Meme: Why Stromae's Hit Is Trending Again | MakeTrend AI",
             "first_seen": "2026-10-27T06:00:35.084890+00:00"
+          }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/alors-on-danse-meme",
+            "title": "Alors on danse Meaning, Song and Meme: Why Stromae's Hit Is Trending Again | MakeTrend AI",
+            "first_seen": "2026-10-30T00:00:08.895185+00:00"
           }
         ]
       }
@@ -35077,6 +35270,13 @@
             "title": "Alors on danse Meaning, Song and Meme: Why Stromae's Hit Is Trending Again | MakeTrend AI",
             "first_seen": "2026-10-27T06:00:35.084905+00:00"
           }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/alors-on-danse-meme",
+            "title": "Alors on danse Meaning, Song and Meme: Why Stromae's Hit Is Trending Again | MakeTrend AI",
+            "first_seen": "2026-10-30T00:00:08.895223+00:00"
+          }
         ]
       }
     },
@@ -35088,6 +35288,13 @@
             "url": "https://maketrendai.com/blog/alors-on-danse-meme",
             "title": "Alors on danse Meaning, Song and Meme: Why Stromae's Hit Is Trending Again | MakeTrend AI",
             "first_seen": "2026-10-27T06:00:35.084918+00:00"
+          }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/alors-on-danse-meme",
+            "title": "Alors on danse Meaning, Song and Meme: Why Stromae's Hit Is Trending Again | MakeTrend AI",
+            "first_seen": "2026-10-30T00:00:08.895229+00:00"
           }
         ]
       }
@@ -35101,6 +35308,13 @@
             "title": "Alors on danse Meaning, Song and Meme: Why Stromae's Hit Is Trending Again | MakeTrend AI",
             "first_seen": "2026-10-27T06:00:35.084927+00:00"
           }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/alors-on-danse-meme",
+            "title": "Alors on danse Meaning, Song and Meme: Why Stromae's Hit Is Trending Again | MakeTrend AI",
+            "first_seen": "2026-10-30T00:00:08.895192+00:00"
+          }
         ]
       }
     },
@@ -35112,6 +35326,13 @@
             "url": "https://maketrendai.com/blog/alors-on-danse-meme",
             "title": "Alors on danse Meaning, Song and Meme: Why Stromae's Hit Is Trending Again | MakeTrend AI",
             "first_seen": "2026-10-27T06:00:35.084934+00:00"
+          }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/alors-on-danse-meme",
+            "title": "Alors on danse Meaning, Song and Meme: Why Stromae's Hit Is Trending Again | MakeTrend AI",
+            "first_seen": "2026-10-30T00:00:08.895247+00:00"
           }
         ]
       }
@@ -35130,6 +35351,13 @@
             "title": "How to Make the Gas Station Dance AI Video With Two or Three Friends | MakeTrend AI",
             "first_seen": "2026-10-28T00:00:09.614203+00:00"
           }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/gas-station-dance",
+            "title": "Gas Station Dance AI Video Generator — Three Photos, One Viral Clip",
+            "first_seen": "2026-10-30T00:00:09.644203+00:00"
+          }
         ]
       }
     },
@@ -35146,6 +35374,13 @@
             "url": "https://maketrendai.com/blog/how-to-make-burning-bridges-ai-video",
             "title": "How to Make the Burning Bridges AI Video (Drake's \"Where She At?\") From One Photo | MakeTrend AI",
             "first_seen": "2026-10-27T12:00:07.429004+00:00"
+          }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/burning-bridges-ai",
+            "title": "Burning Bridges AI Video Generator — Drake's \"Where She At?\" Trend From One Photo",
+            "first_seen": "2026-10-30T00:00:14.272677+00:00"
           }
         ]
       }
@@ -35254,6 +35489,13 @@
             "url": "https://maketrendai.com/apt-ai-free",
             "title": "APT AI Free? What You Can Try Before You Pay",
             "first_seen": "2026-10-27T06:00:35.782126+00:00"
+          }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/apt-ai-free",
+            "title": "APT AI Free? What You Can Try Before You Pay",
+            "first_seen": "2026-10-30T00:00:09.009398+00:00"
           }
         ]
       }
@@ -35620,6 +35862,13 @@
             "title": "APT Music Video AI Character Swap — Two Photos, One Pink Studio | MakeTrend AI",
             "first_seen": "2026-10-27T06:00:36.102265+00:00"
           }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/apt-ai-video",
+            "title": "APT Music Video AI Character Swap — Two Photos, One Pink Studio | MakeTrend AI",
+            "first_seen": "2026-10-30T00:00:08.296596+00:00"
+          }
         ]
       }
     },
@@ -35631,6 +35880,13 @@
             "url": "https://maketrendai.com/apt-ai-video",
             "title": "APT Music Video AI Character Swap — Two Photos, One Pink Studio | MakeTrend AI",
             "first_seen": "2026-10-27T06:00:36.102274+00:00"
+          }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/apt-ai-video",
+            "title": "APT Music Video AI Character Swap — Two Photos, One Pink Studio | MakeTrend AI",
+            "first_seen": "2026-10-30T00:00:08.296559+00:00"
           }
         ]
       }
@@ -35703,6 +35959,13 @@
             "url": "https://maketrendai.com/blog/ai-video-trends-october-2026",
             "title": "The Viral AI Video Trends of October 2026 — and How to Make Each One With Friends | MakeTrend AI",
             "first_seen": "2026-10-27T06:00:36.352304+00:00"
+          }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/ai-video-trends-october-2026",
+            "title": "The Viral AI Video Trends of October 2026 — and How to Make Each One With Friends | MakeTrend AI",
+            "first_seen": "2026-10-30T00:00:09.523790+00:00"
           }
         ]
       }
@@ -46468,6 +46731,350 @@
             "url": "https://knowyourmeme.com/memes/events/paris-hilton-beauty-and-the-beast-halloween-costume-controversy",
             "title": "Paris Hilton Beauty and the Beast Halloween Costume Controversy | Know Your Meme",
             "first_seen": "2026-10-29T18:00:13.295354+00:00"
+          }
+        ]
+      }
+    },
+    "breakfast sandwich harmonica commercial": {
+      "first_seen": "2026-10-30T00:00:07.074842+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/jimmy-dean-breakfast-sandwich-harmonica-commercial",
+            "title": "Jimmy Dean Breakfast Sandwich Harmonica Commercial | Know Your Meme",
+            "first_seen": "2026-10-30T00:00:07.074842+00:00"
+          }
+        ]
+      }
+    },
+    "jimmy dean": {
+      "first_seen": "2026-10-30T00:00:07.074902+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/jimmy-dean-breakfast-sandwich-harmonica-commercial",
+            "title": "Jimmy Dean Breakfast Sandwich Harmonica Commercial | Know Your Meme",
+            "first_seen": "2026-10-30T00:00:07.074902+00:00"
+          }
+        ]
+      }
+    },
+    "jimmy dean breakfast sandwich": {
+      "first_seen": "2026-10-30T00:00:07.074921+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/jimmy-dean-breakfast-sandwich-harmonica-commercial",
+            "title": "Jimmy Dean Breakfast Sandwich Harmonica Commercial | Know Your Meme",
+            "first_seen": "2026-10-30T00:00:07.074921+00:00"
+          }
+        ]
+      }
+    },
+    "harmonica commercial": {
+      "first_seen": "2026-10-30T00:00:07.074933+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/jimmy-dean-breakfast-sandwich-harmonica-commercial",
+            "title": "Jimmy Dean Breakfast Sandwich Harmonica Commercial | Know Your Meme",
+            "first_seen": "2026-10-30T00:00:07.074933+00:00"
+          }
+        ]
+      }
+    },
+    "jimmy dean breakfast": {
+      "first_seen": "2026-10-30T00:00:07.074946+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/jimmy-dean-breakfast-sandwich-harmonica-commercial",
+            "title": "Jimmy Dean Breakfast Sandwich Harmonica Commercial | Know Your Meme",
+            "first_seen": "2026-10-30T00:00:07.074946+00:00"
+          }
+        ]
+      }
+    },
+    "breakfast sandwich": {
+      "first_seen": "2026-10-30T00:00:07.074959+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/jimmy-dean-breakfast-sandwich-harmonica-commercial",
+            "title": "Jimmy Dean Breakfast Sandwich Harmonica Commercial | Know Your Meme",
+            "first_seen": "2026-10-30T00:00:07.074959+00:00"
+          }
+        ]
+      }
+    },
+    "sandwich harmonica": {
+      "first_seen": "2026-10-30T00:00:07.074974+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/jimmy-dean-breakfast-sandwich-harmonica-commercial",
+            "title": "Jimmy Dean Breakfast Sandwich Harmonica Commercial | Know Your Meme",
+            "first_seen": "2026-10-30T00:00:07.074974+00:00"
+          }
+        ]
+      }
+    },
+    "dean breakfast": {
+      "first_seen": "2026-10-30T00:00:07.074987+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/jimmy-dean-breakfast-sandwich-harmonica-commercial",
+            "title": "Jimmy Dean Breakfast Sandwich Harmonica Commercial | Know Your Meme",
+            "first_seen": "2026-10-30T00:00:07.074987+00:00"
+          }
+        ]
+      }
+    },
+    "dean breakfast sandwich harmonica": {
+      "first_seen": "2026-10-30T00:00:07.074999+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/jimmy-dean-breakfast-sandwich-harmonica-commercial",
+            "title": "Jimmy Dean Breakfast Sandwich Harmonica Commercial | Know Your Meme",
+            "first_seen": "2026-10-30T00:00:07.074999+00:00"
+          }
+        ]
+      }
+    },
+    "dean breakfast sandwich": {
+      "first_seen": "2026-10-30T00:00:07.075011+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/jimmy-dean-breakfast-sandwich-harmonica-commercial",
+            "title": "Jimmy Dean Breakfast Sandwich Harmonica Commercial | Know Your Meme",
+            "first_seen": "2026-10-30T00:00:07.075011+00:00"
+          }
+        ]
+      }
+    },
+    "sandwich harmonica commercial": {
+      "first_seen": "2026-10-30T00:00:07.075024+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/jimmy-dean-breakfast-sandwich-harmonica-commercial",
+            "title": "Jimmy Dean Breakfast Sandwich Harmonica Commercial | Know Your Meme",
+            "first_seen": "2026-10-30T00:00:07.075024+00:00"
+          }
+        ]
+      }
+    },
+    "breakfast sandwich harmonica": {
+      "first_seen": "2026-10-30T00:00:07.075036+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/jimmy-dean-breakfast-sandwich-harmonica-commercial",
+            "title": "Jimmy Dean Breakfast Sandwich Harmonica Commercial | Know Your Meme",
+            "first_seen": "2026-10-30T00:00:07.075036+00:00"
+          }
+        ]
+      }
+    },
+    "klein ai edits": {
+      "first_seen": "2026-10-30T00:00:07.433747+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/ethan-klein-ai-edits-kleinification",
+            "title": "Ethan Klein AI Edits / Kleinification | Know Your Meme",
+            "first_seen": "2026-10-30T00:00:07.433747+00:00"
+          }
+        ]
+      }
+    },
+    "klein ai edits kleinification": {
+      "first_seen": "2026-10-30T00:00:07.433800+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/ethan-klein-ai-edits-kleinification",
+            "title": "Ethan Klein AI Edits / Kleinification | Know Your Meme",
+            "first_seen": "2026-10-30T00:00:07.433800+00:00"
+          }
+        ]
+      }
+    },
+    "ethan klein ai edits": {
+      "first_seen": "2026-10-30T00:00:07.433821+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/ethan-klein-ai-edits-kleinification",
+            "title": "Ethan Klein AI Edits / Kleinification | Know Your Meme",
+            "first_seen": "2026-10-30T00:00:07.433821+00:00"
+          }
+        ]
+      }
+    },
+    "edits kleinification": {
+      "first_seen": "2026-10-30T00:00:07.433828+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/ethan-klein-ai-edits-kleinification",
+            "title": "Ethan Klein AI Edits / Kleinification | Know Your Meme",
+            "first_seen": "2026-10-30T00:00:07.433828+00:00"
+          }
+        ]
+      }
+    },
+    "i hope": {
+      "first_seen": "2026-10-30T00:00:09.282738+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-i-hope-he-buys-you-flowers-pet-ai-video",
+            "title": "'I Hope He Buys You Flowers' AI Pet Video: How to Make the Dog Flower Meme (2026)",
+            "first_seen": "2026-10-30T00:00:09.282738+00:00"
+          },
+          {
+            "url": "https://www.getstarrd.app/template/i-hope-he-buys-you-flowers-ai-video",
+            "title": "I Hope He Buys You Flowers — AI Video Template | Starrd",
+            "first_seen": "2026-10-30T00:00:10.041526+00:00"
+          }
+        ]
+      }
+    },
+    "hope he buys": {
+      "first_seen": "2026-10-30T00:00:09.282785+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-i-hope-he-buys-you-flowers-pet-ai-video",
+            "title": "'I Hope He Buys You Flowers' AI Pet Video: How to Make the Dog Flower Meme (2026)",
+            "first_seen": "2026-10-30T00:00:09.282785+00:00"
+          },
+          {
+            "url": "https://www.getstarrd.app/template/i-hope-he-buys-you-flowers-ai-video",
+            "title": "I Hope He Buys You Flowers — AI Video Template | Starrd",
+            "first_seen": "2026-10-30T00:00:10.041544+00:00"
+          }
+        ]
+      }
+    },
+    "i hope he buys": {
+      "first_seen": "2026-10-30T00:00:09.282802+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-i-hope-he-buys-you-flowers-pet-ai-video",
+            "title": "'I Hope He Buys You Flowers' AI Pet Video: How to Make the Dog Flower Meme (2026)",
+            "first_seen": "2026-10-30T00:00:09.282802+00:00"
+          },
+          {
+            "url": "https://www.getstarrd.app/template/i-hope-he-buys-you-flowers-ai-video",
+            "title": "I Hope He Buys You Flowers — AI Video Template | Starrd",
+            "first_seen": "2026-10-30T00:00:10.041557+00:00"
+          }
+        ]
+      }
+    },
+    "buys you flowers": {
+      "first_seen": "2026-10-30T00:00:09.282833+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-i-hope-he-buys-you-flowers-pet-ai-video",
+            "title": "'I Hope He Buys You Flowers' AI Pet Video: How to Make the Dog Flower Meme (2026)",
+            "first_seen": "2026-10-30T00:00:09.282833+00:00"
+          },
+          {
+            "url": "https://www.getstarrd.app/template/i-hope-he-buys-you-flowers-ai-video",
+            "title": "I Hope He Buys You Flowers — AI Video Template | Starrd",
+            "first_seen": "2026-10-30T00:00:10.041466+00:00"
+          }
+        ]
+      }
+    },
+    "flower meme 2026": {
+      "first_seen": "2026-10-30T00:00:09.282850+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-i-hope-he-buys-you-flowers-pet-ai-video",
+            "title": "'I Hope He Buys You Flowers' AI Pet Video: How to Make the Dog Flower Meme (2026)",
+            "first_seen": "2026-10-30T00:00:09.282850+00:00"
+          }
+        ]
+      }
+    },
+    "jennifer lawrence plastic": {
+      "first_seen": "2026-10-30T00:00:09.713298+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/jennifer-lawrence-plastic-surgery",
+            "title": "Jennifer Lawrence Plastic Surgery | Know Your Meme",
+            "first_seen": "2026-10-30T00:00:09.713298+00:00"
+          }
+        ]
+      }
+    },
+    "lawrence plastic surgery": {
+      "first_seen": "2026-10-30T00:00:09.713343+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/jennifer-lawrence-plastic-surgery",
+            "title": "Jennifer Lawrence Plastic Surgery | Know Your Meme",
+            "first_seen": "2026-10-30T00:00:09.713343+00:00"
+          }
+        ]
+      }
+    },
+    "jennifer lawrence plastic surgery": {
+      "first_seen": "2026-10-30T00:00:09.713358+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/jennifer-lawrence-plastic-surgery",
+            "title": "Jennifer Lawrence Plastic Surgery | Know Your Meme",
+            "first_seen": "2026-10-30T00:00:09.713358+00:00"
+          }
+        ]
+      }
+    },
+    "lawrence plastic": {
+      "first_seen": "2026-10-30T00:00:09.713371+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/jennifer-lawrence-plastic-surgery",
+            "title": "Jennifer Lawrence Plastic Surgery | Know Your Meme",
+            "first_seen": "2026-10-30T00:00:09.713371+00:00"
+          }
+        ]
+      }
+    },
+    "plastic surgery": {
+      "first_seen": "2026-10-30T00:00:09.713382+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/jennifer-lawrence-plastic-surgery",
+            "title": "Jennifer Lawrence Plastic Surgery | Know Your Meme",
+            "first_seen": "2026-10-30T00:00:09.713382+00:00"
+          }
+        ]
+      }
+    },
+    "jennifer lawrence": {
+      "first_seen": "2026-10-30T00:00:09.713394+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/jennifer-lawrence-plastic-surgery",
+            "title": "Jennifer Lawrence Plastic Surgery | Know Your Meme",
+            "first_seen": "2026-10-30T00:00:09.713394+00:00"
           }
         ]
       }
