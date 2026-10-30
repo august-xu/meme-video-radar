@@ -312,6 +312,8 @@ class StateManager:
         self.data.setdefault("seen_urls", {}).setdefault(domain, []).append(canonical_url)
 
     def update_entity(self, term: str, domain: str, url: str, title: str):
+        # 旧域名归一化，避免同一页面在知识库里挂两个域名
+        domain = term_engine.canonical_domain(domain)
         entities = self.data.setdefault("entities", {})
         now_iso = datetime.now(timezone.utc).isoformat()
         if term not in entities:

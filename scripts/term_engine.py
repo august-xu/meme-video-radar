@@ -19,6 +19,16 @@ from collections import defaultdict
 from typing import Dict, List, Set, Tuple
 from urllib.parse import urlparse
 
+# 品牌换域名的历史数据归一化：碰撞按「独立站点」计数，
+# 不能把同一产品的旧域名和新域名算成两个域。
+DOMAIN_ALIASES = {
+    "aptvideoai.com": "maketrendai.com",
+}
+
+
+def canonical_domain(domain: str) -> str:
+    return DOMAIN_ALIASES.get(domain, domain)
+
 # 通用停用词 + 视频/模因领域的泛化大路货（必须过滤，避免假碰撞）
 STOP_WORDS = set("""
 a an and are as at be by can for from has have in into is it its of on or that the this to with your you
@@ -178,7 +188,22 @@ def detect_collisions(
         if len(term.split()) < 2:
             continue
 
-        dom_map = data.get("domains", {})
+        # 合并品牌旧域名/新域名，并在合并后按 URL 去重（同一页面可能挂过两个域名）
+        raw_dom_map = data.get("domains", {})
+        dom_map = {}
+        for d, u_list in raw_dom_map.items():
+            dom_map.setdefault(canonical_domain(d), []).extend(u_list)
+        for d, u_list in dom_map.items():
+            seen_urls = set()
+            deduped = []
+            for item in u_list:
+                u = item.get("url")
+                if u in seen_urls:
+                    continue
+                seen_urls.add(u)
+                deduped.append(item)
+            dom_map[d] = deduped
+
         n_dom = len(dom_map)
         if n_dom < min_domains:
             continue
