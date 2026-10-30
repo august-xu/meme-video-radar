@@ -1,6 +1,6 @@
 {
-  "last_run_timestamp": "2026-10-30T00:00:19.460083+00:00",
-  "total_urls_seen": 12339,
+  "last_run_timestamp": "2026-10-30T06:00:43.517234+00:00",
+  "total_urls_seen": 12378,
   "seen_urls": {
     "knowyourmeme.com": [
       "https://knowyourmeme.com/memes/yohohoho-binkusuno-sake-by-ado",
@@ -11921,7 +11921,14 @@
       "https://www.getstarrd.app/template/sleeping-in-the-attic-ai-video",
       "https://www.getstarrd.app/template/put-a-mind-chip-ai-video",
       "https://www.getstarrd.app/blog/how-to-make-i-hope-he-buys-you-flowers-pet-ai-video",
-      "https://www.getstarrd.app/template/i-hope-he-buys-you-flowers-ai-video"
+      "https://www.getstarrd.app/template/i-hope-he-buys-you-flowers-ai-video",
+      "https://www.getstarrd.app/template/midnight-snack-ai-video",
+      "https://www.getstarrd.app/blog/how-to-make-midnight-snack-ai-video",
+      "https://www.getstarrd.app/blog/how-to-make-gangnam-style-pt-2-ai-video",
+      "https://www.getstarrd.app/template/gangnam-style-pt-2-ai-video",
+      "https://www.getstarrd.app/template/unforgettable-ai-video",
+      "https://www.getstarrd.app/template/headliner-dog-dj-ai-video",
+      "https://www.getstarrd.app/blog/how-to-make-unforgettable-ai-video"
     ],
     "www.capcut.com": [
       "https://www.capcut.com/template-detail/7613449947458981136",
@@ -12337,6 +12344,18 @@
       "https://www.capcut.com/template-detail/7482032172895964477",
       "https://www.capcut.com/template-detail/7493918549925203253",
       "https://www.capcut.com/template-detail/7477105562845449525",
+      "https://www.capcut.com/template-detail/7583162501995547909",
+      "https://www.capcut.com/template-detail/7613449947458981136",
+      "https://www.capcut.com/template-detail/7360345383802834184",
+      "https://www.capcut.com/template-detail/7574395599290633525",
+      "https://www.capcut.com/template-detail/7562638007359245573",
+      "https://www.capcut.com/template-detail/7444126033852321045",
+      "https://www.capcut.com/template-detail/7390652995983183160",
+      "https://www.capcut.com/template-detail/7641550081010797844",
+      "https://www.capcut.com/template-detail/7505252255323426101",
+      "https://www.capcut.com/template-detail/7482032172895964477",
+      "https://www.capcut.com/template-detail/7493918549925203253",
+      "https://www.capcut.com/template-detail/7477105562845449525",
       "https://www.capcut.com/template-detail/7583162501995547909"
     ],
     "maketrendai.com": [
@@ -12359,7 +12378,27 @@
       "https://maketrendai.com/blog/ai-video-trends-october-2026",
       "https://maketrendai.com/gas-station-dance",
       "https://maketrendai.com/rumpelstiltskin-ai",
-      "https://maketrendai.com/burning-bridges-ai"
+      "https://maketrendai.com/burning-bridges-ai",
+      "https://maketrendai.com/bad-times-ai",
+      "https://maketrendai.com/smalltown-boy-dance-ai",
+      "https://maketrendai.com/blog/how-to-make-bad-times-ai-video",
+      "https://maketrendai.com/bulin-47-ai",
+      "https://maketrendai.com/blog/best-bad-times-ai-video-generators",
+      "https://maketrendai.com/blog/how-to-make-burning-bridges-ai-video",
+      "https://maketrendai.com/crazy-frog-ai",
+      "https://maketrendai.com/blog/how-to-make-ozil-ai-goal-video",
+      "https://maketrendai.com/head-bop-ai",
+      "https://maketrendai.com/la-calabaza-ai-dance",
+      "https://maketrendai.com/toc-toc-ai-dance",
+      "https://maketrendai.com/bad-times-trend-dog",
+      "https://maketrendai.com/ozil-ai-goal",
+      "https://maketrendai.com/ramalama-squad-ai",
+      "https://maketrendai.com/blog/how-to-make-toc-toc-ai-dance-video",
+      "https://maketrendai.com/bad-times-trend-toddler",
+      "https://maketrendai.com/blog/best-ozil-ai-goal-video-generators",
+      "https://maketrendai.com/ramalama-ai",
+      "https://maketrendai.com/devil-wears-prada-ai",
+      "https://maketrendai.com/blog/how-to-make-smalltown-boy-ai-video"
     ]
   },
   "entities": {
@@ -21714,6 +21753,33 @@
             "title": "How to Make the Bad Times Trend With Your Dog or Cat (From One Photo) | MakeTrend AI",
             "first_seen": "2026-10-28T00:00:09.684138+00:00"
           }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/bad-times-ai",
+            "title": "Bad Times AI Video Generator — You or Your Pet in the BAD TIMES Trend",
+            "first_seen": "2026-10-30T06:00:35.210992+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/how-to-make-bad-times-ai-video",
+            "title": "How to Make the Bad Times AI Video From One Photo (Yourself or Your Pet) | MakeTrend AI",
+            "first_seen": "2026-10-30T06:00:35.272157+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/best-bad-times-ai-video-generators",
+            "title": "Bad Times AI Video Generators (2026): No CapCut Template? Starrd vs Kavel vs Fuzana vs MakeTrend AI | MakeTrend AI",
+            "first_seen": "2026-10-30T06:00:35.330401+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/bad-times-trend-dog",
+            "title": "Bad Times Trend Dog & Cat AI Video — Your Pet Argues With the Camera",
+            "first_seen": "2026-10-30T06:00:36.087644+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/bad-times-trend-toddler",
+            "title": "Bad Times Trend Toddler & Baby AI Video — From a Photo of Your Child",
+            "first_seen": "2026-10-30T06:00:36.284202+00:00"
+          }
         ]
       }
     },
@@ -27226,6 +27292,18 @@
             "title": "CapCut Templates vs AI Trend Videos: When a Template Isn't Enough (2026) | MakeTrend AI",
             "first_seen": "2026-10-28T00:00:10.936226+00:00"
           }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/best-bad-times-ai-video-generators",
+            "title": "Bad Times AI Video Generators (2026): No CapCut Template? Starrd vs Kavel vs Fuzana vs MakeTrend AI | MakeTrend AI",
+            "first_seen": "2026-10-30T06:00:35.330248+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/best-ozil-ai-goal-video-generators",
+            "title": "Ozil AI Goal: CapCut Template vs Dreamina vs 4 AI Generators Compared (2026) | MakeTrend AI",
+            "first_seen": "2026-10-30T06:00:36.381006+00:00"
+          }
         ]
       }
     },
@@ -27711,6 +27789,11 @@
             "url": "https://www.getstarrd.app/blog/how-to-make-deep-down-in-my-heart-ai-video",
             "title": "How to Make the 'Deep Down In My Heart… I Still Love You' AI Crying Meme (Starring You and a Friend, 2026)",
             "first_seen": "2026-10-26T06:00:10.480345+00:00"
+          },
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-gangnam-style-pt-2-ai-video",
+            "title": "How to Make the Gangnam Style Elevator AI Video With a Friend (2026)",
+            "first_seen": "2026-10-30T06:00:37.696942+00:00"
           }
         ]
       }
@@ -28121,6 +28204,18 @@
             "url": "https://maketrendai.com/toc-toc-ai-dance",
             "title": "Toc Toc AI Dance Video Generator — Put Your Friends in the Trend",
             "first_seen": "2026-10-27T12:00:08.251070+00:00"
+          }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/toc-toc-ai-dance",
+            "title": "Toc Toc AI Dance Video Generator — Put Your Friends in the Trend",
+            "first_seen": "2026-10-30T06:00:36.030917+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/how-to-make-toc-toc-ai-dance-video",
+            "title": "How to Make the Toc Toc AI Dance Video With Your Friends | MakeTrend AI",
+            "first_seen": "2026-10-30T06:00:36.276730+00:00"
           }
         ]
       }
@@ -30183,6 +30278,16 @@
             "url": "https://www.getstarrd.app/template/gangnam-style-ai-video",
             "title": "Gangnam Style — AI Video Template | Starrd",
             "first_seen": "2026-10-28T18:00:10.239139+00:00"
+          },
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-gangnam-style-pt-2-ai-video",
+            "title": "How to Make the Gangnam Style Elevator AI Video With a Friend (2026)",
+            "first_seen": "2026-10-30T06:00:37.697078+00:00"
+          },
+          {
+            "url": "https://www.getstarrd.app/template/gangnam-style-pt-2-ai-video",
+            "title": "Gangnam Style Pt. 2 — AI Video Template | Starrd",
+            "first_seen": "2026-10-30T06:00:37.697321+00:00"
           }
         ]
       }
@@ -30880,6 +30985,13 @@
             "url": "https://maketrendai.com/blog/best-middle-finger-dunk-ai-video-generators",
             "title": "Middle Finger Dunk AI Generators (2026): MakeViral vs Summrs vs Oakgen vs MakeTrend AI | MakeTrend AI",
             "first_seen": "2026-10-28T06:00:08.451023+00:00"
+          }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/best-bad-times-ai-video-generators",
+            "title": "Bad Times AI Video Generators (2026): No CapCut Template? Starrd vs Kavel vs Fuzana vs MakeTrend AI | MakeTrend AI",
+            "first_seen": "2026-10-30T06:00:35.330369+00:00"
           }
         ]
       }
@@ -35381,6 +35493,11 @@
             "url": "https://maketrendai.com/burning-bridges-ai",
             "title": "Burning Bridges AI Video Generator — Drake's \"Where She At?\" Trend From One Photo",
             "first_seen": "2026-10-30T00:00:14.272677+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/how-to-make-burning-bridges-ai-video",
+            "title": "How to Make the Burning Bridges AI Video (Drake's \"Where She At?\") From One Photo | MakeTrend AI",
+            "first_seen": "2026-10-30T06:00:35.345034+00:00"
           }
         ]
       }
@@ -36130,6 +36247,13 @@
             "title": "How to Make the Burning Bridges AI Video (Drake's \"Where She At?\") From One Photo | MakeTrend AI",
             "first_seen": "2026-10-27T12:00:07.428944+00:00"
           }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/how-to-make-burning-bridges-ai-video",
+            "title": "How to Make the Burning Bridges AI Video (Drake's \"Where She At?\") From One Photo | MakeTrend AI",
+            "first_seen": "2026-10-30T06:00:35.345003+00:00"
+          }
         ]
       }
     },
@@ -36141,6 +36265,13 @@
             "url": "https://maketrendai.com/blog/how-to-make-burning-bridges-ai-video",
             "title": "How to Make the Burning Bridges AI Video (Drake's \"Where She At?\") From One Photo | MakeTrend AI",
             "first_seen": "2026-10-27T12:00:07.428987+00:00"
+          }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/how-to-make-burning-bridges-ai-video",
+            "title": "How to Make the Burning Bridges AI Video (Drake's \"Where She At?\") From One Photo | MakeTrend AI",
+            "first_seen": "2026-10-30T06:00:35.344996+00:00"
           }
         ]
       }
@@ -36154,6 +36285,13 @@
             "title": "How to Make the Burning Bridges AI Video (Drake's \"Where She At?\") From One Photo | MakeTrend AI",
             "first_seen": "2026-10-27T12:00:07.429037+00:00"
           }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/how-to-make-burning-bridges-ai-video",
+            "title": "How to Make the Burning Bridges AI Video (Drake's \"Where She At?\") From One Photo | MakeTrend AI",
+            "first_seen": "2026-10-30T06:00:35.344964+00:00"
+          }
         ]
       }
     },
@@ -36165,6 +36303,13 @@
             "url": "https://maketrendai.com/blog/how-to-make-burning-bridges-ai-video",
             "title": "How to Make the Burning Bridges AI Video (Drake's \"Where She At?\") From One Photo | MakeTrend AI",
             "first_seen": "2026-10-27T12:00:07.429071+00:00"
+          }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/how-to-make-burning-bridges-ai-video",
+            "title": "How to Make the Burning Bridges AI Video (Drake's \"Where She At?\") From One Photo | MakeTrend AI",
+            "first_seen": "2026-10-30T06:00:35.345027+00:00"
           }
         ]
       }
@@ -36193,6 +36338,13 @@
             "title": "Dame Hombro Baby AI Dance: How to Make the Bulin 47 Baby Video From a Photo of Your Child | MakeTrend AI",
             "first_seen": "2026-10-28T00:00:08.822627+00:00"
           }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/bulin-47-ai",
+            "title": "Bulin 47 AI Video Generator — One Photo, You Freestyle in the Viral Clip",
+            "first_seen": "2026-10-30T06:00:35.297906+00:00"
+          }
         ]
       }
     },
@@ -36204,6 +36356,13 @@
             "url": "https://maketrendai.com/blog/how-to-make-bad-times-ai-video",
             "title": "How to Make the Bad Times AI Video From One Photo (Yourself or Your Pet) | MakeTrend AI",
             "first_seen": "2026-10-27T12:00:07.653572+00:00"
+          }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/how-to-make-bad-times-ai-video",
+            "title": "How to Make the Bad Times AI Video From One Photo (Yourself or Your Pet) | MakeTrend AI",
+            "first_seen": "2026-10-30T06:00:35.272087+00:00"
           }
         ]
       }
@@ -36217,6 +36376,13 @@
             "title": "Crazy Frog AI Video Generator — Sit in the Air, Fists Forward, From 1–3 Photos",
             "first_seen": "2026-10-27T12:00:07.778217+00:00"
           }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/crazy-frog-ai",
+            "title": "Crazy Frog AI Video Generator — Sit in the Air, Fists Forward, From 1–3 Photos",
+            "first_seen": "2026-10-30T06:00:35.378264+00:00"
+          }
         ]
       }
     },
@@ -36228,6 +36394,13 @@
             "url": "https://maketrendai.com/head-bop-ai",
             "title": "Head Bop AI — Make the Cat Headbop Trend From One Photo",
             "first_seen": "2026-10-27T12:00:07.793860+00:00"
+          }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/head-bop-ai",
+            "title": "Head Bop AI — Make the Cat Headbop Trend From One Photo",
+            "first_seen": "2026-10-30T06:00:35.495688+00:00"
           }
         ]
       }
@@ -36251,6 +36424,23 @@
             "title": "How to Make the Ozil AI Goal Video From One Photo | MakeTrend AI",
             "first_seen": "2026-10-27T12:00:08.631759+00:00"
           }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/how-to-make-ozil-ai-goal-video",
+            "title": "How to Make the Ozil AI Goal Video From One Photo | MakeTrend AI",
+            "first_seen": "2026-10-30T06:00:35.396416+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/ozil-ai-goal",
+            "title": "Ozil AI Goal Video Generator — Score the Viral Özil Goal From One Photo",
+            "first_seen": "2026-10-30T06:00:36.200242+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/best-ozil-ai-goal-video-generators",
+            "title": "Ozil AI Goal: CapCut Template vs Dreamina vs 4 AI Generators Compared (2026) | MakeTrend AI",
+            "first_seen": "2026-10-30T06:00:36.381146+00:00"
+          }
         ]
       }
     },
@@ -36262,6 +36452,13 @@
             "url": "https://maketrendai.com/blog/best-bad-times-ai-video-generators",
             "title": "Bad Times AI Video Generators (2026): No CapCut Template? Starrd vs Kavel vs Fuzana vs MakeTrend AI | MakeTrend AI",
             "first_seen": "2026-10-27T12:00:07.920363+00:00"
+          }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/best-bad-times-ai-video-generators",
+            "title": "Bad Times AI Video Generators (2026): No CapCut Template? Starrd vs Kavel vs Fuzana vs MakeTrend AI | MakeTrend AI",
+            "first_seen": "2026-10-30T06:00:35.330320+00:00"
           }
         ]
       }
@@ -36275,6 +36472,13 @@
             "title": "Bad Times AI Video Generators (2026): No CapCut Template? Starrd vs Kavel vs Fuzana vs MakeTrend AI | MakeTrend AI",
             "first_seen": "2026-10-27T12:00:07.920397+00:00"
           }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/best-bad-times-ai-video-generators",
+            "title": "Bad Times AI Video Generators (2026): No CapCut Template? Starrd vs Kavel vs Fuzana vs MakeTrend AI | MakeTrend AI",
+            "first_seen": "2026-10-30T06:00:35.330332+00:00"
+          }
         ]
       }
     },
@@ -36287,6 +36491,13 @@
             "title": "Bad Times AI Video Generators (2026): No CapCut Template? Starrd vs Kavel vs Fuzana vs MakeTrend AI | MakeTrend AI",
             "first_seen": "2026-10-27T12:00:07.920404+00:00"
           }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/best-bad-times-ai-video-generators",
+            "title": "Bad Times AI Video Generators (2026): No CapCut Template? Starrd vs Kavel vs Fuzana vs MakeTrend AI | MakeTrend AI",
+            "first_seen": "2026-10-30T06:00:35.330390+00:00"
+          }
         ]
       }
     },
@@ -36298,6 +36509,13 @@
             "url": "https://maketrendai.com/blog/best-bad-times-ai-video-generators",
             "title": "Bad Times AI Video Generators (2026): No CapCut Template? Starrd vs Kavel vs Fuzana vs MakeTrend AI | MakeTrend AI",
             "first_seen": "2026-10-27T12:00:07.920435+00:00"
+          }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/best-bad-times-ai-video-generators",
+            "title": "Bad Times AI Video Generators (2026): No CapCut Template? Starrd vs Kavel vs Fuzana vs MakeTrend AI | MakeTrend AI",
+            "first_seen": "2026-10-30T06:00:35.330326+00:00"
           }
         ]
       }
@@ -36326,6 +36544,13 @@
             "title": "Ramalama AI Video Generators (2026): GoFaceless vs Media.io vs MakeViral vs Kavel vs MakeTrend AI | MakeTrend AI",
             "first_seen": "2026-10-28T00:00:10.841252+00:00"
           }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/best-bad-times-ai-video-generators",
+            "title": "Bad Times AI Video Generators (2026): No CapCut Template? Starrd vs Kavel vs Fuzana vs MakeTrend AI | MakeTrend AI",
+            "first_seen": "2026-10-30T06:00:35.330277+00:00"
+          }
         ]
       }
     },
@@ -36353,6 +36578,13 @@
             "title": "Ramalama AI Video Generators (2026): GoFaceless vs Media.io vs MakeViral vs Kavel vs MakeTrend AI | MakeTrend AI",
             "first_seen": "2026-10-28T00:00:10.841326+00:00"
           }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/best-bad-times-ai-video-generators",
+            "title": "Bad Times AI Video Generators (2026): No CapCut Template? Starrd vs Kavel vs Fuzana vs MakeTrend AI | MakeTrend AI",
+            "first_seen": "2026-10-30T06:00:35.330395+00:00"
+          }
         ]
       }
     },
@@ -36364,6 +36596,13 @@
             "url": "https://maketrendai.com/blog/best-bad-times-ai-video-generators",
             "title": "Bad Times AI Video Generators (2026): No CapCut Template? Starrd vs Kavel vs Fuzana vs MakeTrend AI | MakeTrend AI",
             "first_seen": "2026-10-27T12:00:07.920464+00:00"
+          }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/best-bad-times-ai-video-generators",
+            "title": "Bad Times AI Video Generators (2026): No CapCut Template? Starrd vs Kavel vs Fuzana vs MakeTrend AI | MakeTrend AI",
+            "first_seen": "2026-10-30T06:00:35.330350+00:00"
           }
         ]
       }
@@ -36377,6 +36616,13 @@
             "title": "Bad Times AI Video Generators (2026): No CapCut Template? Starrd vs Kavel vs Fuzana vs MakeTrend AI | MakeTrend AI",
             "first_seen": "2026-10-27T12:00:07.920470+00:00"
           }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/best-bad-times-ai-video-generators",
+            "title": "Bad Times AI Video Generators (2026): No CapCut Template? Starrd vs Kavel vs Fuzana vs MakeTrend AI | MakeTrend AI",
+            "first_seen": "2026-10-30T06:00:35.330409+00:00"
+          }
         ]
       }
     },
@@ -36388,6 +36634,13 @@
             "url": "https://maketrendai.com/blog/best-bad-times-ai-video-generators",
             "title": "Bad Times AI Video Generators (2026): No CapCut Template? Starrd vs Kavel vs Fuzana vs MakeTrend AI | MakeTrend AI",
             "first_seen": "2026-10-27T12:00:07.920476+00:00"
+          }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/best-bad-times-ai-video-generators",
+            "title": "Bad Times AI Video Generators (2026): No CapCut Template? Starrd vs Kavel vs Fuzana vs MakeTrend AI | MakeTrend AI",
+            "first_seen": "2026-10-30T06:00:35.330299+00:00"
           }
         ]
       }
@@ -36401,6 +36654,13 @@
             "title": "Bad Times AI Video Generators (2026): No CapCut Template? Starrd vs Kavel vs Fuzana vs MakeTrend AI | MakeTrend AI",
             "first_seen": "2026-10-27T12:00:07.920483+00:00"
           }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/best-bad-times-ai-video-generators",
+            "title": "Bad Times AI Video Generators (2026): No CapCut Template? Starrd vs Kavel vs Fuzana vs MakeTrend AI | MakeTrend AI",
+            "first_seen": "2026-10-30T06:00:35.330292+00:00"
+          }
         ]
       }
     },
@@ -36412,6 +36672,13 @@
             "url": "https://maketrendai.com/blog/best-bad-times-ai-video-generators",
             "title": "Bad Times AI Video Generators (2026): No CapCut Template? Starrd vs Kavel vs Fuzana vs MakeTrend AI | MakeTrend AI",
             "first_seen": "2026-10-27T12:00:07.920489+00:00"
+          }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/best-bad-times-ai-video-generators",
+            "title": "Bad Times AI Video Generators (2026): No CapCut Template? Starrd vs Kavel vs Fuzana vs MakeTrend AI | MakeTrend AI",
+            "first_seen": "2026-10-30T06:00:35.330312+00:00"
           }
         ]
       }
@@ -36425,6 +36692,13 @@
             "title": "Bad Times AI Video Generators (2026): No CapCut Template? Starrd vs Kavel vs Fuzana vs MakeTrend AI | MakeTrend AI",
             "first_seen": "2026-10-27T12:00:07.920495+00:00"
           }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/best-bad-times-ai-video-generators",
+            "title": "Bad Times AI Video Generators (2026): No CapCut Template? Starrd vs Kavel vs Fuzana vs MakeTrend AI | MakeTrend AI",
+            "first_seen": "2026-10-30T06:00:35.330344+00:00"
+          }
         ]
       }
     },
@@ -36436,6 +36710,13 @@
             "url": "https://maketrendai.com/blog/best-bad-times-ai-video-generators",
             "title": "Bad Times AI Video Generators (2026): No CapCut Template? Starrd vs Kavel vs Fuzana vs MakeTrend AI | MakeTrend AI",
             "first_seen": "2026-10-27T12:00:07.920501+00:00"
+          }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/best-bad-times-ai-video-generators",
+            "title": "Bad Times AI Video Generators (2026): No CapCut Template? Starrd vs Kavel vs Fuzana vs MakeTrend AI | MakeTrend AI",
+            "first_seen": "2026-10-30T06:00:35.330211+00:00"
           }
         ]
       }
@@ -36449,6 +36730,13 @@
             "title": "Bad Times AI Video Generators (2026): No CapCut Template? Starrd vs Kavel vs Fuzana vs MakeTrend AI | MakeTrend AI",
             "first_seen": "2026-10-27T12:00:07.920507+00:00"
           }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/best-bad-times-ai-video-generators",
+            "title": "Bad Times AI Video Generators (2026): No CapCut Template? Starrd vs Kavel vs Fuzana vs MakeTrend AI | MakeTrend AI",
+            "first_seen": "2026-10-30T06:00:35.330422+00:00"
+          }
         ]
       }
     },
@@ -36460,6 +36748,13 @@
             "url": "https://maketrendai.com/blog/best-bad-times-ai-video-generators",
             "title": "Bad Times AI Video Generators (2026): No CapCut Template? Starrd vs Kavel vs Fuzana vs MakeTrend AI | MakeTrend AI",
             "first_seen": "2026-10-27T12:00:07.920512+00:00"
+          }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/best-bad-times-ai-video-generators",
+            "title": "Bad Times AI Video Generators (2026): No CapCut Template? Starrd vs Kavel vs Fuzana vs MakeTrend AI | MakeTrend AI",
+            "first_seen": "2026-10-30T06:00:35.330286+00:00"
           }
         ]
       }
@@ -36488,6 +36783,13 @@
             "title": "Ramalama AI Video Generators (2026): GoFaceless vs Media.io vs MakeViral vs Kavel vs MakeTrend AI | MakeTrend AI",
             "first_seen": "2026-10-28T00:00:10.841319+00:00"
           }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/best-bad-times-ai-video-generators",
+            "title": "Bad Times AI Video Generators (2026): No CapCut Template? Starrd vs Kavel vs Fuzana vs MakeTrend AI | MakeTrend AI",
+            "first_seen": "2026-10-30T06:00:35.330338+00:00"
+          }
         ]
       }
     },
@@ -36499,6 +36801,13 @@
             "url": "https://maketrendai.com/blog/best-bad-times-ai-video-generators",
             "title": "Bad Times AI Video Generators (2026): No CapCut Template? Starrd vs Kavel vs Fuzana vs MakeTrend AI | MakeTrend AI",
             "first_seen": "2026-10-27T12:00:07.920534+00:00"
+          }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/best-bad-times-ai-video-generators",
+            "title": "Bad Times AI Video Generators (2026): No CapCut Template? Starrd vs Kavel vs Fuzana vs MakeTrend AI | MakeTrend AI",
+            "first_seen": "2026-10-30T06:00:35.330415+00:00"
           }
         ]
       }
@@ -36512,6 +36821,13 @@
             "title": "Bad Times AI Video Generators (2026): No CapCut Template? Starrd vs Kavel vs Fuzana vs MakeTrend AI | MakeTrend AI",
             "first_seen": "2026-10-27T12:00:07.920557+00:00"
           }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/best-bad-times-ai-video-generators",
+            "title": "Bad Times AI Video Generators (2026): No CapCut Template? Starrd vs Kavel vs Fuzana vs MakeTrend AI | MakeTrend AI",
+            "first_seen": "2026-10-30T06:00:35.330356+00:00"
+          }
         ]
       }
     },
@@ -36523,6 +36839,13 @@
             "url": "https://maketrendai.com/blog/best-bad-times-ai-video-generators",
             "title": "Bad Times AI Video Generators (2026): No CapCut Template? Starrd vs Kavel vs Fuzana vs MakeTrend AI | MakeTrend AI",
             "first_seen": "2026-10-27T12:00:07.920565+00:00"
+          }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/best-bad-times-ai-video-generators",
+            "title": "Bad Times AI Video Generators (2026): No CapCut Template? Starrd vs Kavel vs Fuzana vs MakeTrend AI | MakeTrend AI",
+            "first_seen": "2026-10-30T06:00:35.330382+00:00"
           }
         ]
       }
@@ -36546,6 +36869,13 @@
             "title": "How to Make the Devil Wears Prada Trend Video With AI (\"Prada Prada Prada\") From One Photo | MakeTrend AI",
             "first_seen": "2026-10-28T00:00:10.120536+00:00"
           }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/devil-wears-prada-ai",
+            "title": "Devil Wears Prada Trend AI — The \"Prada Prada Prada\" Glow-Up From One Photo",
+            "first_seen": "2026-10-30T06:00:37.510243+00:00"
+          }
         ]
       }
     },
@@ -36567,6 +36897,13 @@
             "url": "https://maketrendai.com/blog/how-to-make-devil-wears-prada-ai-video",
             "title": "How to Make the Devil Wears Prada Trend Video With AI (\"Prada Prada Prada\") From One Photo | MakeTrend AI",
             "first_seen": "2026-10-28T00:00:10.120601+00:00"
+          }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/devil-wears-prada-ai",
+            "title": "Devil Wears Prada Trend AI — The \"Prada Prada Prada\" Glow-Up From One Photo",
+            "first_seen": "2026-10-30T06:00:37.510292+00:00"
           }
         ]
       }
@@ -36590,6 +36927,13 @@
             "title": "How to Make the Devil Wears Prada Trend Video With AI (\"Prada Prada Prada\") From One Photo | MakeTrend AI",
             "first_seen": "2026-10-28T00:00:10.120615+00:00"
           }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/devil-wears-prada-ai",
+            "title": "Devil Wears Prada Trend AI — The \"Prada Prada Prada\" Glow-Up From One Photo",
+            "first_seen": "2026-10-30T06:00:37.510308+00:00"
+          }
         ]
       }
     },
@@ -36601,6 +36945,13 @@
             "url": "https://maketrendai.com/blog/best-ozil-ai-goal-video-generators",
             "title": "Ozil AI Goal: CapCut Template vs Dreamina vs 4 AI Generators Compared (2026) | MakeTrend AI",
             "first_seen": "2026-10-27T12:00:08.068955+00:00"
+          }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/best-ozil-ai-goal-video-generators",
+            "title": "Ozil AI Goal: CapCut Template vs Dreamina vs 4 AI Generators Compared (2026) | MakeTrend AI",
+            "first_seen": "2026-10-30T06:00:36.381332+00:00"
           }
         ]
       }
@@ -36614,6 +36965,13 @@
             "title": "Ozil AI Goal: CapCut Template vs Dreamina vs 4 AI Generators Compared (2026) | MakeTrend AI",
             "first_seen": "2026-10-27T12:00:08.068990+00:00"
           }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/best-ozil-ai-goal-video-generators",
+            "title": "Ozil AI Goal: CapCut Template vs Dreamina vs 4 AI Generators Compared (2026) | MakeTrend AI",
+            "first_seen": "2026-10-30T06:00:36.381185+00:00"
+          }
         ]
       }
     },
@@ -36625,6 +36983,13 @@
             "url": "https://maketrendai.com/blog/best-ozil-ai-goal-video-generators",
             "title": "Ozil AI Goal: CapCut Template vs Dreamina vs 4 AI Generators Compared (2026) | MakeTrend AI",
             "first_seen": "2026-10-27T12:00:08.069005+00:00"
+          }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/best-ozil-ai-goal-video-generators",
+            "title": "Ozil AI Goal: CapCut Template vs Dreamina vs 4 AI Generators Compared (2026) | MakeTrend AI",
+            "first_seen": "2026-10-30T06:00:36.381172+00:00"
           }
         ]
       }
@@ -36638,6 +37003,13 @@
             "title": "Ozil AI Goal: CapCut Template vs Dreamina vs 4 AI Generators Compared (2026) | MakeTrend AI",
             "first_seen": "2026-10-27T12:00:08.069021+00:00"
           }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/best-ozil-ai-goal-video-generators",
+            "title": "Ozil AI Goal: CapCut Template vs Dreamina vs 4 AI Generators Compared (2026) | MakeTrend AI",
+            "first_seen": "2026-10-30T06:00:36.381059+00:00"
+          }
         ]
       }
     },
@@ -36650,6 +37022,13 @@
             "title": "Ozil AI Goal: CapCut Template vs Dreamina vs 4 AI Generators Compared (2026) | MakeTrend AI",
             "first_seen": "2026-10-27T12:00:08.069034+00:00"
           }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/best-ozil-ai-goal-video-generators",
+            "title": "Ozil AI Goal: CapCut Template vs Dreamina vs 4 AI Generators Compared (2026) | MakeTrend AI",
+            "first_seen": "2026-10-30T06:00:36.381320+00:00"
+          }
         ]
       }
     },
@@ -36661,6 +37040,13 @@
             "url": "https://maketrendai.com/blog/best-ozil-ai-goal-video-generators",
             "title": "Ozil AI Goal: CapCut Template vs Dreamina vs 4 AI Generators Compared (2026) | MakeTrend AI",
             "first_seen": "2026-10-27T12:00:08.069062+00:00"
+          }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/best-ozil-ai-goal-video-generators",
+            "title": "Ozil AI Goal: CapCut Template vs Dreamina vs 4 AI Generators Compared (2026) | MakeTrend AI",
+            "first_seen": "2026-10-30T06:00:36.381256+00:00"
           }
         ]
       }
@@ -36679,6 +37065,13 @@
             "title": "Coldplay Kiss Cam AI Generators (2026): CapCut Template vs Kavel vs MakeViral vs MakeTrend AI | MakeTrend AI",
             "first_seen": "2026-10-28T00:00:09.377520+00:00"
           }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/best-ozil-ai-goal-video-generators",
+            "title": "Ozil AI Goal: CapCut Template vs Dreamina vs 4 AI Generators Compared (2026) | MakeTrend AI",
+            "first_seen": "2026-10-30T06:00:36.381295+00:00"
+          }
         ]
       }
     },
@@ -36690,6 +37083,13 @@
             "url": "https://maketrendai.com/blog/best-ozil-ai-goal-video-generators",
             "title": "Ozil AI Goal: CapCut Template vs Dreamina vs 4 AI Generators Compared (2026) | MakeTrend AI",
             "first_seen": "2026-10-27T12:00:08.069095+00:00"
+          }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/best-ozil-ai-goal-video-generators",
+            "title": "Ozil AI Goal: CapCut Template vs Dreamina vs 4 AI Generators Compared (2026) | MakeTrend AI",
+            "first_seen": "2026-10-30T06:00:36.381308+00:00"
           }
         ]
       }
@@ -36703,6 +37103,13 @@
             "title": "Ozil AI Goal: CapCut Template vs Dreamina vs 4 AI Generators Compared (2026) | MakeTrend AI",
             "first_seen": "2026-10-27T12:00:08.069109+00:00"
           }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/best-ozil-ai-goal-video-generators",
+            "title": "Ozil AI Goal: CapCut Template vs Dreamina vs 4 AI Generators Compared (2026) | MakeTrend AI",
+            "first_seen": "2026-10-30T06:00:36.381196+00:00"
+          }
         ]
       }
     },
@@ -36714,6 +37121,13 @@
             "url": "https://maketrendai.com/blog/best-ozil-ai-goal-video-generators",
             "title": "Ozil AI Goal: CapCut Template vs Dreamina vs 4 AI Generators Compared (2026) | MakeTrend AI",
             "first_seen": "2026-10-27T12:00:08.069123+00:00"
+          }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/best-ozil-ai-goal-video-generators",
+            "title": "Ozil AI Goal: CapCut Template vs Dreamina vs 4 AI Generators Compared (2026) | MakeTrend AI",
+            "first_seen": "2026-10-30T06:00:36.381126+00:00"
           }
         ]
       }
@@ -36727,6 +37141,13 @@
             "title": "Ozil AI Goal: CapCut Template vs Dreamina vs 4 AI Generators Compared (2026) | MakeTrend AI",
             "first_seen": "2026-10-27T12:00:08.069139+00:00"
           }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/best-ozil-ai-goal-video-generators",
+            "title": "Ozil AI Goal: CapCut Template vs Dreamina vs 4 AI Generators Compared (2026) | MakeTrend AI",
+            "first_seen": "2026-10-30T06:00:36.381233+00:00"
+          }
         ]
       }
     },
@@ -36738,6 +37159,13 @@
             "url": "https://maketrendai.com/blog/best-ozil-ai-goal-video-generators",
             "title": "Ozil AI Goal: CapCut Template vs Dreamina vs 4 AI Generators Compared (2026) | MakeTrend AI",
             "first_seen": "2026-10-27T12:00:08.069154+00:00"
+          }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/best-ozil-ai-goal-video-generators",
+            "title": "Ozil AI Goal: CapCut Template vs Dreamina vs 4 AI Generators Compared (2026) | MakeTrend AI",
+            "first_seen": "2026-10-30T06:00:36.381207+00:00"
           }
         ]
       }
@@ -36751,6 +37179,13 @@
             "title": "Ozil AI Goal: CapCut Template vs Dreamina vs 4 AI Generators Compared (2026) | MakeTrend AI",
             "first_seen": "2026-10-27T12:00:08.069203+00:00"
           }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/best-ozil-ai-goal-video-generators",
+            "title": "Ozil AI Goal: CapCut Template vs Dreamina vs 4 AI Generators Compared (2026) | MakeTrend AI",
+            "first_seen": "2026-10-30T06:00:36.381078+00:00"
+          }
         ]
       }
     },
@@ -36762,6 +37197,13 @@
             "url": "https://maketrendai.com/blog/best-ozil-ai-goal-video-generators",
             "title": "Ozil AI Goal: CapCut Template vs Dreamina vs 4 AI Generators Compared (2026) | MakeTrend AI",
             "first_seen": "2026-10-27T12:00:08.069218+00:00"
+          }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/best-ozil-ai-goal-video-generators",
+            "title": "Ozil AI Goal: CapCut Template vs Dreamina vs 4 AI Generators Compared (2026) | MakeTrend AI",
+            "first_seen": "2026-10-30T06:00:36.381281+00:00"
           }
         ]
       }
@@ -36780,6 +37222,13 @@
             "title": "Coldplay Kiss Cam AI Generators (2026): CapCut Template vs Kavel vs MakeViral vs MakeTrend AI | MakeTrend AI",
             "first_seen": "2026-10-28T00:00:09.377668+00:00"
           }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/best-ozil-ai-goal-video-generators",
+            "title": "Ozil AI Goal: CapCut Template vs Dreamina vs 4 AI Generators Compared (2026) | MakeTrend AI",
+            "first_seen": "2026-10-30T06:00:36.381160+00:00"
+          }
         ]
       }
     },
@@ -36791,6 +37240,13 @@
             "url": "https://maketrendai.com/blog/best-ozil-ai-goal-video-generators",
             "title": "Ozil AI Goal: CapCut Template vs Dreamina vs 4 AI Generators Compared (2026) | MakeTrend AI",
             "first_seen": "2026-10-27T12:00:08.069247+00:00"
+          }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/best-ozil-ai-goal-video-generators",
+            "title": "Ozil AI Goal: CapCut Template vs Dreamina vs 4 AI Generators Compared (2026) | MakeTrend AI",
+            "first_seen": "2026-10-30T06:00:36.381244+00:00"
           }
         ]
       }
@@ -36804,6 +37260,13 @@
             "title": "Ozil AI Goal: CapCut Template vs Dreamina vs 4 AI Generators Compared (2026) | MakeTrend AI",
             "first_seen": "2026-10-27T12:00:08.069261+00:00"
           }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/best-ozil-ai-goal-video-generators",
+            "title": "Ozil AI Goal: CapCut Template vs Dreamina vs 4 AI Generators Compared (2026) | MakeTrend AI",
+            "first_seen": "2026-10-30T06:00:36.381221+00:00"
+          }
         ]
       }
     },
@@ -36815,6 +37278,13 @@
             "url": "https://maketrendai.com/blog/best-ozil-ai-goal-video-generators",
             "title": "Ozil AI Goal: CapCut Template vs Dreamina vs 4 AI Generators Compared (2026) | MakeTrend AI",
             "first_seen": "2026-10-27T12:00:08.069276+00:00"
+          }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/best-ozil-ai-goal-video-generators",
+            "title": "Ozil AI Goal: CapCut Template vs Dreamina vs 4 AI Generators Compared (2026) | MakeTrend AI",
+            "first_seen": "2026-10-30T06:00:36.381268+00:00"
           }
         ]
       }
@@ -36833,6 +37303,13 @@
             "title": "How to Make the Bad Times Trend Toddler Video From a Photo of Your Child | MakeTrend AI",
             "first_seen": "2026-10-28T00:00:09.284265+00:00"
           }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/bad-times-trend-toddler",
+            "title": "Bad Times Trend Toddler & Baby AI Video — From a Photo of Your Child",
+            "first_seen": "2026-10-30T06:00:36.284164+00:00"
+          }
         ]
       }
     },
@@ -36850,6 +37327,13 @@
             "title": "How to Make the Bad Times Trend Toddler Video From a Photo of Your Child | MakeTrend AI",
             "first_seen": "2026-10-28T00:00:09.284297+00:00"
           }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/bad-times-trend-toddler",
+            "title": "Bad Times Trend Toddler & Baby AI Video — From a Photo of Your Child",
+            "first_seen": "2026-10-30T06:00:36.284213+00:00"
+          }
         ]
       }
     },
@@ -36862,6 +37346,13 @@
             "title": "How to Make the Ozil AI Goal Video From One Photo | MakeTrend AI",
             "first_seen": "2026-10-27T12:00:08.631710+00:00"
           }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/how-to-make-ozil-ai-goal-video",
+            "title": "How to Make the Ozil AI Goal Video From One Photo | MakeTrend AI",
+            "first_seen": "2026-10-30T06:00:35.396382+00:00"
+          }
         ]
       }
     },
@@ -36873,6 +37364,13 @@
             "url": "https://maketrendai.com/ramalama-squad-ai",
             "title": "Ramalama Squad AI — Group Costume Walk Video for 2–3 Friends",
             "first_seen": "2026-10-27T12:00:08.705018+00:00"
+          }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/ramalama-squad-ai",
+            "title": "Ramalama Squad AI — Group Costume Walk Video for 2–3 Friends",
+            "first_seen": "2026-10-30T06:00:36.246445+00:00"
           }
         ]
       }
@@ -47075,6 +47573,201 @@
             "url": "https://knowyourmeme.com/memes/jennifer-lawrence-plastic-surgery",
             "title": "Jennifer Lawrence Plastic Surgery | Know Your Meme",
             "first_seen": "2026-10-30T00:00:09.713394+00:00"
+          }
+        ]
+      }
+    },
+    "midnight snack": {
+      "first_seen": "2026-10-30T06:00:36.993383+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/template/midnight-snack-ai-video",
+            "title": "Midnight Snack — AI Video Template | Starrd",
+            "first_seen": "2026-10-30T06:00:36.993383+00:00"
+          },
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-midnight-snack-ai-video",
+            "title": "How to Make the Midnight Snack AI Video Starring Your Dog (2026)",
+            "first_seen": "2026-10-30T06:00:37.589641+00:00"
+          }
+        ]
+      }
+    },
+    "starring your dog 2026": {
+      "first_seen": "2026-10-30T06:00:37.589594+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-midnight-snack-ai-video",
+            "title": "How to Make the Midnight Snack AI Video Starring Your Dog (2026)",
+            "first_seen": "2026-10-30T06:00:37.589594+00:00"
+          }
+        ]
+      }
+    },
+    "snack ai video starring": {
+      "first_seen": "2026-10-30T06:00:37.589655+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-midnight-snack-ai-video",
+            "title": "How to Make the Midnight Snack AI Video Starring Your Dog (2026)",
+            "first_seen": "2026-10-30T06:00:37.589655+00:00"
+          }
+        ]
+      }
+    },
+    "style 2": {
+      "first_seen": "2026-10-30T06:00:37.697017+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-gangnam-style-pt-2-ai-video",
+            "title": "How to Make the Gangnam Style Elevator AI Video With a Friend (2026)",
+            "first_seen": "2026-10-30T06:00:37.697017+00:00"
+          },
+          {
+            "url": "https://www.getstarrd.app/template/gangnam-style-pt-2-ai-video",
+            "title": "Gangnam Style Pt. 2 — AI Video Template | Starrd",
+            "first_seen": "2026-10-30T06:00:37.697343+00:00"
+          }
+        ]
+      }
+    },
+    "style elevator": {
+      "first_seen": "2026-10-30T06:00:37.697037+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-gangnam-style-pt-2-ai-video",
+            "title": "How to Make the Gangnam Style Elevator AI Video With a Friend (2026)",
+            "first_seen": "2026-10-30T06:00:37.697037+00:00"
+          }
+        ]
+      }
+    },
+    "gangnam style 2": {
+      "first_seen": "2026-10-30T06:00:37.697051+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-gangnam-style-pt-2-ai-video",
+            "title": "How to Make the Gangnam Style Elevator AI Video With a Friend (2026)",
+            "first_seen": "2026-10-30T06:00:37.697051+00:00"
+          },
+          {
+            "url": "https://www.getstarrd.app/template/gangnam-style-pt-2-ai-video",
+            "title": "Gangnam Style Pt. 2 — AI Video Template | Starrd",
+            "first_seen": "2026-10-30T06:00:37.697358+00:00"
+          }
+        ]
+      }
+    },
+    "gangnam style elevator": {
+      "first_seen": "2026-10-30T06:00:37.697064+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-gangnam-style-pt-2-ai-video",
+            "title": "How to Make the Gangnam Style Elevator AI Video With a Friend (2026)",
+            "first_seen": "2026-10-30T06:00:37.697064+00:00"
+          }
+        ]
+      }
+    },
+    "headliner dog dj": {
+      "first_seen": "2026-10-30T06:00:37.988048+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/template/headliner-dog-dj-ai-video",
+            "title": "Headliner — AI Video Template | Starrd",
+            "first_seen": "2026-10-30T06:00:37.988048+00:00"
+          }
+        ]
+      }
+    },
+    "24 card reveal": {
+      "first_seen": "2026-10-30T06:00:38.253167+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-unforgettable-ai-video",
+            "title": "How to Make the Unforgettable Car Trend AI Video (24 Card Reveal, 2026)",
+            "first_seen": "2026-10-30T06:00:38.253167+00:00"
+          }
+        ]
+      }
+    },
+    "unforgettable car": {
+      "first_seen": "2026-10-30T06:00:38.253211+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-unforgettable-ai-video",
+            "title": "How to Make the Unforgettable Car Trend AI Video (24 Card Reveal, 2026)",
+            "first_seen": "2026-10-30T06:00:38.253211+00:00"
+          }
+        ]
+      }
+    },
+    "card reveal": {
+      "first_seen": "2026-10-30T06:00:38.253234+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-unforgettable-ai-video",
+            "title": "How to Make the Unforgettable Car Trend AI Video (24 Card Reveal, 2026)",
+            "first_seen": "2026-10-30T06:00:38.253234+00:00"
+          }
+        ]
+      }
+    },
+    "24 card reveal 2026": {
+      "first_seen": "2026-10-30T06:00:38.253244+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-unforgettable-ai-video",
+            "title": "How to Make the Unforgettable Car Trend AI Video (24 Card Reveal, 2026)",
+            "first_seen": "2026-10-30T06:00:38.253244+00:00"
+          }
+        ]
+      }
+    },
+    "24 card": {
+      "first_seen": "2026-10-30T06:00:38.253251+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-unforgettable-ai-video",
+            "title": "How to Make the Unforgettable Car Trend AI Video (24 Card Reveal, 2026)",
+            "first_seen": "2026-10-30T06:00:38.253251+00:00"
+          }
+        ]
+      }
+    },
+    "reveal 2026": {
+      "first_seen": "2026-10-30T06:00:38.253257+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-unforgettable-ai-video",
+            "title": "How to Make the Unforgettable Car Trend AI Video (24 Card Reveal, 2026)",
+            "first_seen": "2026-10-30T06:00:38.253257+00:00"
+          }
+        ]
+      }
+    },
+    "card reveal 2026": {
+      "first_seen": "2026-10-30T06:00:38.253271+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-unforgettable-ai-video",
+            "title": "How to Make the Unforgettable Car Trend AI Video (24 Card Reveal, 2026)",
+            "first_seen": "2026-10-30T06:00:38.253271+00:00"
           }
         ]
       }
