@@ -1,6 +1,6 @@
 {
-  "last_run_timestamp": "2026-10-30T18:00:39.789719+00:00",
-  "total_urls_seen": 12505,
+  "last_run_timestamp": "2026-10-31T00:00:16.693061+00:00",
+  "total_urls_seen": 12591,
   "seen_urls": {
     "knowyourmeme.com": [
       "https://knowyourmeme.com/memes/yohohoho-binkusuno-sake-by-ado",
@@ -77,7 +77,9 @@
       "https://knowyourmeme.com/memes/her-curls",
       "https://knowyourmeme.com/memes/ethan-klein-ai-edits-kleinification",
       "https://knowyourmeme.com/memes/jennifer-lawrence-plastic-surgery",
-      "https://knowyourmeme.com/memes/como-ce-dice-by-chainsfr"
+      "https://knowyourmeme.com/memes/como-ce-dice-by-chainsfr",
+      "https://knowyourmeme.com/memes/liberty-biberty",
+      "https://knowyourmeme.com/memes/theo-von-n-its-over"
     ],
     "aptvideoai.com": [
       "https://aptvideoai.com",
@@ -11186,7 +11188,27 @@
       "https://www.media.io/ai-prompts/gemini-long-distance-friendship-photo-prompts.html",
       "https://www.media.io/ai-prompts/gemini-beige-suit-prompt.html",
       "https://www.media.io/ai-prompts/gemini-21st-birthday-photo-prompts.html",
-      "https://www.media.io/ai/explore/zone/viral-love-name-letter-vfx-ai-video-tutorial"
+      "https://www.media.io/ai/explore/zone/viral-love-name-letter-vfx-ai-video-tutorial",
+      "https://www.media.io/comparison/yapper-ai-video-generator.html",
+      "https://www.media.io/comparison/clippie-ai.html",
+      "https://www.media.io/comparison/vibevideo.html",
+      "https://www.media.io/comparison/komiko-ai.html",
+      "https://www.media.io/comparison/quickframe.html",
+      "https://www.media.io/ai/explore/zone/ai-street-dance-generator",
+      "https://www.media.io/comparison/vidmuse-ai.html",
+      "https://www.media.io/comparison/popvid-ai.html",
+      "https://www.media.io/comparison/anijam-ai.html",
+      "https://www.media.io/ai/explore/zone/dominican-papi-ai-dance-generator",
+      "https://www.media.io/comparison/easyvid-ai.html",
+      "https://www.media.io/comparison/zeely-ai.html",
+      "https://www.media.io/comparison/zencreator-ai.html",
+      "https://www.media.io/comparison/easyslice-ai.html",
+      "https://www.media.io/comparison/flashloop-ai.html",
+      "https://www.media.io/comparison/flat-ai-video-generator.html",
+      "https://www.media.io/comparison/lumeflow-ai.html",
+      "https://www.media.io/comparison/frameo-ai-video-generator.html",
+      "https://www.media.io/comparison/makereels-ai.html",
+      "https://www.media.io/comparison/makeugc-ai.html"
     ],
     "remakeyourmeme.com": [
       "https://remakeyourmeme.com",
@@ -11991,7 +12013,11 @@
       "https://www.getstarrd.app/blog/how-to-make-big-river-flows-east-ai-video",
       "https://www.getstarrd.app/template/thriller-dance-ai-video",
       "https://www.getstarrd.app/blog/how-to-make-thriller-dance-ai-video",
-      "https://www.getstarrd.app/blog/how-to-make-pov-getting-chased-ai-video"
+      "https://www.getstarrd.app/blog/how-to-make-pov-getting-chased-ai-video",
+      "https://www.getstarrd.app/blog/how-to-make-clayface-ai-video",
+      "https://www.getstarrd.app/blog/how-to-make-sleeping-in-the-attic-ai-video",
+      "https://www.getstarrd.app/blog/how-to-make-put-a-mind-chip-ai-video",
+      "https://www.getstarrd.app/template/strike-a-pole-ai-video"
     ],
     "www.capcut.com": [
       "https://www.capcut.com/template-detail/7613449947458981136",
@@ -12443,7 +12469,47 @@
       "https://www.capcut.com/template-detail/7482032172895964477",
       "https://www.capcut.com/template-detail/7493918549925203253",
       "https://www.capcut.com/template-detail/7477105562845449525",
-      "https://www.capcut.com/template-detail/7583162501995547909"
+      "https://www.capcut.com/template-detail/7583162501995547909",
+      "https://www.capcut.com/template-detail/7498354463204330813",
+      "https://www.capcut.com/template-detail/7562194797256035589",
+      "https://www.capcut.com/template-detail/7479674724608494901",
+      "https://www.capcut.com/template-detail/7557048438462909757",
+      "https://www.capcut.com/template-detail/7625287406241074448",
+      "https://www.capcut.com/template-detail/7518152256118689085",
+      "https://www.capcut.com/template-detail/7491246391063268661",
+      "https://www.capcut.com/template-detail/7500032579257568565",
+      "https://www.capcut.com/template-detail/7578927880323763461",
+      "https://www.capcut.com/template-detail/7517669819437600061",
+      "https://www.capcut.com/template-detail/7555483851997334845",
+      "https://www.capcut.com/template-detail/7598187696200191237",
+      "https://www.capcut.com/template-detail/7527686163398806845",
+      "https://www.capcut.com/template-detail/7635768473930501394",
+      "https://www.capcut.com/template-detail/7511708648767245629",
+      "https://www.capcut.com/template-detail/7595924195457142021",
+      "https://www.capcut.com/template-detail/7601920909233900805",
+      "https://www.capcut.com/template-detail/7668886012264926472",
+      "https://www.capcut.com/template-detail/7567365315173027125",
+      "https://www.capcut.com/template-detail/7615630042634276103",
+      "https://www.capcut.com/template-detail/7498354463204330813",
+      "https://www.capcut.com/template-detail/7511708648767245629",
+      "https://www.capcut.com/template-detail/7625287406241074448",
+      "https://www.capcut.com/template-detail/7527686163398806845",
+      "https://www.capcut.com/template-detail/7479674724608494901",
+      "https://www.capcut.com/template-detail/7601920909233900805",
+      "https://www.capcut.com/template-detail/7578927880323763461",
+      "https://www.capcut.com/template-detail/7557048438462909757",
+      "https://www.capcut.com/template-detail/7500032579257568565",
+      "https://www.capcut.com/template-detail/7598187696200191237",
+      "https://www.capcut.com/template-detail/7555483851997334845",
+      "https://www.capcut.com/template-detail/7517669819437600061",
+      "https://www.capcut.com/template-detail/7491246391063268661",
+      "https://www.capcut.com/template-detail/7615630042634276103",
+      "https://www.capcut.com/template-detail/7668886012264926472",
+      "https://www.capcut.com/template-detail/7562194797256035589",
+      "https://www.capcut.com/template-detail/7635768473930501394",
+      "https://www.capcut.com/template-detail/7518152256118689085",
+      "https://www.capcut.com/template-detail/7595924195457142021",
+      "https://www.capcut.com/template-detail/7567365315173027125"
     ],
     "maketrendai.com": [
       "https://maketrendai.com/studio",
@@ -12525,7 +12591,27 @@
       "https://maketrendai.com/blog/how-to-make-can-i-ride-dance-ai-video",
       "https://maketrendai.com/blog/how-to-make-devil-wears-prada-ai-video",
       "https://maketrendai.com/blog/how-to-make-dime-dime-baby-ai-video",
-      "https://maketrendai.com/blog/how-to-make-coldplay-kiss-cam-ai-video"
+      "https://maketrendai.com/blog/how-to-make-coldplay-kiss-cam-ai-video",
+      "https://maketrendai.com/blog/its-my-life-dog-trend",
+      "https://maketrendai.com/blog/how-to-make-ba-ba-ba-dance-ai-video",
+      "https://maketrendai.com/blog/how-to-make-middle-finger-dunk-ai-video",
+      "https://maketrendai.com/blog/how-to-make-its-my-life-dog-ai-video",
+      "https://maketrendai.com/blog/outstanding-tiny-desk-ai-trend",
+      "https://maketrendai.com/blog/how-to-make-ba-ba-ba-dance-ai-video",
+      "https://maketrendai.com/blog/how-to-make-skull-cap-trend-ai-video",
+      "https://maketrendai.com/blog/ba-ba-ba-dance-trend",
+      "https://maketrendai.com/blog/ba-ba-ba-dance-trend",
+      "https://maketrendai.com/blog/skull-cap-trend",
+      "https://maketrendai.com/blog/best-middle-finger-dunk-ai-video-generators",
+      "https://maketrendai.com/blog/best-middle-finger-dunk-ai-video-generators",
+      "https://maketrendai.com/blog/how-to-make-outstanding-tiny-desk-ai-video",
+      "https://maketrendai.com/blog/its-my-life-dog-trend",
+      "https://maketrendai.com/blog/hop-hop-hop-trend",
+      "https://maketrendai.com/blog/how-to-make-hop-hop-hop-ai-video",
+      "https://maketrendai.com/blog/how-to-make-middle-finger-dunk-ai-video",
+      "https://maketrendai.com/blog/how-to-make-skull-cap-trend-ai-video",
+      "https://maketrendai.com/blog/how-to-make-its-my-life-dog-ai-video",
+      "https://maketrendai.com/blog/skull-cap-trend"
     ]
   },
   "entities": {
@@ -28226,6 +28312,26 @@
             "url": "https://maketrendai.com/middle-finger-dunk-ai",
             "title": "Middle Finger Dunk AI — The 1v1 Dunk Trend From Your Photos",
             "first_seen": "2026-10-30T12:00:09.139248+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/how-to-make-middle-finger-dunk-ai-video",
+            "title": "How to Make the Middle Finger Dunk AI Video (My Prime 1v1): Dunk on Your Friend From Two Photos | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:08.848388+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/best-middle-finger-dunk-ai-video-generators",
+            "title": "Middle Finger Dunk AI Generators (2026): MakeViral vs Summrs vs Oakgen vs MakeTrend AI | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:09.235592+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/zh/blog/best-middle-finger-dunk-ai-video-generators",
+            "title": "中指扣篮 AI 生成器对比（2026）：MakeViral、Summrs、Oakgen 和 MakeTrend AI | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:09.331952+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/zh/blog/how-to-make-middle-finger-dunk-ai-video",
+            "title": "中指扣篮 AI 视频怎么做（My Prime 1v1）？两张照片，隔着朋友扣篮 | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:10.066917+00:00"
           }
         ]
       }
@@ -28265,6 +28371,11 @@
             "url": "https://www.getstarrd.app/blog/how-to-make-pov-getting-chased-ai-video",
             "title": "How to Make the 'POV: You're Getting Chased' AI Video With a Friend (2026)",
             "first_seen": "2026-10-30T18:00:32.576381+00:00"
+          },
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-put-a-mind-chip-ai-video",
+            "title": "How to Make the 'Put a Mind Chip' AI Interview Meme (\"So You Would Do That?\" Starring You and a Friend, 2026)",
+            "first_seen": "2026-10-31T00:00:11.270125+00:00"
           }
         ]
       }
@@ -28296,6 +28407,13 @@
             "url": "https://remakeyourmeme.com/templates/middle-finger-dunk-ai-video-generator/",
             "title": "Middle Finger Dunk AI Video Generator: Dunk on Your Friend",
             "first_seen": "2026-10-25T18:00:08.301592+00:00"
+          }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/how-to-make-middle-finger-dunk-ai-video",
+            "title": "How to Make the Middle Finger Dunk AI Video (My Prime 1v1): Dunk on Your Friend From Two Photos | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:08.848380+00:00"
           }
         ]
       }
@@ -28441,6 +28559,26 @@
             "url": "https://maketrendai.com/middle-finger-dunk-ai",
             "title": "Middle Finger Dunk AI — The 1v1 Dunk Trend From Your Photos",
             "first_seen": "2026-10-30T12:00:09.139268+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/how-to-make-middle-finger-dunk-ai-video",
+            "title": "How to Make the Middle Finger Dunk AI Video (My Prime 1v1): Dunk on Your Friend From Two Photos | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:08.848411+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/best-middle-finger-dunk-ai-video-generators",
+            "title": "Middle Finger Dunk AI Generators (2026): MakeViral vs Summrs vs Oakgen vs MakeTrend AI | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:09.235578+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/zh/blog/best-middle-finger-dunk-ai-video-generators",
+            "title": "中指扣篮 AI 生成器对比（2026）：MakeViral、Summrs、Oakgen 和 MakeTrend AI | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:09.331968+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/zh/blog/how-to-make-middle-finger-dunk-ai-video",
+            "title": "中指扣篮 AI 视频怎么做（My Prime 1v1）？两张照片，隔着朋友扣篮 | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:10.066877+00:00"
           }
         ]
       }
@@ -28581,6 +28719,26 @@
             "url": "https://maketrendai.com/middle-finger-dunk-ai",
             "title": "Middle Finger Dunk AI — The 1v1 Dunk Trend From Your Photos",
             "first_seen": "2026-10-30T12:00:09.139195+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/how-to-make-middle-finger-dunk-ai-video",
+            "title": "How to Make the Middle Finger Dunk AI Video (My Prime 1v1): Dunk on Your Friend From Two Photos | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:08.848370+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/best-middle-finger-dunk-ai-video-generators",
+            "title": "Middle Finger Dunk AI Generators (2026): MakeViral vs Summrs vs Oakgen vs MakeTrend AI | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:09.235552+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/zh/blog/best-middle-finger-dunk-ai-video-generators",
+            "title": "中指扣篮 AI 生成器对比（2026）：MakeViral、Summrs、Oakgen 和 MakeTrend AI | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:09.331931+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/zh/blog/how-to-make-middle-finger-dunk-ai-video",
+            "title": "中指扣篮 AI 视频怎么做（My Prime 1v1）？两张照片，隔着朋友扣篮 | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:10.066937+00:00"
           }
         ]
       }
@@ -28770,6 +28928,18 @@
             "url": "https://www.lightxeditor.com/blog/how-to-create-ai-ugc-video-ads/",
             "title": "How to Create AI UGC Video Ads (Step-by-Step Guide) | LightX",
             "first_seen": "2026-10-23T18:00:23.534092+00:00"
+          }
+        ],
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/zeely-ai.html",
+            "title": "Zeely AI Review: UGC Video Ads & Pricing Review",
+            "first_seen": "2026-10-31T00:00:09.834712+00:00"
+          },
+          {
+            "url": "https://www.media.io/comparison/makeugc-ai.html",
+            "title": "MakeUGC AI Review: UGC Video Ads & Pricing Review",
+            "first_seen": "2026-10-31T00:00:09.933846+00:00"
           }
         ]
       }
@@ -31168,6 +31338,26 @@
             "url": "https://maketrendai.com/ba-ba-ba-dance-ai",
             "title": "Ba Ba Ba Dance AI — Do the Viral Two-Person Dance From Your Photos",
             "first_seen": "2026-10-30T12:00:07.769887+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/how-to-make-ba-ba-ba-dance-ai-video",
+            "title": "How to Make the Ba Ba Ba Dance AI Video: The Viral Two-Person Dance From Your Photos | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:08.818932+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/zh/blog/how-to-make-ba-ba-ba-dance-ai-video",
+            "title": "Ba Ba Ba 双人舞 AI 视频怎么做？用你的照片，做出爆火的双人舞 | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:09.063570+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/ba-ba-ba-dance-trend",
+            "title": "Ba Ba Ba Dance: The Routine, Who Made It and How the TikTok Trend Started | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:09.156007+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/zh/blog/ba-ba-ba-dance-trend",
+            "title": "Ba Ba Ba 舞蹈：舞步、编舞者和 TikTok 热梗的由来 | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:09.182935+00:00"
           }
         ]
       }
@@ -31247,6 +31437,26 @@
             "url": "https://maketrendai.com/ba-ba-ba-dance-ai",
             "title": "Ba Ba Ba Dance AI — Do the Viral Two-Person Dance From Your Photos",
             "first_seen": "2026-10-30T12:00:07.769844+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/how-to-make-ba-ba-ba-dance-ai-video",
+            "title": "How to Make the Ba Ba Ba Dance AI Video: The Viral Two-Person Dance From Your Photos | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:08.818976+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/zh/blog/how-to-make-ba-ba-ba-dance-ai-video",
+            "title": "Ba Ba Ba 双人舞 AI 视频怎么做？用你的照片，做出爆火的双人舞 | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:09.063610+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/ba-ba-ba-dance-trend",
+            "title": "Ba Ba Ba Dance: The Routine, Who Made It and How the TikTok Trend Started | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:09.155953+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/zh/blog/ba-ba-ba-dance-trend",
+            "title": "Ba Ba Ba 舞蹈：舞步、编舞者和 TikTok 热梗的由来 | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:09.182978+00:00"
           }
         ]
       }
@@ -31323,6 +31533,13 @@
             "title": "Ba Ba Ba Dance: The Routine, Who Made It and How the TikTok Trend Started | MakeTrend AI",
             "first_seen": "2026-10-28T00:00:10.107080+00:00"
           }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/ba-ba-ba-dance-trend",
+            "title": "Ba Ba Ba Dance: The Routine, Who Made It and How the TikTok Trend Started | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:09.156043+00:00"
+          }
         ]
       }
     },
@@ -31340,6 +31557,13 @@
             "title": "Ba Ba Ba Dance: The Routine, Who Made It and How the TikTok Trend Started | MakeTrend AI",
             "first_seen": "2026-10-28T00:00:10.106996+00:00"
           }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/ba-ba-ba-dance-trend",
+            "title": "Ba Ba Ba Dance: The Routine, Who Made It and How the TikTok Trend Started | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:09.156027+00:00"
+          }
         ]
       }
     },
@@ -31356,6 +31580,13 @@
             "url": "https://maketrendai.com/blog/how-to-make-middle-finger-dunk-ai-video",
             "title": "How to Make the Middle Finger Dunk AI Video (My Prime 1v1): Dunk on Your Friend From Two Photos | MakeTrend AI",
             "first_seen": "2026-10-28T00:00:10.251982+00:00"
+          }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/how-to-make-middle-finger-dunk-ai-video",
+            "title": "How to Make the Middle Finger Dunk AI Video (My Prime 1v1): Dunk on Your Friend From Two Photos | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:08.848405+00:00"
           }
         ]
       }
@@ -31391,6 +31622,18 @@
             "title": "My Prime 1v1 Basketball AI: Your Prime Dunk From a Photo",
             "first_seen": "2026-10-25T18:00:08.511229+00:00"
           }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/how-to-make-middle-finger-dunk-ai-video",
+            "title": "How to Make the Middle Finger Dunk AI Video (My Prime 1v1): Dunk on Your Friend From Two Photos | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:08.848331+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/zh/blog/how-to-make-middle-finger-dunk-ai-video",
+            "title": "中指扣篮 AI 视频怎么做（My Prime 1v1）？两张照片，隔着朋友扣篮 | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:10.066928+00:00"
+          }
         ]
       }
     },
@@ -31407,6 +31650,13 @@
             "url": "https://maketrendai.com/blog/how-to-make-middle-finger-dunk-ai-video",
             "title": "How to Make the Middle Finger Dunk AI Video (My Prime 1v1): Dunk on Your Friend From Two Photos | MakeTrend AI",
             "first_seen": "2026-10-28T00:00:10.251997+00:00"
+          }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/how-to-make-middle-finger-dunk-ai-video",
+            "title": "How to Make the Middle Finger Dunk AI Video (My Prime 1v1): Dunk on Your Friend From Two Photos | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:08.848397+00:00"
           }
         ]
       }
@@ -31452,6 +31702,13 @@
             "title": "中指扣篮 AI 生成器对比（2026）：MakeViral、Summrs、Oakgen 和 MakeTrend AI | MakeTrend AI",
             "first_seen": "2026-10-28T06:00:08.976291+00:00"
           }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/zh/blog/best-middle-finger-dunk-ai-video-generators",
+            "title": "中指扣篮 AI 生成器对比（2026）：MakeViral、Summrs、Oakgen 和 MakeTrend AI | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:09.331892+00:00"
+          }
         ]
       }
     },
@@ -31478,6 +31735,13 @@
             "url": "https://maketrendai.com/zh/blog/best-middle-finger-dunk-ai-video-generators",
             "title": "中指扣篮 AI 生成器对比（2026）：MakeViral、Summrs、Oakgen 和 MakeTrend AI | MakeTrend AI",
             "first_seen": "2026-10-28T06:00:08.976339+00:00"
+          }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/zh/blog/best-middle-finger-dunk-ai-video-generators",
+            "title": "中指扣篮 AI 生成器对比（2026）：MakeViral、Summrs、Oakgen 和 MakeTrend AI | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:09.331961+00:00"
           }
         ]
       }
@@ -31520,6 +31784,18 @@
             "url": "https://maketrendai.com/es/blog/best-middle-finger-dunk-ai-video-generators",
             "title": "Generadores de Middle Finger Dunk con IA (2026): MakeViral vs Summrs vs Oakgen vs MakeTrend AI | MakeTrend AI",
             "first_seen": "2026-10-28T06:00:09.958625+00:00"
+          }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/best-middle-finger-dunk-ai-video-generators",
+            "title": "Middle Finger Dunk AI Generators (2026): MakeViral vs Summrs vs Oakgen vs MakeTrend AI | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:09.235570+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/zh/blog/best-middle-finger-dunk-ai-video-generators",
+            "title": "中指扣篮 AI 生成器对比（2026）：MakeViral、Summrs、Oakgen 和 MakeTrend AI | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:09.331943+00:00"
           }
         ]
       }
@@ -31630,6 +31906,11 @@
             "url": "https://maketrendai.com/blog/best-devil-wears-prada-ai-video-generators",
             "title": "Devil Wears Prada AI Video Generators (2026): devilwearspradatrend.com vs MakeViral vs Kavel vs MakeTrend AI | MakeTrend AI",
             "first_seen": "2026-10-30T18:00:27.024543+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/best-middle-finger-dunk-ai-video-generators",
+            "title": "Middle Finger Dunk AI Generators (2026): MakeViral vs Summrs vs Oakgen vs MakeTrend AI | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:09.235672+00:00"
           }
         ]
       }
@@ -31647,6 +31928,13 @@
             "url": "https://maketrendai.com/blog/best-middle-finger-dunk-ai-video-generators",
             "title": "Middle Finger Dunk AI Generators (2026): MakeViral vs Summrs vs Oakgen vs MakeTrend AI | MakeTrend AI",
             "first_seen": "2026-10-28T06:00:08.451317+00:00"
+          }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/best-middle-finger-dunk-ai-video-generators",
+            "title": "Middle Finger Dunk AI Generators (2026): MakeViral vs Summrs vs Oakgen vs MakeTrend AI | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:09.235658+00:00"
           }
         ]
       }
@@ -31670,6 +31958,13 @@
             "title": "Generadores de Middle Finger Dunk con IA (2026): MakeViral vs Summrs vs Oakgen vs MakeTrend AI | MakeTrend AI",
             "first_seen": "2026-10-28T06:00:09.958729+00:00"
           }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/best-middle-finger-dunk-ai-video-generators",
+            "title": "Middle Finger Dunk AI Generators (2026): MakeViral vs Summrs vs Oakgen vs MakeTrend AI | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:09.235562+00:00"
+          }
         ]
       }
     },
@@ -31686,6 +31981,13 @@
             "url": "https://maketrendai.com/blog/best-middle-finger-dunk-ai-video-generators",
             "title": "Middle Finger Dunk AI Generators (2026): MakeViral vs Summrs vs Oakgen vs MakeTrend AI | MakeTrend AI",
             "first_seen": "2026-10-28T06:00:08.451218+00:00"
+          }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/best-middle-finger-dunk-ai-video-generators",
+            "title": "Middle Finger Dunk AI Generators (2026): MakeViral vs Summrs vs Oakgen vs MakeTrend AI | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:09.235545+00:00"
           }
         ]
       }
@@ -31721,6 +32023,13 @@
             "title": "Generadores de Middle Finger Dunk con IA (2026): MakeViral vs Summrs vs Oakgen vs MakeTrend AI | MakeTrend AI",
             "first_seen": "2026-10-28T06:00:09.958749+00:00"
           }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/best-middle-finger-dunk-ai-video-generators",
+            "title": "Middle Finger Dunk AI Generators (2026): MakeViral vs Summrs vs Oakgen vs MakeTrend AI | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:09.235537+00:00"
+          }
         ]
       }
     },
@@ -31737,6 +32046,13 @@
             "url": "https://maketrendai.com/blog/best-middle-finger-dunk-ai-video-generators",
             "title": "Middle Finger Dunk AI Generators (2026): MakeViral vs Summrs vs Oakgen vs MakeTrend AI | MakeTrend AI",
             "first_seen": "2026-10-28T06:00:08.451291+00:00"
+          }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/best-middle-finger-dunk-ai-video-generators",
+            "title": "Middle Finger Dunk AI Generators (2026): MakeViral vs Summrs vs Oakgen vs MakeTrend AI | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:09.235643+00:00"
           }
         ]
       }
@@ -31760,6 +32076,13 @@
             "title": "Generadores de Middle Finger Dunk con IA (2026): MakeViral vs Summrs vs Oakgen vs MakeTrend AI | MakeTrend AI",
             "first_seen": "2026-10-28T06:00:09.958755+00:00"
           }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/best-middle-finger-dunk-ai-video-generators",
+            "title": "Middle Finger Dunk AI Generators (2026): MakeViral vs Summrs vs Oakgen vs MakeTrend AI | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:09.235586+00:00"
+          }
         ]
       }
     },
@@ -31782,6 +32105,13 @@
             "title": "Generadores de Middle Finger Dunk con IA (2026): MakeViral vs Summrs vs Oakgen vs MakeTrend AI | MakeTrend AI",
             "first_seen": "2026-10-28T06:00:09.958612+00:00"
           }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/best-middle-finger-dunk-ai-video-generators",
+            "title": "Middle Finger Dunk AI Generators (2026): MakeViral vs Summrs vs Oakgen vs MakeTrend AI | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:09.235631+00:00"
+          }
         ]
       }
     },
@@ -31803,6 +32133,13 @@
             "url": "https://maketrendai.com/es/blog/best-middle-finger-dunk-ai-video-generators",
             "title": "Generadores de Middle Finger Dunk con IA (2026): MakeViral vs Summrs vs Oakgen vs MakeTrend AI | MakeTrend AI",
             "first_seen": "2026-10-28T06:00:09.958562+00:00"
+          }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/best-middle-finger-dunk-ai-video-generators",
+            "title": "Middle Finger Dunk AI Generators (2026): MakeViral vs Summrs vs Oakgen vs MakeTrend AI | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:09.235528+00:00"
           }
         ]
       }
@@ -31838,6 +32175,13 @@
             "title": "Generadores de Middle Finger Dunk con IA (2026): MakeViral vs Summrs vs Oakgen vs MakeTrend AI | MakeTrend AI",
             "first_seen": "2026-10-28T06:00:09.958698+00:00"
           }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/best-middle-finger-dunk-ai-video-generators",
+            "title": "Middle Finger Dunk AI Generators (2026): MakeViral vs Summrs vs Oakgen vs MakeTrend AI | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:09.235424+00:00"
+          }
         ]
       }
     },
@@ -31860,6 +32204,13 @@
             "title": "Generadores de Middle Finger Dunk con IA (2026): MakeViral vs Summrs vs Oakgen vs MakeTrend AI | MakeTrend AI",
             "first_seen": "2026-10-28T06:00:09.958600+00:00"
           }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/best-middle-finger-dunk-ai-video-generators",
+            "title": "Middle Finger Dunk AI Generators (2026): MakeViral vs Summrs vs Oakgen vs MakeTrend AI | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:09.235609+00:00"
+          }
         ]
       }
     },
@@ -31881,6 +32232,13 @@
             "url": "https://maketrendai.com/es/blog/best-middle-finger-dunk-ai-video-generators",
             "title": "Generadores de Middle Finger Dunk con IA (2026): MakeViral vs Summrs vs Oakgen vs MakeTrend AI | MakeTrend AI",
             "first_seen": "2026-10-28T06:00:09.958743+00:00"
+          }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/best-middle-finger-dunk-ai-video-generators",
+            "title": "Middle Finger Dunk AI Generators (2026): MakeViral vs Summrs vs Oakgen vs MakeTrend AI | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:09.235623+00:00"
           }
         ]
       }
@@ -31916,6 +32274,13 @@
             "title": "Generadores de Middle Finger Dunk con IA (2026): MakeViral vs Summrs vs Oakgen vs MakeTrend AI | MakeTrend AI",
             "first_seen": "2026-10-28T06:00:09.958707+00:00"
           }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/best-middle-finger-dunk-ai-video-generators",
+            "title": "Middle Finger Dunk AI Generators (2026): MakeViral vs Summrs vs Oakgen vs MakeTrend AI | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:09.235616+00:00"
+          }
         ]
       }
     },
@@ -31937,6 +32302,13 @@
             "url": "https://maketrendai.com/es/blog/best-middle-finger-dunk-ai-video-generators",
             "title": "Generadores de Middle Finger Dunk con IA (2026): MakeViral vs Summrs vs Oakgen vs MakeTrend AI | MakeTrend AI",
             "first_seen": "2026-10-28T06:00:09.958737+00:00"
+          }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/best-middle-finger-dunk-ai-video-generators",
+            "title": "Middle Finger Dunk AI Generators (2026): MakeViral vs Summrs vs Oakgen vs MakeTrend AI | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:09.235602+00:00"
           }
         ]
       }
@@ -32576,6 +32948,26 @@
             "url": "https://maketrendai.com/skull-cap-trend-dog-ai",
             "title": "Skull Cap Trend Dog AI — Your Dog or Cat Gets the Skull Cap Too",
             "first_seen": "2026-10-30T12:00:08.422478+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/how-to-make-skull-cap-trend-ai-video",
+            "title": "How to Make the Skull Cap Trend AI Video: \"0.01 Seconds After Putting On a Skull Cap\" From One Photo | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:09.121164+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/skull-cap-trend",
+            "title": "The Skull Cap Trend, Explained: \"How Dudes Act 0.01 Seconds After Putting On a Skull Cap\" | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:09.206820+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/zh/blog/how-to-make-skull-cap-trend-ai-video",
+            "title": "Skull cap 热梗 AI 视频怎么做？一张照片做出「戴上 skull cap 0.01 秒后」 | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:10.094967+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/zh/blog/skull-cap-trend",
+            "title": "Skull cap 热梗详解：「男生戴上 skull cap 0.01 秒后的样子」 | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:11.490439+00:00"
           }
         ]
       }
@@ -32603,6 +32995,13 @@
             "url": "https://maketrendai.com/jp/blog/skull-cap-trend",
             "title": "Skull cap トレンドを解説：「skull cap をかぶって0.01秒後の男子」 | MakeTrend AI",
             "first_seen": "2026-10-28T06:00:10.311751+00:00"
+          }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/zh/blog/skull-cap-trend",
+            "title": "Skull cap 热梗详解：「男生戴上 skull cap 0.01 秒后的样子」 | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:11.490384+00:00"
           }
         ]
       }
@@ -32666,6 +33065,18 @@
             "title": "Skull cap トレンド AI 動画の作り方：写真1枚で「skull cap をかぶって0.01秒後」 | MakeTrend AI",
             "first_seen": "2026-10-28T06:00:10.444053+00:00"
           }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/zh/blog/how-to-make-skull-cap-trend-ai-video",
+            "title": "Skull cap 热梗 AI 视频怎么做？一张照片做出「戴上 skull cap 0.01 秒后」 | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:10.095020+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/zh/blog/skull-cap-trend",
+            "title": "Skull cap 热梗详解：「男生戴上 skull cap 0.01 秒后的样子」 | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:11.490537+00:00"
+          }
         ]
       }
     },
@@ -32728,6 +33139,18 @@
             "title": "Skull cap トレンド AI 動画の作り方：写真1枚で「skull cap をかぶって0.01秒後」 | MakeTrend AI",
             "first_seen": "2026-10-28T06:00:10.444018+00:00"
           }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/zh/blog/how-to-make-skull-cap-trend-ai-video",
+            "title": "Skull cap 热梗 AI 视频怎么做？一张照片做出「戴上 skull cap 0.01 秒后」 | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:10.094919+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/zh/blog/skull-cap-trend",
+            "title": "Skull cap 热梗详解：「男生戴上 skull cap 0.01 秒后的样子」 | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:11.490421+00:00"
+          }
         ]
       }
     },
@@ -32754,6 +33177,13 @@
             "url": "https://maketrendai.com/jp/blog/skull-cap-trend",
             "title": "Skull cap トレンドを解説：「skull cap をかぶって0.01秒後の男子」 | MakeTrend AI",
             "first_seen": "2026-10-28T06:00:10.311647+00:00"
+          }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/zh/blog/skull-cap-trend",
+            "title": "Skull cap 热梗详解：「男生戴上 skull cap 0.01 秒后的样子」 | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:11.490462+00:00"
           }
         ]
       }
@@ -32817,6 +33247,18 @@
             "title": "Skull cap トレンド AI 動画の作り方：写真1枚で「skull cap をかぶって0.01秒後」 | MakeTrend AI",
             "first_seen": "2026-10-28T06:00:10.443862+00:00"
           }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/zh/blog/how-to-make-skull-cap-trend-ai-video",
+            "title": "Skull cap 热梗 AI 视频怎么做？一张照片做出「戴上 skull cap 0.01 秒后」 | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:10.095000+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/zh/blog/skull-cap-trend",
+            "title": "Skull cap 热梗详解：「男生戴上 skull cap 0.01 秒后的样子」 | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:11.490493+00:00"
+          }
         ]
       }
     },
@@ -32843,6 +33285,13 @@
             "url": "https://maketrendai.com/jp/blog/skull-cap-trend",
             "title": "Skull cap トレンドを解説：「skull cap をかぶって0.01秒後の男子」 | MakeTrend AI",
             "first_seen": "2026-10-28T06:00:10.311598+00:00"
+          }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/zh/blog/skull-cap-trend",
+            "title": "Skull cap 热梗详解：「男生戴上 skull cap 0.01 秒后的样子」 | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:11.490521+00:00"
           }
         ]
       }
@@ -32906,6 +33355,18 @@
             "title": "Skull cap トレンド AI 動画の作り方：写真1枚で「skull cap をかぶって0.01秒後」 | MakeTrend AI",
             "first_seen": "2026-10-28T06:00:10.443978+00:00"
           }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/zh/blog/how-to-make-skull-cap-trend-ai-video",
+            "title": "Skull cap 热梗 AI 视频怎么做？一张照片做出「戴上 skull cap 0.01 秒后」 | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:10.095014+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/zh/blog/skull-cap-trend",
+            "title": "Skull cap 热梗详解：「男生戴上 skull cap 0.01 秒后的样子」 | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:11.490508+00:00"
+          }
         ]
       }
     },
@@ -32933,6 +33394,13 @@
             "title": "Skull cap トレンドを解説：「skull cap をかぶって0.01秒後の男子」 | MakeTrend AI",
             "first_seen": "2026-10-28T06:00:10.311737+00:00"
           }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/zh/blog/skull-cap-trend",
+            "title": "Skull cap 热梗详解：「男生戴上 skull cap 0.01 秒后的样子」 | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:11.490530+00:00"
+          }
         ]
       }
     },
@@ -32959,6 +33427,13 @@
             "url": "https://maketrendai.com/jp/blog/skull-cap-trend",
             "title": "Skull cap トレンドを解説：「skull cap をかぶって0.01秒後の男子」 | MakeTrend AI",
             "first_seen": "2026-10-28T06:00:10.311686+00:00"
+          }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/zh/blog/skull-cap-trend",
+            "title": "Skull cap 热梗详解：「男生戴上 skull cap 0.01 秒后的样子」 | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:11.490479+00:00"
           }
         ]
       }
@@ -32991,6 +33466,13 @@
             "url": "https://maketrendai.com/es/blog/skull-cap-trend",
             "title": "La tendencia skull cap, explicada: \"How Dudes Act 0.01 Seconds After Putting On a Skull Cap\" | MakeTrend AI",
             "first_seen": "2026-10-28T06:00:09.811988+00:00"
+          }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/skull-cap-trend",
+            "title": "The Skull Cap Trend, Explained: \"How Dudes Act 0.01 Seconds After Putting On a Skull Cap\" | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:09.206984+00:00"
           }
         ]
       }
@@ -33034,6 +33516,18 @@
             "title": "La tendencia skull cap, explicada: \"How Dudes Act 0.01 Seconds After Putting On a Skull Cap\" | MakeTrend AI",
             "first_seen": "2026-10-28T06:00:09.812176+00:00"
           }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/how-to-make-skull-cap-trend-ai-video",
+            "title": "How to Make the Skull Cap Trend AI Video: \"0.01 Seconds After Putting On a Skull Cap\" From One Photo | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:09.121175+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/skull-cap-trend",
+            "title": "The Skull Cap Trend, Explained: \"How Dudes Act 0.01 Seconds After Putting On a Skull Cap\" | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:09.206870+00:00"
+          }
         ]
       }
     },
@@ -33066,6 +33560,13 @@
             "title": "La tendencia skull cap, explicada: \"How Dudes Act 0.01 Seconds After Putting On a Skull Cap\" | MakeTrend AI",
             "first_seen": "2026-10-28T06:00:09.812212+00:00"
           }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/skull-cap-trend",
+            "title": "The Skull Cap Trend, Explained: \"How Dudes Act 0.01 Seconds After Putting On a Skull Cap\" | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:09.206839+00:00"
+          }
         ]
       }
     },
@@ -33082,6 +33583,13 @@
             "url": "https://maketrendai.com/blog/skull-cap-trend",
             "title": "The Skull Cap Trend, Explained: \"How Dudes Act 0.01 Seconds After Putting On a Skull Cap\" | MakeTrend AI",
             "first_seen": "2026-10-28T06:00:09.024140+00:00"
+          }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/skull-cap-trend",
+            "title": "The Skull Cap Trend, Explained: \"How Dudes Act 0.01 Seconds After Putting On a Skull Cap\" | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:09.206999+00:00"
           }
         ]
       }
@@ -33115,6 +33623,13 @@
             "title": "La tendencia skull cap, explicada: \"How Dudes Act 0.01 Seconds After Putting On a Skull Cap\" | MakeTrend AI",
             "first_seen": "2026-10-28T06:00:09.811958+00:00"
           }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/skull-cap-trend",
+            "title": "The Skull Cap Trend, Explained: \"How Dudes Act 0.01 Seconds After Putting On a Skull Cap\" | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:09.206767+00:00"
+          }
         ]
       }
     },
@@ -33131,6 +33646,13 @@
             "url": "https://maketrendai.com/blog/skull-cap-trend",
             "title": "The Skull Cap Trend, Explained: \"How Dudes Act 0.01 Seconds After Putting On a Skull Cap\" | MakeTrend AI",
             "first_seen": "2026-10-28T06:00:09.024101+00:00"
+          }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/skull-cap-trend",
+            "title": "The Skull Cap Trend, Explained: \"How Dudes Act 0.01 Seconds After Putting On a Skull Cap\" | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:09.206803+00:00"
           }
         ]
       }
@@ -33174,6 +33696,18 @@
             "title": "La tendencia skull cap, explicada: \"How Dudes Act 0.01 Seconds After Putting On a Skull Cap\" | MakeTrend AI",
             "first_seen": "2026-10-28T06:00:09.812088+00:00"
           }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/how-to-make-skull-cap-trend-ai-video",
+            "title": "How to Make the Skull Cap Trend AI Video: \"0.01 Seconds After Putting On a Skull Cap\" From One Photo | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:09.121195+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/skull-cap-trend",
+            "title": "The Skull Cap Trend, Explained: \"How Dudes Act 0.01 Seconds After Putting On a Skull Cap\" | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:09.206935+00:00"
+          }
         ]
       }
     },
@@ -33215,6 +33749,18 @@
             "url": "https://maketrendai.com/es/blog/skull-cap-trend",
             "title": "La tendencia skull cap, explicada: \"How Dudes Act 0.01 Seconds After Putting On a Skull Cap\" | MakeTrend AI",
             "first_seen": "2026-10-28T06:00:09.812064+00:00"
+          }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/how-to-make-skull-cap-trend-ai-video",
+            "title": "How to Make the Skull Cap Trend AI Video: \"0.01 Seconds After Putting On a Skull Cap\" From One Photo | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:09.121188+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/skull-cap-trend",
+            "title": "The Skull Cap Trend, Explained: \"How Dudes Act 0.01 Seconds After Putting On a Skull Cap\" | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:09.206903+00:00"
           }
         ]
       }
@@ -33258,6 +33804,18 @@
             "title": "La tendencia skull cap, explicada: \"How Dudes Act 0.01 Seconds After Putting On a Skull Cap\" | MakeTrend AI",
             "first_seen": "2026-10-28T06:00:09.812168+00:00"
           }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/how-to-make-skull-cap-trend-ai-video",
+            "title": "How to Make the Skull Cap Trend AI Video: \"0.01 Seconds After Putting On a Skull Cap\" From One Photo | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:09.121092+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/skull-cap-trend",
+            "title": "The Skull Cap Trend, Explained: \"How Dudes Act 0.01 Seconds After Putting On a Skull Cap\" | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:09.206711+00:00"
+          }
         ]
       }
     },
@@ -33290,6 +33848,13 @@
             "title": "La tendencia skull cap, explicada: \"How Dudes Act 0.01 Seconds After Putting On a Skull Cap\" | MakeTrend AI",
             "first_seen": "2026-10-28T06:00:09.812106+00:00"
           }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/skull-cap-trend",
+            "title": "The Skull Cap Trend, Explained: \"How Dudes Act 0.01 Seconds After Putting On a Skull Cap\" | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:09.206920+00:00"
+          }
         ]
       }
     },
@@ -33306,6 +33871,13 @@
             "url": "https://maketrendai.com/blog/skull-cap-trend",
             "title": "The Skull Cap Trend, Explained: \"How Dudes Act 0.01 Seconds After Putting On a Skull Cap\" | MakeTrend AI",
             "first_seen": "2026-10-28T06:00:09.024277+00:00"
+          }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/skull-cap-trend",
+            "title": "The Skull Cap Trend, Explained: \"How Dudes Act 0.01 Seconds After Putting On a Skull Cap\" | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:09.206855+00:00"
           }
         ]
       }
@@ -33339,6 +33911,13 @@
             "title": "La tendencia skull cap, explicada: \"How Dudes Act 0.01 Seconds After Putting On a Skull Cap\" | MakeTrend AI",
             "first_seen": "2026-10-28T06:00:09.812157+00:00"
           }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/skull-cap-trend",
+            "title": "The Skull Cap Trend, Explained: \"How Dudes Act 0.01 Seconds After Putting On a Skull Cap\" | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:09.206968+00:00"
+          }
         ]
       }
     },
@@ -33371,6 +33950,13 @@
             "title": "La tendencia skull cap, explicada: \"How Dudes Act 0.01 Seconds After Putting On a Skull Cap\" | MakeTrend AI",
             "first_seen": "2026-10-28T06:00:09.812205+00:00"
           }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/skull-cap-trend",
+            "title": "The Skull Cap Trend, Explained: \"How Dudes Act 0.01 Seconds After Putting On a Skull Cap\" | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:09.206951+00:00"
+          }
         ]
       }
     },
@@ -33387,6 +33973,13 @@
             "url": "https://maketrendai.com/blog/skull-cap-trend",
             "title": "The Skull Cap Trend, Explained: \"How Dudes Act 0.01 Seconds After Putting On a Skull Cap\" | MakeTrend AI",
             "first_seen": "2026-10-28T06:00:09.024265+00:00"
+          }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/skull-cap-trend",
+            "title": "The Skull Cap Trend, Explained: \"How Dudes Act 0.01 Seconds After Putting On a Skull Cap\" | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:09.206887+00:00"
           }
         ]
       }
@@ -33430,6 +34023,18 @@
             "title": "La tendencia skull cap, explicada: \"How Dudes Act 0.01 Seconds After Putting On a Skull Cap\" | MakeTrend AI",
             "first_seen": "2026-10-28T06:00:09.812036+00:00"
           }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/how-to-make-skull-cap-trend-ai-video",
+            "title": "How to Make the Skull Cap Trend AI Video: \"0.01 Seconds After Putting On a Skull Cap\" From One Photo | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:09.121146+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/skull-cap-trend",
+            "title": "The Skull Cap Trend, Explained: \"How Dudes Act 0.01 Seconds After Putting On a Skull Cap\" | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:09.206786+00:00"
+          }
         ]
       }
     },
@@ -33446,6 +34051,13 @@
             "url": "https://maketrendai.com/blog/how-to-make-skull-cap-trend-ai-video",
             "title": "How to Make the Skull Cap Trend AI Video: \"0.01 Seconds After Putting On a Skull Cap\" From One Photo | MakeTrend AI",
             "first_seen": "2026-10-28T06:00:08.571764+00:00"
+          }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/how-to-make-skull-cap-trend-ai-video",
+            "title": "How to Make the Skull Cap Trend AI Video: \"0.01 Seconds After Putting On a Skull Cap\" From One Photo | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:09.121157+00:00"
           }
         ]
       }
@@ -33464,6 +34076,13 @@
             "title": "How to Make the Skull Cap Trend AI Video: \"0.01 Seconds After Putting On a Skull Cap\" From One Photo | MakeTrend AI",
             "first_seen": "2026-10-28T06:00:08.571844+00:00"
           }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/how-to-make-skull-cap-trend-ai-video",
+            "title": "How to Make the Skull Cap Trend AI Video: \"0.01 Seconds After Putting On a Skull Cap\" From One Photo | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:09.121181+00:00"
+          }
         ]
       }
     },
@@ -33480,6 +34099,13 @@
             "url": "https://maketrendai.com/zh/blog/how-to-make-skull-cap-trend-ai-video",
             "title": "Skull cap 热梗 AI 视频怎么做？一张照片做出「戴上 skull cap 0.01 秒后」 | MakeTrend AI",
             "first_seen": "2026-10-28T06:00:08.098350+00:00"
+          }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/zh/blog/how-to-make-skull-cap-trend-ai-video",
+            "title": "Skull cap 热梗 AI 视频怎么做？一张照片做出「戴上 skull cap 0.01 秒后」 | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:10.095007+00:00"
           }
         ]
       }
@@ -33498,6 +34124,13 @@
             "title": "Skull cap 热梗 AI 视频怎么做？一张照片做出「戴上 skull cap 0.01 秒后」 | MakeTrend AI",
             "first_seen": "2026-10-28T06:00:08.098240+00:00"
           }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/zh/blog/how-to-make-skull-cap-trend-ai-video",
+            "title": "Skull cap 热梗 AI 视频怎么做？一张照片做出「戴上 skull cap 0.01 秒后」 | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:10.094987+00:00"
+          }
         ]
       }
     },
@@ -33514,6 +34147,13 @@
             "url": "https://maketrendai.com/zh/blog/how-to-make-skull-cap-trend-ai-video",
             "title": "Skull cap 热梗 AI 视频怎么做？一张照片做出「戴上 skull cap 0.01 秒后」 | MakeTrend AI",
             "first_seen": "2026-10-28T06:00:08.098373+00:00"
+          }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/zh/blog/how-to-make-skull-cap-trend-ai-video",
+            "title": "Skull cap 热梗 AI 视频怎么做？一张照片做出「戴上 skull cap 0.01 秒后」 | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:10.094958+00:00"
           }
         ]
       }
@@ -35098,6 +35738,16 @@
             "url": "https://maketrendai.com/outstanding-tiny-desk-ai",
             "title": "Outstanding Tiny Desk AI — Sing Lead at Your Own Desk Concert, From a Photo",
             "first_seen": "2026-10-30T12:00:08.140471+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/outstanding-tiny-desk-ai-trend",
+            "title": "The Tiny Desk AI Trend, Explained: Where the Outstanding Desk Concert Meme Came From | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:08.954140+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/how-to-make-outstanding-tiny-desk-ai-video",
+            "title": "How to Make the Outstanding Tiny Desk AI Video: Sing Lead at Your Own Desk Concert From a Photo | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:09.429171+00:00"
           }
         ]
       }
@@ -35312,6 +35962,16 @@
             "url": "https://maketrendai.com/outstanding-tiny-desk-ai",
             "title": "Outstanding Tiny Desk AI — Sing Lead at Your Own Desk Concert, From a Photo",
             "first_seen": "2026-10-30T12:00:08.140508+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/outstanding-tiny-desk-ai-trend",
+            "title": "The Tiny Desk AI Trend, Explained: Where the Outstanding Desk Concert Meme Came From | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:08.954108+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/how-to-make-outstanding-tiny-desk-ai-video",
+            "title": "How to Make the Outstanding Tiny Desk AI Video: Sing Lead at Your Own Desk Concert From a Photo | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:09.429154+00:00"
           }
         ]
       }
@@ -35492,6 +36152,16 @@
             "url": "https://maketrendai.com/outstanding-tiny-desk-ai",
             "title": "Outstanding Tiny Desk AI — Sing Lead at Your Own Desk Concert, From a Photo",
             "first_seen": "2026-10-30T12:00:08.140516+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/outstanding-tiny-desk-ai-trend",
+            "title": "The Tiny Desk AI Trend, Explained: Where the Outstanding Desk Concert Meme Came From | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:08.954207+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/how-to-make-outstanding-tiny-desk-ai-video",
+            "title": "How to Make the Outstanding Tiny Desk AI Video: Sing Lead at Your Own Desk Concert From a Photo | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:09.429209+00:00"
           }
         ]
       }
@@ -36986,6 +37656,13 @@
             "url": "https://maketrendai.com/blog/how-to-make-burning-bridges-ai-video",
             "title": "How to Make the Burning Bridges AI Video (Drake's \"Where She At?\") From One Photo | MakeTrend AI",
             "first_seen": "2026-10-30T06:00:35.344964+00:00"
+          }
+        ],
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-clayface-ai-video",
+            "title": "How to Make the Clayface AI Video: Rap Drake's 'Solar Eclipse' (2026)",
+            "first_seen": "2026-10-31T00:00:11.043164+00:00"
           }
         ]
       }
@@ -38499,6 +39176,26 @@
             "url": "https://maketrendai.com/its-my-life-dog-ai",
             "title": "It's My Life Dog AI — Your Pet Sings Along in the Car From One Photo",
             "first_seen": "2026-10-30T12:00:08.140621+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/its-my-life-dog-trend",
+            "title": "The It's My Life Dog Trend, Explained: The Split-Screen Singing Dog in the Passenger Seat | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:08.648222+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/how-to-make-its-my-life-dog-ai-video",
+            "title": "How to Make the It's My Life Dog AI Video: Your Pet Sings Along in the Car From One Photo | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:08.917914+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/zh/blog/its-my-life-dog-trend",
+            "title": "It's My Life 狗狗热梗详解：坐在副驾唱歌的分屏狗狗 | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:09.444809+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/zh/blog/how-to-make-its-my-life-dog-ai-video",
+            "title": "怎么做 It's My Life 狗狗 AI 视频：一张照片，你家宠物坐在车里跟着唱 | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:10.158259+00:00"
           }
         ]
       }
@@ -39837,6 +40534,13 @@
             "title": "The It's My Life Dog Trend, Explained: The Split-Screen Singing Dog in the Passenger Seat | MakeTrend AI",
             "first_seen": "2026-10-28T06:00:08.526071+00:00"
           }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/its-my-life-dog-trend",
+            "title": "The It's My Life Dog Trend, Explained: The Split-Screen Singing Dog in the Passenger Seat | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:08.648243+00:00"
+          }
         ]
       }
     },
@@ -39848,6 +40552,13 @@
             "url": "https://maketrendai.com/blog/its-my-life-dog-trend",
             "title": "The It's My Life Dog Trend, Explained: The Split-Screen Singing Dog in the Passenger Seat | MakeTrend AI",
             "first_seen": "2026-10-28T06:00:08.526082+00:00"
+          }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/its-my-life-dog-trend",
+            "title": "The It's My Life Dog Trend, Explained: The Split-Screen Singing Dog in the Passenger Seat | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:08.648114+00:00"
           }
         ]
       }
@@ -39861,6 +40572,13 @@
             "title": "How to Make the It's My Life Dog AI Video: Your Pet Sings Along in the Car From One Photo | MakeTrend AI",
             "first_seen": "2026-10-28T06:00:08.647736+00:00"
           }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/how-to-make-its-my-life-dog-ai-video",
+            "title": "How to Make the It's My Life Dog AI Video: Your Pet Sings Along in the Car From One Photo | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:08.917906+00:00"
+          }
         ]
       }
     },
@@ -39873,6 +40591,13 @@
             "title": "How to Make the It's My Life Dog AI Video: Your Pet Sings Along in the Car From One Photo | MakeTrend AI",
             "first_seen": "2026-10-28T06:00:08.647832+00:00"
           }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/how-to-make-its-my-life-dog-ai-video",
+            "title": "How to Make the It's My Life Dog AI Video: Your Pet Sings Along in the Car From One Photo | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:08.917924+00:00"
+          }
         ]
       }
     },
@@ -39884,6 +40609,13 @@
             "url": "https://maketrendai.com/blog/how-to-make-its-my-life-dog-ai-video",
             "title": "How to Make the It's My Life Dog AI Video: Your Pet Sings Along in the Car From One Photo | MakeTrend AI",
             "first_seen": "2026-10-28T06:00:08.647867+00:00"
+          }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/how-to-make-its-my-life-dog-ai-video",
+            "title": "How to Make the It's My Life Dog AI Video: Your Pet Sings Along in the Car From One Photo | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:08.917866+00:00"
           }
         ]
       }
@@ -40721,6 +41453,11 @@
             "url": "https://www.media.io/comparison/viddo-ai.html",
             "title": "Viddo AI Review: Video Models, Credits & Alternatives",
             "first_seen": "2026-10-28T12:00:35.730642+00:00"
+          },
+          {
+            "url": "https://www.media.io/comparison/yapper-ai-video-generator.html",
+            "title": "Yapper AI Video Generator Review: Models, Credits & API",
+            "first_seen": "2026-10-31T00:00:09.468277+00:00"
           }
         ]
       }
@@ -40834,6 +41571,11 @@
             "url": "https://www.media.io/comparison/mage-space.html",
             "title": "Mage.Space Review: Models, Video Pricing & Free Options",
             "first_seen": "2026-10-28T12:00:35.763918+00:00"
+          },
+          {
+            "url": "https://www.media.io/comparison/yapper-ai-video-generator.html",
+            "title": "Yapper AI Video Generator Review: Models, Credits & API",
+            "first_seen": "2026-10-31T00:00:09.468288+00:00"
           }
         ]
       }
@@ -41067,6 +41809,11 @@
             "url": "https://www.media.io/comparison/neural-frames.html",
             "title": "Neural Frames Review: Music Videos, Autopilot and 4K Costs",
             "first_seen": "2026-10-28T12:00:35.822966+00:00"
+          },
+          {
+            "url": "https://www.media.io/comparison/vidmuse-ai.html",
+            "title": "VidMuse AI Review: Music Video & Ads Review",
+            "first_seen": "2026-10-31T00:00:09.740122+00:00"
           }
         ]
       }
@@ -41168,6 +41915,11 @@
             "url": "https://www.media.io/comparison/fotohub-ai.html",
             "title": "FOTOhub AI Review: Studio Credits, API Costs and Alternatives",
             "first_seen": "2026-10-28T12:00:35.823298+00:00"
+          },
+          {
+            "url": "https://www.media.io/comparison/yapper-ai-video-generator.html",
+            "title": "Yapper AI Video Generator Review: Models, Credits & API",
+            "first_seen": "2026-10-31T00:00:09.468311+00:00"
           }
         ]
       }
@@ -41336,6 +42088,11 @@
             "url": "https://www.media.io/comparison/short-ai.html",
             "title": "Short.ai Review: Faceless Videos, Reddit Stories and Credits",
             "first_seen": "2026-10-28T12:00:35.832815+00:00"
+          },
+          {
+            "url": "https://www.media.io/comparison/clippie-ai.html",
+            "title": "Clippie AI Review: Faceless Shorts, Recast & Pricing",
+            "first_seen": "2026-10-31T00:00:09.475780+00:00"
           }
         ]
       }
@@ -41658,6 +42415,21 @@
             "url": "https://www.media.io/comparison/vmake-ai.html",
             "title": "Vmake AI Review: Video Enhancer, UGC Ads & Pricing",
             "first_seen": "2026-10-28T12:00:35.891201+00:00"
+          },
+          {
+            "url": "https://www.media.io/comparison/quickframe.html",
+            "title": "QuickFrame AI Review: Video Ads, Pricing & MNTN Workflow",
+            "first_seen": "2026-10-31T00:00:09.561680+00:00"
+          },
+          {
+            "url": "https://www.media.io/comparison/zeely-ai.html",
+            "title": "Zeely AI Review: UGC Video Ads & Pricing Review",
+            "first_seen": "2026-10-31T00:00:09.834694+00:00"
+          },
+          {
+            "url": "https://www.media.io/comparison/makeugc-ai.html",
+            "title": "MakeUGC AI Review: UGC Video Ads & Pricing Review",
+            "first_seen": "2026-10-31T00:00:09.933811+00:00"
           }
         ]
       }
@@ -43107,6 +43879,11 @@
             "url": "https://www.getstarrd.app/blog/how-to-make-gangnam-style-ai-video",
             "title": "How to Make the Gangnam Style AI Video With 3 Friends (2026)",
             "first_seen": "2026-10-28T18:00:10.014601+00:00"
+          },
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-sleeping-in-the-attic-ai-video",
+            "title": "How to Make the 'Sleeping in the Attic' AI Video With Friends (2026)",
+            "first_seen": "2026-10-31T00:00:11.232207+00:00"
           }
         ]
       }
@@ -43671,6 +44448,11 @@
             "url": "https://www.media.io/comparison/moescape-ai.html",
             "title": "Moescape AI Review: Anime Art, Roleplay & Mochi Costs",
             "first_seen": "2026-10-29T00:00:10.137452+00:00"
+          },
+          {
+            "url": "https://www.media.io/comparison/komiko-ai.html",
+            "title": "Komiko AI Review: Anime, Comics, Animation & Pricing",
+            "first_seen": "2026-10-31T00:00:09.529214+00:00"
           }
         ]
       }
@@ -44548,6 +45330,13 @@
             "title": "How to Make the Outstanding Tiny Desk AI Video: Sing Lead at Your Own Desk Concert From a Photo | MakeTrend AI",
             "first_seen": "2026-10-29T06:00:22.871130+00:00"
           }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/how-to-make-outstanding-tiny-desk-ai-video",
+            "title": "How to Make the Outstanding Tiny Desk AI Video: Sing Lead at Your Own Desk Concert From a Photo | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:09.429079+00:00"
+          }
         ]
       }
     },
@@ -44559,6 +45348,13 @@
             "url": "https://maketrendai.com/blog/how-to-make-outstanding-tiny-desk-ai-video",
             "title": "How to Make the Outstanding Tiny Desk AI Video: Sing Lead at Your Own Desk Concert From a Photo | MakeTrend AI",
             "first_seen": "2026-10-29T06:00:22.871138+00:00"
+          }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/how-to-make-outstanding-tiny-desk-ai-video",
+            "title": "How to Make the Outstanding Tiny Desk AI Video: Sing Lead at Your Own Desk Concert From a Photo | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:09.429195+00:00"
           }
         ]
       }
@@ -44572,6 +45368,13 @@
             "title": "How to Make the Outstanding Tiny Desk AI Video: Sing Lead at Your Own Desk Concert From a Photo | MakeTrend AI",
             "first_seen": "2026-10-29T06:00:22.871152+00:00"
           }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/how-to-make-outstanding-tiny-desk-ai-video",
+            "title": "How to Make the Outstanding Tiny Desk AI Video: Sing Lead at Your Own Desk Concert From a Photo | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:09.429180+00:00"
+          }
         ]
       }
     },
@@ -44584,6 +45387,13 @@
             "title": "How to Make the Outstanding Tiny Desk AI Video: Sing Lead at Your Own Desk Concert From a Photo | MakeTrend AI",
             "first_seen": "2026-10-29T06:00:22.871159+00:00"
           }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/how-to-make-outstanding-tiny-desk-ai-video",
+            "title": "How to Make the Outstanding Tiny Desk AI Video: Sing Lead at Your Own Desk Concert From a Photo | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:09.429217+00:00"
+          }
         ]
       }
     },
@@ -44595,6 +45405,13 @@
             "url": "https://maketrendai.com/blog/how-to-make-outstanding-tiny-desk-ai-video",
             "title": "How to Make the Outstanding Tiny Desk AI Video: Sing Lead at Your Own Desk Concert From a Photo | MakeTrend AI",
             "first_seen": "2026-10-29T06:00:22.871179+00:00"
+          }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/how-to-make-outstanding-tiny-desk-ai-video",
+            "title": "How to Make the Outstanding Tiny Desk AI Video: Sing Lead at Your Own Desk Concert From a Photo | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:09.429188+00:00"
           }
         ]
       }
@@ -44612,6 +45429,18 @@
             "url": "https://maketrendai.com/blog/outstanding-tiny-desk-ai-trend",
             "title": "The Tiny Desk AI Trend, Explained: Where the Outstanding Desk Concert Meme Came From | MakeTrend AI",
             "first_seen": "2026-10-29T06:00:23.533711+00:00"
+          }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/outstanding-tiny-desk-ai-trend",
+            "title": "The Tiny Desk AI Trend, Explained: Where the Outstanding Desk Concert Meme Came From | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:08.954194+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/how-to-make-outstanding-tiny-desk-ai-video",
+            "title": "How to Make the Outstanding Tiny Desk AI Video: Sing Lead at Your Own Desk Concert From a Photo | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:09.429202+00:00"
           }
         ]
       }
@@ -45139,6 +45968,13 @@
             "title": "The Tiny Desk AI Trend, Explained: Where the Outstanding Desk Concert Meme Came From | MakeTrend AI",
             "first_seen": "2026-10-29T06:00:23.533598+00:00"
           }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/outstanding-tiny-desk-ai-trend",
+            "title": "The Tiny Desk AI Trend, Explained: Where the Outstanding Desk Concert Meme Came From | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:08.954187+00:00"
+          }
         ]
       }
     },
@@ -45150,6 +45986,13 @@
             "url": "https://maketrendai.com/blog/outstanding-tiny-desk-ai-trend",
             "title": "The Tiny Desk AI Trend, Explained: Where the Outstanding Desk Concert Meme Came From | MakeTrend AI",
             "first_seen": "2026-10-29T06:00:23.533650+00:00"
+          }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/outstanding-tiny-desk-ai-trend",
+            "title": "The Tiny Desk AI Trend, Explained: Where the Outstanding Desk Concert Meme Came From | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:08.954201+00:00"
           }
         ]
       }
@@ -45163,6 +46006,13 @@
             "title": "The Tiny Desk AI Trend, Explained: Where the Outstanding Desk Concert Meme Came From | MakeTrend AI",
             "first_seen": "2026-10-29T06:00:23.533656+00:00"
           }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/outstanding-tiny-desk-ai-trend",
+            "title": "The Tiny Desk AI Trend, Explained: Where the Outstanding Desk Concert Meme Came From | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:08.954180+00:00"
+          }
         ]
       }
     },
@@ -45174,6 +46024,13 @@
             "url": "https://maketrendai.com/blog/outstanding-tiny-desk-ai-trend",
             "title": "The Tiny Desk AI Trend, Explained: Where the Outstanding Desk Concert Meme Came From | MakeTrend AI",
             "first_seen": "2026-10-29T06:00:23.533663+00:00"
+          }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/outstanding-tiny-desk-ai-trend",
+            "title": "The Tiny Desk AI Trend, Explained: Where the Outstanding Desk Concert Meme Came From | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:08.954215+00:00"
           }
         ]
       }
@@ -45187,6 +46044,13 @@
             "title": "The Tiny Desk AI Trend, Explained: Where the Outstanding Desk Concert Meme Came From | MakeTrend AI",
             "first_seen": "2026-10-29T06:00:23.533669+00:00"
           }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/outstanding-tiny-desk-ai-trend",
+            "title": "The Tiny Desk AI Trend, Explained: Where the Outstanding Desk Concert Meme Came From | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:08.954027+00:00"
+          }
         ]
       }
     },
@@ -45199,6 +46063,13 @@
             "title": "The Tiny Desk AI Trend, Explained: Where the Outstanding Desk Concert Meme Came From | MakeTrend AI",
             "first_seen": "2026-10-29T06:00:23.533686+00:00"
           }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/outstanding-tiny-desk-ai-trend",
+            "title": "The Tiny Desk AI Trend, Explained: Where the Outstanding Desk Concert Meme Came From | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:08.954170+00:00"
+          }
         ]
       }
     },
@@ -45210,6 +46081,13 @@
             "url": "https://maketrendai.com/blog/outstanding-tiny-desk-ai-trend",
             "title": "The Tiny Desk AI Trend, Explained: Where the Outstanding Desk Concert Meme Came From | MakeTrend AI",
             "first_seen": "2026-10-29T06:00:23.533693+00:00"
+          }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/outstanding-tiny-desk-ai-trend",
+            "title": "The Tiny Desk AI Trend, Explained: Where the Outstanding Desk Concert Meme Came From | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:08.954122+00:00"
           }
         ]
       }
@@ -48429,6 +49307,11 @@
             "url": "https://www.getstarrd.app/template/sleeping-in-the-attic-ai-video",
             "title": "Sleeping in the Attic — AI Video Template | Starrd",
             "first_seen": "2026-10-29T12:00:20.619206+00:00"
+          },
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-sleeping-in-the-attic-ai-video",
+            "title": "How to Make the 'Sleeping in the Attic' AI Video With Friends (2026)",
+            "first_seen": "2026-10-31T00:00:11.232244+00:00"
           }
         ]
       }
@@ -48441,6 +49324,11 @@
             "url": "https://www.getstarrd.app/template/put-a-mind-chip-ai-video",
             "title": "Put A Mind Chip — AI Video Template | Starrd",
             "first_seen": "2026-10-29T12:00:20.619351+00:00"
+          },
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-put-a-mind-chip-ai-video",
+            "title": "How to Make the 'Put a Mind Chip' AI Interview Meme (\"So You Would Do That?\" Starring You and a Friend, 2026)",
+            "first_seen": "2026-10-31T00:00:11.270258+00:00"
           }
         ]
       }
@@ -48453,6 +49341,11 @@
             "url": "https://www.getstarrd.app/template/put-a-mind-chip-ai-video",
             "title": "Put A Mind Chip — AI Video Template | Starrd",
             "first_seen": "2026-10-29T12:00:20.619365+00:00"
+          },
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-put-a-mind-chip-ai-video",
+            "title": "How to Make the 'Put a Mind Chip' AI Interview Meme (\"So You Would Do That?\" Starring You and a Friend, 2026)",
+            "first_seen": "2026-10-31T00:00:11.270271+00:00"
           }
         ]
       }
@@ -48465,6 +49358,11 @@
             "url": "https://www.getstarrd.app/template/put-a-mind-chip-ai-video",
             "title": "Put A Mind Chip — AI Video Template | Starrd",
             "first_seen": "2026-10-29T12:00:20.619372+00:00"
+          },
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-put-a-mind-chip-ai-video",
+            "title": "How to Make the 'Put a Mind Chip' AI Interview Meme (\"So You Would Do That?\" Starring You and a Friend, 2026)",
+            "first_seen": "2026-10-31T00:00:11.270193+00:00"
           }
         ]
       }
@@ -50061,6 +50959,16 @@
             "url": "https://maketrendai.com/hop-hop-hop-ai",
             "title": "Hop Hop Hop AI — Make the Viral Hop Hop Hop Duo Trend From Your Photos",
             "first_seen": "2026-10-30T18:00:26.108435+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/hop-hop-hop-trend",
+            "title": "The Hop Hop Hop Trend, Explained: The Duo Hop-and-Squash Everyone's Posting | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:09.726643+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/how-to-make-hop-hop-hop-ai-video",
+            "title": "How to Make the Hop Hop Hop AI Video: The Viral Duo Swap From Your Photos | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:10.012849+00:00"
           }
         ]
       }
@@ -50085,6 +50993,16 @@
             "url": "https://maketrendai.com/hop-hop-hop-ai",
             "title": "Hop Hop Hop AI — Make the Viral Hop Hop Hop Duo Trend From Your Photos",
             "first_seen": "2026-10-30T18:00:26.108387+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/hop-hop-hop-trend",
+            "title": "The Hop Hop Hop Trend, Explained: The Duo Hop-and-Squash Everyone's Posting | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:09.726577+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/how-to-make-hop-hop-hop-ai-video",
+            "title": "How to Make the Hop Hop Hop AI Video: The Viral Duo Swap From Your Photos | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:10.012866+00:00"
           }
         ]
       }
@@ -53160,6 +54078,1783 @@
             "url": "https://www.getstarrd.app/blog/how-to-make-pov-getting-chased-ai-video",
             "title": "How to Make the 'POV: You're Getting Chased' AI Video With a Friend (2026)",
             "first_seen": "2026-10-30T18:00:32.576372+00:00"
+          }
+        ]
+      }
+    },
+    "everybody talks": {
+      "first_seen": "2026-10-31T00:00:07.913428+00:00",
+      "domains": {
+        "www.capcut.com": [
+          {
+            "url": "https://www.capcut.com/template-detail/7562194797256035589",
+            "title": "everybody talks",
+            "first_seen": "2026-10-31T00:00:07.913428+00:00"
+          }
+        ]
+      }
+    },
+    "n daily": {
+      "first_seen": "2026-10-31T00:00:07.913842+00:00",
+      "domains": {
+        "www.capcut.com": [
+          {
+            "url": "https://www.capcut.com/template-detail/7557048438462909757",
+            "title": "My BESTFRIEND💗",
+            "first_seen": "2026-10-31T00:00:07.913842+00:00"
+          }
+        ]
+      }
+    },
+    "last year": {
+      "first_seen": "2026-10-31T00:00:07.914037+00:00",
+      "domains": {
+        "www.capcut.com": [
+          {
+            "url": "https://www.capcut.com/template-detail/7625287406241074448",
+            "title": "last year glowup",
+            "first_seen": "2026-10-31T00:00:07.914037+00:00"
+          }
+        ]
+      }
+    },
+    "year glowup": {
+      "first_seen": "2026-10-31T00:00:07.914061+00:00",
+      "domains": {
+        "www.capcut.com": [
+          {
+            "url": "https://www.capcut.com/template-detail/7625287406241074448",
+            "title": "last year glowup",
+            "first_seen": "2026-10-31T00:00:07.914061+00:00"
+          }
+        ]
+      }
+    },
+    "last year glowup": {
+      "first_seen": "2026-10-31T00:00:07.914076+00:00",
+      "domains": {
+        "www.capcut.com": [
+          {
+            "url": "https://www.capcut.com/template-detail/7625287406241074448",
+            "title": "last year glowup",
+            "first_seen": "2026-10-31T00:00:07.914076+00:00"
+          }
+        ]
+      }
+    },
+    "i meannn": {
+      "first_seen": "2026-10-31T00:00:07.914280+00:00",
+      "domains": {
+        "www.capcut.com": [
+          {
+            "url": "https://www.capcut.com/template-detail/7518152256118689085",
+            "title": "I MEANNN..😻✨",
+            "first_seen": "2026-10-31T00:00:07.914280+00:00"
+          }
+        ]
+      }
+    },
+    "0 problems": {
+      "first_seen": "2026-10-31T00:00:07.914596+00:00",
+      "domains": {
+        "www.capcut.com": [
+          {
+            "url": "https://www.capcut.com/template-detail/7500032579257568565",
+            "title": "0 problems.",
+            "first_seen": "2026-10-31T00:00:07.914596+00:00"
+          }
+        ]
+      }
+    },
+    "love yourself": {
+      "first_seen": "2026-10-31T00:00:07.914786+00:00",
+      "domains": {
+        "www.capcut.com": [
+          {
+            "url": "https://www.capcut.com/template-detail/7578927880323763461",
+            "title": "Love yourself",
+            "first_seen": "2026-10-31T00:00:07.914786+00:00"
+          }
+        ]
+      }
+    },
+    "hazel gray": {
+      "first_seen": "2026-10-31T00:00:07.914976+00:00",
+      "domains": {
+        "www.capcut.com": [
+          {
+            "url": "https://www.capcut.com/template-detail/7517669819437600061",
+            "title": "Ibumpedintoubyhappen",
+            "first_seen": "2026-10-31T00:00:07.914976+00:00"
+          },
+          {
+            "url": "https://www.capcut.com/template-detail/7555483851997334845",
+            "title": "Eye trend",
+            "first_seen": "2026-10-31T00:00:07.915178+00:00"
+          }
+        ]
+      }
+    },
+    "favorite pose": {
+      "first_seen": "2026-10-31T00:00:07.915342+00:00",
+      "domains": {
+        "www.capcut.com": [
+          {
+            "url": "https://www.capcut.com/template-detail/7598187696200191237",
+            "title": "my favorite pose",
+            "first_seen": "2026-10-31T00:00:07.915342+00:00"
+          }
+        ]
+      }
+    },
+    "rich in life": {
+      "first_seen": "2026-10-31T00:00:07.915748+00:00",
+      "domains": {
+        "www.capcut.com": [
+          {
+            "url": "https://www.capcut.com/template-detail/7635768473930501394",
+            "title": "rich in life >",
+            "first_seen": "2026-10-31T00:00:07.915748+00:00"
+          }
+        ]
+      }
+    },
+    "used to shine": {
+      "first_seen": "2026-10-31T00:00:07.915987+00:00",
+      "domains": {
+        "www.capcut.com": [
+          {
+            "url": "https://www.capcut.com/template-detail/7511708648767245629",
+            "title": "used to shine bright",
+            "first_seen": "2026-10-31T00:00:07.915987+00:00"
+          }
+        ]
+      }
+    },
+    "used to shine bright": {
+      "first_seen": "2026-10-31T00:00:07.916014+00:00",
+      "domains": {
+        "www.capcut.com": [
+          {
+            "url": "https://www.capcut.com/template-detail/7511708648767245629",
+            "title": "used to shine bright",
+            "first_seen": "2026-10-31T00:00:07.916014+00:00"
+          }
+        ]
+      }
+    },
+    "shine bright": {
+      "first_seen": "2026-10-31T00:00:07.916031+00:00",
+      "domains": {
+        "www.capcut.com": [
+          {
+            "url": "https://www.capcut.com/template-detail/7511708648767245629",
+            "title": "used to shine bright",
+            "first_seen": "2026-10-31T00:00:07.916031+00:00"
+          }
+        ]
+      }
+    },
+    "shows real": {
+      "first_seen": "2026-10-31T00:00:07.916268+00:00",
+      "domains": {
+        "www.capcut.com": [
+          {
+            "url": "https://www.capcut.com/template-detail/7595924195457142021",
+            "title": "shows real me",
+            "first_seen": "2026-10-31T00:00:07.916268+00:00"
+          }
+        ]
+      }
+    },
+    "another l": {
+      "first_seen": "2026-10-31T00:00:07.916489+00:00",
+      "domains": {
+        "www.capcut.com": [
+          {
+            "url": "https://www.capcut.com/template-detail/7601920909233900805",
+            "title": "never find another l",
+            "first_seen": "2026-10-31T00:00:07.916489+00:00"
+          }
+        ]
+      }
+    },
+    "never find another l": {
+      "first_seen": "2026-10-31T00:00:07.916514+00:00",
+      "domains": {
+        "www.capcut.com": [
+          {
+            "url": "https://www.capcut.com/template-detail/7601920909233900805",
+            "title": "never find another l",
+            "first_seen": "2026-10-31T00:00:07.916514+00:00"
+          }
+        ]
+      }
+    },
+    "never find another": {
+      "first_seen": "2026-10-31T00:00:07.916529+00:00",
+      "domains": {
+        "www.capcut.com": [
+          {
+            "url": "https://www.capcut.com/template-detail/7601920909233900805",
+            "title": "never find another l",
+            "first_seen": "2026-10-31T00:00:07.916529+00:00"
+          }
+        ]
+      }
+    },
+    "felt left": {
+      "first_seen": "2026-10-31T00:00:07.916706+00:00",
+      "domains": {
+        "www.capcut.com": [
+          {
+            "url": "https://www.capcut.com/template-detail/7668886012264926472",
+            "title": "felt left out",
+            "first_seen": "2026-10-31T00:00:07.916706+00:00"
+          }
+        ]
+      }
+    },
+    "liberty biberty": {
+      "first_seen": "2026-10-31T00:00:08.165089+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/liberty-biberty",
+            "title": "Liberty Biberty | Know Your Meme",
+            "first_seen": "2026-10-31T00:00:08.165089+00:00"
+          }
+        ]
+      }
+    },
+    "theo von nigga s": {
+      "first_seen": "2026-10-31T00:00:08.251077+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/theo-von-n-its-over",
+            "title": "Theo Von \"Nigga It's Over\" | Know Your Meme",
+            "first_seen": "2026-10-31T00:00:08.251077+00:00"
+          }
+        ]
+      }
+    },
+    "von nigga s": {
+      "first_seen": "2026-10-31T00:00:08.251117+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/theo-von-n-its-over",
+            "title": "Theo Von \"Nigga It's Over\" | Know Your Meme",
+            "first_seen": "2026-10-31T00:00:08.251117+00:00"
+          }
+        ]
+      }
+    },
+    "theo von nigga": {
+      "first_seen": "2026-10-31T00:00:08.251125+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/theo-von-n-its-over",
+            "title": "Theo Von \"Nigga It's Over\" | Know Your Meme",
+            "first_seen": "2026-10-31T00:00:08.251125+00:00"
+          }
+        ]
+      }
+    },
+    "theo von": {
+      "first_seen": "2026-10-31T00:00:08.251147+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/theo-von-n-its-over",
+            "title": "Theo Von \"Nigga It's Over\" | Know Your Meme",
+            "first_seen": "2026-10-31T00:00:08.251147+00:00"
+          }
+        ]
+      }
+    },
+    "von nigga": {
+      "first_seen": "2026-10-31T00:00:08.251155+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/theo-von-n-its-over",
+            "title": "Theo Von \"Nigga It's Over\" | Know Your Meme",
+            "first_seen": "2026-10-31T00:00:08.251155+00:00"
+          }
+        ]
+      }
+    },
+    "theo von n": {
+      "first_seen": "2026-10-31T00:00:08.251163+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/theo-von-n-its-over",
+            "title": "Theo Von \"Nigga It's Over\" | Know Your Meme",
+            "first_seen": "2026-10-31T00:00:08.251163+00:00"
+          }
+        ]
+      }
+    },
+    "von n": {
+      "first_seen": "2026-10-31T00:00:08.251170+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/theo-von-n-its-over",
+            "title": "Theo Von \"Nigga It's Over\" | Know Your Meme",
+            "first_seen": "2026-10-31T00:00:08.251170+00:00"
+          }
+        ]
+      }
+    },
+    "nigga s": {
+      "first_seen": "2026-10-31T00:00:08.251177+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/theo-von-n-its-over",
+            "title": "Theo Von \"Nigga It's Over\" | Know Your Meme",
+            "first_seen": "2026-10-31T00:00:08.251177+00:00"
+          }
+        ]
+      }
+    },
+    "review models credits": {
+      "first_seen": "2026-10-31T00:00:09.468237+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/yapper-ai-video-generator.html",
+            "title": "Yapper AI Video Generator Review: Models, Credits & API",
+            "first_seen": "2026-10-31T00:00:09.468237+00:00"
+          }
+        ]
+      }
+    },
+    "review models credits api": {
+      "first_seen": "2026-10-31T00:00:09.468296+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/yapper-ai-video-generator.html",
+            "title": "Yapper AI Video Generator Review: Models, Credits & API",
+            "first_seen": "2026-10-31T00:00:09.468296+00:00"
+          }
+        ]
+      }
+    },
+    "models credits api": {
+      "first_seen": "2026-10-31T00:00:09.468304+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/yapper-ai-video-generator.html",
+            "title": "Yapper AI Video Generator Review: Models, Credits & API",
+            "first_seen": "2026-10-31T00:00:09.468304+00:00"
+          }
+        ]
+      }
+    },
+    "clippie ai review": {
+      "first_seen": "2026-10-31T00:00:09.475731+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/clippie-ai.html",
+            "title": "Clippie AI Review: Faceless Shorts, Recast & Pricing",
+            "first_seen": "2026-10-31T00:00:09.475731+00:00"
+          }
+        ]
+      }
+    },
+    "review faceless shorts recast": {
+      "first_seen": "2026-10-31T00:00:09.475763+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/clippie-ai.html",
+            "title": "Clippie AI Review: Faceless Shorts, Recast & Pricing",
+            "first_seen": "2026-10-31T00:00:09.475763+00:00"
+          }
+        ]
+      }
+    },
+    "recast pricing": {
+      "first_seen": "2026-10-31T00:00:09.475772+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/clippie-ai.html",
+            "title": "Clippie AI Review: Faceless Shorts, Recast & Pricing",
+            "first_seen": "2026-10-31T00:00:09.475772+00:00"
+          }
+        ]
+      }
+    },
+    "clippie ai review faceless": {
+      "first_seen": "2026-10-31T00:00:09.475790+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/clippie-ai.html",
+            "title": "Clippie AI Review: Faceless Shorts, Recast & Pricing",
+            "first_seen": "2026-10-31T00:00:09.475790+00:00"
+          }
+        ]
+      }
+    },
+    "faceless shorts recast": {
+      "first_seen": "2026-10-31T00:00:09.475798+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/clippie-ai.html",
+            "title": "Clippie AI Review: Faceless Shorts, Recast & Pricing",
+            "first_seen": "2026-10-31T00:00:09.475798+00:00"
+          }
+        ]
+      }
+    },
+    "faceless shorts recast pricing": {
+      "first_seen": "2026-10-31T00:00:09.475806+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/clippie-ai.html",
+            "title": "Clippie AI Review: Faceless Shorts, Recast & Pricing",
+            "first_seen": "2026-10-31T00:00:09.475806+00:00"
+          }
+        ]
+      }
+    },
+    "review script": {
+      "first_seen": "2026-10-31T00:00:09.523819+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/vibevideo.html",
+            "title": "VibeVideo Review: Script-to-Video, Models & Credits",
+            "first_seen": "2026-10-31T00:00:09.523819+00:00"
+          },
+          {
+            "url": "https://www.media.io/comparison/easyvid-ai.html",
+            "title": "EasyVid AI Review: Script-to-Video & Pricing Review",
+            "first_seen": "2026-10-31T00:00:09.818295+00:00"
+          }
+        ]
+      }
+    },
+    "vibe video review script": {
+      "first_seen": "2026-10-31T00:00:09.523869+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/vibevideo.html",
+            "title": "VibeVideo Review: Script-to-Video, Models & Credits",
+            "first_seen": "2026-10-31T00:00:09.523869+00:00"
+          }
+        ]
+      }
+    },
+    "vibe video review": {
+      "first_seen": "2026-10-31T00:00:09.523890+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/vibevideo.html",
+            "title": "VibeVideo Review: Script-to-Video, Models & Credits",
+            "first_seen": "2026-10-31T00:00:09.523890+00:00"
+          }
+        ]
+      }
+    },
+    "anime comics animation pricing": {
+      "first_seen": "2026-10-31T00:00:09.528973+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/komiko-ai.html",
+            "title": "Komiko AI Review: Anime, Comics, Animation & Pricing",
+            "first_seen": "2026-10-31T00:00:09.528973+00:00"
+          }
+        ]
+      }
+    },
+    "anime comics animation": {
+      "first_seen": "2026-10-31T00:00:09.529011+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/komiko-ai.html",
+            "title": "Komiko AI Review: Anime, Comics, Animation & Pricing",
+            "first_seen": "2026-10-31T00:00:09.529011+00:00"
+          }
+        ]
+      }
+    },
+    "komiko ai review anime": {
+      "first_seen": "2026-10-31T00:00:09.529031+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/komiko-ai.html",
+            "title": "Komiko AI Review: Anime, Comics, Animation & Pricing",
+            "first_seen": "2026-10-31T00:00:09.529031+00:00"
+          }
+        ]
+      }
+    },
+    "comics animation pricing": {
+      "first_seen": "2026-10-31T00:00:09.529051+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/komiko-ai.html",
+            "title": "Komiko AI Review: Anime, Comics, Animation & Pricing",
+            "first_seen": "2026-10-31T00:00:09.529051+00:00"
+          }
+        ]
+      }
+    },
+    "anime comics": {
+      "first_seen": "2026-10-31T00:00:09.529069+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/komiko-ai.html",
+            "title": "Komiko AI Review: Anime, Comics, Animation & Pricing",
+            "first_seen": "2026-10-31T00:00:09.529069+00:00"
+          }
+        ]
+      }
+    },
+    "review anime comics": {
+      "first_seen": "2026-10-31T00:00:09.529089+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/komiko-ai.html",
+            "title": "Komiko AI Review: Anime, Comics, Animation & Pricing",
+            "first_seen": "2026-10-31T00:00:09.529089+00:00"
+          }
+        ]
+      }
+    },
+    "komiko ai review": {
+      "first_seen": "2026-10-31T00:00:09.529106+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/komiko-ai.html",
+            "title": "Komiko AI Review: Anime, Comics, Animation & Pricing",
+            "first_seen": "2026-10-31T00:00:09.529106+00:00"
+          }
+        ]
+      }
+    },
+    "review anime comics animation": {
+      "first_seen": "2026-10-31T00:00:09.529239+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/komiko-ai.html",
+            "title": "Komiko AI Review: Anime, Comics, Animation & Pricing",
+            "first_seen": "2026-10-31T00:00:09.529239+00:00"
+          }
+        ]
+      }
+    },
+    "animation pricing": {
+      "first_seen": "2026-10-31T00:00:09.529257+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/komiko-ai.html",
+            "title": "Komiko AI Review: Anime, Comics, Animation & Pricing",
+            "first_seen": "2026-10-31T00:00:09.529257+00:00"
+          }
+        ]
+      }
+    },
+    "comics animation": {
+      "first_seen": "2026-10-31T00:00:09.529276+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/komiko-ai.html",
+            "title": "Komiko AI Review: Anime, Comics, Animation & Pricing",
+            "first_seen": "2026-10-31T00:00:09.529276+00:00"
+          }
+        ]
+      }
+    },
+    "pricing mntn workflow": {
+      "first_seen": "2026-10-31T00:00:09.561740+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/quickframe.html",
+            "title": "QuickFrame AI Review: Video Ads, Pricing & MNTN Workflow",
+            "first_seen": "2026-10-31T00:00:09.561740+00:00"
+          }
+        ]
+      }
+    },
+    "review video ads pricing": {
+      "first_seen": "2026-10-31T00:00:09.561761+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/quickframe.html",
+            "title": "QuickFrame AI Review: Video Ads, Pricing & MNTN Workflow",
+            "first_seen": "2026-10-31T00:00:09.561761+00:00"
+          }
+        ]
+      }
+    },
+    "pricing mntn": {
+      "first_seen": "2026-10-31T00:00:09.561777+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/quickframe.html",
+            "title": "QuickFrame AI Review: Video Ads, Pricing & MNTN Workflow",
+            "first_seen": "2026-10-31T00:00:09.561777+00:00"
+          }
+        ]
+      }
+    },
+    "quick frame ai review": {
+      "first_seen": "2026-10-31T00:00:09.561794+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/quickframe.html",
+            "title": "QuickFrame AI Review: Video Ads, Pricing & MNTN Workflow",
+            "first_seen": "2026-10-31T00:00:09.561794+00:00"
+          }
+        ]
+      }
+    },
+    "quick frame": {
+      "first_seen": "2026-10-31T00:00:09.561811+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/quickframe.html",
+            "title": "QuickFrame AI Review: Video Ads, Pricing & MNTN Workflow",
+            "first_seen": "2026-10-31T00:00:09.561811+00:00"
+          }
+        ]
+      }
+    },
+    "ads pricing mntn": {
+      "first_seen": "2026-10-31T00:00:09.561829+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/quickframe.html",
+            "title": "QuickFrame AI Review: Video Ads, Pricing & MNTN Workflow",
+            "first_seen": "2026-10-31T00:00:09.561829+00:00"
+          }
+        ]
+      }
+    },
+    "review video ads": {
+      "first_seen": "2026-10-31T00:00:09.561848+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/quickframe.html",
+            "title": "QuickFrame AI Review: Video Ads, Pricing & MNTN Workflow",
+            "first_seen": "2026-10-31T00:00:09.561848+00:00"
+          }
+        ]
+      }
+    },
+    "mntn workflow": {
+      "first_seen": "2026-10-31T00:00:09.561863+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/quickframe.html",
+            "title": "QuickFrame AI Review: Video Ads, Pricing & MNTN Workflow",
+            "first_seen": "2026-10-31T00:00:09.561863+00:00"
+          }
+        ]
+      }
+    },
+    "frame ai review": {
+      "first_seen": "2026-10-31T00:00:09.561880+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/quickframe.html",
+            "title": "QuickFrame AI Review: Video Ads, Pricing & MNTN Workflow",
+            "first_seen": "2026-10-31T00:00:09.561880+00:00"
+          }
+        ]
+      }
+    },
+    "ads pricing mntn workflow": {
+      "first_seen": "2026-10-31T00:00:09.561898+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/quickframe.html",
+            "title": "QuickFrame AI Review: Video Ads, Pricing & MNTN Workflow",
+            "first_seen": "2026-10-31T00:00:09.561898+00:00"
+          }
+        ]
+      }
+    },
+    "hop hop trend explained": {
+      "first_seen": "2026-10-31T00:00:09.726627+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/hop-hop-hop-trend",
+            "title": "The Hop Hop Hop Trend, Explained: The Duo Hop-and-Squash Everyone's Posting | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:09.726627+00:00"
+          }
+        ]
+      }
+    },
+    "explained the duo": {
+      "first_seen": "2026-10-31T00:00:09.726657+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/hop-hop-hop-trend",
+            "title": "The Hop Hop Hop Trend, Explained: The Duo Hop-and-Squash Everyone's Posting | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:09.726657+00:00"
+          }
+        ]
+      }
+    },
+    "hop trend explained": {
+      "first_seen": "2026-10-31T00:00:09.726670+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/hop-hop-hop-trend",
+            "title": "The Hop Hop Hop Trend, Explained: The Duo Hop-and-Squash Everyone's Posting | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:09.726670+00:00"
+          }
+        ]
+      }
+    },
+    "explained the duo hop": {
+      "first_seen": "2026-10-31T00:00:09.726684+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/hop-hop-hop-trend",
+            "title": "The Hop Hop Hop Trend, Explained: The Duo Hop-and-Squash Everyone's Posting | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:09.726684+00:00"
+          }
+        ]
+      }
+    },
+    "duo hop": {
+      "first_seen": "2026-10-31T00:00:09.726697+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/hop-hop-hop-trend",
+            "title": "The Hop Hop Hop Trend, Explained: The Duo Hop-and-Squash Everyone's Posting | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:09.726697+00:00"
+          }
+        ]
+      }
+    },
+    "muse ai review": {
+      "first_seen": "2026-10-31T00:00:09.739984+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/vidmuse-ai.html",
+            "title": "VidMuse AI Review: Music Video & Ads Review",
+            "first_seen": "2026-10-31T00:00:09.739984+00:00"
+          }
+        ]
+      }
+    },
+    "music video ads review": {
+      "first_seen": "2026-10-31T00:00:09.740041+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/vidmuse-ai.html",
+            "title": "VidMuse AI Review: Music Video & Ads Review",
+            "first_seen": "2026-10-31T00:00:09.740041+00:00"
+          }
+        ]
+      }
+    },
+    "review music video ads": {
+      "first_seen": "2026-10-31T00:00:09.740061+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/vidmuse-ai.html",
+            "title": "VidMuse AI Review: Music Video & Ads Review",
+            "first_seen": "2026-10-31T00:00:09.740061+00:00"
+          }
+        ]
+      }
+    },
+    "vid muse ai review": {
+      "first_seen": "2026-10-31T00:00:09.740076+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/vidmuse-ai.html",
+            "title": "VidMuse AI Review: Music Video & Ads Review",
+            "first_seen": "2026-10-31T00:00:09.740076+00:00"
+          }
+        ]
+      }
+    },
+    "muse ai review music": {
+      "first_seen": "2026-10-31T00:00:09.740090+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/vidmuse-ai.html",
+            "title": "VidMuse AI Review: Music Video & Ads Review",
+            "first_seen": "2026-10-31T00:00:09.740090+00:00"
+          }
+        ]
+      }
+    },
+    "ads review": {
+      "first_seen": "2026-10-31T00:00:09.740106+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/vidmuse-ai.html",
+            "title": "VidMuse AI Review: Music Video & Ads Review",
+            "first_seen": "2026-10-31T00:00:09.740106+00:00"
+          }
+        ]
+      }
+    },
+    "music video ads": {
+      "first_seen": "2026-10-31T00:00:09.740155+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/vidmuse-ai.html",
+            "title": "VidMuse AI Review: Music Video & Ads Review",
+            "first_seen": "2026-10-31T00:00:09.740155+00:00"
+          }
+        ]
+      }
+    },
+    "vid muse": {
+      "first_seen": "2026-10-31T00:00:09.740172+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/vidmuse-ai.html",
+            "title": "VidMuse AI Review: Music Video & Ads Review",
+            "first_seen": "2026-10-31T00:00:09.740172+00:00"
+          }
+        ]
+      }
+    },
+    "roleplay video review": {
+      "first_seen": "2026-10-31T00:00:09.763887+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/popvid-ai.html",
+            "title": "PopVid AI Review: Interactive Roleplay Video Review",
+            "first_seen": "2026-10-31T00:00:09.763887+00:00"
+          }
+        ]
+      }
+    },
+    "review interactive": {
+      "first_seen": "2026-10-31T00:00:09.763948+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/popvid-ai.html",
+            "title": "PopVid AI Review: Interactive Roleplay Video Review",
+            "first_seen": "2026-10-31T00:00:09.763948+00:00"
+          }
+        ]
+      }
+    },
+    "pop vid": {
+      "first_seen": "2026-10-31T00:00:09.763968+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/popvid-ai.html",
+            "title": "PopVid AI Review: Interactive Roleplay Video Review",
+            "first_seen": "2026-10-31T00:00:09.763968+00:00"
+          }
+        ]
+      }
+    },
+    "review interactive roleplay": {
+      "first_seen": "2026-10-31T00:00:09.763984+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/popvid-ai.html",
+            "title": "PopVid AI Review: Interactive Roleplay Video Review",
+            "first_seen": "2026-10-31T00:00:09.763984+00:00"
+          }
+        ]
+      }
+    },
+    "pop vid ai review": {
+      "first_seen": "2026-10-31T00:00:09.764000+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/popvid-ai.html",
+            "title": "PopVid AI Review: Interactive Roleplay Video Review",
+            "first_seen": "2026-10-31T00:00:09.764000+00:00"
+          }
+        ]
+      }
+    },
+    "interactive roleplay": {
+      "first_seen": "2026-10-31T00:00:09.764015+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/popvid-ai.html",
+            "title": "PopVid AI Review: Interactive Roleplay Video Review",
+            "first_seen": "2026-10-31T00:00:09.764015+00:00"
+          }
+        ]
+      }
+    },
+    "vid ai review": {
+      "first_seen": "2026-10-31T00:00:09.764029+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/popvid-ai.html",
+            "title": "PopVid AI Review: Interactive Roleplay Video Review",
+            "first_seen": "2026-10-31T00:00:09.764029+00:00"
+          },
+          {
+            "url": "https://www.media.io/comparison/easyvid-ai.html",
+            "title": "EasyVid AI Review: Script-to-Video & Pricing Review",
+            "first_seen": "2026-10-31T00:00:09.818321+00:00"
+          }
+        ]
+      }
+    },
+    "vid ai review interactive": {
+      "first_seen": "2026-10-31T00:00:09.764044+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/popvid-ai.html",
+            "title": "PopVid AI Review: Interactive Roleplay Video Review",
+            "first_seen": "2026-10-31T00:00:09.764044+00:00"
+          }
+        ]
+      }
+    },
+    "interactive roleplay video review": {
+      "first_seen": "2026-10-31T00:00:09.764057+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/popvid-ai.html",
+            "title": "PopVid AI Review: Interactive Roleplay Video Review",
+            "first_seen": "2026-10-31T00:00:09.764057+00:00"
+          }
+        ]
+      }
+    },
+    "review animation": {
+      "first_seen": "2026-10-31T00:00:09.787297+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/anijam-ai.html",
+            "title": "Anijam AI Review: Animation Features & Pricing Review",
+            "first_seen": "2026-10-31T00:00:09.787297+00:00"
+          }
+        ]
+      }
+    },
+    "animation features pricing": {
+      "first_seen": "2026-10-31T00:00:09.787354+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/anijam-ai.html",
+            "title": "Anijam AI Review: Animation Features & Pricing Review",
+            "first_seen": "2026-10-31T00:00:09.787354+00:00"
+          }
+        ]
+      }
+    },
+    "animation features pricing review": {
+      "first_seen": "2026-10-31T00:00:09.787374+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/anijam-ai.html",
+            "title": "Anijam AI Review: Animation Features & Pricing Review",
+            "first_seen": "2026-10-31T00:00:09.787374+00:00"
+          }
+        ]
+      }
+    },
+    "anijam ai review": {
+      "first_seen": "2026-10-31T00:00:09.787390+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/anijam-ai.html",
+            "title": "Anijam AI Review: Animation Features & Pricing Review",
+            "first_seen": "2026-10-31T00:00:09.787390+00:00"
+          }
+        ]
+      }
+    },
+    "review animation features pricing": {
+      "first_seen": "2026-10-31T00:00:09.787406+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/anijam-ai.html",
+            "title": "Anijam AI Review: Animation Features & Pricing Review",
+            "first_seen": "2026-10-31T00:00:09.787406+00:00"
+          }
+        ]
+      }
+    },
+    "anijam ai review animation": {
+      "first_seen": "2026-10-31T00:00:09.787424+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/anijam-ai.html",
+            "title": "Anijam AI Review: Animation Features & Pricing Review",
+            "first_seen": "2026-10-31T00:00:09.787424+00:00"
+          }
+        ]
+      }
+    },
+    "pricing review": {
+      "first_seen": "2026-10-31T00:00:09.787510+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/anijam-ai.html",
+            "title": "Anijam AI Review: Animation Features & Pricing Review",
+            "first_seen": "2026-10-31T00:00:09.787510+00:00"
+          },
+          {
+            "url": "https://www.media.io/comparison/zeely-ai.html",
+            "title": "Zeely AI Review: UGC Video Ads & Pricing Review",
+            "first_seen": "2026-10-31T00:00:09.834741+00:00"
+          },
+          {
+            "url": "https://www.media.io/comparison/frameo-ai-video-generator.html",
+            "title": "Frameo AI Video Generator Review: AI Film Agent & Pricing Review",
+            "first_seen": "2026-10-31T00:00:09.911927+00:00"
+          },
+          {
+            "url": "https://www.media.io/comparison/makereels-ai.html",
+            "title": "MakeReels AI Review: Automated Reels & Pricing Review",
+            "first_seen": "2026-10-31T00:00:09.917025+00:00"
+          },
+          {
+            "url": "https://www.media.io/comparison/makeugc-ai.html",
+            "title": "MakeUGC AI Review: UGC Video Ads & Pricing Review",
+            "first_seen": "2026-10-31T00:00:09.933895+00:00"
+          }
+        ]
+      }
+    },
+    "dominican papi": {
+      "first_seen": "2026-10-31T00:00:09.787762+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/dominican-papi-ai-dance-generator",
+            "title": "Dominican Papi AI Dance Generator & Prompts | Media.io",
+            "first_seen": "2026-10-31T00:00:09.787762+00:00"
+          }
+        ]
+      }
+    },
+    "vid ai review script": {
+      "first_seen": "2026-10-31T00:00:09.818254+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/easyvid-ai.html",
+            "title": "EasyVid AI Review: Script-to-Video & Pricing Review",
+            "first_seen": "2026-10-31T00:00:09.818254+00:00"
+          }
+        ]
+      }
+    },
+    "easy vid ai review": {
+      "first_seen": "2026-10-31T00:00:09.818306+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/easyvid-ai.html",
+            "title": "EasyVid AI Review: Script-to-Video & Pricing Review",
+            "first_seen": "2026-10-31T00:00:09.818306+00:00"
+          }
+        ]
+      }
+    },
+    "easy vid": {
+      "first_seen": "2026-10-31T00:00:09.818314+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/easyvid-ai.html",
+            "title": "EasyVid AI Review: Script-to-Video & Pricing Review",
+            "first_seen": "2026-10-31T00:00:09.818314+00:00"
+          }
+        ]
+      }
+    },
+    "zeely ai review": {
+      "first_seen": "2026-10-31T00:00:09.834650+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/zeely-ai.html",
+            "title": "Zeely AI Review: UGC Video Ads & Pricing Review",
+            "first_seen": "2026-10-31T00:00:09.834650+00:00"
+          }
+        ]
+      }
+    },
+    "review ugc video ads": {
+      "first_seen": "2026-10-31T00:00:09.834685+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/zeely-ai.html",
+            "title": "Zeely AI Review: UGC Video Ads & Pricing Review",
+            "first_seen": "2026-10-31T00:00:09.834685+00:00"
+          },
+          {
+            "url": "https://www.media.io/comparison/makeugc-ai.html",
+            "title": "MakeUGC AI Review: UGC Video Ads & Pricing Review",
+            "first_seen": "2026-10-31T00:00:09.933774+00:00"
+          }
+        ]
+      }
+    },
+    "review ugc": {
+      "first_seen": "2026-10-31T00:00:09.834704+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/zeely-ai.html",
+            "title": "Zeely AI Review: UGC Video Ads & Pricing Review",
+            "first_seen": "2026-10-31T00:00:09.834704+00:00"
+          },
+          {
+            "url": "https://www.media.io/comparison/makeugc-ai.html",
+            "title": "MakeUGC AI Review: UGC Video Ads & Pricing Review",
+            "first_seen": "2026-10-31T00:00:09.933837+00:00"
+          }
+        ]
+      }
+    },
+    "ugc video ads pricing": {
+      "first_seen": "2026-10-31T00:00:09.834720+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/zeely-ai.html",
+            "title": "Zeely AI Review: UGC Video Ads & Pricing Review",
+            "first_seen": "2026-10-31T00:00:09.834720+00:00"
+          },
+          {
+            "url": "https://www.media.io/comparison/makeugc-ai.html",
+            "title": "MakeUGC AI Review: UGC Video Ads & Pricing Review",
+            "first_seen": "2026-10-31T00:00:09.933861+00:00"
+          }
+        ]
+      }
+    },
+    "ads pricing review": {
+      "first_seen": "2026-10-31T00:00:09.834727+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/zeely-ai.html",
+            "title": "Zeely AI Review: UGC Video Ads & Pricing Review",
+            "first_seen": "2026-10-31T00:00:09.834727+00:00"
+          },
+          {
+            "url": "https://www.media.io/comparison/makeugc-ai.html",
+            "title": "MakeUGC AI Review: UGC Video Ads & Pricing Review",
+            "first_seen": "2026-10-31T00:00:09.933878+00:00"
+          }
+        ]
+      }
+    },
+    "zeely ai review ugc": {
+      "first_seen": "2026-10-31T00:00:09.834734+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/zeely-ai.html",
+            "title": "Zeely AI Review: UGC Video Ads & Pricing Review",
+            "first_seen": "2026-10-31T00:00:09.834734+00:00"
+          }
+        ]
+      }
+    },
+    "review ai video credit": {
+      "first_seen": "2026-10-31T00:00:09.834860+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/zencreator-ai.html",
+            "title": "ZenCreator AI Review: AI Video Tools & Credit Review",
+            "first_seen": "2026-10-31T00:00:09.834860+00:00"
+          },
+          {
+            "url": "https://www.media.io/comparison/flashloop-ai.html",
+            "title": "Flashloop AI Review: AI Video Tools & Credit Review",
+            "first_seen": "2026-10-31T00:00:09.868757+00:00"
+          },
+          {
+            "url": "https://www.media.io/comparison/flat-ai-video-generator.html",
+            "title": "Flat AI Video Generator Review: AI Video Tools & Credit Review",
+            "first_seen": "2026-10-31T00:00:09.877579+00:00"
+          },
+          {
+            "url": "https://www.media.io/comparison/lumeflow-ai.html",
+            "title": "LumeFlow AI Review: AI Video Tools & Credit Review",
+            "first_seen": "2026-10-31T00:00:09.911724+00:00"
+          }
+        ]
+      }
+    },
+    "zen creator ai review": {
+      "first_seen": "2026-10-31T00:00:09.834873+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/zencreator-ai.html",
+            "title": "ZenCreator AI Review: AI Video Tools & Credit Review",
+            "first_seen": "2026-10-31T00:00:09.834873+00:00"
+          }
+        ]
+      }
+    },
+    "credit review": {
+      "first_seen": "2026-10-31T00:00:09.834880+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/zencreator-ai.html",
+            "title": "ZenCreator AI Review: AI Video Tools & Credit Review",
+            "first_seen": "2026-10-31T00:00:09.834880+00:00"
+          },
+          {
+            "url": "https://www.media.io/comparison/flashloop-ai.html",
+            "title": "Flashloop AI Review: AI Video Tools & Credit Review",
+            "first_seen": "2026-10-31T00:00:09.868824+00:00"
+          },
+          {
+            "url": "https://www.media.io/comparison/flat-ai-video-generator.html",
+            "title": "Flat AI Video Generator Review: AI Video Tools & Credit Review",
+            "first_seen": "2026-10-31T00:00:09.877614+00:00"
+          },
+          {
+            "url": "https://www.media.io/comparison/lumeflow-ai.html",
+            "title": "LumeFlow AI Review: AI Video Tools & Credit Review",
+            "first_seen": "2026-10-31T00:00:09.911680+00:00"
+          }
+        ]
+      }
+    },
+    "clipping auto": {
+      "first_seen": "2026-10-31T00:00:09.856946+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/easyslice-ai.html",
+            "title": "EasySlice AI Review: AI Clipping & Auto-Post Review",
+            "first_seen": "2026-10-31T00:00:09.856946+00:00"
+          }
+        ]
+      }
+    },
+    "review ai clipping auto": {
+      "first_seen": "2026-10-31T00:00:09.856984+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/easyslice-ai.html",
+            "title": "EasySlice AI Review: AI Clipping & Auto-Post Review",
+            "first_seen": "2026-10-31T00:00:09.856984+00:00"
+          }
+        ]
+      }
+    },
+    "review ai clipping": {
+      "first_seen": "2026-10-31T00:00:09.856993+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/easyslice-ai.html",
+            "title": "EasySlice AI Review: AI Clipping & Auto-Post Review",
+            "first_seen": "2026-10-31T00:00:09.856993+00:00"
+          }
+        ]
+      }
+    },
+    "easy slice ai review": {
+      "first_seen": "2026-10-31T00:00:09.857007+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/easyslice-ai.html",
+            "title": "EasySlice AI Review: AI Clipping & Auto-Post Review",
+            "first_seen": "2026-10-31T00:00:09.857007+00:00"
+          }
+        ]
+      }
+    },
+    "slice ai review": {
+      "first_seen": "2026-10-31T00:00:09.857023+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/easyslice-ai.html",
+            "title": "EasySlice AI Review: AI Clipping & Auto-Post Review",
+            "first_seen": "2026-10-31T00:00:09.857023+00:00"
+          }
+        ]
+      }
+    },
+    "easy slice": {
+      "first_seen": "2026-10-31T00:00:09.857036+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/easyslice-ai.html",
+            "title": "EasySlice AI Review: AI Clipping & Auto-Post Review",
+            "first_seen": "2026-10-31T00:00:09.857036+00:00"
+          }
+        ]
+      }
+    },
+    "flashloop ai review": {
+      "first_seen": "2026-10-31T00:00:09.868805+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/flashloop-ai.html",
+            "title": "Flashloop AI Review: AI Video Tools & Credit Review",
+            "first_seen": "2026-10-31T00:00:09.868805+00:00"
+          }
+        ]
+      }
+    },
+    "lume flow": {
+      "first_seen": "2026-10-31T00:00:09.911716+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/lumeflow-ai.html",
+            "title": "LumeFlow AI Review: AI Video Tools & Credit Review",
+            "first_seen": "2026-10-31T00:00:09.911716+00:00"
+          }
+        ]
+      }
+    },
+    "flow ai review": {
+      "first_seen": "2026-10-31T00:00:09.911732+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/lumeflow-ai.html",
+            "title": "LumeFlow AI Review: AI Video Tools & Credit Review",
+            "first_seen": "2026-10-31T00:00:09.911732+00:00"
+          }
+        ]
+      }
+    },
+    "lume flow ai review": {
+      "first_seen": "2026-10-31T00:00:09.911739+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/lumeflow-ai.html",
+            "title": "LumeFlow AI Review: AI Video Tools & Credit Review",
+            "first_seen": "2026-10-31T00:00:09.911739+00:00"
+          }
+        ]
+      }
+    },
+    "film agent pricing review": {
+      "first_seen": "2026-10-31T00:00:09.911874+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/frameo-ai-video-generator.html",
+            "title": "Frameo AI Video Generator Review: AI Film Agent & Pricing Review",
+            "first_seen": "2026-10-31T00:00:09.911874+00:00"
+          }
+        ]
+      }
+    },
+    "agent pricing": {
+      "first_seen": "2026-10-31T00:00:09.911887+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/frameo-ai-video-generator.html",
+            "title": "Frameo AI Video Generator Review: AI Film Agent & Pricing Review",
+            "first_seen": "2026-10-31T00:00:09.911887+00:00"
+          }
+        ]
+      }
+    },
+    "film agent": {
+      "first_seen": "2026-10-31T00:00:09.911895+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/frameo-ai-video-generator.html",
+            "title": "Frameo AI Video Generator Review: AI Film Agent & Pricing Review",
+            "first_seen": "2026-10-31T00:00:09.911895+00:00"
+          }
+        ]
+      }
+    },
+    "review ai film": {
+      "first_seen": "2026-10-31T00:00:09.911902+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/frameo-ai-video-generator.html",
+            "title": "Frameo AI Video Generator Review: AI Film Agent & Pricing Review",
+            "first_seen": "2026-10-31T00:00:09.911902+00:00"
+          }
+        ]
+      }
+    },
+    "review ai film agent": {
+      "first_seen": "2026-10-31T00:00:09.911908+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/frameo-ai-video-generator.html",
+            "title": "Frameo AI Video Generator Review: AI Film Agent & Pricing Review",
+            "first_seen": "2026-10-31T00:00:09.911908+00:00"
+          }
+        ]
+      }
+    },
+    "film agent pricing": {
+      "first_seen": "2026-10-31T00:00:09.911915+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/frameo-ai-video-generator.html",
+            "title": "Frameo AI Video Generator Review: AI Film Agent & Pricing Review",
+            "first_seen": "2026-10-31T00:00:09.911915+00:00"
+          }
+        ]
+      }
+    },
+    "agent pricing review": {
+      "first_seen": "2026-10-31T00:00:09.911921+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/frameo-ai-video-generator.html",
+            "title": "Frameo AI Video Generator Review: AI Film Agent & Pricing Review",
+            "first_seen": "2026-10-31T00:00:09.911921+00:00"
+          }
+        ]
+      }
+    },
+    "automated reels pricing review": {
+      "first_seen": "2026-10-31T00:00:09.916952+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/makereels-ai.html",
+            "title": "MakeReels AI Review: Automated Reels & Pricing Review",
+            "first_seen": "2026-10-31T00:00:09.916952+00:00"
+          }
+        ]
+      }
+    },
+    "automated reels pricing": {
+      "first_seen": "2026-10-31T00:00:09.916989+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/makereels-ai.html",
+            "title": "MakeReels AI Review: Automated Reels & Pricing Review",
+            "first_seen": "2026-10-31T00:00:09.916989+00:00"
+          }
+        ]
+      }
+    },
+    "review automated": {
+      "first_seen": "2026-10-31T00:00:09.917008+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/makereels-ai.html",
+            "title": "MakeReels AI Review: Automated Reels & Pricing Review",
+            "first_seen": "2026-10-31T00:00:09.917008+00:00"
+          }
+        ]
+      }
+    },
+    "review automated reels pricing": {
+      "first_seen": "2026-10-31T00:00:09.917018+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/makereels-ai.html",
+            "title": "MakeReels AI Review: Automated Reels & Pricing Review",
+            "first_seen": "2026-10-31T00:00:09.917018+00:00"
+          }
+        ]
+      }
+    },
+    "ugc ai review": {
+      "first_seen": "2026-10-31T00:00:09.933823+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/makeugc-ai.html",
+            "title": "MakeUGC AI Review: UGC Video Ads & Pricing Review",
+            "first_seen": "2026-10-31T00:00:09.933823+00:00"
+          }
+        ]
+      }
+    },
+    "ugc ai review ugc": {
+      "first_seen": "2026-10-31T00:00:09.933830+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/makeugc-ai.html",
+            "title": "MakeUGC AI Review: UGC Video Ads & Pricing Review",
+            "first_seen": "2026-10-31T00:00:09.933830+00:00"
+          }
+        ]
+      }
+    },
+    "duo swap": {
+      "first_seen": "2026-10-31T00:00:10.012801+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/how-to-make-hop-hop-hop-ai-video",
+            "title": "How to Make the Hop Hop Hop AI Video: The Viral Duo Swap From Your Photos | MakeTrend AI",
+            "first_seen": "2026-10-31T00:00:10.012801+00:00"
+          }
+        ]
+      }
+    },
+    "s solar eclipse 2026": {
+      "first_seen": "2026-10-31T00:00:11.043022+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-clayface-ai-video",
+            "title": "How to Make the Clayface AI Video: Rap Drake's 'Solar Eclipse' (2026)",
+            "first_seen": "2026-10-31T00:00:11.043022+00:00"
+          }
+        ]
+      }
+    },
+    "solar eclipse 2026": {
+      "first_seen": "2026-10-31T00:00:11.043066+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-clayface-ai-video",
+            "title": "How to Make the Clayface AI Video: Rap Drake's 'Solar Eclipse' (2026)",
+            "first_seen": "2026-10-31T00:00:11.043066+00:00"
+          }
+        ]
+      }
+    },
+    "clayface ai video rap": {
+      "first_seen": "2026-10-31T00:00:11.043079+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-clayface-ai-video",
+            "title": "How to Make the Clayface AI Video: Rap Drake's 'Solar Eclipse' (2026)",
+            "first_seen": "2026-10-31T00:00:11.043079+00:00"
+          }
+        ]
+      }
+    },
+    "solar eclipse": {
+      "first_seen": "2026-10-31T00:00:11.043090+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-clayface-ai-video",
+            "title": "How to Make the Clayface AI Video: Rap Drake's 'Solar Eclipse' (2026)",
+            "first_seen": "2026-10-31T00:00:11.043090+00:00"
+          }
+        ]
+      }
+    },
+    "rap drake s solar": {
+      "first_seen": "2026-10-31T00:00:11.043101+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-clayface-ai-video",
+            "title": "How to Make the Clayface AI Video: Rap Drake's 'Solar Eclipse' (2026)",
+            "first_seen": "2026-10-31T00:00:11.043101+00:00"
+          }
+        ]
+      }
+    },
+    "drake s solar": {
+      "first_seen": "2026-10-31T00:00:11.043113+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-clayface-ai-video",
+            "title": "How to Make the Clayface AI Video: Rap Drake's 'Solar Eclipse' (2026)",
+            "first_seen": "2026-10-31T00:00:11.043113+00:00"
+          }
+        ]
+      }
+    },
+    "s solar": {
+      "first_seen": "2026-10-31T00:00:11.043123+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-clayface-ai-video",
+            "title": "How to Make the Clayface AI Video: Rap Drake's 'Solar Eclipse' (2026)",
+            "first_seen": "2026-10-31T00:00:11.043123+00:00"
+          }
+        ]
+      }
+    },
+    "s solar eclipse": {
+      "first_seen": "2026-10-31T00:00:11.043152+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-clayface-ai-video",
+            "title": "How to Make the Clayface AI Video: Rap Drake's 'Solar Eclipse' (2026)",
+            "first_seen": "2026-10-31T00:00:11.043152+00:00"
+          }
+        ]
+      }
+    },
+    "rap drake s": {
+      "first_seen": "2026-10-31T00:00:11.043176+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-clayface-ai-video",
+            "title": "How to Make the Clayface AI Video: Rap Drake's 'Solar Eclipse' (2026)",
+            "first_seen": "2026-10-31T00:00:11.043176+00:00"
+          }
+        ]
+      }
+    },
+    "drake s solar eclipse": {
+      "first_seen": "2026-10-31T00:00:11.043188+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-clayface-ai-video",
+            "title": "How to Make the Clayface AI Video: Rap Drake's 'Solar Eclipse' (2026)",
+            "first_seen": "2026-10-31T00:00:11.043188+00:00"
+          }
+        ]
+      }
+    },
+    "rap drake": {
+      "first_seen": "2026-10-31T00:00:11.043199+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-clayface-ai-video",
+            "title": "How to Make the Clayface AI Video: Rap Drake's 'Solar Eclipse' (2026)",
+            "first_seen": "2026-10-31T00:00:11.043199+00:00"
+          }
+        ]
+      }
+    },
+    "eclipse 2026": {
+      "first_seen": "2026-10-31T00:00:11.043210+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-clayface-ai-video",
+            "title": "How to Make the Clayface AI Video: Rap Drake's 'Solar Eclipse' (2026)",
+            "first_seen": "2026-10-31T00:00:11.043210+00:00"
+          }
+        ]
+      }
+    },
+    "chip ai interview": {
+      "first_seen": "2026-10-31T00:00:11.270227+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-put-a-mind-chip-ai-video",
+            "title": "How to Make the 'Put a Mind Chip' AI Interview Meme (\"So You Would Do That?\" Starring You and a Friend, 2026)",
+            "first_seen": "2026-10-31T00:00:11.270227+00:00"
+          }
+        ]
+      }
+    },
+    "mind chip ai interview": {
+      "first_seen": "2026-10-31T00:00:11.270244+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-put-a-mind-chip-ai-video",
+            "title": "How to Make the 'Put a Mind Chip' AI Interview Meme (\"So You Would Do That?\" Starring You and a Friend, 2026)",
+            "first_seen": "2026-10-31T00:00:11.270244+00:00"
+          }
+        ]
+      }
+    },
+    "strike a pole": {
+      "first_seen": "2026-10-31T00:00:11.496408+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/template/strike-a-pole-ai-video",
+            "title": "Strike A Pole — AI Video Template | Starrd",
+            "first_seen": "2026-10-31T00:00:11.496408+00:00"
           }
         ]
       }
