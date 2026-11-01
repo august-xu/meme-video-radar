@@ -1,6 +1,6 @@
 {
-  "last_run_timestamp": "2026-11-01T00:00:15.759333+00:00",
-  "total_urls_seen": 12715,
+  "last_run_timestamp": "2026-11-01T06:00:16.366752+00:00",
+  "total_urls_seen": 12730,
   "seen_urls": {
     "knowyourmeme.com": [
       "https://knowyourmeme.com/memes/yohohoho-binkusuno-sake-by-ado",
@@ -11347,7 +11347,9 @@
       "https://remakeyourmeme.com/free-tiny-desk-ai-video-generator",
       "https://remakeyourmeme.com/how-to/how-to-make-hop-hop-hop-ai-video",
       "https://remakeyourmeme.com/templates/hop-hop-hop-ai",
-      "https://remakeyourmeme.com/compare"
+      "https://remakeyourmeme.com/compare",
+      "https://remakeyourmeme.com/how-to/how-to-make-an-ai-dance-video",
+      "https://remakeyourmeme.com/ai-dance-video-generator"
     ],
     "www.getstarrd.app": [
       "https://www.getstarrd.app",
@@ -12604,6 +12606,19 @@
       "https://www.capcut.com/template-detail/7598187696200191237",
       "https://www.capcut.com/template-detail/7555483851997334845",
       "https://www.capcut.com/template-detail/7517669819437600061",
+      "https://www.capcut.com/template-detail/7498354463204330813",
+      "https://www.capcut.com/template-detail/7511708648767245629",
+      "https://www.capcut.com/template-detail/7625287406241074448",
+      "https://www.capcut.com/template-detail/7527686163398806845",
+      "https://www.capcut.com/template-detail/7479674724608494901",
+      "https://www.capcut.com/template-detail/7601920909233900805",
+      "https://www.capcut.com/template-detail/7578927880323763461",
+      "https://www.capcut.com/template-detail/7557048438462909757",
+      "https://www.capcut.com/template-detail/7500032579257568565",
+      "https://www.capcut.com/template-detail/7598187696200191237",
+      "https://www.capcut.com/template-detail/7555483851997334845",
+      "https://www.capcut.com/template-detail/7517669819437600061",
+      "https://www.capcut.com/template-detail/7562194797256035589",
       "https://www.capcut.com/template-detail/7498354463204330813",
       "https://www.capcut.com/template-detail/7511708648767245629",
       "https://www.capcut.com/template-detail/7625287406241074448",
@@ -59436,6 +59451,18 @@
             "url": "https://maketrendai.com/es/blog/dog-couple-dance-trend",
             "title": "El baile de perritos \"With My Husband Before We Sleep\", explicado: la pareja de mascotas que todos están compartiendo | MakeTrend AI",
             "first_seen": "2026-10-31T18:00:22.288241+00:00"
+          }
+        ]
+      }
+    },
+    "3 steps": {
+      "first_seen": "2026-11-01T06:00:09.533459+00:00",
+      "domains": {
+        "remakeyourmeme.com": [
+          {
+            "url": "https://remakeyourmeme.com/how-to/how-to-make-an-ai-dance-video/",
+            "title": "How to Make an AI Dance Video From a Photo: 3 Steps",
+            "first_seen": "2026-11-01T06:00:09.533459+00:00"
           }
         ]
       }
