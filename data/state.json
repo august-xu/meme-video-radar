@@ -1,6 +1,6 @@
 {
-  "last_run_timestamp": "2026-11-01T06:00:16.366752+00:00",
-  "total_urls_seen": 12730,
+  "last_run_timestamp": "2026-11-01T12:00:17.565866+00:00",
+  "total_urls_seen": 12760,
   "seen_urls": {
     "knowyourmeme.com": [
       "https://knowyourmeme.com/memes/yohohoho-binkusuno-sake-by-ado",
@@ -12630,6 +12630,18 @@
       "https://www.capcut.com/template-detail/7500032579257568565",
       "https://www.capcut.com/template-detail/7598187696200191237",
       "https://www.capcut.com/template-detail/7555483851997334845",
+      "https://www.capcut.com/template-detail/7517669819437600061",
+      "https://www.capcut.com/template-detail/7498354463204330813",
+      "https://www.capcut.com/template-detail/7511708648767245629",
+      "https://www.capcut.com/template-detail/7625287406241074448",
+      "https://www.capcut.com/template-detail/7527686163398806845",
+      "https://www.capcut.com/template-detail/7479674724608494901",
+      "https://www.capcut.com/template-detail/7601920909233900805",
+      "https://www.capcut.com/template-detail/7578927880323763461",
+      "https://www.capcut.com/template-detail/7557048438462909757",
+      "https://www.capcut.com/template-detail/7500032579257568565",
+      "https://www.capcut.com/template-detail/7598187696200191237",
+      "https://www.capcut.com/template-detail/7555483851997334845",
       "https://www.capcut.com/template-detail/7517669819437600061"
     ],
     "maketrendai.com": [
@@ -12750,7 +12762,25 @@
       "https://maketrendai.com/blog/how-to-make-dog-couple-dance-ai-video",
       "https://maketrendai.com/blog/dog-couple-dance-trend",
       "https://maketrendai.com/dog-couple-dance-ai",
-      "https://maketrendai.com/blog/dog-couple-dance-trend"
+      "https://maketrendai.com/blog/dog-couple-dance-trend",
+      "https://maketrendai.com/coffee-fail-ai",
+      "https://maketrendai.com/blog/coffee-fail-ai-trend",
+      "https://maketrendai.com/blog/how-to-make-coffee-fail-ai-video",
+      "https://maketrendai.com/blog/how-to-make-coffee-fail-ai-video",
+      "https://maketrendai.com/blog/how-to-make-coffee-fail-ai-video",
+      "https://maketrendai.com/blog/how-to-make-coffee-fail-ai-video",
+      "https://maketrendai.com/blog/coffee-fail-ai-trend",
+      "https://maketrendai.com/blog/coffee-fail-ai-trend",
+      "https://maketrendai.com/blog/coffee-fail-ai-trend",
+      "https://maketrendai.com/blog/coffee-fail-ai-trend",
+      "https://maketrendai.com/coffee-fail-ai",
+      "https://maketrendai.com/blog/coffee-fail-ai-trend",
+      "https://maketrendai.com/blog/how-to-make-coffee-fail-ai-video",
+      "https://maketrendai.com/coffee-fail-ai",
+      "https://maketrendai.com/coffee-fail-ai",
+      "https://maketrendai.com/coffee-fail-ai",
+      "https://maketrendai.com/coffee-fail-ai",
+      "https://maketrendai.com/blog/how-to-make-coffee-fail-ai-video"
     ]
   },
   "entities": {
@@ -18011,6 +18041,11 @@
             "url": "https://maketrendai.com/es/blog/how-to-make-dog-couple-dance-ai-video",
             "title": "Cómo hacer el video de Dog Couple Dance AI: el baile de tus mascotas antes de dormir, grabado con el teléfono | MakeTrend AI",
             "first_seen": "2026-10-31T18:00:21.943649+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/es/blog/how-to-make-coffee-fail-ai-video",
+            "title": "Cómo hacer el video de Coffee Fail AI: versiones de personas, perros y gatos a partir de tus fotos | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.336971+00:00"
           }
         ]
       }
@@ -18062,6 +18097,11 @@
             "url": "https://maketrendai.com/es/blog/how-to-make-dog-couple-dance-ai-video",
             "title": "Cómo hacer el video de Dog Couple Dance AI: el baile de tus mascotas antes de dormir, grabado con el teléfono | MakeTrend AI",
             "first_seen": "2026-10-31T18:00:21.943677+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/es/blog/how-to-make-coffee-fail-ai-video",
+            "title": "Cómo hacer el video de Coffee Fail AI: versiones de personas, perros y gatos a partir de tus fotos | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.336912+00:00"
           }
         ]
       }
@@ -18811,6 +18851,11 @@
             "url": "https://maketrendai.com/fr/blog/how-to-make-dog-couple-dance-ai-video",
             "title": "Comment faire la vidéo Dog Couple Dance AI : la danse du coucher de vos animaux, filmée au téléphone | MakeTrend AI",
             "first_seen": "2026-10-31T18:00:21.515215+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/fr/blog/how-to-make-coffee-fail-ai-video",
+            "title": "Comment faire la vidéo Coffee Fail AI : versions humains, chiens et chats à partir de vos photos | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.637403+00:00"
           }
         ]
       }
@@ -18941,6 +18986,11 @@
             "url": "https://maketrendai.com/fr/blog/how-to-make-dog-couple-dance-ai-video",
             "title": "Comment faire la vidéo Dog Couple Dance AI : la danse du coucher de vos animaux, filmée au téléphone | MakeTrend AI",
             "first_seen": "2026-10-31T18:00:21.515324+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/fr/blog/how-to-make-coffee-fail-ai-video",
+            "title": "Comment faire la vidéo Coffee Fail AI : versions humains, chiens et chats à partir de vos photos | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.637377+00:00"
           }
         ]
       }
@@ -19109,6 +19159,11 @@
             "url": "https://maketrendai.com/fr/blog/how-to-make-dog-couple-dance-ai-video",
             "title": "Comment faire la vidéo Dog Couple Dance AI : la danse du coucher de vos animaux, filmée au téléphone | MakeTrend AI",
             "first_seen": "2026-10-31T18:00:21.515310+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/fr/blog/how-to-make-coffee-fail-ai-video",
+            "title": "Comment faire la vidéo Coffee Fail AI : versions humains, chiens et chats à partir de vos photos | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.637456+00:00"
           }
         ]
       }
@@ -19167,6 +19222,11 @@
             "url": "https://maketrendai.com/fr/blog/how-to-make-dog-couple-dance-ai-video",
             "title": "Comment faire la vidéo Dog Couple Dance AI : la danse du coucher de vos animaux, filmée au téléphone | MakeTrend AI",
             "first_seen": "2026-10-31T18:00:21.515331+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/fr/blog/how-to-make-coffee-fail-ai-video",
+            "title": "Comment faire la vidéo Coffee Fail AI : versions humains, chiens et chats à partir de vos photos | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.637254+00:00"
           }
         ]
       }
@@ -19251,6 +19311,11 @@
             "url": "https://maketrendai.com/fr/blog/how-to-make-dog-couple-dance-ai-video",
             "title": "Comment faire la vidéo Dog Couple Dance AI : la danse du coucher de vos animaux, filmée au téléphone | MakeTrend AI",
             "first_seen": "2026-10-31T18:00:21.515138+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/fr/blog/how-to-make-coffee-fail-ai-video",
+            "title": "Comment faire la vidéo Coffee Fail AI : versions humains, chiens et chats à partir de vos photos | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.637205+00:00"
           }
         ]
       }
@@ -19689,6 +19754,11 @@
             "url": "https://maketrendai.com/pt/blog/how-to-make-dog-couple-dance-ai-video",
             "title": "Como fazer o vídeo de Dog Couple Dance AI: a dancinha dos seus pets antes de dormir, filmada no celular | MakeTrend AI",
             "first_seen": "2026-10-31T18:00:21.312401+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/pt/blog/how-to-make-coffee-fail-ai-video",
+            "title": "Como fazer o vídeo de Coffee Fail AI: versões de pessoas, cachorros e gatos a partir das suas fotos | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:10.605416+00:00"
           }
         ]
       }
@@ -19819,6 +19889,11 @@
             "url": "https://maketrendai.com/pt/blog/how-to-make-dog-couple-dance-ai-video",
             "title": "Como fazer o vídeo de Dog Couple Dance AI: a dancinha dos seus pets antes de dormir, filmada no celular | MakeTrend AI",
             "first_seen": "2026-10-31T18:00:21.312289+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/pt/blog/how-to-make-coffee-fail-ai-video",
+            "title": "Como fazer o vídeo de Coffee Fail AI: versões de pessoas, cachorros e gatos a partir das suas fotos | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:10.605464+00:00"
           }
         ]
       }
@@ -19906,6 +19981,11 @@
             "url": "https://maketrendai.com/pt/blog/how-to-make-dog-couple-dance-ai-video",
             "title": "Como fazer o vídeo de Dog Couple Dance AI: a dancinha dos seus pets antes de dormir, filmada no celular | MakeTrend AI",
             "first_seen": "2026-10-31T18:00:21.312229+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/pt/blog/how-to-make-coffee-fail-ai-video",
+            "title": "Como fazer o vídeo de Coffee Fail AI: versões de pessoas, cachorros e gatos a partir das suas fotos | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:10.605554+00:00"
           }
         ]
       }
@@ -20024,6 +20104,11 @@
             "url": "https://maketrendai.com/pt/blog/how-to-make-dog-couple-dance-ai-video",
             "title": "Como fazer o vídeo de Dog Couple Dance AI: a dancinha dos seus pets antes de dormir, filmada no celular | MakeTrend AI",
             "first_seen": "2026-10-31T18:00:21.312339+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/pt/blog/how-to-make-coffee-fail-ai-video",
+            "title": "Como fazer o vídeo de Coffee Fail AI: versões de pessoas, cachorros e gatos a partir das suas fotos | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:10.605642+00:00"
           }
         ]
       }
@@ -20077,6 +20162,11 @@
             "url": "https://maketrendai.com/pt/blog/how-to-make-dog-couple-dance-ai-video",
             "title": "Como fazer o vídeo de Dog Couple Dance AI: a dancinha dos seus pets antes de dormir, filmada no celular | MakeTrend AI",
             "first_seen": "2026-10-31T18:00:21.312314+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/pt/blog/how-to-make-coffee-fail-ai-video",
+            "title": "Como fazer o vídeo de Coffee Fail AI: versões de pessoas, cachorros e gatos a partir das suas fotos | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:10.605627+00:00"
           }
         ]
       }
@@ -47386,6 +47476,11 @@
             "url": "https://maketrendai.com/fr/blog/dog-couple-dance-trend",
             "title": "La danse de chiens « With My Husband Before We Sleep », expliquée : le couple d'animaux que tout le monde repartage | MakeTrend AI",
             "first_seen": "2026-10-31T18:00:21.476127+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/fr/blog/coffee-fail-ai-trend",
+            "title": "La tendance Coffee Fail des chiens, expliquée : la catastrophe en cuisine créée par IA que tout le monde refait | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.615929+00:00"
           }
         ]
       }
@@ -57185,6 +57280,98 @@
             "title": "Cofi Trend AI Video Generator & Coffee Fail Prompts",
             "first_seen": "2026-10-31T06:00:34.762062+00:00"
           }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/coffee-fail-ai",
+            "title": "Coffee Fail AI Video — Dog, Cat & People Coffee Making Trend From Your Photos",
+            "first_seen": "2026-11-01T12:00:08.909348+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/zh/blog/coffee-fail-ai-trend",
+            "title": "狗狗咖啡翻车热梗详解：人人都在翻拍的 AI 厨房翻车现场 | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:08.991279+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/zh/blog/how-to-make-coffee-fail-ai-video",
+            "title": "怎么做 Coffee Fail（咖啡翻车）AI 视频：用照片做真人、狗狗和猫咪版 | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.238512+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/es/blog/how-to-make-coffee-fail-ai-video",
+            "title": "Cómo hacer el video de Coffee Fail AI: versiones de personas, perros y gatos a partir de tus fotos | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.336979+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/how-to-make-coffee-fail-ai-video",
+            "title": "How to Make the Coffee Fail AI Video: People, Dog and Cat Versions From Your Photos | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.377649+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/jp/blog/how-to-make-coffee-fail-ai-video",
+            "title": "Coffee Fail（コーヒー大失敗）AI 動画の作り方：写真から人・犬・猫バージョンを | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.411411+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/coffee-fail-ai-trend",
+            "title": "The Dog Coffee Fail Trend, Explained: The AI Kitchen Disaster Everyone's Remaking | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.416587+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/es/blog/coffee-fail-ai-trend",
+            "title": "El Coffee Fail de perros, explicado: el desastre de cocina hecho con IA que todos están recreando | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.419150+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/pt/blog/coffee-fail-ai-trend",
+            "title": "A trend Coffee Fail de cachorros, explicada: o desastre de cozinha feito com IA que todo mundo está recriando | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.541610+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/jp/blog/coffee-fail-ai-trend",
+            "title": "犬のコーヒー大失敗トレンドを解説：みんながリメイクしている AI キッチン大惨事 | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.544483+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/jp/coffee-fail-ai",
+            "title": "Coffee Fail AI（コーヒー大失敗）動画 — 写真から犬・猫・人のコーヒー作り失敗トレンドに",
+            "first_seen": "2026-11-01T12:00:09.606902+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/fr/blog/coffee-fail-ai-trend",
+            "title": "La tendance Coffee Fail des chiens, expliquée : la catastrophe en cuisine créée par IA que tout le monde refait | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.615808+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/fr/blog/how-to-make-coffee-fail-ai-video",
+            "title": "Comment faire la vidéo Coffee Fail AI : versions humains, chiens et chats à partir de vos photos | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.637419+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/es/coffee-fail-ai",
+            "title": "Coffee Fail AI Video — La tendencia de perros, gatos y personas haciendo café, con tus fotos",
+            "first_seen": "2026-11-01T12:00:09.657400+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/zh/coffee-fail-ai",
+            "title": "Coffee Fail AI（咖啡翻车）视频 — 用你的照片做狗狗、猫咪和真人冲咖啡翻车",
+            "first_seen": "2026-11-01T12:00:09.955147+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/fr/coffee-fail-ai",
+            "title": "Coffee Fail AI Video — La tendance chiens, chats et humains qui font le café, avec vos photos",
+            "first_seen": "2026-11-01T12:00:10.324208+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/pt/coffee-fail-ai",
+            "title": "Coffee Fail AI Video — A trend de cachorros, gatos e pessoas fazendo café, com as suas fotos",
+            "first_seen": "2026-11-01T12:00:10.399750+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/pt/blog/how-to-make-coffee-fail-ai-video",
+            "title": "Como fazer o vídeo de Coffee Fail AI: versões de pessoas, cachorros e gatos a partir das suas fotos | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:10.605600+00:00"
+          }
         ]
       }
     },
@@ -57921,6 +58108,11 @@
             "url": "https://maketrendai.com/blog/dog-couple-dance-trend",
             "title": "The \"With My Husband Before We Sleep\" Dog Dance, Explained: The Pet Couple Everyone's Reposting | MakeTrend AI",
             "first_seen": "2026-10-31T18:00:20.676738+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/coffee-fail-ai-trend",
+            "title": "The Dog Coffee Fail Trend, Explained: The AI Kitchen Disaster Everyone's Remaking | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.416547+00:00"
           }
         ]
       }
@@ -58311,6 +58503,11 @@
             "url": "https://maketrendai.com/fr/blog/dog-couple-dance-trend",
             "title": "La danse de chiens « With My Husband Before We Sleep », expliquée : le couple d'animaux que tout le monde repartage | MakeTrend AI",
             "first_seen": "2026-10-31T18:00:21.476090+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/fr/blog/coffee-fail-ai-trend",
+            "title": "La tendance Coffee Fail des chiens, expliquée : la catastrophe en cuisine créée par IA que tout le monde refait | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.616019+00:00"
           }
         ]
       }
@@ -58335,6 +58532,11 @@
             "url": "https://maketrendai.com/fr/blog/dog-couple-dance-trend",
             "title": "La danse de chiens « With My Husband Before We Sleep », expliquée : le couple d'animaux que tout le monde repartage | MakeTrend AI",
             "first_seen": "2026-10-31T18:00:21.476103+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/fr/blog/coffee-fail-ai-trend",
+            "title": "La tendance Coffee Fail des chiens, expliquée : la catastrophe en cuisine créée par IA que tout le monde refait | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.615762+00:00"
           }
         ]
       }
@@ -58395,6 +58597,11 @@
             "url": "https://maketrendai.com/fr/blog/dog-couple-dance-trend",
             "title": "La danse de chiens « With My Husband Before We Sleep », expliquée : le couple d'animaux que tout le monde repartage | MakeTrend AI",
             "first_seen": "2026-10-31T18:00:21.476141+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/fr/blog/coffee-fail-ai-trend",
+            "title": "La tendance Coffee Fail des chiens, expliquée : la catastrophe en cuisine créée par IA que tout le monde refait | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.615584+00:00"
           }
         ]
       }
@@ -59115,6 +59322,11 @@
             "url": "https://maketrendai.com/pt/blog/dog-couple-dance-trend",
             "title": "A dancinha de cachorro \"With My Husband Before We Sleep\", explicada: o casal de pets que todo mundo está repostando | MakeTrend AI",
             "first_seen": "2026-10-31T18:00:21.965284+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/pt/blog/coffee-fail-ai-trend",
+            "title": "A trend Coffee Fail de cachorros, explicada: o desastre de cozinha feito com IA que todo mundo está recriando | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.541518+00:00"
           }
         ]
       }
@@ -59199,6 +59411,11 @@
             "url": "https://maketrendai.com/pt/blog/dog-couple-dance-trend",
             "title": "A dancinha de cachorro \"With My Husband Before We Sleep\", explicada: o casal de pets que todo mundo está repostando | MakeTrend AI",
             "first_seen": "2026-10-31T18:00:21.965432+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/pt/blog/coffee-fail-ai-trend",
+            "title": "A trend Coffee Fail de cachorros, explicada: o desastre de cozinha feito com IA que todo mundo está recriando | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.541563+00:00"
           }
         ]
       }
@@ -59211,6 +59428,11 @@
             "url": "https://maketrendai.com/pt/blog/dog-couple-dance-trend",
             "title": "A dancinha de cachorro \"With My Husband Before We Sleep\", explicada: o casal de pets que todo mundo está repostando | MakeTrend AI",
             "first_seen": "2026-10-31T18:00:21.965438+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/pt/blog/coffee-fail-ai-trend",
+            "title": "A trend Coffee Fail de cachorros, explicada: o desastre de cozinha feito com IA que todo mundo está recriando | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.541534+00:00"
           }
         ]
       }
@@ -59223,6 +59445,11 @@
             "url": "https://maketrendai.com/pt/blog/dog-couple-dance-trend",
             "title": "A dancinha de cachorro \"With My Husband Before We Sleep\", explicada: o casal de pets que todo mundo está repostando | MakeTrend AI",
             "first_seen": "2026-10-31T18:00:21.965444+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/pt/blog/coffee-fail-ai-trend",
+            "title": "A trend Coffee Fail de cachorros, explicada: o desastre de cozinha feito com IA que todo mundo está recriando | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.541603+00:00"
           }
         ]
       }
@@ -59403,6 +59630,11 @@
             "url": "https://maketrendai.com/es/blog/dog-couple-dance-trend",
             "title": "El baile de perritos \"With My Husband Before We Sleep\", explicado: la pareja de mascotas que todos están compartiendo | MakeTrend AI",
             "first_seen": "2026-10-31T18:00:22.288132+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/es/blog/coffee-fail-ai-trend",
+            "title": "El Coffee Fail de perros, explicado: el desastre de cocina hecho con IA que todos están recreando | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.419131+00:00"
           }
         ]
       }
@@ -59439,6 +59671,11 @@
             "url": "https://maketrendai.com/es/blog/dog-couple-dance-trend",
             "title": "El baile de perritos \"With My Husband Before We Sleep\", explicado: la pareja de mascotas que todos están compartiendo | MakeTrend AI",
             "first_seen": "2026-10-31T18:00:22.288172+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/es/blog/coffee-fail-ai-trend",
+            "title": "El Coffee Fail de perros, explicado: el desastre de cocina hecho con IA que todos están recreando | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.419220+00:00"
           }
         ]
       }
@@ -59451,6 +59688,11 @@
             "url": "https://maketrendai.com/es/blog/dog-couple-dance-trend",
             "title": "El baile de perritos \"With My Husband Before We Sleep\", explicado: la pareja de mascotas que todos están compartiendo | MakeTrend AI",
             "first_seen": "2026-10-31T18:00:22.288241+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/es/blog/coffee-fail-ai-trend",
+            "title": "El Coffee Fail de perros, explicado: el desastre de cocina hecho con IA que todos están recreando | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.419186+00:00"
           }
         ]
       }
@@ -59463,6 +59705,1763 @@
             "url": "https://remakeyourmeme.com/how-to/how-to-make-an-ai-dance-video/",
             "title": "How to Make an AI Dance Video From a Photo: 3 Steps",
             "first_seen": "2026-11-01T06:00:09.533459+00:00"
+          }
+        ]
+      }
+    },
+    "personas perros y": {
+      "first_seen": "2026-11-01T12:00:09.336844+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/es/blog/how-to-make-coffee-fail-ai-video",
+            "title": "Cómo hacer el video de Coffee Fail AI: versiones de personas, perros y gatos a partir de tus fotos | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.336844+00:00"
+          }
+        ]
+      }
+    },
+    "fail ai versiones": {
+      "first_seen": "2026-11-01T12:00:09.336889+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/es/blog/how-to-make-coffee-fail-ai-video",
+            "title": "Cómo hacer el video de Coffee Fail AI: versiones de personas, perros y gatos a partir de tus fotos | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.336889+00:00"
+          }
+        ]
+      }
+    },
+    "gatos a partir": {
+      "first_seen": "2026-11-01T12:00:09.336897+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/es/blog/how-to-make-coffee-fail-ai-video",
+            "title": "Cómo hacer el video de Coffee Fail AI: versiones de personas, perros y gatos a partir de tus fotos | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.336897+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/pt/blog/how-to-make-coffee-fail-ai-video",
+            "title": "Como fazer o vídeo de Coffee Fail AI: versões de pessoas, cachorros e gatos a partir das suas fotos | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:10.605476+00:00"
+          }
+        ]
+      }
+    },
+    "versiones personas perros y": {
+      "first_seen": "2026-11-01T12:00:09.336905+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/es/blog/how-to-make-coffee-fail-ai-video",
+            "title": "Cómo hacer el video de Coffee Fail AI: versiones de personas, perros y gatos a partir de tus fotos | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.336905+00:00"
+          }
+        ]
+      }
+    },
+    "y gatos": {
+      "first_seen": "2026-11-01T12:00:09.336933+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/es/blog/how-to-make-coffee-fail-ai-video",
+            "title": "Cómo hacer el video de Coffee Fail AI: versiones de personas, perros y gatos a partir de tus fotos | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.336933+00:00"
+          }
+        ]
+      }
+    },
+    "personas perros": {
+      "first_seen": "2026-11-01T12:00:09.336943+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/es/blog/how-to-make-coffee-fail-ai-video",
+            "title": "Cómo hacer el video de Coffee Fail AI: versiones de personas, perros y gatos a partir de tus fotos | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.336943+00:00"
+          }
+        ]
+      }
+    },
+    "perros y gatos": {
+      "first_seen": "2026-11-01T12:00:09.336950+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/es/blog/how-to-make-coffee-fail-ai-video",
+            "title": "Cómo hacer el video de Coffee Fail AI: versiones de personas, perros y gatos a partir de tus fotos | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.336950+00:00"
+          }
+        ]
+      }
+    },
+    "versiones personas perros": {
+      "first_seen": "2026-11-01T12:00:09.336957+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/es/blog/how-to-make-coffee-fail-ai-video",
+            "title": "Cómo hacer el video de Coffee Fail AI: versiones de personas, perros y gatos a partir de tus fotos | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.336957+00:00"
+          }
+        ]
+      }
+    },
+    "perros y": {
+      "first_seen": "2026-11-01T12:00:09.336964+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/es/blog/how-to-make-coffee-fail-ai-video",
+            "title": "Cómo hacer el video de Coffee Fail AI: versiones de personas, perros y gatos a partir de tus fotos | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.336964+00:00"
+          }
+        ]
+      }
+    },
+    "y gatos a partir": {
+      "first_seen": "2026-11-01T12:00:09.336988+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/es/blog/how-to-make-coffee-fail-ai-video",
+            "title": "Cómo hacer el video de Coffee Fail AI: versiones de personas, perros y gatos a partir de tus fotos | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.336988+00:00"
+          }
+        ]
+      }
+    },
+    "fail ai versiones personas": {
+      "first_seen": "2026-11-01T12:00:09.336996+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/es/blog/how-to-make-coffee-fail-ai-video",
+            "title": "Cómo hacer el video de Coffee Fail AI: versiones de personas, perros y gatos a partir de tus fotos | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.336996+00:00"
+          }
+        ]
+      }
+    },
+    "partir tus": {
+      "first_seen": "2026-11-01T12:00:09.337002+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/es/blog/how-to-make-coffee-fail-ai-video",
+            "title": "Cómo hacer el video de Coffee Fail AI: versiones de personas, perros y gatos a partir de tus fotos | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.337002+00:00"
+          }
+        ]
+      }
+    },
+    "versiones personas": {
+      "first_seen": "2026-11-01T12:00:09.337009+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/es/blog/how-to-make-coffee-fail-ai-video",
+            "title": "Cómo hacer el video de Coffee Fail AI: versiones de personas, perros y gatos a partir de tus fotos | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.337009+00:00"
+          }
+        ]
+      }
+    },
+    "coffee fail ai versiones": {
+      "first_seen": "2026-11-01T12:00:09.337016+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/es/blog/how-to-make-coffee-fail-ai-video",
+            "title": "Cómo hacer el video de Coffee Fail AI: versiones de personas, perros y gatos a partir de tus fotos | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.337016+00:00"
+          }
+        ]
+      }
+    },
+    "hacer el video coffee": {
+      "first_seen": "2026-11-01T12:00:09.337023+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/es/blog/how-to-make-coffee-fail-ai-video",
+            "title": "Cómo hacer el video de Coffee Fail AI: versiones de personas, perros y gatos a partir de tus fotos | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.337023+00:00"
+          }
+        ]
+      }
+    },
+    "personas perros y gatos": {
+      "first_seen": "2026-11-01T12:00:09.337030+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/es/blog/how-to-make-coffee-fail-ai-video",
+            "title": "Cómo hacer el video de Coffee Fail AI: versiones de personas, perros y gatos a partir de tus fotos | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.337030+00:00"
+          }
+        ]
+      }
+    },
+    "gatos a partir tus": {
+      "first_seen": "2026-11-01T12:00:09.337036+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/es/blog/how-to-make-coffee-fail-ai-video",
+            "title": "Cómo hacer el video de Coffee Fail AI: versiones de personas, perros y gatos a partir de tus fotos | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.337036+00:00"
+          }
+        ]
+      }
+    },
+    "kitchen disaster everyone s": {
+      "first_seen": "2026-11-01T12:00:09.416503+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/coffee-fail-ai-trend",
+            "title": "The Dog Coffee Fail Trend, Explained: The AI Kitchen Disaster Everyone's Remaking | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.416503+00:00"
+          }
+        ]
+      }
+    },
+    "explained the ai kitchen": {
+      "first_seen": "2026-11-01T12:00:09.416531+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/coffee-fail-ai-trend",
+            "title": "The Dog Coffee Fail Trend, Explained: The AI Kitchen Disaster Everyone's Remaking | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.416531+00:00"
+          }
+        ]
+      }
+    },
+    "fail trend explained": {
+      "first_seen": "2026-11-01T12:00:09.416540+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/coffee-fail-ai-trend",
+            "title": "The Dog Coffee Fail Trend, Explained: The AI Kitchen Disaster Everyone's Remaking | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.416540+00:00"
+          }
+        ]
+      }
+    },
+    "everyone s remaking": {
+      "first_seen": "2026-11-01T12:00:09.416570+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/coffee-fail-ai-trend",
+            "title": "The Dog Coffee Fail Trend, Explained: The AI Kitchen Disaster Everyone's Remaking | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.416570+00:00"
+          }
+        ]
+      }
+    },
+    "disaster everyone s": {
+      "first_seen": "2026-11-01T12:00:09.416580+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/coffee-fail-ai-trend",
+            "title": "The Dog Coffee Fail Trend, Explained: The AI Kitchen Disaster Everyone's Remaking | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.416580+00:00"
+          }
+        ]
+      }
+    },
+    "s remaking": {
+      "first_seen": "2026-11-01T12:00:09.416598+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/coffee-fail-ai-trend",
+            "title": "The Dog Coffee Fail Trend, Explained: The AI Kitchen Disaster Everyone's Remaking | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.416598+00:00"
+          }
+        ]
+      }
+    },
+    "kitchen disaster everyone": {
+      "first_seen": "2026-11-01T12:00:09.416605+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/coffee-fail-ai-trend",
+            "title": "The Dog Coffee Fail Trend, Explained: The AI Kitchen Disaster Everyone's Remaking | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.416605+00:00"
+          }
+        ]
+      }
+    },
+    "kitchen disaster": {
+      "first_seen": "2026-11-01T12:00:09.416611+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/coffee-fail-ai-trend",
+            "title": "The Dog Coffee Fail Trend, Explained: The AI Kitchen Disaster Everyone's Remaking | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.416611+00:00"
+          }
+        ]
+      }
+    },
+    "disaster everyone": {
+      "first_seen": "2026-11-01T12:00:09.416618+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/coffee-fail-ai-trend",
+            "title": "The Dog Coffee Fail Trend, Explained: The AI Kitchen Disaster Everyone's Remaking | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.416618+00:00"
+          }
+        ]
+      }
+    },
+    "coffee fail trend explained": {
+      "first_seen": "2026-11-01T12:00:09.416624+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/coffee-fail-ai-trend",
+            "title": "The Dog Coffee Fail Trend, Explained: The AI Kitchen Disaster Everyone's Remaking | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.416624+00:00"
+          }
+        ]
+      }
+    },
+    "disaster everyone s remaking": {
+      "first_seen": "2026-11-01T12:00:09.416631+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/coffee-fail-ai-trend",
+            "title": "The Dog Coffee Fail Trend, Explained: The AI Kitchen Disaster Everyone's Remaking | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.416631+00:00"
+          }
+        ]
+      }
+    },
+    "cocina hecho": {
+      "first_seen": "2026-11-01T12:00:09.419012+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/es/blog/coffee-fail-ai-trend",
+            "title": "El Coffee Fail de perros, explicado: el desastre de cocina hecho con IA que todos están recreando | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.419012+00:00"
+          }
+        ]
+      }
+    },
+    "perros explicado el desastre": {
+      "first_seen": "2026-11-01T12:00:09.419031+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/es/blog/coffee-fail-ai-trend",
+            "title": "El Coffee Fail de perros, explicado: el desastre de cocina hecho con IA que todos están recreando | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.419031+00:00"
+          }
+        ]
+      }
+    },
+    "est n recreando": {
+      "first_seen": "2026-11-01T12:00:09.419045+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/es/blog/coffee-fail-ai-trend",
+            "title": "El Coffee Fail de perros, explicado: el desastre de cocina hecho con IA que todos están recreando | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.419045+00:00"
+          }
+        ]
+      }
+    },
+    "desastre cocina hecho": {
+      "first_seen": "2026-11-01T12:00:09.419054+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/es/blog/coffee-fail-ai-trend",
+            "title": "El Coffee Fail de perros, explicado: el desastre de cocina hecho con IA que todos están recreando | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.419054+00:00"
+          }
+        ]
+      }
+    },
+    "fail perros explicado": {
+      "first_seen": "2026-11-01T12:00:09.419061+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/es/blog/coffee-fail-ai-trend",
+            "title": "El Coffee Fail de perros, explicado: el desastre de cocina hecho con IA que todos están recreando | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.419061+00:00"
+          }
+        ]
+      }
+    },
+    "todos est n recreando": {
+      "first_seen": "2026-11-01T12:00:09.419069+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/es/blog/coffee-fail-ai-trend",
+            "title": "El Coffee Fail de perros, explicado: el desastre de cocina hecho con IA que todos están recreando | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.419069+00:00"
+          }
+        ]
+      }
+    },
+    "perros explicado": {
+      "first_seen": "2026-11-01T12:00:09.419082+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/es/blog/coffee-fail-ai-trend",
+            "title": "El Coffee Fail de perros, explicado: el desastre de cocina hecho con IA que todos están recreando | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.419082+00:00"
+          }
+        ]
+      }
+    },
+    "n recreando": {
+      "first_seen": "2026-11-01T12:00:09.419091+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/es/blog/coffee-fail-ai-trend",
+            "title": "El Coffee Fail de perros, explicado: el desastre de cocina hecho con IA que todos están recreando | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.419091+00:00"
+          }
+        ]
+      }
+    },
+    "coffee fail perros": {
+      "first_seen": "2026-11-01T12:00:09.419098+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/es/blog/coffee-fail-ai-trend",
+            "title": "El Coffee Fail de perros, explicado: el desastre de cocina hecho con IA que todos están recreando | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.419098+00:00"
+          }
+        ]
+      }
+    },
+    "fail perros": {
+      "first_seen": "2026-11-01T12:00:09.419104+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/es/blog/coffee-fail-ai-trend",
+            "title": "El Coffee Fail de perros, explicado: el desastre de cocina hecho con IA que todos están recreando | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.419104+00:00"
+          }
+        ]
+      }
+    },
+    "hecho con ia": {
+      "first_seen": "2026-11-01T12:00:09.419111+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/es/blog/coffee-fail-ai-trend",
+            "title": "El Coffee Fail de perros, explicado: el desastre de cocina hecho con IA que todos están recreando | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.419111+00:00"
+          }
+        ]
+      }
+    },
+    "explicado el desastre": {
+      "first_seen": "2026-11-01T12:00:09.419118+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/es/blog/coffee-fail-ai-trend",
+            "title": "El Coffee Fail de perros, explicado: el desastre de cocina hecho con IA que todos están recreando | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.419118+00:00"
+          }
+        ]
+      }
+    },
+    "ia que todos est": {
+      "first_seen": "2026-11-01T12:00:09.419124+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/es/blog/coffee-fail-ai-trend",
+            "title": "El Coffee Fail de perros, explicado: el desastre de cocina hecho con IA que todos están recreando | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.419124+00:00"
+          }
+        ]
+      }
+    },
+    "explicado el desastre cocina": {
+      "first_seen": "2026-11-01T12:00:09.419139+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/es/blog/coffee-fail-ai-trend",
+            "title": "El Coffee Fail de perros, explicado: el desastre de cocina hecho con IA que todos están recreando | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.419139+00:00"
+          }
+        ]
+      }
+    },
+    "ia que todos": {
+      "first_seen": "2026-11-01T12:00:09.419166+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/es/blog/coffee-fail-ai-trend",
+            "title": "El Coffee Fail de perros, explicado: el desastre de cocina hecho con IA que todos están recreando | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.419166+00:00"
+          }
+        ]
+      }
+    },
+    "cocina hecho con ia": {
+      "first_seen": "2026-11-01T12:00:09.419175+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/es/blog/coffee-fail-ai-trend",
+            "title": "El Coffee Fail de perros, explicado: el desastre de cocina hecho con IA que todos están recreando | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.419175+00:00"
+          }
+        ]
+      }
+    },
+    "desastre cocina": {
+      "first_seen": "2026-11-01T12:00:09.419201+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/es/blog/coffee-fail-ai-trend",
+            "title": "El Coffee Fail de perros, explicado: el desastre de cocina hecho con IA que todos están recreando | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.419201+00:00"
+          }
+        ]
+      }
+    },
+    "coffee fail perros explicado": {
+      "first_seen": "2026-11-01T12:00:09.419234+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/es/blog/coffee-fail-ai-trend",
+            "title": "El Coffee Fail de perros, explicado: el desastre de cocina hecho con IA que todos están recreando | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.419234+00:00"
+          }
+        ]
+      }
+    },
+    "fail cachorros": {
+      "first_seen": "2026-11-01T12:00:09.541467+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/pt/blog/coffee-fail-ai-trend",
+            "title": "A trend Coffee Fail de cachorros, explicada: o desastre de cozinha feito com IA que todo mundo está recriando | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.541467+00:00"
+          }
+        ]
+      }
+    },
+    "feito com ia": {
+      "first_seen": "2026-11-01T12:00:09.541502+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/pt/blog/coffee-fail-ai-trend",
+            "title": "A trend Coffee Fail de cachorros, explicada: o desastre de cozinha feito com IA que todo mundo está recriando | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.541502+00:00"
+          }
+        ]
+      }
+    },
+    "todo mundo est recriando": {
+      "first_seen": "2026-11-01T12:00:09.541510+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/pt/blog/coffee-fail-ai-trend",
+            "title": "A trend Coffee Fail de cachorros, explicada: o desastre de cozinha feito com IA que todo mundo está recriando | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.541510+00:00"
+          }
+        ]
+      }
+    },
+    "mundo est recriando": {
+      "first_seen": "2026-11-01T12:00:09.541527+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/pt/blog/coffee-fail-ai-trend",
+            "title": "A trend Coffee Fail de cachorros, explicada: o desastre de cozinha feito com IA que todo mundo está recriando | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.541527+00:00"
+          }
+        ]
+      }
+    },
+    "ia que todo mundo": {
+      "first_seen": "2026-11-01T12:00:09.541542+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/pt/blog/coffee-fail-ai-trend",
+            "title": "A trend Coffee Fail de cachorros, explicada: o desastre de cozinha feito com IA que todo mundo está recriando | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.541542+00:00"
+          }
+        ]
+      }
+    },
+    "o desastre cozinha feito": {
+      "first_seen": "2026-11-01T12:00:09.541549+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/pt/blog/coffee-fail-ai-trend",
+            "title": "A trend Coffee Fail de cachorros, explicada: o desastre de cozinha feito com IA que todo mundo está recriando | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.541549+00:00"
+          }
+        ]
+      }
+    },
+    "cachorros explicada": {
+      "first_seen": "2026-11-01T12:00:09.541555+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/pt/blog/coffee-fail-ai-trend",
+            "title": "A trend Coffee Fail de cachorros, explicada: o desastre de cozinha feito com IA que todo mundo está recriando | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.541555+00:00"
+          }
+        ]
+      }
+    },
+    "o desastre cozinha": {
+      "first_seen": "2026-11-01T12:00:09.541570+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/pt/blog/coffee-fail-ai-trend",
+            "title": "A trend Coffee Fail de cachorros, explicada: o desastre de cozinha feito com IA que todo mundo está recriando | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.541570+00:00"
+          }
+        ]
+      }
+    },
+    "explicada o desastre": {
+      "first_seen": "2026-11-01T12:00:09.541577+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/pt/blog/coffee-fail-ai-trend",
+            "title": "A trend Coffee Fail de cachorros, explicada: o desastre de cozinha feito com IA que todo mundo está recriando | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.541577+00:00"
+          }
+        ]
+      }
+    },
+    "desastre cozinha feito": {
+      "first_seen": "2026-11-01T12:00:09.541584+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/pt/blog/coffee-fail-ai-trend",
+            "title": "A trend Coffee Fail de cachorros, explicada: o desastre de cozinha feito com IA que todo mundo está recriando | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.541584+00:00"
+          }
+        ]
+      }
+    },
+    "explicada o desastre cozinha": {
+      "first_seen": "2026-11-01T12:00:09.541590+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/pt/blog/coffee-fail-ai-trend",
+            "title": "A trend Coffee Fail de cachorros, explicada: o desastre de cozinha feito com IA que todo mundo está recriando | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.541590+00:00"
+          }
+        ]
+      }
+    },
+    "cozinha feito": {
+      "first_seen": "2026-11-01T12:00:09.541597+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/pt/blog/coffee-fail-ai-trend",
+            "title": "A trend Coffee Fail de cachorros, explicada: o desastre de cozinha feito com IA que todo mundo está recriando | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.541597+00:00"
+          }
+        ]
+      }
+    },
+    "cachorros explicada o desastre": {
+      "first_seen": "2026-11-01T12:00:09.541625+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/pt/blog/coffee-fail-ai-trend",
+            "title": "A trend Coffee Fail de cachorros, explicada: o desastre de cozinha feito com IA que todo mundo está recriando | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.541625+00:00"
+          }
+        ]
+      }
+    },
+    "desastre cozinha": {
+      "first_seen": "2026-11-01T12:00:09.541632+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/pt/blog/coffee-fail-ai-trend",
+            "title": "A trend Coffee Fail de cachorros, explicada: o desastre de cozinha feito com IA que todo mundo está recriando | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.541632+00:00"
+          }
+        ]
+      }
+    },
+    "o desastre": {
+      "first_seen": "2026-11-01T12:00:09.541640+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/pt/blog/coffee-fail-ai-trend",
+            "title": "A trend Coffee Fail de cachorros, explicada: o desastre de cozinha feito com IA que todo mundo está recriando | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.541640+00:00"
+          }
+        ]
+      }
+    },
+    "ia que todo": {
+      "first_seen": "2026-11-01T12:00:09.541646+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/pt/blog/coffee-fail-ai-trend",
+            "title": "A trend Coffee Fail de cachorros, explicada: o desastre de cozinha feito com IA que todo mundo está recriando | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.541646+00:00"
+          }
+        ]
+      }
+    },
+    "fail cachorros explicada o": {
+      "first_seen": "2026-11-01T12:00:09.541653+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/pt/blog/coffee-fail-ai-trend",
+            "title": "A trend Coffee Fail de cachorros, explicada: o desastre de cozinha feito com IA que todo mundo está recriando | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.541653+00:00"
+          }
+        ]
+      }
+    },
+    "cachorros explicada o": {
+      "first_seen": "2026-11-01T12:00:09.541666+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/pt/blog/coffee-fail-ai-trend",
+            "title": "A trend Coffee Fail de cachorros, explicada: o desastre de cozinha feito com IA que todo mundo está recriando | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.541666+00:00"
+          }
+        ]
+      }
+    },
+    "est recriando": {
+      "first_seen": "2026-11-01T12:00:09.541680+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/pt/blog/coffee-fail-ai-trend",
+            "title": "A trend Coffee Fail de cachorros, explicada: o desastre de cozinha feito com IA que todo mundo está recriando | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.541680+00:00"
+          }
+        ]
+      }
+    },
+    "coffee fail cachorros explicada": {
+      "first_seen": "2026-11-01T12:00:09.541696+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/pt/blog/coffee-fail-ai-trend",
+            "title": "A trend Coffee Fail de cachorros, explicada: o desastre de cozinha feito com IA que todo mundo está recriando | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.541696+00:00"
+          }
+        ]
+      }
+    },
+    "fail cachorros explicada": {
+      "first_seen": "2026-11-01T12:00:09.541712+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/pt/blog/coffee-fail-ai-trend",
+            "title": "A trend Coffee Fail de cachorros, explicada: o desastre de cozinha feito com IA que todo mundo está recriando | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.541712+00:00"
+          }
+        ]
+      }
+    },
+    "coffee fail cachorros": {
+      "first_seen": "2026-11-01T12:00:09.541727+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/pt/blog/coffee-fail-ai-trend",
+            "title": "A trend Coffee Fail de cachorros, explicada: o desastre de cozinha feito com IA que todo mundo está recriando | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.541727+00:00"
+          }
+        ]
+      }
+    },
+    "cozinha feito com ia": {
+      "first_seen": "2026-11-01T12:00:09.541737+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/pt/blog/coffee-fail-ai-trend",
+            "title": "A trend Coffee Fail de cachorros, explicada: o desastre de cozinha feito com IA que todo mundo está recriando | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.541737+00:00"
+          }
+        ]
+      }
+    },
+    "tendance coffee": {
+      "first_seen": "2026-11-01T12:00:09.615403+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/fr/blog/coffee-fail-ai-trend",
+            "title": "La tendance Coffee Fail des chiens, expliquée : la catastrophe en cuisine créée par IA que tout le monde refait | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.615403+00:00"
+          }
+        ]
+      }
+    },
+    "chiens expliqu": {
+      "first_seen": "2026-11-01T12:00:09.615485+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/fr/blog/coffee-fail-ai-trend",
+            "title": "La tendance Coffee Fail des chiens, expliquée : la catastrophe en cuisine créée par IA que tout le monde refait | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.615485+00:00"
+          }
+        ]
+      }
+    },
+    "des chiens expliqu": {
+      "first_seen": "2026-11-01T12:00:09.615500+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/fr/blog/coffee-fail-ai-trend",
+            "title": "La tendance Coffee Fail des chiens, expliquée : la catastrophe en cuisine créée par IA que tout le monde refait | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.615500+00:00"
+          }
+        ]
+      }
+    },
+    "cuisine cr": {
+      "first_seen": "2026-11-01T12:00:09.615511+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/fr/blog/coffee-fail-ai-trend",
+            "title": "La tendance Coffee Fail des chiens, expliquée : la catastrophe en cuisine créée par IA que tout le monde refait | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.615511+00:00"
+          }
+        ]
+      }
+    },
+    "tendance coffee fail des": {
+      "first_seen": "2026-11-01T12:00:09.615522+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/fr/blog/coffee-fail-ai-trend",
+            "title": "La tendance Coffee Fail des chiens, expliquée : la catastrophe en cuisine créée par IA que tout le monde refait | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.615522+00:00"
+          }
+        ]
+      }
+    },
+    "cuisine cr e par": {
+      "first_seen": "2026-11-01T12:00:09.615549+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/fr/blog/coffee-fail-ai-trend",
+            "title": "La tendance Coffee Fail des chiens, expliquée : la catastrophe en cuisine créée par IA que tout le monde refait | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.615549+00:00"
+          }
+        ]
+      }
+    },
+    "e la catastrophe cuisine": {
+      "first_seen": "2026-11-01T12:00:09.615563+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/fr/blog/coffee-fail-ai-trend",
+            "title": "La tendance Coffee Fail des chiens, expliquée : la catastrophe en cuisine créée par IA que tout le monde refait | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.615563+00:00"
+          }
+        ]
+      }
+    },
+    "par ia que tout": {
+      "first_seen": "2026-11-01T12:00:09.615573+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/fr/blog/coffee-fail-ai-trend",
+            "title": "La tendance Coffee Fail des chiens, expliquée : la catastrophe en cuisine créée par IA que tout le monde refait | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.615573+00:00"
+          }
+        ]
+      }
+    },
+    "des chiens": {
+      "first_seen": "2026-11-01T12:00:09.615609+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/fr/blog/coffee-fail-ai-trend",
+            "title": "La tendance Coffee Fail des chiens, expliquée : la catastrophe en cuisine créée par IA que tout le monde refait | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.615609+00:00"
+          }
+        ]
+      }
+    },
+    "le monde refait": {
+      "first_seen": "2026-11-01T12:00:09.615623+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/fr/blog/coffee-fail-ai-trend",
+            "title": "La tendance Coffee Fail des chiens, expliquée : la catastrophe en cuisine créée par IA que tout le monde refait | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.615623+00:00"
+          }
+        ]
+      }
+    },
+    "ia que tout le": {
+      "first_seen": "2026-11-01T12:00:09.615635+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/fr/blog/coffee-fail-ai-trend",
+            "title": "La tendance Coffee Fail des chiens, expliquée : la catastrophe en cuisine créée par IA que tout le monde refait | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.615635+00:00"
+          }
+        ]
+      }
+    },
+    "e la catastrophe": {
+      "first_seen": "2026-11-01T12:00:09.615658+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/fr/blog/coffee-fail-ai-trend",
+            "title": "La tendance Coffee Fail des chiens, expliquée : la catastrophe en cuisine créée par IA que tout le monde refait | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.615658+00:00"
+          }
+        ]
+      }
+    },
+    "par ia": {
+      "first_seen": "2026-11-01T12:00:09.615671+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/fr/blog/coffee-fail-ai-trend",
+            "title": "La tendance Coffee Fail des chiens, expliquée : la catastrophe en cuisine créée par IA que tout le monde refait | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.615671+00:00"
+          }
+        ]
+      }
+    },
+    "cr e par": {
+      "first_seen": "2026-11-01T12:00:09.615692+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/fr/blog/coffee-fail-ai-trend",
+            "title": "La tendance Coffee Fail des chiens, expliquée : la catastrophe en cuisine créée par IA que tout le monde refait | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.615692+00:00"
+          }
+        ]
+      }
+    },
+    "des chiens expliqu e": {
+      "first_seen": "2026-11-01T12:00:09.615705+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/fr/blog/coffee-fail-ai-trend",
+            "title": "La tendance Coffee Fail des chiens, expliquée : la catastrophe en cuisine créée par IA que tout le monde refait | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.615705+00:00"
+          }
+        ]
+      }
+    },
+    "e par ia": {
+      "first_seen": "2026-11-01T12:00:09.615717+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/fr/blog/coffee-fail-ai-trend",
+            "title": "La tendance Coffee Fail des chiens, expliquée : la catastrophe en cuisine créée par IA que tout le monde refait | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.615717+00:00"
+          }
+        ]
+      }
+    },
+    "catastrophe cuisine cr": {
+      "first_seen": "2026-11-01T12:00:09.615728+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/fr/blog/coffee-fail-ai-trend",
+            "title": "La tendance Coffee Fail des chiens, expliquée : la catastrophe en cuisine créée par IA que tout le monde refait | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.615728+00:00"
+          }
+        ]
+      }
+    },
+    "coffee fail des": {
+      "first_seen": "2026-11-01T12:00:09.615739+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/fr/blog/coffee-fail-ai-trend",
+            "title": "La tendance Coffee Fail des chiens, expliquée : la catastrophe en cuisine créée par IA que tout le monde refait | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.615739+00:00"
+          }
+        ]
+      }
+    },
+    "expliqu e la catastrophe": {
+      "first_seen": "2026-11-01T12:00:09.615751+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/fr/blog/coffee-fail-ai-trend",
+            "title": "La tendance Coffee Fail des chiens, expliquée : la catastrophe en cuisine créée par IA que tout le monde refait | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.615751+00:00"
+          }
+        ]
+      }
+    },
+    "monde refait": {
+      "first_seen": "2026-11-01T12:00:09.615774+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/fr/blog/coffee-fail-ai-trend",
+            "title": "La tendance Coffee Fail des chiens, expliquée : la catastrophe en cuisine créée par IA que tout le monde refait | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.615774+00:00"
+          }
+        ]
+      }
+    },
+    "tendance coffee fail": {
+      "first_seen": "2026-11-01T12:00:09.615785+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/fr/blog/coffee-fail-ai-trend",
+            "title": "La tendance Coffee Fail des chiens, expliquée : la catastrophe en cuisine créée par IA que tout le monde refait | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.615785+00:00"
+          }
+        ]
+      }
+    },
+    "cr e par ia": {
+      "first_seen": "2026-11-01T12:00:09.615797+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/fr/blog/coffee-fail-ai-trend",
+            "title": "La tendance Coffee Fail des chiens, expliquée : la catastrophe en cuisine créée par IA que tout le monde refait | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.615797+00:00"
+          }
+        ]
+      }
+    },
+    "tout le monde refait": {
+      "first_seen": "2026-11-01T12:00:09.615829+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/fr/blog/coffee-fail-ai-trend",
+            "title": "La tendance Coffee Fail des chiens, expliquée : la catastrophe en cuisine créée par IA que tout le monde refait | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.615829+00:00"
+          }
+        ]
+      }
+    },
+    "fail des chiens expliqu": {
+      "first_seen": "2026-11-01T12:00:09.615841+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/fr/blog/coffee-fail-ai-trend",
+            "title": "La tendance Coffee Fail des chiens, expliquée : la catastrophe en cuisine créée par IA que tout le monde refait | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.615841+00:00"
+          }
+        ]
+      }
+    },
+    "catastrophe cuisine": {
+      "first_seen": "2026-11-01T12:00:09.615868+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/fr/blog/coffee-fail-ai-trend",
+            "title": "La tendance Coffee Fail des chiens, expliquée : la catastrophe en cuisine créée par IA que tout le monde refait | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.615868+00:00"
+          }
+        ]
+      }
+    },
+    "catastrophe cuisine cr e": {
+      "first_seen": "2026-11-01T12:00:09.615883+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/fr/blog/coffee-fail-ai-trend",
+            "title": "La tendance Coffee Fail des chiens, expliquée : la catastrophe en cuisine créée par IA que tout le monde refait | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.615883+00:00"
+          }
+        ]
+      }
+    },
+    "cuisine cr e": {
+      "first_seen": "2026-11-01T12:00:09.615895+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/fr/blog/coffee-fail-ai-trend",
+            "title": "La tendance Coffee Fail des chiens, expliquée : la catastrophe en cuisine créée par IA que tout le monde refait | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.615895+00:00"
+          }
+        ]
+      }
+    },
+    "ia que tout": {
+      "first_seen": "2026-11-01T12:00:09.615906+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/fr/blog/coffee-fail-ai-trend",
+            "title": "La tendance Coffee Fail des chiens, expliquée : la catastrophe en cuisine créée par IA que tout le monde refait | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.615906+00:00"
+          }
+        ]
+      }
+    },
+    "coffee fail des chiens": {
+      "first_seen": "2026-11-01T12:00:09.615917+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/fr/blog/coffee-fail-ai-trend",
+            "title": "La tendance Coffee Fail des chiens, expliquée : la catastrophe en cuisine créée par IA que tout le monde refait | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.615917+00:00"
+          }
+        ]
+      }
+    },
+    "fail des": {
+      "first_seen": "2026-11-01T12:00:09.615990+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/fr/blog/coffee-fail-ai-trend",
+            "title": "La tendance Coffee Fail des chiens, expliquée : la catastrophe en cuisine créée par IA que tout le monde refait | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.615990+00:00"
+          }
+        ]
+      }
+    },
+    "chiens expliqu e": {
+      "first_seen": "2026-11-01T12:00:09.616008+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/fr/blog/coffee-fail-ai-trend",
+            "title": "La tendance Coffee Fail des chiens, expliquée : la catastrophe en cuisine créée par IA que tout le monde refait | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.616008+00:00"
+          }
+        ]
+      }
+    },
+    "e par": {
+      "first_seen": "2026-11-01T12:00:09.616030+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/fr/blog/coffee-fail-ai-trend",
+            "title": "La tendance Coffee Fail des chiens, expliquée : la catastrophe en cuisine créée par IA que tout le monde refait | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.616030+00:00"
+          }
+        ]
+      }
+    },
+    "fail des chiens": {
+      "first_seen": "2026-11-01T12:00:09.616041+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/fr/blog/coffee-fail-ai-trend",
+            "title": "La tendance Coffee Fail des chiens, expliquée : la catastrophe en cuisine créée par IA que tout le monde refait | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.616041+00:00"
+          }
+        ]
+      }
+    },
+    "versions humains chiens et": {
+      "first_seen": "2026-11-01T12:00:09.637244+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/fr/blog/how-to-make-coffee-fail-ai-video",
+            "title": "Comment faire la vidéo Coffee Fail AI : versions humains, chiens et chats à partir de vos photos | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.637244+00:00"
+          }
+        ]
+      }
+    },
+    "vid o coffee": {
+      "first_seen": "2026-11-01T12:00:09.637276+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/fr/blog/how-to-make-coffee-fail-ai-video",
+            "title": "Comment faire la vidéo Coffee Fail AI : versions humains, chiens et chats à partir de vos photos | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.637276+00:00"
+          }
+        ]
+      }
+    },
+    "o coffee": {
+      "first_seen": "2026-11-01T12:00:09.637286+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/fr/blog/how-to-make-coffee-fail-ai-video",
+            "title": "Comment faire la vidéo Coffee Fail AI : versions humains, chiens et chats à partir de vos photos | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.637286+00:00"
+          }
+        ]
+      }
+    },
+    "versions humains": {
+      "first_seen": "2026-11-01T12:00:09.637293+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/fr/blog/how-to-make-coffee-fail-ai-video",
+            "title": "Comment faire la vidéo Coffee Fail AI : versions humains, chiens et chats à partir de vos photos | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.637293+00:00"
+          }
+        ]
+      }
+    },
+    "chats partir vos": {
+      "first_seen": "2026-11-01T12:00:09.637301+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/fr/blog/how-to-make-coffee-fail-ai-video",
+            "title": "Comment faire la vidéo Coffee Fail AI : versions humains, chiens et chats à partir de vos photos | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.637301+00:00"
+          }
+        ]
+      }
+    },
+    "et chats": {
+      "first_seen": "2026-11-01T12:00:09.637307+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/fr/blog/how-to-make-coffee-fail-ai-video",
+            "title": "Comment faire la vidéo Coffee Fail AI : versions humains, chiens et chats à partir de vos photos | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.637307+00:00"
+          }
+        ]
+      }
+    },
+    "chiens et chats partir": {
+      "first_seen": "2026-11-01T12:00:09.637314+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/fr/blog/how-to-make-coffee-fail-ai-video",
+            "title": "Comment faire la vidéo Coffee Fail AI : versions humains, chiens et chats à partir de vos photos | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.637314+00:00"
+          }
+        ]
+      }
+    },
+    "o coffee fail": {
+      "first_seen": "2026-11-01T12:00:09.637321+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/fr/blog/how-to-make-coffee-fail-ai-video",
+            "title": "Comment faire la vidéo Coffee Fail AI : versions humains, chiens et chats à partir de vos photos | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.637321+00:00"
+          }
+        ]
+      }
+    },
+    "chiens et chats": {
+      "first_seen": "2026-11-01T12:00:09.637327+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/fr/blog/how-to-make-coffee-fail-ai-video",
+            "title": "Comment faire la vidéo Coffee Fail AI : versions humains, chiens et chats à partir de vos photos | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.637327+00:00"
+          }
+        ]
+      }
+    },
+    "partir vos": {
+      "first_seen": "2026-11-01T12:00:09.637334+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/fr/blog/how-to-make-coffee-fail-ai-video",
+            "title": "Comment faire la vidéo Coffee Fail AI : versions humains, chiens et chats à partir de vos photos | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.637334+00:00"
+          }
+        ]
+      }
+    },
+    "chiens et": {
+      "first_seen": "2026-11-01T12:00:09.637340+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/fr/blog/how-to-make-coffee-fail-ai-video",
+            "title": "Comment faire la vidéo Coffee Fail AI : versions humains, chiens et chats à partir de vos photos | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.637340+00:00"
+          }
+        ]
+      }
+    },
+    "humains chiens et": {
+      "first_seen": "2026-11-01T12:00:09.637347+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/fr/blog/how-to-make-coffee-fail-ai-video",
+            "title": "Comment faire la vidéo Coffee Fail AI : versions humains, chiens et chats à partir de vos photos | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.637347+00:00"
+          }
+        ]
+      }
+    },
+    "humains chiens et chats": {
+      "first_seen": "2026-11-01T12:00:09.637353+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/fr/blog/how-to-make-coffee-fail-ai-video",
+            "title": "Comment faire la vidéo Coffee Fail AI : versions humains, chiens et chats à partir de vos photos | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.637353+00:00"
+          }
+        ]
+      }
+    },
+    "et chats partir vos": {
+      "first_seen": "2026-11-01T12:00:09.637359+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/fr/blog/how-to-make-coffee-fail-ai-video",
+            "title": "Comment faire la vidéo Coffee Fail AI : versions humains, chiens et chats à partir de vos photos | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.637359+00:00"
+          }
+        ]
+      }
+    },
+    "humains chiens": {
+      "first_seen": "2026-11-01T12:00:09.637365+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/fr/blog/how-to-make-coffee-fail-ai-video",
+            "title": "Comment faire la vidéo Coffee Fail AI : versions humains, chiens et chats à partir de vos photos | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.637365+00:00"
+          }
+        ]
+      }
+    },
+    "chats partir": {
+      "first_seen": "2026-11-01T12:00:09.637371+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/fr/blog/how-to-make-coffee-fail-ai-video",
+            "title": "Comment faire la vidéo Coffee Fail AI : versions humains, chiens et chats à partir de vos photos | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.637371+00:00"
+          }
+        ]
+      }
+    },
+    "vid o coffee fail": {
+      "first_seen": "2026-11-01T12:00:09.637394+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/fr/blog/how-to-make-coffee-fail-ai-video",
+            "title": "Comment faire la vidéo Coffee Fail AI : versions humains, chiens et chats à partir de vos photos | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.637394+00:00"
+          }
+        ]
+      }
+    },
+    "fail ai versions humains": {
+      "first_seen": "2026-11-01T12:00:09.637411+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/fr/blog/how-to-make-coffee-fail-ai-video",
+            "title": "Comment faire la vidéo Coffee Fail AI : versions humains, chiens et chats à partir de vos photos | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.637411+00:00"
+          }
+        ]
+      }
+    },
+    "fail ai versions": {
+      "first_seen": "2026-11-01T12:00:09.637435+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/fr/blog/how-to-make-coffee-fail-ai-video",
+            "title": "Comment faire la vidéo Coffee Fail AI : versions humains, chiens et chats à partir de vos photos | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.637435+00:00"
+          }
+        ]
+      }
+    },
+    "versions humains chiens": {
+      "first_seen": "2026-11-01T12:00:09.637443+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/fr/blog/how-to-make-coffee-fail-ai-video",
+            "title": "Comment faire la vidéo Coffee Fail AI : versions humains, chiens et chats à partir de vos photos | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.637443+00:00"
+          }
+        ]
+      }
+    },
+    "et chats partir": {
+      "first_seen": "2026-11-01T12:00:09.637449+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/fr/blog/how-to-make-coffee-fail-ai-video",
+            "title": "Comment faire la vidéo Coffee Fail AI : versions humains, chiens et chats à partir de vos photos | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.637449+00:00"
+          }
+        ]
+      }
+    },
+    "coffee fail ai versions": {
+      "first_seen": "2026-11-01T12:00:09.637472+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/fr/blog/how-to-make-coffee-fail-ai-video",
+            "title": "Comment faire la vidéo Coffee Fail AI : versions humains, chiens et chats à partir de vos photos | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:09.637472+00:00"
+          }
+        ]
+      }
+    },
+    "v deo coffee fail": {
+      "first_seen": "2026-11-01T12:00:10.605484+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/pt/blog/how-to-make-coffee-fail-ai-video",
+            "title": "Como fazer o vídeo de Coffee Fail AI: versões de pessoas, cachorros e gatos a partir das suas fotos | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:10.605484+00:00"
+          }
+        ]
+      }
+    },
+    "pessoas cachorros e": {
+      "first_seen": "2026-11-01T12:00:10.605492+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/pt/blog/how-to-make-coffee-fail-ai-video",
+            "title": "Como fazer o vídeo de Coffee Fail AI: versões de pessoas, cachorros e gatos a partir das suas fotos | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:10.605492+00:00"
+          }
+        ]
+      }
+    },
+    "v deo coffee": {
+      "first_seen": "2026-11-01T12:00:10.605499+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/pt/blog/how-to-make-coffee-fail-ai-video",
+            "title": "Como fazer o vídeo de Coffee Fail AI: versões de pessoas, cachorros e gatos a partir das suas fotos | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:10.605499+00:00"
+          }
+        ]
+      }
+    },
+    "o v deo coffee": {
+      "first_seen": "2026-11-01T12:00:10.605505+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/pt/blog/how-to-make-coffee-fail-ai-video",
+            "title": "Como fazer o vídeo de Coffee Fail AI: versões de pessoas, cachorros e gatos a partir das suas fotos | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:10.605505+00:00"
+          }
+        ]
+      }
+    },
+    "gatos a partir das": {
+      "first_seen": "2026-11-01T12:00:10.605512+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/pt/blog/how-to-make-coffee-fail-ai-video",
+            "title": "Como fazer o vídeo de Coffee Fail AI: versões de pessoas, cachorros e gatos a partir das suas fotos | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:10.605512+00:00"
+          }
+        ]
+      }
+    },
+    "partir das suas": {
+      "first_seen": "2026-11-01T12:00:10.605519+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/pt/blog/how-to-make-coffee-fail-ai-video",
+            "title": "Como fazer o vídeo de Coffee Fail AI: versões de pessoas, cachorros e gatos a partir das suas fotos | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:10.605519+00:00"
+          }
+        ]
+      }
+    },
+    "cachorros e gatos": {
+      "first_seen": "2026-11-01T12:00:10.605526+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/pt/blog/how-to-make-coffee-fail-ai-video",
+            "title": "Como fazer o vídeo de Coffee Fail AI: versões de pessoas, cachorros e gatos a partir das suas fotos | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:10.605526+00:00"
+          }
+        ]
+      }
+    },
+    "vers pessoas cachorros": {
+      "first_seen": "2026-11-01T12:00:10.605533+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/pt/blog/how-to-make-coffee-fail-ai-video",
+            "title": "Como fazer o vídeo de Coffee Fail AI: versões de pessoas, cachorros e gatos a partir das suas fotos | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:10.605533+00:00"
+          }
+        ]
+      }
+    },
+    "deo coffee": {
+      "first_seen": "2026-11-01T12:00:10.605540+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/pt/blog/how-to-make-coffee-fail-ai-video",
+            "title": "Como fazer o vídeo de Coffee Fail AI: versões de pessoas, cachorros e gatos a partir das suas fotos | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:10.605540+00:00"
+          }
+        ]
+      }
+    },
+    "pessoas cachorros e gatos": {
+      "first_seen": "2026-11-01T12:00:10.605546+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/pt/blog/how-to-make-coffee-fail-ai-video",
+            "title": "Como fazer o vídeo de Coffee Fail AI: versões de pessoas, cachorros e gatos a partir das suas fotos | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:10.605546+00:00"
+          }
+        ]
+      }
+    },
+    "pessoas cachorros": {
+      "first_seen": "2026-11-01T12:00:10.605571+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/pt/blog/how-to-make-coffee-fail-ai-video",
+            "title": "Como fazer o vídeo de Coffee Fail AI: versões de pessoas, cachorros e gatos a partir das suas fotos | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:10.605571+00:00"
+          }
+        ]
+      }
+    },
+    "fail ai vers": {
+      "first_seen": "2026-11-01T12:00:10.605580+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/pt/blog/how-to-make-coffee-fail-ai-video",
+            "title": "Como fazer o vídeo de Coffee Fail AI: versões de pessoas, cachorros e gatos a partir das suas fotos | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:10.605580+00:00"
+          }
+        ]
+      }
+    },
+    "vers pessoas cachorros e": {
+      "first_seen": "2026-11-01T12:00:10.605587+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/pt/blog/how-to-make-coffee-fail-ai-video",
+            "title": "Como fazer o vídeo de Coffee Fail AI: versões de pessoas, cachorros e gatos a partir das suas fotos | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:10.605587+00:00"
+          }
+        ]
+      }
+    },
+    "fail ai vers pessoas": {
+      "first_seen": "2026-11-01T12:00:10.605594+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/pt/blog/how-to-make-coffee-fail-ai-video",
+            "title": "Como fazer o vídeo de Coffee Fail AI: versões de pessoas, cachorros e gatos a partir das suas fotos | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:10.605594+00:00"
+          }
+        ]
+      }
+    },
+    "das suas": {
+      "first_seen": "2026-11-01T12:00:10.605619+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/pt/blog/how-to-make-coffee-fail-ai-video",
+            "title": "Como fazer o vídeo de Coffee Fail AI: versões de pessoas, cachorros e gatos a partir das suas fotos | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:10.605619+00:00"
+          }
+        ]
+      }
+    },
+    "vers pessoas": {
+      "first_seen": "2026-11-01T12:00:10.605635+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/pt/blog/how-to-make-coffee-fail-ai-video",
+            "title": "Como fazer o vídeo de Coffee Fail AI: versões de pessoas, cachorros e gatos a partir das suas fotos | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:10.605635+00:00"
+          }
+        ]
+      }
+    },
+    "deo coffee fail": {
+      "first_seen": "2026-11-01T12:00:10.605651+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/pt/blog/how-to-make-coffee-fail-ai-video",
+            "title": "Como fazer o vídeo de Coffee Fail AI: versões de pessoas, cachorros e gatos a partir das suas fotos | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:10.605651+00:00"
+          }
+        ]
+      }
+    },
+    "e gatos a partir": {
+      "first_seen": "2026-11-01T12:00:10.605658+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/pt/blog/how-to-make-coffee-fail-ai-video",
+            "title": "Como fazer o vídeo de Coffee Fail AI: versões de pessoas, cachorros e gatos a partir das suas fotos | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:10.605658+00:00"
+          }
+        ]
+      }
+    },
+    "cachorros e": {
+      "first_seen": "2026-11-01T12:00:10.605666+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/pt/blog/how-to-make-coffee-fail-ai-video",
+            "title": "Como fazer o vídeo de Coffee Fail AI: versões de pessoas, cachorros e gatos a partir das suas fotos | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:10.605666+00:00"
+          }
+        ]
+      }
+    },
+    "e gatos": {
+      "first_seen": "2026-11-01T12:00:10.605672+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/pt/blog/how-to-make-coffee-fail-ai-video",
+            "title": "Como fazer o vídeo de Coffee Fail AI: versões de pessoas, cachorros e gatos a partir das suas fotos | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:10.605672+00:00"
+          }
+        ]
+      }
+    },
+    "coffee fail ai vers": {
+      "first_seen": "2026-11-01T12:00:10.605679+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/pt/blog/how-to-make-coffee-fail-ai-video",
+            "title": "Como fazer o vídeo de Coffee Fail AI: versões de pessoas, cachorros e gatos a partir das suas fotos | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:10.605679+00:00"
+          }
+        ]
+      }
+    },
+    "partir das": {
+      "first_seen": "2026-11-01T12:00:10.605686+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/pt/blog/how-to-make-coffee-fail-ai-video",
+            "title": "Como fazer o vídeo de Coffee Fail AI: versões de pessoas, cachorros e gatos a partir das suas fotos | MakeTrend AI",
+            "first_seen": "2026-11-01T12:00:10.605686+00:00"
           }
         ]
       }
