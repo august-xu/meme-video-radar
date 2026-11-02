@@ -1,6 +1,6 @@
 {
-  "last_run_timestamp": "2026-11-02T12:00:32.880478+00:00",
-  "total_urls_seen": 12830,
+  "last_run_timestamp": "2026-11-02T18:00:24.639422+00:00",
+  "total_urls_seen": 12864,
   "seen_urls": {
     "knowyourmeme.com": [
       "https://knowyourmeme.com/memes/yohohoho-binkusuno-sake-by-ado",
@@ -11267,7 +11267,26 @@
       "https://www.media.io/ai/explore/zone/cardo-dinner-ai-video",
       "https://www.media.io/ai/explore/zone/parrot-dance-ai-video-generator",
       "https://www.media.io/ai/explore/zone/giant-hands-dress-up-ai-video-generator",
-      "https://www.media.io/ai/explore/zone/moon-headlight-transition-ai-video"
+      "https://www.media.io/ai/explore/zone/moon-headlight-transition-ai-video",
+      "https://www.media.io/ai/explore/zone/stadium-calm-down-ai-video-generator",
+      "https://www.media.io/ai/explore/zone/trouble-maker-ai-dance-video-generator",
+      "https://www.media.io/ai/explore/zone/blue-mirror-selfie-ai-photo-prompts",
+      "https://www.media.io/ai/explore/zone/24k-magic-ai-dance-generator",
+      "https://www.media.io/ai/explore/zone/flo-rida-low-ai-dance",
+      "https://www.media.io/ai/explore/zone/come-closer-dance-ai-generator",
+      "https://www.media.io/ai/explore/zone/retro-bollywood-party-dance",
+      "https://www.media.io/ai/explore/zone/pulp-fiction-ai-dance",
+      "https://www.media.io/ai/explore/zone/the-one-who-knocks-ai-video-generator",
+      "https://www.media.io/ai/explore/zone/kung-fu-cat-ai-video-generator",
+      "https://www.media.io/ai/explore/zone/then-i-walk-in-ai-video-generator",
+      "https://www.media.io/ai/explore/zone/chipmunks-dance-ai-video-generator",
+      "https://www.media.io/ai/explore/zone/snow-leopard-paws-at-you-ai-video-generator",
+      "https://www.media.io/ai/explore/zone/growing-up-beside-you-ai-video-generator",
+      "https://www.media.io/ai/explore/zone/atam-izindeyiz-ai-photo-generator",
+      "https://www.media.io/ai/explore/zone/dog-bartender-ai-video-generator",
+      "https://www.media.io/ai/explore/zone/stateside-dance-ai-video-generator",
+      "https://www.media.io/ai/explore/zone/closing-door-prank-ai-video-generator",
+      "https://www.media.io/ai/explore/zone/autumn-lake-daydream-ai-video-generator"
     ],
     "remakeyourmeme.com": [
       "https://remakeyourmeme.com",
@@ -12079,7 +12098,10 @@
       "https://www.getstarrd.app/blog/how-to-make-clayface-ai-video",
       "https://www.getstarrd.app/blog/how-to-make-sleeping-in-the-attic-ai-video",
       "https://www.getstarrd.app/blog/how-to-make-put-a-mind-chip-ai-video",
-      "https://www.getstarrd.app/template/strike-a-pole-ai-video"
+      "https://www.getstarrd.app/template/strike-a-pole-ai-video",
+      "https://www.getstarrd.app/blog/how-to-make-58th-floor-ai-video",
+      "https://www.getstarrd.app/template/58th-floor-extended-ai-video",
+      "https://www.getstarrd.app/template/58th-floor-ai-video"
     ],
     "www.capcut.com": [
       "https://www.capcut.com/template-detail/7613449947458981136",
@@ -12712,7 +12734,19 @@
       "https://www.capcut.com/template-detail/7422475672074865938",
       "https://www.capcut.com/template-detail/7624035860379471120",
       "https://www.capcut.com/template-detail/7482615374094011701",
-      "https://www.capcut.com/template-detail/7528086884480830781"
+      "https://www.capcut.com/template-detail/7528086884480830781",
+      "https://www.capcut.com/template-detail/7601555915468262674",
+      "https://www.capcut.com/template-detail/7530687794755161397",
+      "https://www.capcut.com/template-detail/7642005896716979477",
+      "https://www.capcut.com/template-detail/7574060723123293445",
+      "https://www.capcut.com/template-detail/7507248969974615349",
+      "https://www.capcut.com/template-detail/7601230789774249221",
+      "https://www.capcut.com/template-detail/7621923947470179601",
+      "https://www.capcut.com/template-detail/7500996436440403261",
+      "https://www.capcut.com/template-detail/7628428485073063175",
+      "https://www.capcut.com/template-detail/7401807067406929153",
+      "https://www.capcut.com/template-detail/7626718228718406929",
+      "https://www.capcut.com/template-detail/7636033261264702728"
     ],
     "maketrendai.com": [
       "https://maketrendai.com/studio",
@@ -28769,6 +28803,11 @@
             "url": "https://www.getstarrd.app/blog/how-to-make-put-a-mind-chip-ai-video",
             "title": "How to Make the 'Put a Mind Chip' AI Interview Meme (\"So You Would Do That?\" Starring You and a Friend, 2026)",
             "first_seen": "2026-10-31T00:00:11.270125+00:00"
+          },
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-58th-floor-ai-video",
+            "title": "How to Make the '58th Floor' AI Video: Rap Anderson .Paak and Cordae's COLORS Session With a Friend (2026)",
+            "first_seen": "2026-11-02T18:00:10.217652+00:00"
           }
         ]
       }
@@ -39739,6 +39778,13 @@
             "title": "How to Make the Kung Fu Dog at the Vet AI Video (Starring Your Pet or You, 2026)",
             "first_seen": "2026-10-29T06:00:26.706008+00:00"
           }
+        ],
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/kung-fu-cat-ai-video-generator",
+            "title": "Kung Fu Cat AI Video – Make Your Pet Master the Tissue Chop",
+            "first_seen": "2026-11-02T18:00:08.695316+00:00"
+          }
         ]
       }
     },
@@ -39934,6 +39980,13 @@
             "url": "https://knowyourmeme.com/memes/then-i-walk-in",
             "title": "Then I Walk In | Know Your Meme",
             "first_seen": "2026-10-28T00:00:08.711187+00:00"
+          }
+        ],
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/then-i-walk-in-ai-video-generator",
+            "title": "Then I Walk In Meme Generator – Make Your Own AI Entrance",
+            "first_seen": "2026-11-02T18:00:08.794324+00:00"
           }
         ]
       }
@@ -49874,6 +49927,13 @@
             "title": "Snow Leopard Paws at You | Know Your Meme",
             "first_seen": "2026-10-29T18:00:13.161728+00:00"
           }
+        ],
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/snow-leopard-paws-at-you-ai-video-generator",
+            "title": "Snow Leopard Paws at You AI – Make Your Pet Tap the Screen",
+            "first_seen": "2026-11-02T18:00:08.875928+00:00"
+          }
         ]
       }
     },
@@ -49886,6 +49946,13 @@
             "title": "Snow Leopard Paws at You | Know Your Meme",
             "first_seen": "2026-10-29T18:00:13.161744+00:00"
           }
+        ],
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/snow-leopard-paws-at-you-ai-video-generator",
+            "title": "Snow Leopard Paws at You AI – Make Your Pet Tap the Screen",
+            "first_seen": "2026-11-02T18:00:08.875973+00:00"
+          }
         ]
       }
     },
@@ -49897,6 +49964,13 @@
             "url": "https://knowyourmeme.com/memes/snow-leopard-paws-at-you",
             "title": "Snow Leopard Paws at You | Know Your Meme",
             "first_seen": "2026-10-29T18:00:13.161751+00:00"
+          }
+        ],
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/snow-leopard-paws-at-you-ai-video-generator",
+            "title": "Snow Leopard Paws at You AI – Make Your Pet Tap the Screen",
+            "first_seen": "2026-11-02T18:00:08.875965+00:00"
           }
         ]
       }
@@ -61716,6 +61790,616 @@
             "url": "https://www.capcut.com/template-detail/7624035860379471120",
             "title": "CLOSER X STAY",
             "first_seen": "2026-11-02T12:00:25.525178+00:00"
+          }
+        ]
+      }
+    },
+    "stadium calm": {
+      "first_seen": "2026-11-02T18:00:08.376238+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/stadium-calm-down-ai-video-generator",
+            "title": "Stadium Calm Down AI – The Unbothered Palms-Down Walk",
+            "first_seen": "2026-11-02T18:00:08.376238+00:00"
+          }
+        ]
+      }
+    },
+    "blue mirror": {
+      "first_seen": "2026-11-02T18:00:08.462463+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/blue-mirror-selfie-ai-photo-prompts",
+            "title": "Blue Mirror Selfie AI Photo Editing Prompts | Media.io",
+            "first_seen": "2026-11-02T18:00:08.462463+00:00"
+          }
+        ]
+      }
+    },
+    "mirror selfie": {
+      "first_seen": "2026-11-02T18:00:08.462516+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/blue-mirror-selfie-ai-photo-prompts",
+            "title": "Blue Mirror Selfie AI Photo Editing Prompts | Media.io",
+            "first_seen": "2026-11-02T18:00:08.462516+00:00"
+          }
+        ]
+      }
+    },
+    "selfie ai photo editing": {
+      "first_seen": "2026-11-02T18:00:08.462538+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/blue-mirror-selfie-ai-photo-prompts",
+            "title": "Blue Mirror Selfie AI Photo Editing Prompts | Media.io",
+            "first_seen": "2026-11-02T18:00:08.462538+00:00"
+          }
+        ]
+      }
+    },
+    "blue mirror selfie": {
+      "first_seen": "2026-11-02T18:00:08.462588+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/blue-mirror-selfie-ai-photo-prompts",
+            "title": "Blue Mirror Selfie AI Photo Editing Prompts | Media.io",
+            "first_seen": "2026-11-02T18:00:08.462588+00:00"
+          }
+        ]
+      }
+    },
+    "24k magic": {
+      "first_seen": "2026-11-02T18:00:08.503533+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/24k-magic-ai-dance-generator",
+            "title": "24K Magic AI Dance Generator: Cruise Ship Dance Prompts",
+            "first_seen": "2026-11-02T18:00:08.503533+00:00"
+          }
+        ]
+      }
+    },
+    "cruise ship": {
+      "first_seen": "2026-11-02T18:00:08.503575+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/24k-magic-ai-dance-generator",
+            "title": "24K Magic AI Dance Generator: Cruise Ship Dance Prompts",
+            "first_seen": "2026-11-02T18:00:08.503575+00:00"
+          }
+        ]
+      }
+    },
+    "rida low": {
+      "first_seen": "2026-11-02T18:00:08.503789+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/flo-rida-low-ai-dance",
+            "title": "Flo Rida Low AI Dance Generator: Photo to Dance | Media.io",
+            "first_seen": "2026-11-02T18:00:08.503789+00:00"
+          }
+        ]
+      }
+    },
+    "flo rida low": {
+      "first_seen": "2026-11-02T18:00:08.503811+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/flo-rida-low-ai-dance",
+            "title": "Flo Rida Low AI Dance Generator: Photo to Dance | Media.io",
+            "first_seen": "2026-11-02T18:00:08.503811+00:00"
+          }
+        ]
+      }
+    },
+    "flo rida": {
+      "first_seen": "2026-11-02T18:00:08.503825+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/flo-rida-low-ai-dance",
+            "title": "Flo Rida Low AI Dance Generator: Photo to Dance | Media.io",
+            "first_seen": "2026-11-02T18:00:08.503825+00:00"
+          }
+        ]
+      }
+    },
+    "come closer": {
+      "first_seen": "2026-11-02T18:00:08.597387+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/come-closer-dance-ai-generator",
+            "title": "Come Closer Dance AI Generator – Two-Photo Dance | Media.io",
+            "first_seen": "2026-11-02T18:00:08.597387+00:00"
+          }
+        ]
+      }
+    },
+    "retro bollywood party": {
+      "first_seen": "2026-11-02T18:00:08.666136+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/retro-bollywood-party-dance",
+            "title": "Bollywood Party Dance AI Video Prompts | Media.io",
+            "first_seen": "2026-11-02T18:00:08.666136+00:00"
+          }
+        ]
+      }
+    },
+    "retro bollywood": {
+      "first_seen": "2026-11-02T18:00:08.666175+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/retro-bollywood-party-dance",
+            "title": "Bollywood Party Dance AI Video Prompts | Media.io",
+            "first_seen": "2026-11-02T18:00:08.666175+00:00"
+          }
+        ]
+      }
+    },
+    "bollywood party": {
+      "first_seen": "2026-11-02T18:00:08.666184+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/retro-bollywood-party-dance",
+            "title": "Bollywood Party Dance AI Video Prompts | Media.io",
+            "first_seen": "2026-11-02T18:00:08.666184+00:00"
+          }
+        ]
+      }
+    },
+    "pulp fiction": {
+      "first_seen": "2026-11-02T18:00:08.666347+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/pulp-fiction-ai-dance",
+            "title": "Pulp Fiction AI Dance Video Generator from Photos",
+            "first_seen": "2026-11-02T18:00:08.666347+00:00"
+          }
+        ]
+      }
+    },
+    "one who knocks": {
+      "first_seen": "2026-11-02T18:00:08.695158+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/the-one-who-knocks-ai-video-generator",
+            "title": "The One Who Knocks AI – Your Photo in a Tense Bedroom Scene",
+            "first_seen": "2026-11-02T18:00:08.695158+00:00"
+          }
+        ]
+      }
+    },
+    "growing up beside": {
+      "first_seen": "2026-11-02T18:00:08.905587+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/growing-up-beside-you-ai-video-generator",
+            "title": "Growing Up Beside You AI Video – Couple & Pet Then vs Now",
+            "first_seen": "2026-11-02T18:00:08.905587+00:00"
+          }
+        ]
+      }
+    },
+    "atam i zindeyiz": {
+      "first_seen": "2026-11-02T18:00:08.953877+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/atam-izindeyiz-ai-photo-generator",
+            "title": "Atam İzindeyiz AI Photo Generator & Prompts | Media.io",
+            "first_seen": "2026-11-02T18:00:08.953877+00:00"
+          }
+        ]
+      }
+    },
+    "atam i": {
+      "first_seen": "2026-11-02T18:00:08.953927+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/atam-izindeyiz-ai-photo-generator",
+            "title": "Atam İzindeyiz AI Photo Generator & Prompts | Media.io",
+            "first_seen": "2026-11-02T18:00:08.953927+00:00"
+          }
+        ]
+      }
+    },
+    "i zindeyiz": {
+      "first_seen": "2026-11-02T18:00:08.953943+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/atam-izindeyiz-ai-photo-generator",
+            "title": "Atam İzindeyiz AI Photo Generator & Prompts | Media.io",
+            "first_seen": "2026-11-02T18:00:08.953943+00:00"
+          }
+        ]
+      }
+    },
+    "atam izindeyiz": {
+      "first_seen": "2026-11-02T18:00:08.953973+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/atam-izindeyiz-ai-photo-generator",
+            "title": "Atam İzindeyiz AI Photo Generator & Prompts | Media.io",
+            "first_seen": "2026-11-02T18:00:08.953973+00:00"
+          }
+        ]
+      }
+    },
+    "vs 5 vs": {
+      "first_seen": "2026-11-02T18:00:08.954285+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/dog-bartender-ai-video-generator",
+            "title": "Dog Bartender AI Video Generator: $1 vs $5 vs $50",
+            "first_seen": "2026-11-02T18:00:08.954285+00:00"
+          }
+        ]
+      }
+    },
+    "1 vs 5 vs": {
+      "first_seen": "2026-11-02T18:00:08.954312+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/dog-bartender-ai-video-generator",
+            "title": "Dog Bartender AI Video Generator: $1 vs $5 vs $50",
+            "first_seen": "2026-11-02T18:00:08.954312+00:00"
+          }
+        ]
+      }
+    },
+    "1 vs 5": {
+      "first_seen": "2026-11-02T18:00:08.954329+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/dog-bartender-ai-video-generator",
+            "title": "Dog Bartender AI Video Generator: $1 vs $5 vs $50",
+            "first_seen": "2026-11-02T18:00:08.954329+00:00"
+          }
+        ]
+      }
+    },
+    "5 vs 50": {
+      "first_seen": "2026-11-02T18:00:08.954344+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/dog-bartender-ai-video-generator",
+            "title": "Dog Bartender AI Video Generator: $1 vs $5 vs $50",
+            "first_seen": "2026-11-02T18:00:08.954344+00:00"
+          }
+        ]
+      }
+    },
+    "vs 50": {
+      "first_seen": "2026-11-02T18:00:08.954357+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/dog-bartender-ai-video-generator",
+            "title": "Dog Bartender AI Video Generator: $1 vs $5 vs $50",
+            "first_seen": "2026-11-02T18:00:08.954357+00:00"
+          }
+        ]
+      }
+    },
+    "vs 5 vs 50": {
+      "first_seen": "2026-11-02T18:00:08.954369+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/dog-bartender-ai-video-generator",
+            "title": "Dog Bartender AI Video Generator: $1 vs $5 vs $50",
+            "first_seen": "2026-11-02T18:00:08.954369+00:00"
+          }
+        ]
+      }
+    },
+    "closing door prank": {
+      "first_seen": "2026-11-02T18:00:09.062592+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/closing-door-prank-ai-video-generator",
+            "title": "Closing Door Prank AI – The Hallway Door-Shut Illusion",
+            "first_seen": "2026-11-02T18:00:09.062592+00:00"
+          }
+        ]
+      }
+    },
+    "closing door": {
+      "first_seen": "2026-11-02T18:00:09.062630+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/closing-door-prank-ai-video-generator",
+            "title": "Closing Door Prank AI – The Hallway Door-Shut Illusion",
+            "first_seen": "2026-11-02T18:00:09.062630+00:00"
+          }
+        ]
+      }
+    },
+    "door prank": {
+      "first_seen": "2026-11-02T18:00:09.062647+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/closing-door-prank-ai-video-generator",
+            "title": "Closing Door Prank AI – The Hallway Door-Shut Illusion",
+            "first_seen": "2026-11-02T18:00:09.062647+00:00"
+          }
+        ]
+      }
+    },
+    "colors session": {
+      "first_seen": "2026-11-02T18:00:10.217576+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-58th-floor-ai-video",
+            "title": "How to Make the '58th Floor' AI Video: Rap Anderson .Paak and Cordae's COLORS Session With a Friend (2026)",
+            "first_seen": "2026-11-02T18:00:10.217576+00:00"
+          }
+        ]
+      }
+    },
+    "s colors": {
+      "first_seen": "2026-11-02T18:00:10.217615+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-58th-floor-ai-video",
+            "title": "How to Make the '58th Floor' AI Video: Rap Anderson .Paak and Cordae's COLORS Session With a Friend (2026)",
+            "first_seen": "2026-11-02T18:00:10.217615+00:00"
+          }
+        ]
+      }
+    },
+    "cordae s colors session": {
+      "first_seen": "2026-11-02T18:00:10.217623+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-58th-floor-ai-video",
+            "title": "How to Make the '58th Floor' AI Video: Rap Anderson .Paak and Cordae's COLORS Session With a Friend (2026)",
+            "first_seen": "2026-11-02T18:00:10.217623+00:00"
+          }
+        ]
+      }
+    },
+    "cordae s": {
+      "first_seen": "2026-11-02T18:00:10.217630+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-58th-floor-ai-video",
+            "title": "How to Make the '58th Floor' AI Video: Rap Anderson .Paak and Cordae's COLORS Session With a Friend (2026)",
+            "first_seen": "2026-11-02T18:00:10.217630+00:00"
+          }
+        ]
+      }
+    },
+    "anderson paak": {
+      "first_seen": "2026-11-02T18:00:10.217644+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-58th-floor-ai-video",
+            "title": "How to Make the '58th Floor' AI Video: Rap Anderson .Paak and Cordae's COLORS Session With a Friend (2026)",
+            "first_seen": "2026-11-02T18:00:10.217644+00:00"
+          }
+        ]
+      }
+    },
+    "session with a friend": {
+      "first_seen": "2026-11-02T18:00:10.217682+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-58th-floor-ai-video",
+            "title": "How to Make the '58th Floor' AI Video: Rap Anderson .Paak and Cordae's COLORS Session With a Friend (2026)",
+            "first_seen": "2026-11-02T18:00:10.217682+00:00"
+          }
+        ]
+      }
+    },
+    "rap anderson": {
+      "first_seen": "2026-11-02T18:00:10.217691+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-58th-floor-ai-video",
+            "title": "How to Make the '58th Floor' AI Video: Rap Anderson .Paak and Cordae's COLORS Session With a Friend (2026)",
+            "first_seen": "2026-11-02T18:00:10.217691+00:00"
+          }
+        ]
+      }
+    },
+    "rap anderson paak": {
+      "first_seen": "2026-11-02T18:00:10.217698+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-58th-floor-ai-video",
+            "title": "How to Make the '58th Floor' AI Video: Rap Anderson .Paak and Cordae's COLORS Session With a Friend (2026)",
+            "first_seen": "2026-11-02T18:00:10.217698+00:00"
+          }
+        ]
+      }
+    },
+    "cordae s colors": {
+      "first_seen": "2026-11-02T18:00:10.217705+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-58th-floor-ai-video",
+            "title": "How to Make the '58th Floor' AI Video: Rap Anderson .Paak and Cordae's COLORS Session With a Friend (2026)",
+            "first_seen": "2026-11-02T18:00:10.217705+00:00"
+          }
+        ]
+      }
+    },
+    "floor ai video rap": {
+      "first_seen": "2026-11-02T18:00:10.217712+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-58th-floor-ai-video",
+            "title": "How to Make the '58th Floor' AI Video: Rap Anderson .Paak and Cordae's COLORS Session With a Friend (2026)",
+            "first_seen": "2026-11-02T18:00:10.217712+00:00"
+          }
+        ]
+      }
+    },
+    "anderson paak and cordae": {
+      "first_seen": "2026-11-02T18:00:10.217725+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-58th-floor-ai-video",
+            "title": "How to Make the '58th Floor' AI Video: Rap Anderson .Paak and Cordae's COLORS Session With a Friend (2026)",
+            "first_seen": "2026-11-02T18:00:10.217725+00:00"
+          }
+        ]
+      }
+    },
+    "paak and cordae s": {
+      "first_seen": "2026-11-02T18:00:10.217733+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-58th-floor-ai-video",
+            "title": "How to Make the '58th Floor' AI Video: Rap Anderson .Paak and Cordae's COLORS Session With a Friend (2026)",
+            "first_seen": "2026-11-02T18:00:10.217733+00:00"
+          }
+        ]
+      }
+    },
+    "58th floor": {
+      "first_seen": "2026-11-02T18:00:10.217739+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-58th-floor-ai-video",
+            "title": "How to Make the '58th Floor' AI Video: Rap Anderson .Paak and Cordae's COLORS Session With a Friend (2026)",
+            "first_seen": "2026-11-02T18:00:10.217739+00:00"
+          },
+          {
+            "url": "https://www.getstarrd.app/template/58th-floor-extended-ai-video",
+            "title": "58th Floor Extended — AI Video Template | Starrd",
+            "first_seen": "2026-11-02T18:00:10.403333+00:00"
+          },
+          {
+            "url": "https://www.getstarrd.app/template/58th-floor-ai-video",
+            "title": "58th Floor — AI Video Template | Starrd",
+            "first_seen": "2026-11-02T18:00:10.424133+00:00"
+          }
+        ]
+      }
+    },
+    "paak and cordae": {
+      "first_seen": "2026-11-02T18:00:10.217746+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-58th-floor-ai-video",
+            "title": "How to Make the '58th Floor' AI Video: Rap Anderson .Paak and Cordae's COLORS Session With a Friend (2026)",
+            "first_seen": "2026-11-02T18:00:10.217746+00:00"
+          }
+        ]
+      }
+    },
+    "s colors session": {
+      "first_seen": "2026-11-02T18:00:10.217753+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-58th-floor-ai-video",
+            "title": "How to Make the '58th Floor' AI Video: Rap Anderson .Paak and Cordae's COLORS Session With a Friend (2026)",
+            "first_seen": "2026-11-02T18:00:10.217753+00:00"
+          }
+        ]
+      }
+    },
+    "floor extended": {
+      "first_seen": "2026-11-02T18:00:10.403282+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/template/58th-floor-extended-ai-video",
+            "title": "58th Floor Extended — AI Video Template | Starrd",
+            "first_seen": "2026-11-02T18:00:10.403282+00:00"
+          }
+        ]
+      }
+    },
+    "58th floor extended": {
+      "first_seen": "2026-11-02T18:00:10.403324+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/template/58th-floor-extended-ai-video",
+            "title": "58th Floor Extended — AI Video Template | Starrd",
+            "first_seen": "2026-11-02T18:00:10.403324+00:00"
+          }
+        ]
+      }
+    },
+    "autumn lake": {
+      "first_seen": "2026-11-02T18:00:17.492115+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/autumn-lake-daydream-ai-video-generator",
+            "title": "Autumn Lake Daydream AI – Turn Your Photo Into a Fall Movie Scene",
+            "first_seen": "2026-11-02T18:00:17.492115+00:00"
+          }
+        ]
+      }
+    },
+    "lake daydream": {
+      "first_seen": "2026-11-02T18:00:17.492182+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/autumn-lake-daydream-ai-video-generator",
+            "title": "Autumn Lake Daydream AI – Turn Your Photo Into a Fall Movie Scene",
+            "first_seen": "2026-11-02T18:00:17.492182+00:00"
+          }
+        ]
+      }
+    },
+    "autumn lake daydream": {
+      "first_seen": "2026-11-02T18:00:17.492199+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/autumn-lake-daydream-ai-video-generator",
+            "title": "Autumn Lake Daydream AI – Turn Your Photo Into a Fall Movie Scene",
+            "first_seen": "2026-11-02T18:00:17.492199+00:00"
           }
         ]
       }
