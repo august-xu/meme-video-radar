@@ -1,6 +1,6 @@
 {
-  "last_run_timestamp": "2026-11-02T18:00:24.639422+00:00",
-  "total_urls_seen": 12864,
+  "last_run_timestamp": "2026-11-03T00:00:24.790230+00:00",
+  "total_urls_seen": 12891,
   "seen_urls": {
     "knowyourmeme.com": [
       "https://knowyourmeme.com/memes/yohohoho-binkusuno-sake-by-ado",
@@ -83,7 +83,10 @@
       "https://knowyourmeme.com/memes/anakin-skywalker-gen-z-male-rage-memes",
       "https://knowyourmeme.com/memes/helicopter-helicopter--2",
       "https://knowyourmeme.com/memes/gunna-writing-fire",
-      "https://knowyourmeme.com/sensitive/memes/theo-von-nigga-its-over"
+      "https://knowyourmeme.com/sensitive/memes/theo-von-nigga-its-over",
+      "https://knowyourmeme.com/memes/w-chews-l-nibbles",
+      "https://knowyourmeme.com/memes/events/palm-beach-county-plane-crash",
+      "https://knowyourmeme.com/memes/wassup-in-a-minute-wassup"
     ],
     "aptvideoai.com": [
       "https://aptvideoai.com",
@@ -12101,7 +12104,19 @@
       "https://www.getstarrd.app/template/strike-a-pole-ai-video",
       "https://www.getstarrd.app/blog/how-to-make-58th-floor-ai-video",
       "https://www.getstarrd.app/template/58th-floor-extended-ai-video",
-      "https://www.getstarrd.app/template/58th-floor-ai-video"
+      "https://www.getstarrd.app/template/58th-floor-ai-video",
+      "https://www.getstarrd.app/template/end-of-watch-ai-video",
+      "https://www.getstarrd.app/template/ateez-bad-ai-video",
+      "https://www.getstarrd.app/template/look-alive-ai-video",
+      "https://www.getstarrd.app/blog/how-to-make-just-a-little-bit-dance-ai-video",
+      "https://www.getstarrd.app/template/apt-ai-video",
+      "https://www.getstarrd.app/template/birds-of-a-feather-ai-video",
+      "https://www.getstarrd.app/blog/how-to-make-ateez-bad-ai-video",
+      "https://www.getstarrd.app/blog/how-to-make-apt-ai-video",
+      "https://www.getstarrd.app/template/just-a-little-bit-ai-video",
+      "https://www.getstarrd.app/blog/how-to-make-look-alive-ai-video",
+      "https://www.getstarrd.app/blog/how-to-make-end-of-watch-ai-video",
+      "https://www.getstarrd.app/blog/how-to-make-birds-of-a-feather-ai-video"
     ],
     "www.capcut.com": [
       "https://www.capcut.com/template-detail/7613449947458981136",
@@ -12735,6 +12750,18 @@
       "https://www.capcut.com/template-detail/7624035860379471120",
       "https://www.capcut.com/template-detail/7482615374094011701",
       "https://www.capcut.com/template-detail/7528086884480830781",
+      "https://www.capcut.com/template-detail/7601555915468262674",
+      "https://www.capcut.com/template-detail/7530687794755161397",
+      "https://www.capcut.com/template-detail/7642005896716979477",
+      "https://www.capcut.com/template-detail/7574060723123293445",
+      "https://www.capcut.com/template-detail/7507248969974615349",
+      "https://www.capcut.com/template-detail/7601230789774249221",
+      "https://www.capcut.com/template-detail/7621923947470179601",
+      "https://www.capcut.com/template-detail/7500996436440403261",
+      "https://www.capcut.com/template-detail/7628428485073063175",
+      "https://www.capcut.com/template-detail/7401807067406929153",
+      "https://www.capcut.com/template-detail/7626718228718406929",
+      "https://www.capcut.com/template-detail/7636033261264702728",
       "https://www.capcut.com/template-detail/7601555915468262674",
       "https://www.capcut.com/template-detail/7530687794755161397",
       "https://www.capcut.com/template-detail/7642005896716979477",
@@ -28808,6 +28835,16 @@
             "url": "https://www.getstarrd.app/blog/how-to-make-58th-floor-ai-video",
             "title": "How to Make the '58th Floor' AI Video: Rap Anderson .Paak and Cordae's COLORS Session With a Friend (2026)",
             "first_seen": "2026-11-02T18:00:10.217652+00:00"
+          },
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-apt-ai-video",
+            "title": "How to Make the 'APT.' AI Video: ROSÉ and Bruno Mars, Starring You and a Friend (2026)",
+            "first_seen": "2026-11-03T00:00:12.194621+00:00"
+          },
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-look-alive-ai-video",
+            "title": "How to Make the 'Look Alive' AI Video: Drake and BlocBoy JB, Starring You and a Friend (2026)",
+            "first_seen": "2026-11-03T00:00:12.440950+00:00"
           }
         ]
       }
@@ -31523,6 +31560,13 @@
             "url": "https://remakeyourmeme.com/gangnam-style-trio-ai/",
             "title": "Gangnam Style Trio AI: You and 2 Friends in the Viral Selfie",
             "first_seen": "2026-10-25T12:00:10.311792+00:00"
+          }
+        ],
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-just-a-little-bit-dance-ai-video",
+            "title": "How to Make the 'Just a Little Bit' Dance AI Video With 2 Friends (2026)",
+            "first_seen": "2026-11-03T00:00:11.180959+00:00"
           }
         ]
       }
@@ -44389,6 +44433,16 @@
             "url": "https://www.getstarrd.app/blog/how-to-make-sleeping-in-the-attic-ai-video",
             "title": "How to Make the 'Sleeping in the Attic' AI Video With Friends (2026)",
             "first_seen": "2026-10-31T00:00:11.232207+00:00"
+          },
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-just-a-little-bit-dance-ai-video",
+            "title": "How to Make the 'Just a Little Bit' Dance AI Video With 2 Friends (2026)",
+            "first_seen": "2026-11-03T00:00:11.181006+00:00"
+          },
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-ateez-bad-ai-video",
+            "title": "How to Make the 'ATEEZ BAD' AI Dance Video With Two Friends (2026)",
+            "first_seen": "2026-11-03T00:00:11.577278+00:00"
           }
         ]
       }
@@ -57892,6 +57946,18 @@
             "title": "Birds of a Feather AI Chair Video Generator | Media.io",
             "first_seen": "2026-10-31T12:00:08.995885+00:00"
           }
+        ],
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/template/birds-of-a-feather-ai-video",
+            "title": "Birds of a Feather — AI Video Template | Starrd",
+            "first_seen": "2026-11-03T00:00:11.569398+00:00"
+          },
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-birds-of-a-feather-ai-video",
+            "title": "How to Make the 'Birds of a Feather' AI Chair Spin Video (2026)",
+            "first_seen": "2026-11-03T00:00:12.668875+00:00"
+          }
         ]
       }
     },
@@ -57903,6 +57969,13 @@
             "url": "https://www.media.io/ai/explore/zone/birds-of-a-feather-ai-video-generator",
             "title": "Birds of a Feather AI Chair Video Generator | Media.io",
             "first_seen": "2026-10-31T12:00:08.995920+00:00"
+          }
+        ],
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-birds-of-a-feather-ai-video",
+            "title": "How to Make the 'Birds of a Feather' AI Chair Spin Video (2026)",
+            "first_seen": "2026-11-03T00:00:12.668917+00:00"
           }
         ]
       }
@@ -62400,6 +62473,604 @@
             "url": "https://www.media.io/ai/explore/zone/autumn-lake-daydream-ai-video-generator",
             "title": "Autumn Lake Daydream AI – Turn Your Photo Into a Fall Movie Scene",
             "first_seen": "2026-11-02T18:00:17.492199+00:00"
+          }
+        ]
+      }
+    },
+    "w chews": {
+      "first_seen": "2026-11-03T00:00:09.968036+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/w-chews-l-nibbles",
+            "title": "W Chews / L Nibbles | Know Your Meme",
+            "first_seen": "2026-11-03T00:00:09.968036+00:00"
+          }
+        ]
+      }
+    },
+    "l nibbles": {
+      "first_seen": "2026-11-03T00:00:09.968071+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/w-chews-l-nibbles",
+            "title": "W Chews / L Nibbles | Know Your Meme",
+            "first_seen": "2026-11-03T00:00:09.968071+00:00"
+          }
+        ]
+      }
+    },
+    "w chews l": {
+      "first_seen": "2026-11-03T00:00:09.968080+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/w-chews-l-nibbles",
+            "title": "W Chews / L Nibbles | Know Your Meme",
+            "first_seen": "2026-11-03T00:00:09.968080+00:00"
+          }
+        ]
+      }
+    },
+    "chews l nibbles": {
+      "first_seen": "2026-11-03T00:00:09.968087+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/w-chews-l-nibbles",
+            "title": "W Chews / L Nibbles | Know Your Meme",
+            "first_seen": "2026-11-03T00:00:09.968087+00:00"
+          }
+        ]
+      }
+    },
+    "chews l": {
+      "first_seen": "2026-11-03T00:00:09.968094+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/w-chews-l-nibbles",
+            "title": "W Chews / L Nibbles | Know Your Meme",
+            "first_seen": "2026-11-03T00:00:09.968094+00:00"
+          }
+        ]
+      }
+    },
+    "w chews l nibbles": {
+      "first_seen": "2026-11-03T00:00:09.968101+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/w-chews-l-nibbles",
+            "title": "W Chews / L Nibbles | Know Your Meme",
+            "first_seen": "2026-11-03T00:00:09.968101+00:00"
+          }
+        ]
+      }
+    },
+    "beach county": {
+      "first_seen": "2026-11-03T00:00:10.021605+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/events/palm-beach-county-plane-crash",
+            "title": "Palm Beach County Learjet 60 Plane Crash | Know Your Meme",
+            "first_seen": "2026-11-03T00:00:10.021605+00:00"
+          }
+        ]
+      }
+    },
+    "palm beach county plane": {
+      "first_seen": "2026-11-03T00:00:10.021651+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/events/palm-beach-county-plane-crash",
+            "title": "Palm Beach County Learjet 60 Plane Crash | Know Your Meme",
+            "first_seen": "2026-11-03T00:00:10.021651+00:00"
+          }
+        ]
+      }
+    },
+    "beach county plane crash": {
+      "first_seen": "2026-11-03T00:00:10.021661+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/events/palm-beach-county-plane-crash",
+            "title": "Palm Beach County Learjet 60 Plane Crash | Know Your Meme",
+            "first_seen": "2026-11-03T00:00:10.021661+00:00"
+          }
+        ]
+      }
+    },
+    "learjet 60 plane": {
+      "first_seen": "2026-11-03T00:00:10.021671+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/events/palm-beach-county-plane-crash",
+            "title": "Palm Beach County Learjet 60 Plane Crash | Know Your Meme",
+            "first_seen": "2026-11-03T00:00:10.021671+00:00"
+          }
+        ]
+      }
+    },
+    "county learjet 60": {
+      "first_seen": "2026-11-03T00:00:10.021685+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/events/palm-beach-county-plane-crash",
+            "title": "Palm Beach County Learjet 60 Plane Crash | Know Your Meme",
+            "first_seen": "2026-11-03T00:00:10.021685+00:00"
+          }
+        ]
+      }
+    },
+    "beach county learjet 60": {
+      "first_seen": "2026-11-03T00:00:10.021700+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/events/palm-beach-county-plane-crash",
+            "title": "Palm Beach County Learjet 60 Plane Crash | Know Your Meme",
+            "first_seen": "2026-11-03T00:00:10.021700+00:00"
+          }
+        ]
+      }
+    },
+    "palm beach": {
+      "first_seen": "2026-11-03T00:00:10.021715+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/events/palm-beach-county-plane-crash",
+            "title": "Palm Beach County Learjet 60 Plane Crash | Know Your Meme",
+            "first_seen": "2026-11-03T00:00:10.021715+00:00"
+          }
+        ]
+      }
+    },
+    "county learjet": {
+      "first_seen": "2026-11-03T00:00:10.021729+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/events/palm-beach-county-plane-crash",
+            "title": "Palm Beach County Learjet 60 Plane Crash | Know Your Meme",
+            "first_seen": "2026-11-03T00:00:10.021729+00:00"
+          }
+        ]
+      }
+    },
+    "beach county learjet": {
+      "first_seen": "2026-11-03T00:00:10.021743+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/events/palm-beach-county-plane-crash",
+            "title": "Palm Beach County Learjet 60 Plane Crash | Know Your Meme",
+            "first_seen": "2026-11-03T00:00:10.021743+00:00"
+          }
+        ]
+      }
+    },
+    "60 plane crash": {
+      "first_seen": "2026-11-03T00:00:10.021755+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/events/palm-beach-county-plane-crash",
+            "title": "Palm Beach County Learjet 60 Plane Crash | Know Your Meme",
+            "first_seen": "2026-11-03T00:00:10.021755+00:00"
+          }
+        ]
+      }
+    },
+    "county learjet 60 plane": {
+      "first_seen": "2026-11-03T00:00:10.021763+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/events/palm-beach-county-plane-crash",
+            "title": "Palm Beach County Learjet 60 Plane Crash | Know Your Meme",
+            "first_seen": "2026-11-03T00:00:10.021763+00:00"
+          }
+        ]
+      }
+    },
+    "plane crash": {
+      "first_seen": "2026-11-03T00:00:10.021770+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/events/palm-beach-county-plane-crash",
+            "title": "Palm Beach County Learjet 60 Plane Crash | Know Your Meme",
+            "first_seen": "2026-11-03T00:00:10.021770+00:00"
+          }
+        ]
+      }
+    },
+    "beach county plane": {
+      "first_seen": "2026-11-03T00:00:10.021777+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/events/palm-beach-county-plane-crash",
+            "title": "Palm Beach County Learjet 60 Plane Crash | Know Your Meme",
+            "first_seen": "2026-11-03T00:00:10.021777+00:00"
+          }
+        ]
+      }
+    },
+    "county plane": {
+      "first_seen": "2026-11-03T00:00:10.021783+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/events/palm-beach-county-plane-crash",
+            "title": "Palm Beach County Learjet 60 Plane Crash | Know Your Meme",
+            "first_seen": "2026-11-03T00:00:10.021783+00:00"
+          }
+        ]
+      }
+    },
+    "learjet 60 plane crash": {
+      "first_seen": "2026-11-03T00:00:10.021789+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/events/palm-beach-county-plane-crash",
+            "title": "Palm Beach County Learjet 60 Plane Crash | Know Your Meme",
+            "first_seen": "2026-11-03T00:00:10.021789+00:00"
+          }
+        ]
+      }
+    },
+    "learjet 60": {
+      "first_seen": "2026-11-03T00:00:10.021796+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/events/palm-beach-county-plane-crash",
+            "title": "Palm Beach County Learjet 60 Plane Crash | Know Your Meme",
+            "first_seen": "2026-11-03T00:00:10.021796+00:00"
+          }
+        ]
+      }
+    },
+    "palm beach county": {
+      "first_seen": "2026-11-03T00:00:10.021803+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/events/palm-beach-county-plane-crash",
+            "title": "Palm Beach County Learjet 60 Plane Crash | Know Your Meme",
+            "first_seen": "2026-11-03T00:00:10.021803+00:00"
+          }
+        ]
+      }
+    },
+    "palm beach county learjet": {
+      "first_seen": "2026-11-03T00:00:10.021809+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/events/palm-beach-county-plane-crash",
+            "title": "Palm Beach County Learjet 60 Plane Crash | Know Your Meme",
+            "first_seen": "2026-11-03T00:00:10.021809+00:00"
+          }
+        ]
+      }
+    },
+    "county plane crash": {
+      "first_seen": "2026-11-03T00:00:10.021816+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/events/palm-beach-county-plane-crash",
+            "title": "Palm Beach County Learjet 60 Plane Crash | Know Your Meme",
+            "first_seen": "2026-11-03T00:00:10.021816+00:00"
+          }
+        ]
+      }
+    },
+    "60 plane": {
+      "first_seen": "2026-11-03T00:00:10.021823+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/events/palm-beach-county-plane-crash",
+            "title": "Palm Beach County Learjet 60 Plane Crash | Know Your Meme",
+            "first_seen": "2026-11-03T00:00:10.021823+00:00"
+          }
+        ]
+      }
+    },
+    "minute wassup": {
+      "first_seen": "2026-11-03T00:00:10.210337+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/wassup-in-a-minute-wassup",
+            "title": "Wassup In a Minute Wassup | Know Your Meme",
+            "first_seen": "2026-11-03T00:00:10.210337+00:00"
+          }
+        ]
+      }
+    },
+    "wassup in a minute": {
+      "first_seen": "2026-11-03T00:00:10.210372+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/wassup-in-a-minute-wassup",
+            "title": "Wassup In a Minute Wassup | Know Your Meme",
+            "first_seen": "2026-11-03T00:00:10.210372+00:00"
+          }
+        ]
+      }
+    },
+    "ateez bad": {
+      "first_seen": "2026-11-03T00:00:10.939358+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/template/ateez-bad-ai-video",
+            "title": "ATEEZ BAD — AI Video Template | Starrd",
+            "first_seen": "2026-11-03T00:00:10.939358+00:00"
+          },
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-ateez-bad-ai-video",
+            "title": "How to Make the 'ATEEZ BAD' AI Dance Video With Two Friends (2026)",
+            "first_seen": "2026-11-03T00:00:11.577243+00:00"
+          }
+        ]
+      }
+    },
+    "2 friends 2026": {
+      "first_seen": "2026-11-03T00:00:11.181027+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-just-a-little-bit-dance-ai-video",
+            "title": "How to Make the 'Just a Little Bit' Dance AI Video With 2 Friends (2026)",
+            "first_seen": "2026-11-03T00:00:11.181027+00:00"
+          }
+        ]
+      }
+    },
+    "little bit": {
+      "first_seen": "2026-11-03T00:00:11.181045+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-just-a-little-bit-dance-ai-video",
+            "title": "How to Make the 'Just a Little Bit' Dance AI Video With 2 Friends (2026)",
+            "first_seen": "2026-11-03T00:00:11.181045+00:00"
+          },
+          {
+            "url": "https://www.getstarrd.app/template/just-a-little-bit-ai-video",
+            "title": "Just a Little Bit — AI Video Template | Starrd",
+            "first_seen": "2026-11-03T00:00:12.283836+00:00"
+          }
+        ]
+      }
+    },
+    "ros and bruno": {
+      "first_seen": "2026-11-03T00:00:12.194522+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-apt-ai-video",
+            "title": "How to Make the 'APT.' AI Video: ROSÉ and Bruno Mars, Starring You and a Friend (2026)",
+            "first_seen": "2026-11-03T00:00:12.194522+00:00"
+          }
+        ]
+      }
+    },
+    "bruno mars": {
+      "first_seen": "2026-11-03T00:00:12.194593+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-apt-ai-video",
+            "title": "How to Make the 'APT.' AI Video: ROSÉ and Bruno Mars, Starring You and a Friend (2026)",
+            "first_seen": "2026-11-03T00:00:12.194593+00:00"
+          }
+        ]
+      }
+    },
+    "apt ai video ros": {
+      "first_seen": "2026-11-03T00:00:12.194605+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-apt-ai-video",
+            "title": "How to Make the 'APT.' AI Video: ROSÉ and Bruno Mars, Starring You and a Friend (2026)",
+            "first_seen": "2026-11-03T00:00:12.194605+00:00"
+          }
+        ]
+      }
+    },
+    "ros and bruno mars": {
+      "first_seen": "2026-11-03T00:00:12.194639+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-apt-ai-video",
+            "title": "How to Make the 'APT.' AI Video: ROSÉ and Bruno Mars, Starring You and a Friend (2026)",
+            "first_seen": "2026-11-03T00:00:12.194639+00:00"
+          }
+        ]
+      }
+    },
+    "bruno mars starring": {
+      "first_seen": "2026-11-03T00:00:12.194648+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-apt-ai-video",
+            "title": "How to Make the 'APT.' AI Video: ROSÉ and Bruno Mars, Starring You and a Friend (2026)",
+            "first_seen": "2026-11-03T00:00:12.194648+00:00"
+          }
+        ]
+      }
+    },
+    "mars starring": {
+      "first_seen": "2026-11-03T00:00:12.194654+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-apt-ai-video",
+            "title": "How to Make the 'APT.' AI Video: ROSÉ and Bruno Mars, Starring You and a Friend (2026)",
+            "first_seen": "2026-11-03T00:00:12.194654+00:00"
+          }
+        ]
+      }
+    },
+    "bloc boy jb": {
+      "first_seen": "2026-11-03T00:00:12.440906+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-look-alive-ai-video",
+            "title": "How to Make the 'Look Alive' AI Video: Drake and BlocBoy JB, Starring You and a Friend (2026)",
+            "first_seen": "2026-11-03T00:00:12.440906+00:00"
+          }
+        ]
+      }
+    },
+    "bloc boy jb starring": {
+      "first_seen": "2026-11-03T00:00:12.440942+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-look-alive-ai-video",
+            "title": "How to Make the 'Look Alive' AI Video: Drake and BlocBoy JB, Starring You and a Friend (2026)",
+            "first_seen": "2026-11-03T00:00:12.440942+00:00"
+          }
+        ]
+      }
+    },
+    "alive ai video drake": {
+      "first_seen": "2026-11-03T00:00:12.440961+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-look-alive-ai-video",
+            "title": "How to Make the 'Look Alive' AI Video: Drake and BlocBoy JB, Starring You and a Friend (2026)",
+            "first_seen": "2026-11-03T00:00:12.440961+00:00"
+          }
+        ]
+      }
+    },
+    "jb starring": {
+      "first_seen": "2026-11-03T00:00:12.440968+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-look-alive-ai-video",
+            "title": "How to Make the 'Look Alive' AI Video: Drake and BlocBoy JB, Starring You and a Friend (2026)",
+            "first_seen": "2026-11-03T00:00:12.440968+00:00"
+          }
+        ]
+      }
+    },
+    "drake and bloc": {
+      "first_seen": "2026-11-03T00:00:12.440974+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-look-alive-ai-video",
+            "title": "How to Make the 'Look Alive' AI Video: Drake and BlocBoy JB, Starring You and a Friend (2026)",
+            "first_seen": "2026-11-03T00:00:12.440974+00:00"
+          }
+        ]
+      }
+    },
+    "end of watch locker": {
+      "first_seen": "2026-11-03T00:00:12.558029+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-end-of-watch-ai-video",
+            "title": "How to Make the 'End of Watch' Locker Room AI Video (2026)",
+            "first_seen": "2026-11-03T00:00:12.558029+00:00"
+          }
+        ]
+      }
+    },
+    "locker room": {
+      "first_seen": "2026-11-03T00:00:12.558065+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-end-of-watch-ai-video",
+            "title": "How to Make the 'End of Watch' Locker Room AI Video (2026)",
+            "first_seen": "2026-11-03T00:00:12.558065+00:00"
+          }
+        ]
+      }
+    },
+    "room ai video 2026": {
+      "first_seen": "2026-11-03T00:00:12.558074+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-end-of-watch-ai-video",
+            "title": "How to Make the 'End of Watch' Locker Room AI Video (2026)",
+            "first_seen": "2026-11-03T00:00:12.558074+00:00"
+          }
+        ]
+      }
+    },
+    "feather ai chair spin": {
+      "first_seen": "2026-11-03T00:00:12.668826+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-birds-of-a-feather-ai-video",
+            "title": "How to Make the 'Birds of a Feather' AI Chair Spin Video (2026)",
+            "first_seen": "2026-11-03T00:00:12.668826+00:00"
+          }
+        ]
+      }
+    },
+    "chair spin video 2026": {
+      "first_seen": "2026-11-03T00:00:12.668892+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-birds-of-a-feather-ai-video",
+            "title": "How to Make the 'Birds of a Feather' AI Chair Spin Video (2026)",
+            "first_seen": "2026-11-03T00:00:12.668892+00:00"
+          }
+        ]
+      }
+    },
+    "spin video 2026": {
+      "first_seen": "2026-11-03T00:00:12.668905+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-birds-of-a-feather-ai-video",
+            "title": "How to Make the 'Birds of a Feather' AI Chair Spin Video (2026)",
+            "first_seen": "2026-11-03T00:00:12.668905+00:00"
+          }
+        ]
+      }
+    },
+    "chair spin": {
+      "first_seen": "2026-11-03T00:00:12.668929+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-birds-of-a-feather-ai-video",
+            "title": "How to Make the 'Birds of a Feather' AI Chair Spin Video (2026)",
+            "first_seen": "2026-11-03T00:00:12.668929+00:00"
           }
         ]
       }
