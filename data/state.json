@@ -1,6 +1,6 @@
 {
-  "last_run_timestamp": "2026-11-04T12:00:14.208976+00:00",
-  "total_urls_seen": 13120,
+  "last_run_timestamp": "2026-11-04T18:00:17.448346+00:00",
+  "total_urls_seen": 13138,
   "seen_urls": {
     "knowyourmeme.com": [
       "https://knowyourmeme.com/memes/yohohoho-binkusuno-sake-by-ado",
@@ -90,7 +90,8 @@
       "https://knowyourmeme.com/memes/frutiger-aero-yams",
       "https://knowyourmeme.com/memes/events/theburntpeanut-dead-by-daylight-controversy",
       "https://knowyourmeme.com/memes/the-last-dance-trend",
-      "https://knowyourmeme.com/memes/your-first-time-in-a-fancy-cafe"
+      "https://knowyourmeme.com/memes/your-first-time-in-a-fancy-cafe",
+      "https://knowyourmeme.com/memes/woke-3"
     ],
     "aptvideoai.com": [
       "https://aptvideoai.com",
@@ -11470,7 +11471,10 @@
       "https://remakeyourmeme.com/templates/hop-hop-hop-ai",
       "https://remakeyourmeme.com/compare",
       "https://remakeyourmeme.com/how-to/how-to-make-an-ai-dance-video",
-      "https://remakeyourmeme.com/ai-dance-video-generator"
+      "https://remakeyourmeme.com/ai-dance-video-generator",
+      "https://remakeyourmeme.com/templates/car-alarm-dance-ai-video-generator",
+      "https://remakeyourmeme.com/templates/24k-magic-ai-video-generator",
+      "https://remakeyourmeme.com/how-to/how-to-make-24k-magic-ai-video"
     ],
     "www.getstarrd.app": [
       "https://www.getstarrd.app",
@@ -12245,7 +12249,9 @@
       "https://www.getstarrd.app/blog/how-to-make-i-just-beat-the-case-ai-video",
       "https://www.getstarrd.app/blog/how-to-make-push-the-button-rush-hour-ai-video",
       "https://www.getstarrd.app/blog/how-to-make-stadium-calm-down-ai-video",
-      "https://www.getstarrd.app/template/stadium-calm-down-ai-video"
+      "https://www.getstarrd.app/template/stadium-calm-down-ai-video",
+      "https://www.getstarrd.app/template/lonyo-ai-dance",
+      "https://www.getstarrd.app/blog/how-to-make-lonyo-ai-dance"
     ],
     "www.capcut.com": [
       "https://www.capcut.com/template-detail/7613449947458981136",
@@ -12953,6 +12959,18 @@
       "https://www.capcut.com/template-detail/7626718228718406929",
       "https://www.capcut.com/template-detail/7636033261264702728",
       "https://www.capcut.com/template-detail/7422475672074865938",
+      "https://www.capcut.com/template-detail/7601555915468262674",
+      "https://www.capcut.com/template-detail/7530687794755161397",
+      "https://www.capcut.com/template-detail/7642005896716979477",
+      "https://www.capcut.com/template-detail/7574060723123293445",
+      "https://www.capcut.com/template-detail/7507248969974615349",
+      "https://www.capcut.com/template-detail/7601230789774249221",
+      "https://www.capcut.com/template-detail/7621923947470179601",
+      "https://www.capcut.com/template-detail/7500996436440403261",
+      "https://www.capcut.com/template-detail/7628428485073063175",
+      "https://www.capcut.com/template-detail/7401807067406929153",
+      "https://www.capcut.com/template-detail/7626718228718406929",
+      "https://www.capcut.com/template-detail/7636033261264702728",
       "https://www.capcut.com/template-detail/7601555915468262674",
       "https://www.capcut.com/template-detail/7530687794755161397",
       "https://www.capcut.com/template-detail/7642005896716979477",
@@ -20058,6 +20076,11 @@
             "url": "https://remakeyourmeme.com/how-to/how-to-make-hop-hop-hop-ai-video/",
             "title": "How to Make the Hop Hop Hop AI Video, Step by Step",
             "first_seen": "2026-10-30T12:00:09.578955+00:00"
+          },
+          {
+            "url": "https://remakeyourmeme.com/how-to/how-to-make-24k-magic-ai-video/",
+            "title": "How to Make the 24K Magic AI Video, Step by Step",
+            "first_seen": "2026-11-04T18:00:09.351399+00:00"
           }
         ],
         "www.lightxeditor.com": [
@@ -54663,6 +54686,13 @@
             "title": "How to Make the Car Alarm Dance AI Video With Your Dog or Cat (2026)",
             "first_seen": "2026-10-30T18:00:29.831298+00:00"
           }
+        ],
+        "remakeyourmeme.com": [
+          {
+            "url": "https://remakeyourmeme.com/templates/car-alarm-dance-ai-video-generator/",
+            "title": "Car Alarm Dance AI Video Generator: Your Cat or Dog, 1080p",
+            "first_seen": "2026-11-04T18:00:08.923380+00:00"
+          }
         ]
       }
     },
@@ -62550,6 +62580,18 @@
             "title": "24K Magic Cruise — AI Video Template | Starrd",
             "first_seen": "2026-11-03T18:00:12.759797+00:00"
           }
+        ],
+        "remakeyourmeme.com": [
+          {
+            "url": "https://remakeyourmeme.com/templates/24k-magic-ai-video-generator/",
+            "title": "24K Magic AI Video Generator: Up to 2 People, No Watermark",
+            "first_seen": "2026-11-04T18:00:08.956168+00:00"
+          },
+          {
+            "url": "https://remakeyourmeme.com/how-to/how-to-make-24k-magic-ai-video/",
+            "title": "How to Make the 24K Magic AI Video, Step by Step",
+            "first_seen": "2026-11-04T18:00:09.351475+00:00"
+          }
         ]
       }
     },
@@ -65305,6 +65347,11 @@
             "url": "https://www.getstarrd.app/blog/how-to-make-stadium-calm-down-ai-video",
             "title": "How to Make the Stadium Calm Down AI Video: Be the Only Calm One in a Roaring Stadium, From One Photo (2026)",
             "first_seen": "2026-11-04T06:00:12.280028+00:00"
+          },
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-lonyo-ai-dance",
+            "title": "How to Make the Lonyo AI Dance Video: Lead the Whole Crew From One Photo (2026)",
+            "first_seen": "2026-11-04T18:00:10.218386+00:00"
           }
         ]
       }
@@ -70080,6 +70127,102 @@
             "url": "https://www.media.io/ai/explore/zone/mabel-matiz-umrumdisi-ai-trend",
             "title": "Mabel Matiz Umrumdışı AI – Singing Cat Piano Duet",
             "first_seen": "2026-11-04T12:00:07.449181+00:00"
+          }
+        ]
+      }
+    },
+    "2 people no watermark": {
+      "first_seen": "2026-11-04T18:00:08.956207+00:00",
+      "domains": {
+        "remakeyourmeme.com": [
+          {
+            "url": "https://remakeyourmeme.com/templates/24k-magic-ai-video-generator/",
+            "title": "24K Magic AI Video Generator: Up to 2 People, No Watermark",
+            "first_seen": "2026-11-04T18:00:08.956207+00:00"
+          }
+        ]
+      }
+    },
+    "woke 3": {
+      "first_seen": "2026-11-04T18:00:09.015332+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/woke-3",
+            "title": "Woke 3 | Know Your Meme",
+            "first_seen": "2026-11-04T18:00:09.015332+00:00"
+          }
+        ]
+      }
+    },
+    "magic ai video step": {
+      "first_seen": "2026-11-04T18:00:09.351345+00:00",
+      "domains": {
+        "remakeyourmeme.com": [
+          {
+            "url": "https://remakeyourmeme.com/how-to/how-to-make-24k-magic-ai-video/",
+            "title": "How to Make the 24K Magic AI Video, Step by Step",
+            "first_seen": "2026-11-04T18:00:09.351345+00:00"
+          }
+        ]
+      }
+    },
+    "lead the whole": {
+      "first_seen": "2026-11-04T18:00:10.218447+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-lonyo-ai-dance",
+            "title": "How to Make the Lonyo AI Dance Video: Lead the Whole Crew From One Photo (2026)",
+            "first_seen": "2026-11-04T18:00:10.218447+00:00"
+          }
+        ]
+      }
+    },
+    "whole crew from one": {
+      "first_seen": "2026-11-04T18:00:10.218458+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-lonyo-ai-dance",
+            "title": "How to Make the Lonyo AI Dance Video: Lead the Whole Crew From One Photo (2026)",
+            "first_seen": "2026-11-04T18:00:10.218458+00:00"
+          }
+        ]
+      }
+    },
+    "whole crew": {
+      "first_seen": "2026-11-04T18:00:10.218466+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-lonyo-ai-dance",
+            "title": "How to Make the Lonyo AI Dance Video: Lead the Whole Crew From One Photo (2026)",
+            "first_seen": "2026-11-04T18:00:10.218466+00:00"
+          }
+        ]
+      }
+    },
+    "lead the whole crew": {
+      "first_seen": "2026-11-04T18:00:10.218473+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-lonyo-ai-dance",
+            "title": "How to Make the Lonyo AI Dance Video: Lead the Whole Crew From One Photo (2026)",
+            "first_seen": "2026-11-04T18:00:10.218473+00:00"
+          }
+        ]
+      }
+    },
+    "crew from one": {
+      "first_seen": "2026-11-04T18:00:10.218485+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-lonyo-ai-dance",
+            "title": "How to Make the Lonyo AI Dance Video: Lead the Whole Crew From One Photo (2026)",
+            "first_seen": "2026-11-04T18:00:10.218485+00:00"
           }
         ]
       }
