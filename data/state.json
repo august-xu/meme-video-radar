@@ -1,6 +1,6 @@
 {
-  "last_run_timestamp": "2026-11-04T00:00:17.408467+00:00",
-  "total_urls_seen": 13075,
+  "last_run_timestamp": "2026-11-04T06:00:18.316722+00:00",
+  "total_urls_seen": 13104,
   "seen_urls": {
     "knowyourmeme.com": [
       "https://knowyourmeme.com/memes/yohohoho-binkusuno-sake-by-ado",
@@ -3619,7 +3619,10 @@
       "https://www.lightxeditor.com/blog/how-to-make-i-wanna-love-you-ai-video",
       "https://www.lightxeditor.com/blog/diwali-ai-photo-editing-prompt",
       "https://www.lightxeditor.com/blog/how-to-make-phone-on-train-ai-video",
-      "https://www.lightxeditor.com/blog/how-to-make-jisoo-addicted-dance-with-ai"
+      "https://www.lightxeditor.com/blog/how-to-make-jisoo-addicted-dance-with-ai",
+      "https://www.lightxeditor.com/blog/how-to-make-couple-coffee-mess-ai-video",
+      "https://www.lightxeditor.com/blog/how-to-make-high-altitude-trampoline-ai-video",
+      "https://www.lightxeditor.com/blog/how-to-make-gaint-ramp-climbing-ai-video"
     ],
     "www.media.io": [
       "https://www.media.io/editor/watermark-remover.html",
@@ -11376,7 +11379,10 @@
       "https://www.media.io/ai/ai-tools/video-enhancer/product-video-enhancer",
       "https://www.media.io/ai/explore/zone/champagne-birthday-ai-video",
       "https://www.media.io/ai/explore/zone/runaround-sue-ai-dance-generator",
-      "https://www.media.io/ai/explore/zone/dev-deepawali-ai-photo-prompts"
+      "https://www.media.io/ai/explore/zone/dev-deepawali-ai-photo-prompts",
+      "https://www.media.io/ai/effect/create/58th-floor-ai-video-generator",
+      "https://www.media.io/ai/explore/zone/first-time-in-a-fancy-cafe-ai",
+      "https://www.media.io/ai/explore/zone/hop-hop-hop-ai-dance-generator"
     ],
     "remakeyourmeme.com": [
       "https://remakeyourmeme.com",
@@ -12233,7 +12239,9 @@
       "https://www.getstarrd.app/blog/how-to-make-bombaclat-wallahi-ai-video",
       "https://www.getstarrd.app/blog/how-to-make-dog-coffee-fail-ai-video",
       "https://www.getstarrd.app/blog/how-to-make-i-just-beat-the-case-ai-video",
-      "https://www.getstarrd.app/blog/how-to-make-push-the-button-rush-hour-ai-video"
+      "https://www.getstarrd.app/blog/how-to-make-push-the-button-rush-hour-ai-video",
+      "https://www.getstarrd.app/blog/how-to-make-stadium-calm-down-ai-video",
+      "https://www.getstarrd.app/template/stadium-calm-down-ai-video"
     ],
     "www.capcut.com": [
       "https://www.capcut.com/template-detail/7613449947458981136",
@@ -12939,6 +12947,19 @@
       "https://www.capcut.com/template-detail/7628428485073063175",
       "https://www.capcut.com/template-detail/7401807067406929153",
       "https://www.capcut.com/template-detail/7626718228718406929",
+      "https://www.capcut.com/template-detail/7636033261264702728",
+      "https://www.capcut.com/template-detail/7422475672074865938",
+      "https://www.capcut.com/template-detail/7601555915468262674",
+      "https://www.capcut.com/template-detail/7530687794755161397",
+      "https://www.capcut.com/template-detail/7642005896716979477",
+      "https://www.capcut.com/template-detail/7574060723123293445",
+      "https://www.capcut.com/template-detail/7507248969974615349",
+      "https://www.capcut.com/template-detail/7601230789774249221",
+      "https://www.capcut.com/template-detail/7621923947470179601",
+      "https://www.capcut.com/template-detail/7500996436440403261",
+      "https://www.capcut.com/template-detail/7628428485073063175",
+      "https://www.capcut.com/template-detail/7401807067406929153",
+      "https://www.capcut.com/template-detail/7626718228718406929",
       "https://www.capcut.com/template-detail/7636033261264702728"
     ],
     "maketrendai.com": [
@@ -13095,7 +13116,15 @@
       "https://maketrendai.com/blog/dog-bohemian-rhapsody-trend",
       "https://maketrendai.com/dog-bohemian-rhapsody-ai",
       "https://maketrendai.com/blog/how-to-make-dog-bohemian-rhapsody-ai-video",
-      "https://maketrendai.com/dog-bohemian-rhapsody-ai"
+      "https://maketrendai.com/dog-bohemian-rhapsody-ai",
+      "https://maketrendai.com/blog/how-to-make-closing-door-prank-ai-video",
+      "https://maketrendai.com/first-time-in-a-fancy-cafe-ai",
+      "https://maketrendai.com/blog/closing-door-prank-ai-trend",
+      "https://maketrendai.com/blog/best-closing-door-prank-ai-video-generators",
+      "https://maketrendai.com/blog/best-first-time-in-a-fancy-cafe-ai-video-generators",
+      "https://maketrendai.com/closing-door-prank-ai",
+      "https://maketrendai.com/blog/how-to-make-first-time-in-a-fancy-cafe-ai-video",
+      "https://maketrendai.com/blog/first-time-in-a-fancy-cafe-ai-trend"
     ]
   },
   "entities": {
@@ -32760,6 +32789,16 @@
             "url": "https://maketrendai.com/blog/best-middle-finger-dunk-ai-video-generators",
             "title": "Middle Finger Dunk AI Generators (2026): MakeViral vs Summrs vs Oakgen vs MakeTrend AI | MakeTrend AI",
             "first_seen": "2026-10-31T00:00:09.235672+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/best-closing-door-prank-ai-video-generators",
+            "title": "Closing Door Prank AI Video Generators (2026): Which Ones Work With Your Dog or Cat? | MakeTrend AI",
+            "first_seen": "2026-11-04T06:00:11.128108+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/best-first-time-in-a-fancy-cafe-ai-video-generators",
+            "title": "First Time in a Fancy Cafe AI Video Generators (2026): Which Ones Work With Your Pet? | MakeTrend AI",
+            "first_seen": "2026-11-04T06:00:11.161532+00:00"
           }
         ]
       }
@@ -46940,6 +46979,11 @@
             "url": "https://maketrendai.com/blog/outstanding-tiny-desk-ai-trend",
             "title": "The Tiny Desk AI Trend, Explained: Where the Outstanding Desk Concert Meme Came From | MakeTrend AI",
             "first_seen": "2026-10-31T00:00:08.954187+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/closing-door-prank-ai-trend",
+            "title": "The Closing Door Prank, Explained: Where It Came From and Why Pets Joined In | MakeTrend AI",
+            "first_seen": "2026-11-04T06:00:11.100198+00:00"
           }
         ]
       }
@@ -52017,6 +52061,13 @@
             "title": "How to Make the Hop Hop Hop AI Video: The Viral Duo Swap From Your Photos | MakeTrend AI",
             "first_seen": "2026-10-31T00:00:10.012849+00:00"
           }
+        ],
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/hop-hop-hop-ai-dance-generator",
+            "title": "Hop Hop Hop AI Dance Generator – Duo Swap Trend | Media.io",
+            "first_seen": "2026-11-04T06:00:11.358004+00:00"
+          }
         ]
       }
     },
@@ -52050,6 +52101,13 @@
             "url": "https://maketrendai.com/blog/how-to-make-hop-hop-hop-ai-video",
             "title": "How to Make the Hop Hop Hop AI Video: The Viral Duo Swap From Your Photos | MakeTrend AI",
             "first_seen": "2026-10-31T00:00:10.012866+00:00"
+          }
+        ],
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/hop-hop-hop-ai-dance-generator",
+            "title": "Hop Hop Hop AI Dance Generator – Duo Swap Trend | Media.io",
+            "first_seen": "2026-11-04T06:00:11.357928+00:00"
           }
         ]
       }
@@ -62357,6 +62415,18 @@
             "title": "Stadium Calm Down AI – The Unbothered Palms-Down Walk",
             "first_seen": "2026-11-02T18:00:08.376238+00:00"
           }
+        ],
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-stadium-calm-down-ai-video",
+            "title": "How to Make the Stadium Calm Down AI Video: Be the Only Calm One in a Roaring Stadium, From One Photo (2026)",
+            "first_seen": "2026-11-04T06:00:12.280066+00:00"
+          },
+          {
+            "url": "https://www.getstarrd.app/template/stadium-calm-down-ai-video",
+            "title": "Stadium Calm Down — AI Video Template | Starrd",
+            "first_seen": "2026-11-04T06:00:13.094450+00:00"
+          }
         ]
       }
     },
@@ -62693,6 +62763,28 @@
             "title": "Closing Door Prank AI – The Hallway Door-Shut Illusion",
             "first_seen": "2026-11-02T18:00:09.062592+00:00"
           }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/how-to-make-closing-door-prank-ai-video",
+            "title": "How to Make the Closing Door Prank AI Video, With People or Your Pet | MakeTrend AI",
+            "first_seen": "2026-11-04T06:00:10.261399+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/closing-door-prank-ai-trend",
+            "title": "The Closing Door Prank, Explained: Where It Came From and Why Pets Joined In | MakeTrend AI",
+            "first_seen": "2026-11-04T06:00:11.100226+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/best-closing-door-prank-ai-video-generators",
+            "title": "Closing Door Prank AI Video Generators (2026): Which Ones Work With Your Dog or Cat? | MakeTrend AI",
+            "first_seen": "2026-11-04T06:00:11.128152+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/closing-door-prank-ai",
+            "title": "Closing Door Prank AI — Make the Viral Door Prank Video From a Photo, With People or Pets",
+            "first_seen": "2026-11-04T06:00:11.258760+00:00"
+          }
         ]
       }
     },
@@ -62705,6 +62797,28 @@
             "title": "Closing Door Prank AI – The Hallway Door-Shut Illusion",
             "first_seen": "2026-11-02T18:00:09.062630+00:00"
           }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/how-to-make-closing-door-prank-ai-video",
+            "title": "How to Make the Closing Door Prank AI Video, With People or Your Pet | MakeTrend AI",
+            "first_seen": "2026-11-04T06:00:10.261350+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/closing-door-prank-ai-trend",
+            "title": "The Closing Door Prank, Explained: Where It Came From and Why Pets Joined In | MakeTrend AI",
+            "first_seen": "2026-11-04T06:00:11.100191+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/best-closing-door-prank-ai-video-generators",
+            "title": "Closing Door Prank AI Video Generators (2026): Which Ones Work With Your Dog or Cat? | MakeTrend AI",
+            "first_seen": "2026-11-04T06:00:11.128099+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/closing-door-prank-ai",
+            "title": "Closing Door Prank AI — Make the Viral Door Prank Video From a Photo, With People or Pets",
+            "first_seen": "2026-11-04T06:00:11.258709+00:00"
+          }
         ]
       }
     },
@@ -62716,6 +62830,28 @@
             "url": "https://www.media.io/ai/explore/zone/closing-door-prank-ai-video-generator",
             "title": "Closing Door Prank AI – The Hallway Door-Shut Illusion",
             "first_seen": "2026-11-02T18:00:09.062647+00:00"
+          }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/how-to-make-closing-door-prank-ai-video",
+            "title": "How to Make the Closing Door Prank AI Video, With People or Your Pet | MakeTrend AI",
+            "first_seen": "2026-11-04T06:00:10.261409+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/closing-door-prank-ai-trend",
+            "title": "The Closing Door Prank, Explained: Where It Came From and Why Pets Joined In | MakeTrend AI",
+            "first_seen": "2026-11-04T06:00:11.100173+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/best-closing-door-prank-ai-video-generators",
+            "title": "Closing Door Prank AI Video Generators (2026): Which Ones Work With Your Dog or Cat? | MakeTrend AI",
+            "first_seen": "2026-11-04T06:00:11.128166+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/closing-door-prank-ai",
+            "title": "Closing Door Prank AI — Make the Viral Door Prank Video From a Photo, With People or Pets",
+            "first_seen": "2026-11-04T06:00:11.258780+00:00"
           }
         ]
       }
@@ -62882,6 +63018,13 @@
             "url": "https://www.getstarrd.app/template/58th-floor-ai-video",
             "title": "58th Floor — AI Video Template | Starrd",
             "first_seen": "2026-11-02T18:00:10.424133+00:00"
+          }
+        ],
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/effect/create/58th-floor-ai-video-generator",
+            "title": "58th Floor AI Video Generator – COLORS-Style Rap Duet",
+            "first_seen": "2026-11-04T06:00:10.925990+00:00"
           }
         ]
       }
@@ -65106,6 +65249,11 @@
             "url": "https://www.getstarrd.app/blog/how-to-make-i-just-beat-the-case-ai-video",
             "title": "How to Make the 'I Just Beat The Case' AI Video: Walk Out of Court Free and Celebrate, From One Photo (2026)",
             "first_seen": "2026-11-03T18:00:15.170659+00:00"
+          },
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-stadium-calm-down-ai-video",
+            "title": "How to Make the Stadium Calm Down AI Video: Be the Only Calm One in a Roaring Stadium, From One Photo (2026)",
+            "first_seen": "2026-11-04T06:00:12.280028+00:00"
           }
         ]
       }
@@ -68891,6 +69039,35 @@
             "title": "Your First Time In a Fancy Cafe | Know Your Meme",
             "first_seen": "2026-11-04T00:00:08.554224+00:00"
           }
+        ],
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/first-time-in-a-fancy-cafe-ai",
+            "title": "First Time in a Fancy Cafe AI — Make the POV Trend with Your Dog or Cat",
+            "first_seen": "2026-11-04T06:00:11.010139+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/best-first-time-in-a-fancy-cafe-ai-video-generators",
+            "title": "First Time in a Fancy Cafe AI Video Generators (2026): Which Ones Work With Your Pet? | MakeTrend AI",
+            "first_seen": "2026-11-04T06:00:11.161468+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/how-to-make-first-time-in-a-fancy-cafe-ai-video",
+            "title": "How to Make the First Time in a Fancy Cafe AI Video with Your Dog or Cat | MakeTrend AI",
+            "first_seen": "2026-11-04T06:00:11.671673+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/first-time-in-a-fancy-cafe-ai-trend",
+            "title": "\"First Time in a Fancy Cafe\": the Trend and Its Pet Versions, Explained | MakeTrend AI",
+            "first_seen": "2026-11-04T06:00:11.671878+00:00"
+          }
+        ],
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/first-time-in-a-fancy-cafe-ai",
+            "title": "POV First Time in a Fancy Cafe AI Video Generator | Media.io",
+            "first_seen": "2026-11-04T06:00:11.147307+00:00"
+          }
         ]
       }
     },
@@ -69376,6 +69553,410 @@
             "url": "https://www.getstarrd.app/blog/how-to-make-push-the-button-rush-hour-ai-video",
             "title": "Rush Hour 'Push the Button' Scene AI Video | Starrd",
             "first_seen": "2026-11-04T00:00:10.309330+00:00"
+          }
+        ]
+      }
+    },
+    "couple coffee mess": {
+      "first_seen": "2026-11-04T06:00:10.320429+00:00",
+      "domains": {
+        "www.lightxeditor.com": [
+          {
+            "url": "https://www.lightxeditor.com/blog/how-to-make-couple-coffee-mess-ai-video/",
+            "title": "How to Make Couple Coffee Mess AI Video | LightX",
+            "first_seen": "2026-11-04T06:00:10.320429+00:00"
+          }
+        ]
+      }
+    },
+    "coffee mess": {
+      "first_seen": "2026-11-04T06:00:10.320465+00:00",
+      "domains": {
+        "www.lightxeditor.com": [
+          {
+            "url": "https://www.lightxeditor.com/blog/how-to-make-couple-coffee-mess-ai-video/",
+            "title": "How to Make Couple Coffee Mess AI Video | LightX",
+            "first_seen": "2026-11-04T06:00:10.320465+00:00"
+          }
+        ]
+      }
+    },
+    "couple coffee": {
+      "first_seen": "2026-11-04T06:00:10.320474+00:00",
+      "domains": {
+        "www.lightxeditor.com": [
+          {
+            "url": "https://www.lightxeditor.com/blog/how-to-make-couple-coffee-mess-ai-video/",
+            "title": "How to Make Couple Coffee Mess AI Video | LightX",
+            "first_seen": "2026-11-04T06:00:10.320474+00:00"
+          }
+        ]
+      }
+    },
+    "altitude trampoline": {
+      "first_seen": "2026-11-04T06:00:10.377544+00:00",
+      "domains": {
+        "www.lightxeditor.com": [
+          {
+            "url": "https://www.lightxeditor.com/blog/how-to-make-high-altitude-trampoline-ai-video/",
+            "title": "How to Make Viral High Altitude Trampoline Jump AI Video | LightX",
+            "first_seen": "2026-11-04T06:00:10.377544+00:00"
+          }
+        ]
+      }
+    },
+    "trampoline jump": {
+      "first_seen": "2026-11-04T06:00:10.377590+00:00",
+      "domains": {
+        "www.lightxeditor.com": [
+          {
+            "url": "https://www.lightxeditor.com/blog/how-to-make-high-altitude-trampoline-ai-video/",
+            "title": "How to Make Viral High Altitude Trampoline Jump AI Video | LightX",
+            "first_seen": "2026-11-04T06:00:10.377590+00:00"
+          }
+        ]
+      }
+    },
+    "high altitude": {
+      "first_seen": "2026-11-04T06:00:10.377601+00:00",
+      "domains": {
+        "www.lightxeditor.com": [
+          {
+            "url": "https://www.lightxeditor.com/blog/how-to-make-high-altitude-trampoline-ai-video/",
+            "title": "How to Make Viral High Altitude Trampoline Jump AI Video | LightX",
+            "first_seen": "2026-11-04T06:00:10.377601+00:00"
+          }
+        ]
+      }
+    },
+    "altitude trampoline jump": {
+      "first_seen": "2026-11-04T06:00:10.377608+00:00",
+      "domains": {
+        "www.lightxeditor.com": [
+          {
+            "url": "https://www.lightxeditor.com/blog/how-to-make-high-altitude-trampoline-ai-video/",
+            "title": "How to Make Viral High Altitude Trampoline Jump AI Video | LightX",
+            "first_seen": "2026-11-04T06:00:10.377608+00:00"
+          }
+        ]
+      }
+    },
+    "high altitude trampoline": {
+      "first_seen": "2026-11-04T06:00:10.377615+00:00",
+      "domains": {
+        "www.lightxeditor.com": [
+          {
+            "url": "https://www.lightxeditor.com/blog/how-to-make-high-altitude-trampoline-ai-video/",
+            "title": "How to Make Viral High Altitude Trampoline Jump AI Video | LightX",
+            "first_seen": "2026-11-04T06:00:10.377615+00:00"
+          }
+        ]
+      }
+    },
+    "high altitude trampoline jump": {
+      "first_seen": "2026-11-04T06:00:10.377621+00:00",
+      "domains": {
+        "www.lightxeditor.com": [
+          {
+            "url": "https://www.lightxeditor.com/blog/how-to-make-high-altitude-trampoline-ai-video/",
+            "title": "How to Make Viral High Altitude Trampoline Jump AI Video | LightX",
+            "first_seen": "2026-11-04T06:00:10.377621+00:00"
+          }
+        ]
+      }
+    },
+    "gaint ramp": {
+      "first_seen": "2026-11-04T06:00:10.434523+00:00",
+      "domains": {
+        "www.lightxeditor.com": [
+          {
+            "url": "https://www.lightxeditor.com/blog/how-to-make-gaint-ramp-climbing-ai-video/",
+            "title": "How to Make Giant Ramp Climbing Video with AI",
+            "first_seen": "2026-11-04T06:00:10.434523+00:00"
+          }
+        ]
+      }
+    },
+    "giant ramp climbing": {
+      "first_seen": "2026-11-04T06:00:10.434566+00:00",
+      "domains": {
+        "www.lightxeditor.com": [
+          {
+            "url": "https://www.lightxeditor.com/blog/how-to-make-gaint-ramp-climbing-ai-video/",
+            "title": "How to Make Giant Ramp Climbing Video with AI",
+            "first_seen": "2026-11-04T06:00:10.434566+00:00"
+          }
+        ]
+      }
+    },
+    "gaint ramp climbing": {
+      "first_seen": "2026-11-04T06:00:10.434581+00:00",
+      "domains": {
+        "www.lightxeditor.com": [
+          {
+            "url": "https://www.lightxeditor.com/blog/how-to-make-gaint-ramp-climbing-ai-video/",
+            "title": "How to Make Giant Ramp Climbing Video with AI",
+            "first_seen": "2026-11-04T06:00:10.434581+00:00"
+          }
+        ]
+      }
+    },
+    "giant ramp": {
+      "first_seen": "2026-11-04T06:00:10.434595+00:00",
+      "domains": {
+        "www.lightxeditor.com": [
+          {
+            "url": "https://www.lightxeditor.com/blog/how-to-make-gaint-ramp-climbing-ai-video/",
+            "title": "How to Make Giant Ramp Climbing Video with AI",
+            "first_seen": "2026-11-04T06:00:10.434595+00:00"
+          }
+        ]
+      }
+    },
+    "ramp climbing": {
+      "first_seen": "2026-11-04T06:00:10.434609+00:00",
+      "domains": {
+        "www.lightxeditor.com": [
+          {
+            "url": "https://www.lightxeditor.com/blog/how-to-make-gaint-ramp-climbing-ai-video/",
+            "title": "How to Make Giant Ramp Climbing Video with AI",
+            "first_seen": "2026-11-04T06:00:10.434609+00:00"
+          }
+        ]
+      }
+    },
+    "prank explained where": {
+      "first_seen": "2026-11-04T06:00:11.100113+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/closing-door-prank-ai-trend",
+            "title": "The Closing Door Prank, Explained: Where It Came From and Why Pets Joined In | MakeTrend AI",
+            "first_seen": "2026-11-04T06:00:11.100113+00:00"
+          }
+        ]
+      }
+    },
+    "prank explained": {
+      "first_seen": "2026-11-04T06:00:11.100147+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/closing-door-prank-ai-trend",
+            "title": "The Closing Door Prank, Explained: Where It Came From and Why Pets Joined In | MakeTrend AI",
+            "first_seen": "2026-11-04T06:00:11.100147+00:00"
+          }
+        ]
+      }
+    },
+    "closing door prank explained": {
+      "first_seen": "2026-11-04T06:00:11.100155+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/closing-door-prank-ai-trend",
+            "title": "The Closing Door Prank, Explained: Where It Came From and Why Pets Joined In | MakeTrend AI",
+            "first_seen": "2026-11-04T06:00:11.100155+00:00"
+          }
+        ]
+      }
+    },
+    "door prank explained": {
+      "first_seen": "2026-11-04T06:00:11.100183+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/closing-door-prank-ai-trend",
+            "title": "The Closing Door Prank, Explained: Where It Came From and Why Pets Joined In | MakeTrend AI",
+            "first_seen": "2026-11-04T06:00:11.100183+00:00"
+          }
+        ]
+      }
+    },
+    "door prank explained where": {
+      "first_seen": "2026-11-04T06:00:11.100218+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/closing-door-prank-ai-trend",
+            "title": "The Closing Door Prank, Explained: Where It Came From and Why Pets Joined In | MakeTrend AI",
+            "first_seen": "2026-11-04T06:00:11.100218+00:00"
+          }
+        ]
+      }
+    },
+    "why pets joined": {
+      "first_seen": "2026-11-04T06:00:11.100234+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/closing-door-prank-ai-trend",
+            "title": "The Closing Door Prank, Explained: Where It Came From and Why Pets Joined In | MakeTrend AI",
+            "first_seen": "2026-11-04T06:00:11.100234+00:00"
+          }
+        ]
+      }
+    },
+    "2026 which ones": {
+      "first_seen": "2026-11-04T06:00:11.128049+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/best-closing-door-prank-ai-video-generators",
+            "title": "Closing Door Prank AI Video Generators (2026): Which Ones Work With Your Dog or Cat? | MakeTrend AI",
+            "first_seen": "2026-11-04T06:00:11.128049+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/best-first-time-in-a-fancy-cafe-ai-video-generators",
+            "title": "First Time in a Fancy Cafe AI Video Generators (2026): Which Ones Work With Your Pet? | MakeTrend AI",
+            "first_seen": "2026-11-04T06:00:11.161504+00:00"
+          }
+        ]
+      }
+    },
+    "2026 which ones work": {
+      "first_seen": "2026-11-04T06:00:11.128084+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/best-closing-door-prank-ai-video-generators",
+            "title": "Closing Door Prank AI Video Generators (2026): Which Ones Work With Your Dog or Cat? | MakeTrend AI",
+            "first_seen": "2026-11-04T06:00:11.128084+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/best-first-time-in-a-fancy-cafe-ai-video-generators",
+            "title": "First Time in a Fancy Cafe AI Video Generators (2026): Which Ones Work With Your Pet? | MakeTrend AI",
+            "first_seen": "2026-11-04T06:00:11.161512+00:00"
+          }
+        ]
+      }
+    },
+    "ones work": {
+      "first_seen": "2026-11-04T06:00:11.128092+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/best-closing-door-prank-ai-video-generators",
+            "title": "Closing Door Prank AI Video Generators (2026): Which Ones Work With Your Dog or Cat? | MakeTrend AI",
+            "first_seen": "2026-11-04T06:00:11.128092+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/best-first-time-in-a-fancy-cafe-ai-video-generators",
+            "title": "First Time in a Fancy Cafe AI Video Generators (2026): Which Ones Work With Your Pet? | MakeTrend AI",
+            "first_seen": "2026-11-04T06:00:11.161519+00:00"
+          }
+        ]
+      }
+    },
+    "prank ai video generators": {
+      "first_seen": "2026-11-04T06:00:11.128134+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/best-closing-door-prank-ai-video-generators",
+            "title": "Closing Door Prank AI Video Generators (2026): Which Ones Work With Your Dog or Cat? | MakeTrend AI",
+            "first_seen": "2026-11-04T06:00:11.128134+00:00"
+          }
+        ]
+      }
+    },
+    "generators 2026 which ones": {
+      "first_seen": "2026-11-04T06:00:11.128174+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/best-closing-door-prank-ai-video-generators",
+            "title": "Closing Door Prank AI Video Generators (2026): Which Ones Work With Your Dog or Cat? | MakeTrend AI",
+            "first_seen": "2026-11-04T06:00:11.128174+00:00"
+          },
+          {
+            "url": "https://maketrendai.com/blog/best-first-time-in-a-fancy-cafe-ai-video-generators",
+            "title": "First Time in a Fancy Cafe AI Video Generators (2026): Which Ones Work With Your Pet? | MakeTrend AI",
+            "first_seen": "2026-11-04T06:00:11.161542+00:00"
+          }
+        ]
+      }
+    },
+    "cafe ai video generators": {
+      "first_seen": "2026-11-04T06:00:11.161525+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/best-first-time-in-a-fancy-cafe-ai-video-generators",
+            "title": "First Time in a Fancy Cafe AI Video Generators (2026): Which Ones Work With Your Pet? | MakeTrend AI",
+            "first_seen": "2026-11-04T06:00:11.161525+00:00"
+          }
+        ]
+      }
+    },
+    "versions explained": {
+      "first_seen": "2026-11-04T06:00:11.671898+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/blog/first-time-in-a-fancy-cafe-ai-trend",
+            "title": "\"First Time in a Fancy Cafe\": the Trend and Its Pet Versions, Explained | MakeTrend AI",
+            "first_seen": "2026-11-04T06:00:11.671898+00:00"
+          }
+        ]
+      }
+    },
+    "calm one": {
+      "first_seen": "2026-11-04T06:00:12.280076+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-stadium-calm-down-ai-video",
+            "title": "How to Make the Stadium Calm Down AI Video: Be the Only Calm One in a Roaring Stadium, From One Photo (2026)",
+            "first_seen": "2026-11-04T06:00:12.280076+00:00"
+          }
+        ]
+      }
+    },
+    "roaring stadium from one": {
+      "first_seen": "2026-11-04T06:00:12.280084+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-stadium-calm-down-ai-video",
+            "title": "How to Make the Stadium Calm Down AI Video: Be the Only Calm One in a Roaring Stadium, From One Photo (2026)",
+            "first_seen": "2026-11-04T06:00:12.280084+00:00"
+          }
+        ]
+      }
+    },
+    "stadium from one": {
+      "first_seen": "2026-11-04T06:00:12.280091+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-stadium-calm-down-ai-video",
+            "title": "How to Make the Stadium Calm Down AI Video: Be the Only Calm One in a Roaring Stadium, From One Photo (2026)",
+            "first_seen": "2026-11-04T06:00:12.280091+00:00"
+          }
+        ]
+      }
+    },
+    "roaring stadium": {
+      "first_seen": "2026-11-04T06:00:12.280098+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-stadium-calm-down-ai-video",
+            "title": "How to Make the Stadium Calm Down AI Video: Be the Only Calm One in a Roaring Stadium, From One Photo (2026)",
+            "first_seen": "2026-11-04T06:00:12.280098+00:00"
+          }
+        ]
+      }
+    },
+    "one in a roaring": {
+      "first_seen": "2026-11-04T06:00:12.280104+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-stadium-calm-down-ai-video",
+            "title": "How to Make the Stadium Calm Down AI Video: Be the Only Calm One in a Roaring Stadium, From One Photo (2026)",
+            "first_seen": "2026-11-04T06:00:12.280104+00:00"
           }
         ]
       }
