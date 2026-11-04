@@ -1,6 +1,6 @@
 {
-  "last_run_timestamp": "2026-11-04T06:00:18.316722+00:00",
-  "total_urls_seen": 13104,
+  "last_run_timestamp": "2026-11-04T12:00:14.208976+00:00",
+  "total_urls_seen": 13120,
   "seen_urls": {
     "knowyourmeme.com": [
       "https://knowyourmeme.com/memes/yohohoho-binkusuno-sake-by-ado",
@@ -11382,7 +11382,11 @@
       "https://www.media.io/ai/explore/zone/dev-deepawali-ai-photo-prompts",
       "https://www.media.io/ai/effect/create/58th-floor-ai-video-generator",
       "https://www.media.io/ai/explore/zone/first-time-in-a-fancy-cafe-ai",
-      "https://www.media.io/ai/explore/zone/hop-hop-hop-ai-dance-generator"
+      "https://www.media.io/ai/explore/zone/hop-hop-hop-ai-dance-generator",
+      "https://www.media.io/ai/explore/zone/darts-170-ai-trend",
+      "https://www.media.io/ai/explore/zone/i-thought-we-were-having-a-nice-date-ai-video",
+      "https://www.media.io/ai/explore/zone/angry-dance-filter-ai",
+      "https://www.media.io/ai/explore/zone/mabel-matiz-umrumdisi-ai-trend"
     ],
     "remakeyourmeme.com": [
       "https://remakeyourmeme.com",
@@ -12949,6 +12953,18 @@
       "https://www.capcut.com/template-detail/7626718228718406929",
       "https://www.capcut.com/template-detail/7636033261264702728",
       "https://www.capcut.com/template-detail/7422475672074865938",
+      "https://www.capcut.com/template-detail/7601555915468262674",
+      "https://www.capcut.com/template-detail/7530687794755161397",
+      "https://www.capcut.com/template-detail/7642005896716979477",
+      "https://www.capcut.com/template-detail/7574060723123293445",
+      "https://www.capcut.com/template-detail/7507248969974615349",
+      "https://www.capcut.com/template-detail/7601230789774249221",
+      "https://www.capcut.com/template-detail/7621923947470179601",
+      "https://www.capcut.com/template-detail/7500996436440403261",
+      "https://www.capcut.com/template-detail/7628428485073063175",
+      "https://www.capcut.com/template-detail/7401807067406929153",
+      "https://www.capcut.com/template-detail/7626718228718406929",
+      "https://www.capcut.com/template-detail/7636033261264702728",
       "https://www.capcut.com/template-detail/7601555915468262674",
       "https://www.capcut.com/template-detail/7530687794755161397",
       "https://www.capcut.com/template-detail/7642005896716979477",
@@ -41980,6 +41996,13 @@
             "title": "How to Make the 'I Thought We Were Having a Nice Date' AI Meme (Starring You and Your Date, 2026)",
             "first_seen": "2026-10-29T06:00:26.699653+00:00"
           }
+        ],
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/i-thought-we-were-having-a-nice-date-ai-video",
+            "title": "I Thought We Were Having a Nice Date AI Video",
+            "first_seen": "2026-11-04T12:00:07.448248+00:00"
+          }
         ]
       }
     },
@@ -41996,6 +42019,13 @@
             "url": "https://www.getstarrd.app/blog/how-to-make-i-thought-we-were-having-a-nice-date-ai-video",
             "title": "How to Make the 'I Thought We Were Having a Nice Date' AI Meme (Starring You and Your Date, 2026)",
             "first_seen": "2026-10-29T06:00:26.699664+00:00"
+          }
+        ],
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/i-thought-we-were-having-a-nice-date-ai-video",
+            "title": "I Thought We Were Having a Nice Date AI Video",
+            "first_seen": "2026-11-04T12:00:07.448368+00:00"
           }
         ]
       }
@@ -42014,6 +42044,13 @@
             "title": "How to Make the 'I Thought We Were Having a Nice Date' AI Meme (Starring You and Your Date, 2026)",
             "first_seen": "2026-10-29T06:00:26.699526+00:00"
           }
+        ],
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/i-thought-we-were-having-a-nice-date-ai-video",
+            "title": "I Thought We Were Having a Nice Date AI Video",
+            "first_seen": "2026-11-04T12:00:07.448407+00:00"
+          }
         ]
       }
     },
@@ -42031,6 +42068,13 @@
             "title": "How to Make the 'I Thought We Were Having a Nice Date' AI Meme (Starring You and Your Date, 2026)",
             "first_seen": "2026-10-29T06:00:26.699675+00:00"
           }
+        ],
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/i-thought-we-were-having-a-nice-date-ai-video",
+            "title": "I Thought We Were Having a Nice Date AI Video",
+            "first_seen": "2026-11-04T12:00:07.448390+00:00"
+          }
         ]
       }
     },
@@ -42047,6 +42091,13 @@
             "url": "https://www.getstarrd.app/blog/how-to-make-i-thought-we-were-having-a-nice-date-ai-video",
             "title": "How to Make the 'I Thought We Were Having a Nice Date' AI Meme (Starring You and Your Date, 2026)",
             "first_seen": "2026-10-29T06:00:26.699641+00:00"
+          }
+        ],
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/i-thought-we-were-having-a-nice-date-ai-video",
+            "title": "I Thought We Were Having a Nice Date AI Video",
+            "first_seen": "2026-11-04T12:00:07.448424+00:00"
           }
         ]
       }
@@ -69957,6 +70008,78 @@
             "url": "https://www.getstarrd.app/blog/how-to-make-stadium-calm-down-ai-video",
             "title": "How to Make the Stadium Calm Down AI Video: Be the Only Calm One in a Roaring Stadium, From One Photo (2026)",
             "first_seen": "2026-11-04T06:00:12.280104+00:00"
+          }
+        ]
+      }
+    },
+    "darts 170": {
+      "first_seen": "2026-11-04T12:00:07.307067+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/darts-170-ai-trend",
+            "title": "Darts 170 AI Video – 170 Checkout & Bullseye Prank",
+            "first_seen": "2026-11-04T12:00:07.307067+00:00"
+          }
+        ]
+      }
+    },
+    "matiz umrumdisi": {
+      "first_seen": "2026-11-04T12:00:07.449111+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/mabel-matiz-umrumdisi-ai-trend",
+            "title": "Mabel Matiz Umrumdışı AI – Singing Cat Piano Duet",
+            "first_seen": "2026-11-04T12:00:07.449111+00:00"
+          }
+        ]
+      }
+    },
+    "mabel matiz": {
+      "first_seen": "2026-11-04T12:00:07.449136+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/mabel-matiz-umrumdisi-ai-trend",
+            "title": "Mabel Matiz Umrumdışı AI – Singing Cat Piano Duet",
+            "first_seen": "2026-11-04T12:00:07.449136+00:00"
+          }
+        ]
+      }
+    },
+    "mabel matiz umrumd": {
+      "first_seen": "2026-11-04T12:00:07.449152+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/mabel-matiz-umrumdisi-ai-trend",
+            "title": "Mabel Matiz Umrumdışı AI – Singing Cat Piano Duet",
+            "first_seen": "2026-11-04T12:00:07.449152+00:00"
+          }
+        ]
+      }
+    },
+    "mabel matiz umrumdisi": {
+      "first_seen": "2026-11-04T12:00:07.449166+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/mabel-matiz-umrumdisi-ai-trend",
+            "title": "Mabel Matiz Umrumdışı AI – Singing Cat Piano Duet",
+            "first_seen": "2026-11-04T12:00:07.449166+00:00"
+          }
+        ]
+      }
+    },
+    "matiz umrumd": {
+      "first_seen": "2026-11-04T12:00:07.449181+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/mabel-matiz-umrumdisi-ai-trend",
+            "title": "Mabel Matiz Umrumdışı AI – Singing Cat Piano Duet",
+            "first_seen": "2026-11-04T12:00:07.449181+00:00"
           }
         ]
       }
