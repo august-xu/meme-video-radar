@@ -1,6 +1,6 @@
 {
-  "last_run_timestamp": "2026-11-04T18:00:17.448346+00:00",
-  "total_urls_seen": 13138,
+  "last_run_timestamp": "2026-11-05T00:00:16.785314+00:00",
+  "total_urls_seen": 13152,
   "seen_urls": {
     "knowyourmeme.com": [
       "https://knowyourmeme.com/memes/yohohoho-binkusuno-sake-by-ado",
@@ -91,7 +91,9 @@
       "https://knowyourmeme.com/memes/events/theburntpeanut-dead-by-daylight-controversy",
       "https://knowyourmeme.com/memes/the-last-dance-trend",
       "https://knowyourmeme.com/memes/your-first-time-in-a-fancy-cafe",
-      "https://knowyourmeme.com/memes/woke-3"
+      "https://knowyourmeme.com/memes/woke-3",
+      "https://knowyourmeme.com/memes/permission-to-cry-soldier",
+      "https://knowyourmeme.com/memes/i-remember-when-you-were-little-little-little-little--2"
     ],
     "aptvideoai.com": [
       "https://aptvideoai.com",
@@ -12959,6 +12961,18 @@
       "https://www.capcut.com/template-detail/7626718228718406929",
       "https://www.capcut.com/template-detail/7636033261264702728",
       "https://www.capcut.com/template-detail/7422475672074865938",
+      "https://www.capcut.com/template-detail/7601555915468262674",
+      "https://www.capcut.com/template-detail/7530687794755161397",
+      "https://www.capcut.com/template-detail/7642005896716979477",
+      "https://www.capcut.com/template-detail/7574060723123293445",
+      "https://www.capcut.com/template-detail/7507248969974615349",
+      "https://www.capcut.com/template-detail/7601230789774249221",
+      "https://www.capcut.com/template-detail/7621923947470179601",
+      "https://www.capcut.com/template-detail/7500996436440403261",
+      "https://www.capcut.com/template-detail/7628428485073063175",
+      "https://www.capcut.com/template-detail/7401807067406929153",
+      "https://www.capcut.com/template-detail/7626718228718406929",
+      "https://www.capcut.com/template-detail/7636033261264702728",
       "https://www.capcut.com/template-detail/7601555915468262674",
       "https://www.capcut.com/template-detail/7530687794755161397",
       "https://www.capcut.com/template-detail/7642005896716979477",
@@ -70223,6 +70237,126 @@
             "url": "https://www.getstarrd.app/blog/how-to-make-lonyo-ai-dance",
             "title": "How to Make the Lonyo AI Dance Video: Lead the Whole Crew From One Photo (2026)",
             "first_seen": "2026-11-04T18:00:10.218485+00:00"
+          }
+        ]
+      }
+    },
+    "permission to cry soldier": {
+      "first_seen": "2026-11-05T00:00:08.798804+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/permission-to-cry-soldier",
+            "title": "Permission to Cry, Soldier | Know Your Meme",
+            "first_seen": "2026-11-05T00:00:08.798804+00:00"
+          }
+        ]
+      }
+    },
+    "permission to cry": {
+      "first_seen": "2026-11-05T00:00:08.798842+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/permission-to-cry-soldier",
+            "title": "Permission to Cry, Soldier | Know Your Meme",
+            "first_seen": "2026-11-05T00:00:08.798842+00:00"
+          }
+        ]
+      }
+    },
+    "cry soldier": {
+      "first_seen": "2026-11-05T00:00:08.798851+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/permission-to-cry-soldier",
+            "title": "Permission to Cry, Soldier | Know Your Meme",
+            "first_seen": "2026-11-05T00:00:08.798851+00:00"
+          }
+        ]
+      }
+    },
+    "little little": {
+      "first_seen": "2026-11-05T00:00:09.065855+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/i-remember-when-you-were-little-little-little-little--2",
+            "title": "I Remember When You Were Little, Little, Little, Little | Know Your Meme",
+            "first_seen": "2026-11-05T00:00:09.065855+00:00"
+          }
+        ]
+      }
+    },
+    "little little little little": {
+      "first_seen": "2026-11-05T00:00:09.065898+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/i-remember-when-you-were-little-little-little-little--2",
+            "title": "I Remember When You Were Little, Little, Little, Little | Know Your Meme",
+            "first_seen": "2026-11-05T00:00:09.065898+00:00"
+          }
+        ]
+      }
+    },
+    "little little little 2": {
+      "first_seen": "2026-11-05T00:00:09.065907+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/i-remember-when-you-were-little-little-little-little--2",
+            "title": "I Remember When You Were Little, Little, Little, Little | Know Your Meme",
+            "first_seen": "2026-11-05T00:00:09.065907+00:00"
+          }
+        ]
+      }
+    },
+    "little little little": {
+      "first_seen": "2026-11-05T00:00:09.065914+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/i-remember-when-you-were-little-little-little-little--2",
+            "title": "I Remember When You Were Little, Little, Little, Little | Know Your Meme",
+            "first_seen": "2026-11-05T00:00:09.065914+00:00"
+          }
+        ]
+      }
+    },
+    "little 2": {
+      "first_seen": "2026-11-05T00:00:09.065920+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/i-remember-when-you-were-little-little-little-little--2",
+            "title": "I Remember When You Were Little, Little, Little, Little | Know Your Meme",
+            "first_seen": "2026-11-05T00:00:09.065920+00:00"
+          }
+        ]
+      }
+    },
+    "little little 2": {
+      "first_seen": "2026-11-05T00:00:09.065927+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/i-remember-when-you-were-little-little-little-little--2",
+            "title": "I Remember When You Were Little, Little, Little, Little | Know Your Meme",
+            "first_seen": "2026-11-05T00:00:09.065927+00:00"
+          }
+        ]
+      }
+    },
+    "i remember": {
+      "first_seen": "2026-11-05T00:00:09.065934+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/i-remember-when-you-were-little-little-little-little--2",
+            "title": "I Remember When You Were Little, Little, Little, Little | Know Your Meme",
+            "first_seen": "2026-11-05T00:00:09.065934+00:00"
           }
         ]
       }
