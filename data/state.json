@@ -1,6 +1,6 @@
 {
-  "last_run_timestamp": "2026-11-05T06:00:31.534306+00:00",
-  "total_urls_seen": 13176,
+  "last_run_timestamp": "2026-11-05T12:00:18.065442+00:00",
+  "total_urls_seen": 13192,
   "seen_urls": {
     "knowyourmeme.com": [
       "https://knowyourmeme.com/memes/yohohoho-binkusuno-sake-by-ado",
@@ -12265,7 +12265,11 @@
       "https://www.getstarrd.app/template/bad-sekki-wing-man-ai-video",
       "https://www.getstarrd.app/blog/how-to-make-lil-yachty-walkout-ai-video",
       "https://www.getstarrd.app/blog/how-to-make-wipe-me-down-ai-dance",
-      "https://www.getstarrd.app/template/wipe-me-down-ai-dance"
+      "https://www.getstarrd.app/template/wipe-me-down-ai-dance",
+      "https://www.getstarrd.app/template/kakalika-dance-ai-video",
+      "https://www.getstarrd.app/blog/how-to-make-kakalika-dance-ai-video",
+      "https://www.getstarrd.app/blog/how-to-make-bad-sekki-wing-man-ai-video",
+      "https://www.getstarrd.app/blog/how-to-make-nazeer-bakra-goat-ai-video"
     ],
     "www.capcut.com": [
       "https://www.capcut.com/template-detail/7613449947458981136",
@@ -12973,6 +12977,18 @@
       "https://www.capcut.com/template-detail/7626718228718406929",
       "https://www.capcut.com/template-detail/7636033261264702728",
       "https://www.capcut.com/template-detail/7422475672074865938",
+      "https://www.capcut.com/template-detail/7601555915468262674",
+      "https://www.capcut.com/template-detail/7530687794755161397",
+      "https://www.capcut.com/template-detail/7642005896716979477",
+      "https://www.capcut.com/template-detail/7574060723123293445",
+      "https://www.capcut.com/template-detail/7507248969974615349",
+      "https://www.capcut.com/template-detail/7601230789774249221",
+      "https://www.capcut.com/template-detail/7621923947470179601",
+      "https://www.capcut.com/template-detail/7500996436440403261",
+      "https://www.capcut.com/template-detail/7628428485073063175",
+      "https://www.capcut.com/template-detail/7401807067406929153",
+      "https://www.capcut.com/template-detail/7626718228718406929",
+      "https://www.capcut.com/template-detail/7636033261264702728",
       "https://www.capcut.com/template-detail/7601555915468262674",
       "https://www.capcut.com/template-detail/7530687794755161397",
       "https://www.capcut.com/template-detail/7642005896716979477",
@@ -45004,6 +45020,11 @@
             "url": "https://www.getstarrd.app/blog/how-to-make-ateez-bad-ai-video",
             "title": "How to Make the 'ATEEZ BAD' AI Dance Video With Two Friends (2026)",
             "first_seen": "2026-11-03T00:00:11.577278+00:00"
+          },
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-bad-sekki-wing-man-ai-video",
+            "title": "How to Make the Bad Sekki 'Wing Man' AI Video: The Wings Skit Starring You and Two Friends (2026)",
+            "first_seen": "2026-11-05T12:00:10.732624+00:00"
           }
         ]
       }
@@ -70611,6 +70632,11 @@
             "url": "https://www.getstarrd.app/template/nazeer-bakra-goat-ai-video",
             "title": "Nazeer Bakra Goat — AI Video Template | Starrd",
             "first_seen": "2026-11-05T06:00:20.896682+00:00"
+          },
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-nazeer-bakra-goat-ai-video",
+            "title": "How to Make the Nazeer Bakra Goat AI Video: Bleat Into the Phone on a Rooftop (2026)",
+            "first_seen": "2026-11-05T12:00:11.234566+00:00"
           }
         ]
       }
@@ -70623,6 +70649,11 @@
             "url": "https://www.getstarrd.app/template/nazeer-bakra-goat-ai-video",
             "title": "Nazeer Bakra Goat — AI Video Template | Starrd",
             "first_seen": "2026-11-05T06:00:20.896752+00:00"
+          },
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-nazeer-bakra-goat-ai-video",
+            "title": "How to Make the Nazeer Bakra Goat AI Video: Bleat Into the Phone on a Rooftop (2026)",
+            "first_seen": "2026-11-05T12:00:11.234575+00:00"
           }
         ]
       }
@@ -70635,6 +70666,11 @@
             "url": "https://www.getstarrd.app/template/nazeer-bakra-goat-ai-video",
             "title": "Nazeer Bakra Goat — AI Video Template | Starrd",
             "first_seen": "2026-11-05T06:00:20.896778+00:00"
+          },
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-nazeer-bakra-goat-ai-video",
+            "title": "How to Make the Nazeer Bakra Goat AI Video: Bleat Into the Phone on a Rooftop (2026)",
+            "first_seen": "2026-11-05T12:00:11.234555+00:00"
           }
         ]
       }
@@ -70647,6 +70683,11 @@
             "url": "https://www.getstarrd.app/template/bad-sekki-wing-man-ai-video",
             "title": "Bad Sekki: Wing Man — AI Video Template | Starrd",
             "first_seen": "2026-11-05T06:00:21.074797+00:00"
+          },
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-bad-sekki-wing-man-ai-video",
+            "title": "How to Make the Bad Sekki 'Wing Man' AI Video: The Wings Skit Starring You and Two Friends (2026)",
+            "first_seen": "2026-11-05T12:00:10.732715+00:00"
           }
         ]
       }
@@ -70659,6 +70700,11 @@
             "url": "https://www.getstarrd.app/template/bad-sekki-wing-man-ai-video",
             "title": "Bad Sekki: Wing Man — AI Video Template | Starrd",
             "first_seen": "2026-11-05T06:00:21.074856+00:00"
+          },
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-bad-sekki-wing-man-ai-video",
+            "title": "How to Make the Bad Sekki 'Wing Man' AI Video: The Wings Skit Starring You and Two Friends (2026)",
+            "first_seen": "2026-11-05T12:00:10.732692+00:00"
           }
         ]
       }
@@ -70671,6 +70717,11 @@
             "url": "https://www.getstarrd.app/template/bad-sekki-wing-man-ai-video",
             "title": "Bad Sekki: Wing Man — AI Video Template | Starrd",
             "first_seen": "2026-11-05T06:00:21.074866+00:00"
+          },
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-bad-sekki-wing-man-ai-video",
+            "title": "How to Make the Bad Sekki 'Wing Man' AI Video: The Wings Skit Starring You and Two Friends (2026)",
+            "first_seen": "2026-11-05T12:00:10.732700+00:00"
           }
         ]
       }
@@ -70875,6 +70926,270 @@
             "url": "https://www.lightxeditor.com/blog/how-to-make-fancy-cafe-pov-ai-video/",
             "title": "How to Make Fancy Cafe POV AI Video (Viral Trend) | LightX",
             "first_seen": "2026-11-05T06:00:22.259122+00:00"
+          }
+        ]
+      }
+    },
+    "big kicks blue sky": {
+      "first_seen": "2026-11-05T12:00:09.279202+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-kakalika-dance-ai-video",
+            "title": "How to Make the Kakalika AI Dance Video: Baggy Pants, Big Kicks, Blue Sky (2026)",
+            "first_seen": "2026-11-05T12:00:09.279202+00:00"
+          }
+        ]
+      }
+    },
+    "kicks blue sky 2026": {
+      "first_seen": "2026-11-05T12:00:09.279281+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-kakalika-dance-ai-video",
+            "title": "How to Make the Kakalika AI Dance Video: Baggy Pants, Big Kicks, Blue Sky (2026)",
+            "first_seen": "2026-11-05T12:00:09.279281+00:00"
+          }
+        ]
+      }
+    },
+    "pants big kicks": {
+      "first_seen": "2026-11-05T12:00:09.279291+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-kakalika-dance-ai-video",
+            "title": "How to Make the Kakalika AI Dance Video: Baggy Pants, Big Kicks, Blue Sky (2026)",
+            "first_seen": "2026-11-05T12:00:09.279291+00:00"
+          }
+        ]
+      }
+    },
+    "big kicks": {
+      "first_seen": "2026-11-05T12:00:09.279299+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-kakalika-dance-ai-video",
+            "title": "How to Make the Kakalika AI Dance Video: Baggy Pants, Big Kicks, Blue Sky (2026)",
+            "first_seen": "2026-11-05T12:00:09.279299+00:00"
+          }
+        ]
+      }
+    },
+    "big kicks blue": {
+      "first_seen": "2026-11-05T12:00:09.279314+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-kakalika-dance-ai-video",
+            "title": "How to Make the Kakalika AI Dance Video: Baggy Pants, Big Kicks, Blue Sky (2026)",
+            "first_seen": "2026-11-05T12:00:09.279314+00:00"
+          }
+        ]
+      }
+    },
+    "pants big": {
+      "first_seen": "2026-11-05T12:00:09.279322+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-kakalika-dance-ai-video",
+            "title": "How to Make the Kakalika AI Dance Video: Baggy Pants, Big Kicks, Blue Sky (2026)",
+            "first_seen": "2026-11-05T12:00:09.279322+00:00"
+          }
+        ]
+      }
+    },
+    "sky 2026": {
+      "first_seen": "2026-11-05T12:00:09.279335+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-kakalika-dance-ai-video",
+            "title": "How to Make the Kakalika AI Dance Video: Baggy Pants, Big Kicks, Blue Sky (2026)",
+            "first_seen": "2026-11-05T12:00:09.279335+00:00"
+          }
+        ]
+      }
+    },
+    "blue sky": {
+      "first_seen": "2026-11-05T12:00:09.279355+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-kakalika-dance-ai-video",
+            "title": "How to Make the Kakalika AI Dance Video: Baggy Pants, Big Kicks, Blue Sky (2026)",
+            "first_seen": "2026-11-05T12:00:09.279355+00:00"
+          }
+        ]
+      }
+    },
+    "kicks blue sky": {
+      "first_seen": "2026-11-05T12:00:09.279365+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-kakalika-dance-ai-video",
+            "title": "How to Make the Kakalika AI Dance Video: Baggy Pants, Big Kicks, Blue Sky (2026)",
+            "first_seen": "2026-11-05T12:00:09.279365+00:00"
+          }
+        ]
+      }
+    },
+    "blue sky 2026": {
+      "first_seen": "2026-11-05T12:00:09.279373+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-kakalika-dance-ai-video",
+            "title": "How to Make the Kakalika AI Dance Video: Baggy Pants, Big Kicks, Blue Sky (2026)",
+            "first_seen": "2026-11-05T12:00:09.279373+00:00"
+          }
+        ]
+      }
+    },
+    "baggy pants big kicks": {
+      "first_seen": "2026-11-05T12:00:09.279380+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-kakalika-dance-ai-video",
+            "title": "How to Make the Kakalika AI Dance Video: Baggy Pants, Big Kicks, Blue Sky (2026)",
+            "first_seen": "2026-11-05T12:00:09.279380+00:00"
+          }
+        ]
+      }
+    },
+    "kicks blue": {
+      "first_seen": "2026-11-05T12:00:09.279387+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-kakalika-dance-ai-video",
+            "title": "How to Make the Kakalika AI Dance Video: Baggy Pants, Big Kicks, Blue Sky (2026)",
+            "first_seen": "2026-11-05T12:00:09.279387+00:00"
+          }
+        ]
+      }
+    },
+    "baggy pants": {
+      "first_seen": "2026-11-05T12:00:09.279394+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-kakalika-dance-ai-video",
+            "title": "How to Make the Kakalika AI Dance Video: Baggy Pants, Big Kicks, Blue Sky (2026)",
+            "first_seen": "2026-11-05T12:00:09.279394+00:00"
+          }
+        ]
+      }
+    },
+    "baggy pants big": {
+      "first_seen": "2026-11-05T12:00:09.279416+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-kakalika-dance-ai-video",
+            "title": "How to Make the Kakalika AI Dance Video: Baggy Pants, Big Kicks, Blue Sky (2026)",
+            "first_seen": "2026-11-05T12:00:09.279416+00:00"
+          }
+        ]
+      }
+    },
+    "pants big kicks blue": {
+      "first_seen": "2026-11-05T12:00:09.279454+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-kakalika-dance-ai-video",
+            "title": "How to Make the Kakalika AI Dance Video: Baggy Pants, Big Kicks, Blue Sky (2026)",
+            "first_seen": "2026-11-05T12:00:09.279454+00:00"
+          }
+        ]
+      }
+    },
+    "wings skit starring": {
+      "first_seen": "2026-11-05T12:00:10.732673+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-bad-sekki-wing-man-ai-video",
+            "title": "How to Make the Bad Sekki 'Wing Man' AI Video: The Wings Skit Starring You and Two Friends (2026)",
+            "first_seen": "2026-11-05T12:00:10.732673+00:00"
+          }
+        ]
+      }
+    },
+    "skit starring": {
+      "first_seen": "2026-11-05T12:00:10.732684+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-bad-sekki-wing-man-ai-video",
+            "title": "How to Make the Bad Sekki 'Wing Man' AI Video: The Wings Skit Starring You and Two Friends (2026)",
+            "first_seen": "2026-11-05T12:00:10.732684+00:00"
+          }
+        ]
+      }
+    },
+    "wings skit": {
+      "first_seen": "2026-11-05T12:00:10.732708+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-bad-sekki-wing-man-ai-video",
+            "title": "How to Make the Bad Sekki 'Wing Man' AI Video: The Wings Skit Starring You and Two Friends (2026)",
+            "first_seen": "2026-11-05T12:00:10.732708+00:00"
+          }
+        ]
+      }
+    },
+    "phone on a rooftop": {
+      "first_seen": "2026-11-05T12:00:11.234498+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-nazeer-bakra-goat-ai-video",
+            "title": "How to Make the Nazeer Bakra Goat AI Video: Bleat Into the Phone on a Rooftop (2026)",
+            "first_seen": "2026-11-05T12:00:11.234498+00:00"
+          }
+        ]
+      }
+    },
+    "goat ai video bleat": {
+      "first_seen": "2026-11-05T12:00:11.234533+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-nazeer-bakra-goat-ai-video",
+            "title": "How to Make the Nazeer Bakra Goat AI Video: Bleat Into the Phone on a Rooftop (2026)",
+            "first_seen": "2026-11-05T12:00:11.234533+00:00"
+          }
+        ]
+      }
+    },
+    "bleat into the phone": {
+      "first_seen": "2026-11-05T12:00:11.234582+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-nazeer-bakra-goat-ai-video",
+            "title": "How to Make the Nazeer Bakra Goat AI Video: Bleat Into the Phone on a Rooftop (2026)",
+            "first_seen": "2026-11-05T12:00:11.234582+00:00"
+          }
+        ]
+      }
+    },
+    "rooftop 2026": {
+      "first_seen": "2026-11-05T12:00:11.234590+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-nazeer-bakra-goat-ai-video",
+            "title": "How to Make the Nazeer Bakra Goat AI Video: Bleat Into the Phone on a Rooftop (2026)",
+            "first_seen": "2026-11-05T12:00:11.234590+00:00"
           }
         ]
       }
