@@ -1,6 +1,6 @@
 {
-  "last_run_timestamp": "2026-11-06T12:00:28.324066+00:00",
-  "total_urls_seen": 13285,
+  "last_run_timestamp": "2026-11-06T18:00:16.694321+00:00",
+  "total_urls_seen": 13320,
   "seen_urls": {
     "knowyourmeme.com": [
       "https://knowyourmeme.com/memes/yohohoho-binkusuno-sake-by-ado",
@@ -99,7 +99,8 @@
       "https://knowyourmeme.com/memes/2slimey-side-profile",
       "https://knowyourmeme.com/memes/a-schizophrenic-racist-is-talking-listen-and-learn",
       "https://knowyourmeme.com/sensitive/memes/people/edp445-eatdatpussy445",
-      "https://knowyourmeme.com/memes/more-like-a-quesadilla-guy"
+      "https://knowyourmeme.com/memes/more-like-a-quesadilla-guy",
+      "https://knowyourmeme.com/memes/bicep-heart-trend"
     ],
     "aptvideoai.com": [
       "https://aptvideoai.com",
@@ -11422,7 +11423,27 @@
       "https://www.media.io/comparison/photta-ai.html",
       "https://www.media.io/comparison/mockuplabs-ai.html",
       "https://www.media.io/comparison/uizard-ai.html",
-      "https://www.media.io/comparison/novelai-image-generator.html"
+      "https://www.media.io/comparison/novelai-image-generator.html",
+      "https://www.media.io/comparison/diffusionbee.html",
+      "https://www.media.io/comparison/wearview-ai.html",
+      "https://www.media.io/comparison/fitroom-ai.html",
+      "https://www.media.io/comparison/foxy-ai-image-generator.html",
+      "https://www.media.io/comparison/clipdrop-ai.html",
+      "https://www.media.io/comparison/artbreeder.html",
+      "https://www.media.io/comparison/adsturbo-ai.html",
+      "https://www.media.io/comparison/looka-ai-logo-maker.html",
+      "https://www.media.io/comparison/createugc-ai.html",
+      "https://www.media.io/comparison/tagshop-ai.html",
+      "https://www.media.io/comparison/shhots-ai.html",
+      "https://www.media.io/comparison/claid-ai.html",
+      "https://www.media.io/comparison/pebblely.html",
+      "https://www.media.io/comparison/botika-ai.html",
+      "https://www.media.io/comparison/modelia-ai.html",
+      "https://www.media.io/comparison/storyshort-ai.html",
+      "https://www.media.io/comparison/longstories-ai.html",
+      "https://www.media.io/comparison/hypernatural-ai.html",
+      "https://www.media.io/comparison/looksy-ai-clothes-changer.html",
+      "https://www.media.io/comparison/fashn-ai.html"
     ],
     "remakeyourmeme.com": [
       "https://remakeyourmeme.com",
@@ -13137,6 +13158,18 @@
       "https://www.capcut.com/template-detail/7521984476239465789",
       "https://www.capcut.com/template-detail/7636033261264702728",
       "https://www.capcut.com/template-detail/7362969691763051782",
+      "https://www.capcut.com/template-detail/7477105562845449525",
+      "https://www.capcut.com/template-detail/7614155497708539153",
+      "https://www.capcut.com/template-detail/7562457444929277189",
+      "https://www.capcut.com/template-detail/7609916699734789393",
+      "https://www.capcut.com/template-detail/7442835260980710711",
+      "https://www.capcut.com/template-detail/7637330004208307477",
+      "https://www.capcut.com/template-detail/7612248283964017936",
+      "https://www.capcut.com/template-detail/7530687794755161397",
+      "https://www.capcut.com/template-detail/7637540881423191316",
+      "https://www.capcut.com/template-detail/7521984476239465789",
+      "https://www.capcut.com/template-detail/7636033261264702728",
+      "https://www.capcut.com/template-detail/7362969691763051782",
       "https://www.capcut.com/template-detail/7477105562845449525"
     ],
     "maketrendai.com": [
@@ -13305,7 +13338,9 @@
       "https://maketrendai.com/contact",
       "https://maketrendai.com/cookie-policy",
       "https://maketrendai.com/refund-policy",
-      "https://maketrendai.com/ai-pet-video"
+      "https://maketrendai.com/ai-pet-video",
+      "https://maketrendai.com/dog-drummer-ai",
+      "https://maketrendai.com/dj-cat-ai"
     ]
   },
   "entities": {
@@ -43327,6 +43362,11 @@
             "url": "https://www.media.io/comparison/clippie-ai.html",
             "title": "Clippie AI Review: Faceless Shorts, Recast & Pricing",
             "first_seen": "2026-10-31T00:00:09.475780+00:00"
+          },
+          {
+            "url": "https://www.media.io/comparison/storyshort-ai.html",
+            "title": "StoryShort AI Review: Faceless Series and Pricing",
+            "first_seen": "2026-11-06T18:00:09.190147+00:00"
           }
         ]
       }
@@ -43722,6 +43762,11 @@
             "url": "https://www.media.io/ai-prompts/faceless-ugc-ads-prompts.html",
             "title": "Faceless UGC Ad Prompts - Free Hands-Only Product Demos",
             "first_seen": "2026-10-29T12:00:18.825700+00:00"
+          },
+          {
+            "url": "https://www.media.io/comparison/tagshop-ai.html",
+            "title": "Tagshop AI Review: UGC Ads, Avatars and Pricing",
+            "first_seen": "2026-11-06T18:00:09.038741+00:00"
           }
         ]
       }
@@ -43998,6 +44043,11 @@
             "url": "https://www.media.io/comparison/atlabs-ai.html",
             "title": "Atlabs AI Review: Storyboards, Pricing & Alternatives",
             "first_seen": "2026-10-28T12:00:35.926565+00:00"
+          },
+          {
+            "url": "https://www.media.io/comparison/hypernatural-ai.html",
+            "title": "Hypernatural AI Review: Storyboards, Characters and Credits",
+            "first_seen": "2026-11-06T18:00:09.305135+00:00"
           }
         ]
       }
@@ -45515,6 +45565,11 @@
             "url": "https://www.media.io/comparison/photogpt-ai.html",
             "title": "PhotoGPT AI Review: Personal Models, Photos & Pricing",
             "first_seen": "2026-10-29T00:00:10.044976+00:00"
+          },
+          {
+            "url": "https://www.media.io/comparison/foxy-ai-image-generator.html",
+            "title": "Foxy AI Review: Personal Photos, Videos and Credits",
+            "first_seen": "2026-11-06T18:00:08.899875+00:00"
           }
         ]
       }
@@ -56727,6 +56782,11 @@
             "url": "https://www.media.io/comparison/makeugc-ai.html",
             "title": "MakeUGC AI Review: UGC Video Ads & Pricing Review",
             "first_seen": "2026-10-31T00:00:09.933837+00:00"
+          },
+          {
+            "url": "https://www.media.io/comparison/tagshop-ai.html",
+            "title": "Tagshop AI Review: UGC Ads, Avatars and Pricing",
+            "first_seen": "2026-11-06T18:00:09.038732+00:00"
           }
         ]
       }
@@ -57343,6 +57403,11 @@
             "url": "https://www.media.io/comparison/amuse-ai-video-generator.html",
             "title": "Amuse AI Video Generator Review: Local Models & Setup",
             "first_seen": "2026-10-31T06:00:34.365465+00:00"
+          },
+          {
+            "url": "https://www.media.io/comparison/diffusionbee.html",
+            "title": "DiffusionBee Review: Local Stable Diffusion for Mac",
+            "first_seen": "2026-11-06T18:00:08.838006+00:00"
           }
         ]
       }
@@ -71671,6 +71736,16 @@
             "url": "https://www.media.io/comparison/mockuplabs-ai.html",
             "title": "MockupLabs AI Review: Product Mockups and Pricing",
             "first_seen": "2026-11-06T12:00:21.200500+00:00"
+          },
+          {
+            "url": "https://www.media.io/comparison/shhots-ai.html",
+            "title": "Shhots AI Review: Product Ads, Photos and Pricing",
+            "first_seen": "2026-11-06T18:00:09.049181+00:00"
+          },
+          {
+            "url": "https://www.media.io/comparison/claid-ai.html",
+            "title": "Claid AI Review: Product Photography, API and Pricing",
+            "first_seen": "2026-11-06T18:00:09.115825+00:00"
           }
         ]
       }
@@ -72377,6 +72452,16 @@
             "url": "https://www.media.io/comparison/style-me-ai-virtual-try-on.html",
             "title": "Style.me Review: 3D Virtual Try-On for Stores",
             "first_seen": "2026-11-06T12:00:21.133821+00:00"
+          },
+          {
+            "url": "https://www.media.io/comparison/fitroom-ai.html",
+            "title": "FitRoom AI Review: Virtual Try-On and Clothes Changer",
+            "first_seen": "2026-11-06T18:00:08.872047+00:00"
+          },
+          {
+            "url": "https://www.media.io/comparison/modelia-ai.html",
+            "title": "Modelia AI Review: Virtual Try-On, Models and Credits",
+            "first_seen": "2026-11-06T18:00:09.148635+00:00"
           }
         ]
       }
@@ -72557,6 +72642,21 @@
             "url": "https://www.media.io/comparison/photta-ai.html",
             "title": "Photta AI Review: Fashion Photos, Try-On and Pricing",
             "first_seen": "2026-11-06T12:00:21.169753+00:00"
+          },
+          {
+            "url": "https://www.media.io/comparison/wearview-ai.html",
+            "title": "WearView AI Review: Fashion Models and Product Photos",
+            "first_seen": "2026-11-06T18:00:08.846699+00:00"
+          },
+          {
+            "url": "https://www.media.io/comparison/botika-ai.html",
+            "title": "Botika AI Review: Fashion Models, Retouch and Pricing",
+            "first_seen": "2026-11-06T18:00:09.140366+00:00"
+          },
+          {
+            "url": "https://www.media.io/comparison/fashn-ai.html",
+            "title": "FASHN AI Review: Fashion Try-On, API and Pricing",
+            "first_seen": "2026-11-06T18:00:09.705853+00:00"
           }
         ]
       }
@@ -72785,6 +72885,1735 @@
             "url": "https://www.media.io/comparison/novelai-image-generator.html",
             "title": "NovelAI V5 Image Generator: Features, Pricing and Review",
             "first_seen": "2026-11-06T12:00:21.384804+00:00"
+          }
+        ]
+      }
+    },
+    "local stable": {
+      "first_seen": "2026-11-06T18:00:08.837910+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/diffusionbee.html",
+            "title": "DiffusionBee Review: Local Stable Diffusion for Mac",
+            "first_seen": "2026-11-06T18:00:08.837910+00:00"
+          }
+        ]
+      }
+    },
+    "review local stable diffusion": {
+      "first_seen": "2026-11-06T18:00:08.837959+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/diffusionbee.html",
+            "title": "DiffusionBee Review: Local Stable Diffusion for Mac",
+            "first_seen": "2026-11-06T18:00:08.837959+00:00"
+          }
+        ]
+      }
+    },
+    "local stable diffusion": {
+      "first_seen": "2026-11-06T18:00:08.837977+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/diffusionbee.html",
+            "title": "DiffusionBee Review: Local Stable Diffusion for Mac",
+            "first_seen": "2026-11-06T18:00:08.837977+00:00"
+          }
+        ]
+      }
+    },
+    "bee review local": {
+      "first_seen": "2026-11-06T18:00:08.837992+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/diffusionbee.html",
+            "title": "DiffusionBee Review: Local Stable Diffusion for Mac",
+            "first_seen": "2026-11-06T18:00:08.837992+00:00"
+          }
+        ]
+      }
+    },
+    "bee review local stable": {
+      "first_seen": "2026-11-06T18:00:08.838042+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/diffusionbee.html",
+            "title": "DiffusionBee Review: Local Stable Diffusion for Mac",
+            "first_seen": "2026-11-06T18:00:08.838042+00:00"
+          }
+        ]
+      }
+    },
+    "diffusion bee": {
+      "first_seen": "2026-11-06T18:00:08.838060+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/diffusionbee.html",
+            "title": "DiffusionBee Review: Local Stable Diffusion for Mac",
+            "first_seen": "2026-11-06T18:00:08.838060+00:00"
+          }
+        ]
+      }
+    },
+    "stable diffusion": {
+      "first_seen": "2026-11-06T18:00:08.838075+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/diffusionbee.html",
+            "title": "DiffusionBee Review: Local Stable Diffusion for Mac",
+            "first_seen": "2026-11-06T18:00:08.838075+00:00"
+          }
+        ]
+      }
+    },
+    "stable diffusion for mac": {
+      "first_seen": "2026-11-06T18:00:08.838089+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/diffusionbee.html",
+            "title": "DiffusionBee Review: Local Stable Diffusion for Mac",
+            "first_seen": "2026-11-06T18:00:08.838089+00:00"
+          }
+        ]
+      }
+    },
+    "diffusion for mac": {
+      "first_seen": "2026-11-06T18:00:08.838103+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/diffusionbee.html",
+            "title": "DiffusionBee Review: Local Stable Diffusion for Mac",
+            "first_seen": "2026-11-06T18:00:08.838103+00:00"
+          }
+        ]
+      }
+    },
+    "bee review": {
+      "first_seen": "2026-11-06T18:00:08.838116+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/diffusionbee.html",
+            "title": "DiffusionBee Review: Local Stable Diffusion for Mac",
+            "first_seen": "2026-11-06T18:00:08.838116+00:00"
+          }
+        ]
+      }
+    },
+    "diffusion bee review": {
+      "first_seen": "2026-11-06T18:00:08.838130+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/diffusionbee.html",
+            "title": "DiffusionBee Review: Local Stable Diffusion for Mac",
+            "first_seen": "2026-11-06T18:00:08.838130+00:00"
+          }
+        ]
+      }
+    },
+    "diffusion bee review local": {
+      "first_seen": "2026-11-06T18:00:08.838145+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/diffusionbee.html",
+            "title": "DiffusionBee Review: Local Stable Diffusion for Mac",
+            "first_seen": "2026-11-06T18:00:08.838145+00:00"
+          }
+        ]
+      }
+    },
+    "review local stable": {
+      "first_seen": "2026-11-06T18:00:08.838157+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/diffusionbee.html",
+            "title": "DiffusionBee Review: Local Stable Diffusion for Mac",
+            "first_seen": "2026-11-06T18:00:08.838157+00:00"
+          }
+        ]
+      }
+    },
+    "fashion models": {
+      "first_seen": "2026-11-06T18:00:08.846617+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/wearview-ai.html",
+            "title": "WearView AI Review: Fashion Models and Product Photos",
+            "first_seen": "2026-11-06T18:00:08.846617+00:00"
+          },
+          {
+            "url": "https://www.media.io/comparison/botika-ai.html",
+            "title": "Botika AI Review: Fashion Models, Retouch and Pricing",
+            "first_seen": "2026-11-06T18:00:09.140350+00:00"
+          }
+        ]
+      }
+    },
+    "models and product": {
+      "first_seen": "2026-11-06T18:00:08.846663+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/wearview-ai.html",
+            "title": "WearView AI Review: Fashion Models and Product Photos",
+            "first_seen": "2026-11-06T18:00:08.846663+00:00"
+          }
+        ]
+      }
+    },
+    "fashion models and product": {
+      "first_seen": "2026-11-06T18:00:08.846677+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/wearview-ai.html",
+            "title": "WearView AI Review: Fashion Models and Product Photos",
+            "first_seen": "2026-11-06T18:00:08.846677+00:00"
+          }
+        ]
+      }
+    },
+    "review fashion models": {
+      "first_seen": "2026-11-06T18:00:08.846685+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/wearview-ai.html",
+            "title": "WearView AI Review: Fashion Models and Product Photos",
+            "first_seen": "2026-11-06T18:00:08.846685+00:00"
+          },
+          {
+            "url": "https://www.media.io/comparison/botika-ai.html",
+            "title": "Botika AI Review: Fashion Models, Retouch and Pricing",
+            "first_seen": "2026-11-06T18:00:09.140358+00:00"
+          }
+        ]
+      }
+    },
+    "wear view ai review": {
+      "first_seen": "2026-11-06T18:00:08.846693+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/wearview-ai.html",
+            "title": "WearView AI Review: Fashion Models and Product Photos",
+            "first_seen": "2026-11-06T18:00:08.846693+00:00"
+          }
+        ]
+      }
+    },
+    "review virtual": {
+      "first_seen": "2026-11-06T18:00:08.872010+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/fitroom-ai.html",
+            "title": "FitRoom AI Review: Virtual Try-On and Clothes Changer",
+            "first_seen": "2026-11-06T18:00:08.872010+00:00"
+          },
+          {
+            "url": "https://www.media.io/comparison/modelia-ai.html",
+            "title": "Modelia AI Review: Virtual Try-On, Models and Credits",
+            "first_seen": "2026-11-06T18:00:09.148627+00:00"
+          }
+        ]
+      }
+    },
+    "fit room ai review": {
+      "first_seen": "2026-11-06T18:00:08.872072+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/fitroom-ai.html",
+            "title": "FitRoom AI Review: Virtual Try-On and Clothes Changer",
+            "first_seen": "2026-11-06T18:00:08.872072+00:00"
+          }
+        ]
+      }
+    },
+    "room ai review": {
+      "first_seen": "2026-11-06T18:00:08.872083+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/fitroom-ai.html",
+            "title": "FitRoom AI Review: Virtual Try-On and Clothes Changer",
+            "first_seen": "2026-11-06T18:00:08.872083+00:00"
+          }
+        ]
+      }
+    },
+    "room ai review virtual": {
+      "first_seen": "2026-11-06T18:00:08.872091+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/fitroom-ai.html",
+            "title": "FitRoom AI Review: Virtual Try-On and Clothes Changer",
+            "first_seen": "2026-11-06T18:00:08.872091+00:00"
+          }
+        ]
+      }
+    },
+    "review virtual try": {
+      "first_seen": "2026-11-06T18:00:08.872099+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/fitroom-ai.html",
+            "title": "FitRoom AI Review: Virtual Try-On and Clothes Changer",
+            "first_seen": "2026-11-06T18:00:08.872099+00:00"
+          },
+          {
+            "url": "https://www.media.io/comparison/modelia-ai.html",
+            "title": "Modelia AI Review: Virtual Try-On, Models and Credits",
+            "first_seen": "2026-11-06T18:00:09.148645+00:00"
+          }
+        ]
+      }
+    },
+    "fit room": {
+      "first_seen": "2026-11-06T18:00:08.872106+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/fitroom-ai.html",
+            "title": "FitRoom AI Review: Virtual Try-On and Clothes Changer",
+            "first_seen": "2026-11-06T18:00:08.872106+00:00"
+          }
+        ]
+      }
+    },
+    "personal photos and credits": {
+      "first_seen": "2026-11-06T18:00:08.899978+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/foxy-ai-image-generator.html",
+            "title": "Foxy AI Review: Personal Photos, Videos and Credits",
+            "first_seen": "2026-11-06T18:00:08.899978+00:00"
+          }
+        ]
+      }
+    },
+    "foxy ai review": {
+      "first_seen": "2026-11-06T18:00:08.900003+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/foxy-ai-image-generator.html",
+            "title": "Foxy AI Review: Personal Photos, Videos and Credits",
+            "first_seen": "2026-11-06T18:00:08.900003+00:00"
+          }
+        ]
+      }
+    },
+    "foxy ai review personal": {
+      "first_seen": "2026-11-06T18:00:08.900018+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/foxy-ai-image-generator.html",
+            "title": "Foxy AI Review: Personal Photos, Videos and Credits",
+            "first_seen": "2026-11-06T18:00:08.900018+00:00"
+          }
+        ]
+      }
+    },
+    "review cleanup relight": {
+      "first_seen": "2026-11-06T18:00:08.907784+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/clipdrop-ai.html",
+            "title": "Clipdrop AI Review: Cleanup, Relight, Upscale and Price",
+            "first_seen": "2026-11-06T18:00:08.907784+00:00"
+          }
+        ]
+      }
+    },
+    "clipdrop ai review": {
+      "first_seen": "2026-11-06T18:00:08.907824+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/clipdrop-ai.html",
+            "title": "Clipdrop AI Review: Cleanup, Relight, Upscale and Price",
+            "first_seen": "2026-11-06T18:00:08.907824+00:00"
+          }
+        ]
+      }
+    },
+    "relight upscale": {
+      "first_seen": "2026-11-06T18:00:08.907833+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/clipdrop-ai.html",
+            "title": "Clipdrop AI Review: Cleanup, Relight, Upscale and Price",
+            "first_seen": "2026-11-06T18:00:08.907833+00:00"
+          }
+        ]
+      }
+    },
+    "review cleanup relight upscale": {
+      "first_seen": "2026-11-06T18:00:08.907841+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/clipdrop-ai.html",
+            "title": "Clipdrop AI Review: Cleanup, Relight, Upscale and Price",
+            "first_seen": "2026-11-06T18:00:08.907841+00:00"
+          }
+        ]
+      }
+    },
+    "review cleanup": {
+      "first_seen": "2026-11-06T18:00:08.907849+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/clipdrop-ai.html",
+            "title": "Clipdrop AI Review: Cleanup, Relight, Upscale and Price",
+            "first_seen": "2026-11-06T18:00:08.907849+00:00"
+          }
+        ]
+      }
+    },
+    "clipdrop ai review cleanup": {
+      "first_seen": "2026-11-06T18:00:08.907856+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/clipdrop-ai.html",
+            "title": "Clipdrop AI Review: Cleanup, Relight, Upscale and Price",
+            "first_seen": "2026-11-06T18:00:08.907856+00:00"
+          }
+        ]
+      }
+    },
+    "cleanup relight upscale": {
+      "first_seen": "2026-11-06T18:00:08.907864+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/clipdrop-ai.html",
+            "title": "Clipdrop AI Review: Cleanup, Relight, Upscale and Price",
+            "first_seen": "2026-11-06T18:00:08.907864+00:00"
+          }
+        ]
+      }
+    },
+    "relight upscale and price": {
+      "first_seen": "2026-11-06T18:00:08.907870+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/clipdrop-ai.html",
+            "title": "Clipdrop AI Review: Cleanup, Relight, Upscale and Price",
+            "first_seen": "2026-11-06T18:00:08.907870+00:00"
+          }
+        ]
+      }
+    },
+    "upscale and price": {
+      "first_seen": "2026-11-06T18:00:08.907877+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/clipdrop-ai.html",
+            "title": "Clipdrop AI Review: Cleanup, Relight, Upscale and Price",
+            "first_seen": "2026-11-06T18:00:08.907877+00:00"
+          }
+        ]
+      }
+    },
+    "cleanup relight": {
+      "first_seen": "2026-11-06T18:00:08.907885+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/clipdrop-ai.html",
+            "title": "Clipdrop AI Review: Cleanup, Relight, Upscale and Price",
+            "first_seen": "2026-11-06T18:00:08.907885+00:00"
+          }
+        ]
+      }
+    },
+    "artbreeder review character": {
+      "first_seen": "2026-11-06T18:00:08.914138+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/artbreeder.html",
+            "title": "Artbreeder Review: Character Mixing, Tools and Pricing",
+            "first_seen": "2026-11-06T18:00:08.914138+00:00"
+          }
+        ]
+      }
+    },
+    "artbreeder review character mixing": {
+      "first_seen": "2026-11-06T18:00:08.914186+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/artbreeder.html",
+            "title": "Artbreeder Review: Character Mixing, Tools and Pricing",
+            "first_seen": "2026-11-06T18:00:08.914186+00:00"
+          }
+        ]
+      }
+    },
+    "artbreeder review": {
+      "first_seen": "2026-11-06T18:00:08.914198+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/artbreeder.html",
+            "title": "Artbreeder Review: Character Mixing, Tools and Pricing",
+            "first_seen": "2026-11-06T18:00:08.914198+00:00"
+          }
+        ]
+      }
+    },
+    "character mixing": {
+      "first_seen": "2026-11-06T18:00:08.914207+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/artbreeder.html",
+            "title": "Artbreeder Review: Character Mixing, Tools and Pricing",
+            "first_seen": "2026-11-06T18:00:08.914207+00:00"
+          }
+        ]
+      }
+    },
+    "review character mixing": {
+      "first_seen": "2026-11-06T18:00:08.914214+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/artbreeder.html",
+            "title": "Artbreeder Review: Character Mixing, Tools and Pricing",
+            "first_seen": "2026-11-06T18:00:08.914214+00:00"
+          }
+        ]
+      }
+    },
+    "mixing and pricing": {
+      "first_seen": "2026-11-06T18:00:08.914222+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/artbreeder.html",
+            "title": "Artbreeder Review: Character Mixing, Tools and Pricing",
+            "first_seen": "2026-11-06T18:00:08.914222+00:00"
+          }
+        ]
+      }
+    },
+    "review character": {
+      "first_seen": "2026-11-06T18:00:08.914229+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/artbreeder.html",
+            "title": "Artbreeder Review: Character Mixing, Tools and Pricing",
+            "first_seen": "2026-11-06T18:00:08.914229+00:00"
+          }
+        ]
+      }
+    },
+    "character mixing and pricing": {
+      "first_seen": "2026-11-06T18:00:08.914235+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/artbreeder.html",
+            "title": "Artbreeder Review: Character Mixing, Tools and Pricing",
+            "first_seen": "2026-11-06T18:00:08.914235+00:00"
+          }
+        ]
+      }
+    },
+    "bicep heart": {
+      "first_seen": "2026-11-06T18:00:08.958863+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/bicep-heart-trend",
+            "title": "Bicep Heart Trend | Know Your Meme",
+            "first_seen": "2026-11-06T18:00:08.958863+00:00"
+          }
+        ]
+      }
+    },
+    "clone credits": {
+      "first_seen": "2026-11-06T18:00:08.991985+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/adsturbo-ai.html",
+            "title": "AdsTurbo AI Review: Ad Clone, Credits and Pricing",
+            "first_seen": "2026-11-06T18:00:08.991985+00:00"
+          }
+        ]
+      }
+    },
+    "ad clone": {
+      "first_seen": "2026-11-06T18:00:08.992032+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/adsturbo-ai.html",
+            "title": "AdsTurbo AI Review: Ad Clone, Credits and Pricing",
+            "first_seen": "2026-11-06T18:00:08.992032+00:00"
+          }
+        ]
+      }
+    },
+    "ads turbo": {
+      "first_seen": "2026-11-06T18:00:08.992046+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/adsturbo-ai.html",
+            "title": "AdsTurbo AI Review: Ad Clone, Credits and Pricing",
+            "first_seen": "2026-11-06T18:00:08.992046+00:00"
+          }
+        ]
+      }
+    },
+    "ad clone credits": {
+      "first_seen": "2026-11-06T18:00:08.992060+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/adsturbo-ai.html",
+            "title": "AdsTurbo AI Review: Ad Clone, Credits and Pricing",
+            "first_seen": "2026-11-06T18:00:08.992060+00:00"
+          }
+        ]
+      }
+    },
+    "turbo ai review ad": {
+      "first_seen": "2026-11-06T18:00:08.992076+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/adsturbo-ai.html",
+            "title": "AdsTurbo AI Review: Ad Clone, Credits and Pricing",
+            "first_seen": "2026-11-06T18:00:08.992076+00:00"
+          }
+        ]
+      }
+    },
+    "review ad clone credits": {
+      "first_seen": "2026-11-06T18:00:08.992089+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/adsturbo-ai.html",
+            "title": "AdsTurbo AI Review: Ad Clone, Credits and Pricing",
+            "first_seen": "2026-11-06T18:00:08.992089+00:00"
+          }
+        ]
+      }
+    },
+    "ads turbo ai review": {
+      "first_seen": "2026-11-06T18:00:08.992102+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/adsturbo-ai.html",
+            "title": "AdsTurbo AI Review: Ad Clone, Credits and Pricing",
+            "first_seen": "2026-11-06T18:00:08.992102+00:00"
+          }
+        ]
+      }
+    },
+    "clone credits and pricing": {
+      "first_seen": "2026-11-06T18:00:08.992116+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/adsturbo-ai.html",
+            "title": "AdsTurbo AI Review: Ad Clone, Credits and Pricing",
+            "first_seen": "2026-11-06T18:00:08.992116+00:00"
+          }
+        ]
+      }
+    },
+    "turbo ai review": {
+      "first_seen": "2026-11-06T18:00:08.992129+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/adsturbo-ai.html",
+            "title": "AdsTurbo AI Review: Ad Clone, Credits and Pricing",
+            "first_seen": "2026-11-06T18:00:08.992129+00:00"
+          }
+        ]
+      }
+    },
+    "review ad": {
+      "first_seen": "2026-11-06T18:00:08.992144+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/adsturbo-ai.html",
+            "title": "AdsTurbo AI Review: Ad Clone, Credits and Pricing",
+            "first_seen": "2026-11-06T18:00:08.992144+00:00"
+          }
+        ]
+      }
+    },
+    "review ad clone": {
+      "first_seen": "2026-11-06T18:00:08.992160+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/adsturbo-ai.html",
+            "title": "AdsTurbo AI Review: Ad Clone, Credits and Pricing",
+            "first_seen": "2026-11-06T18:00:08.992160+00:00"
+          }
+        ]
+      }
+    },
+    "credits and pricing": {
+      "first_seen": "2026-11-06T18:00:08.992192+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/adsturbo-ai.html",
+            "title": "AdsTurbo AI Review: Ad Clone, Credits and Pricing",
+            "first_seen": "2026-11-06T18:00:08.992192+00:00"
+          }
+        ]
+      }
+    },
+    "logo costs": {
+      "first_seen": "2026-11-06T18:00:09.016254+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/looka-ai-logo-maker.html",
+            "title": "Looka AI Logo Maker Review: Brand Kit and Logo Costs",
+            "first_seen": "2026-11-06T18:00:09.016254+00:00"
+          }
+        ]
+      }
+    },
+    "kit and logo": {
+      "first_seen": "2026-11-06T18:00:09.016293+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/looka-ai-logo-maker.html",
+            "title": "Looka AI Logo Maker Review: Brand Kit and Logo Costs",
+            "first_seen": "2026-11-06T18:00:09.016293+00:00"
+          }
+        ]
+      }
+    },
+    "kit and logo costs": {
+      "first_seen": "2026-11-06T18:00:09.016302+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/looka-ai-logo-maker.html",
+            "title": "Looka AI Logo Maker Review: Brand Kit and Logo Costs",
+            "first_seen": "2026-11-06T18:00:09.016302+00:00"
+          }
+        ]
+      }
+    },
+    "review brand": {
+      "first_seen": "2026-11-06T18:00:09.016309+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/looka-ai-logo-maker.html",
+            "title": "Looka AI Logo Maker Review: Brand Kit and Logo Costs",
+            "first_seen": "2026-11-06T18:00:09.016309+00:00"
+          }
+        ]
+      }
+    },
+    "logo maker review": {
+      "first_seen": "2026-11-06T18:00:09.016318+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/looka-ai-logo-maker.html",
+            "title": "Looka AI Logo Maker Review: Brand Kit and Logo Costs",
+            "first_seen": "2026-11-06T18:00:09.016318+00:00"
+          }
+        ]
+      }
+    },
+    "brand kit and logo": {
+      "first_seen": "2026-11-06T18:00:09.016326+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/looka-ai-logo-maker.html",
+            "title": "Looka AI Logo Maker Review: Brand Kit and Logo Costs",
+            "first_seen": "2026-11-06T18:00:09.016326+00:00"
+          }
+        ]
+      }
+    },
+    "logo maker review brand": {
+      "first_seen": "2026-11-06T18:00:09.016333+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/looka-ai-logo-maker.html",
+            "title": "Looka AI Logo Maker Review: Brand Kit and Logo Costs",
+            "first_seen": "2026-11-06T18:00:09.016333+00:00"
+          }
+        ]
+      }
+    },
+    "looka ai logo": {
+      "first_seen": "2026-11-06T18:00:09.016339+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/looka-ai-logo-maker.html",
+            "title": "Looka AI Logo Maker Review: Brand Kit and Logo Costs",
+            "first_seen": "2026-11-06T18:00:09.016339+00:00"
+          }
+        ]
+      }
+    },
+    "review brand kit": {
+      "first_seen": "2026-11-06T18:00:09.016345+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/looka-ai-logo-maker.html",
+            "title": "Looka AI Logo Maker Review: Brand Kit and Logo Costs",
+            "first_seen": "2026-11-06T18:00:09.016345+00:00"
+          }
+        ]
+      }
+    },
+    "brand kit": {
+      "first_seen": "2026-11-06T18:00:09.016351+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/looka-ai-logo-maker.html",
+            "title": "Looka AI Logo Maker Review: Brand Kit and Logo Costs",
+            "first_seen": "2026-11-06T18:00:09.016351+00:00"
+          }
+        ]
+      }
+    },
+    "ugc trial and pricing": {
+      "first_seen": "2026-11-06T18:00:09.031872+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/createugc-ai.html",
+            "title": "CreateUGC Review: AI UGC Videos, Trial and Pricing",
+            "first_seen": "2026-11-06T18:00:09.031872+00:00"
+          }
+        ]
+      }
+    },
+    "review ai ugc trial": {
+      "first_seen": "2026-11-06T18:00:09.031908+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/createugc-ai.html",
+            "title": "CreateUGC Review: AI UGC Videos, Trial and Pricing",
+            "first_seen": "2026-11-06T18:00:09.031908+00:00"
+          }
+        ]
+      }
+    },
+    "ugc trial": {
+      "first_seen": "2026-11-06T18:00:09.031917+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/createugc-ai.html",
+            "title": "CreateUGC Review: AI UGC Videos, Trial and Pricing",
+            "first_seen": "2026-11-06T18:00:09.031917+00:00"
+          }
+        ]
+      }
+    },
+    "trial and pricing": {
+      "first_seen": "2026-11-06T18:00:09.031926+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/createugc-ai.html",
+            "title": "CreateUGC Review: AI UGC Videos, Trial and Pricing",
+            "first_seen": "2026-11-06T18:00:09.031926+00:00"
+          }
+        ]
+      }
+    },
+    "ugc review ai ugc": {
+      "first_seen": "2026-11-06T18:00:09.031934+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/createugc-ai.html",
+            "title": "CreateUGC Review: AI UGC Videos, Trial and Pricing",
+            "first_seen": "2026-11-06T18:00:09.031934+00:00"
+          }
+        ]
+      }
+    },
+    "ugc review": {
+      "first_seen": "2026-11-06T18:00:09.031941+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/createugc-ai.html",
+            "title": "CreateUGC Review: AI UGC Videos, Trial and Pricing",
+            "first_seen": "2026-11-06T18:00:09.031941+00:00"
+          }
+        ]
+      }
+    },
+    "review ai ugc": {
+      "first_seen": "2026-11-06T18:00:09.031948+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/createugc-ai.html",
+            "title": "CreateUGC Review: AI UGC Videos, Trial and Pricing",
+            "first_seen": "2026-11-06T18:00:09.031948+00:00"
+          }
+        ]
+      }
+    },
+    "ads avatars": {
+      "first_seen": "2026-11-06T18:00:09.038663+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/tagshop-ai.html",
+            "title": "Tagshop AI Review: UGC Ads, Avatars and Pricing",
+            "first_seen": "2026-11-06T18:00:09.038663+00:00"
+          }
+        ]
+      }
+    },
+    "review ugc ads": {
+      "first_seen": "2026-11-06T18:00:09.038700+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/tagshop-ai.html",
+            "title": "Tagshop AI Review: UGC Ads, Avatars and Pricing",
+            "first_seen": "2026-11-06T18:00:09.038700+00:00"
+          }
+        ]
+      }
+    },
+    "ads avatars and pricing": {
+      "first_seen": "2026-11-06T18:00:09.038709+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/tagshop-ai.html",
+            "title": "Tagshop AI Review: UGC Ads, Avatars and Pricing",
+            "first_seen": "2026-11-06T18:00:09.038709+00:00"
+          }
+        ]
+      }
+    },
+    "avatars and pricing": {
+      "first_seen": "2026-11-06T18:00:09.038717+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/tagshop-ai.html",
+            "title": "Tagshop AI Review: UGC Ads, Avatars and Pricing",
+            "first_seen": "2026-11-06T18:00:09.038717+00:00"
+          }
+        ]
+      }
+    },
+    "ugc ads avatars": {
+      "first_seen": "2026-11-06T18:00:09.038724+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/tagshop-ai.html",
+            "title": "Tagshop AI Review: UGC Ads, Avatars and Pricing",
+            "first_seen": "2026-11-06T18:00:09.038724+00:00"
+          }
+        ]
+      }
+    },
+    "review ugc ads avatars": {
+      "first_seen": "2026-11-06T18:00:09.038764+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/tagshop-ai.html",
+            "title": "Tagshop AI Review: UGC Ads, Avatars and Pricing",
+            "first_seen": "2026-11-06T18:00:09.038764+00:00"
+          }
+        ]
+      }
+    },
+    "tagshop ai review": {
+      "first_seen": "2026-11-06T18:00:09.038774+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/tagshop-ai.html",
+            "title": "Tagshop AI Review: UGC Ads, Avatars and Pricing",
+            "first_seen": "2026-11-06T18:00:09.038774+00:00"
+          }
+        ]
+      }
+    },
+    "tagshop ai review ugc": {
+      "first_seen": "2026-11-06T18:00:09.038782+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/tagshop-ai.html",
+            "title": "Tagshop AI Review: UGC Ads, Avatars and Pricing",
+            "first_seen": "2026-11-06T18:00:09.038782+00:00"
+          }
+        ]
+      }
+    },
+    "shhots ai review": {
+      "first_seen": "2026-11-06T18:00:09.049049+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/shhots-ai.html",
+            "title": "Shhots AI Review: Product Ads, Photos and Pricing",
+            "first_seen": "2026-11-06T18:00:09.049049+00:00"
+          }
+        ]
+      }
+    },
+    "product ads": {
+      "first_seen": "2026-11-06T18:00:09.049120+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/shhots-ai.html",
+            "title": "Shhots AI Review: Product Ads, Photos and Pricing",
+            "first_seen": "2026-11-06T18:00:09.049120+00:00"
+          }
+        ]
+      }
+    },
+    "shhots ai review product": {
+      "first_seen": "2026-11-06T18:00:09.049140+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/shhots-ai.html",
+            "title": "Shhots AI Review: Product Ads, Photos and Pricing",
+            "first_seen": "2026-11-06T18:00:09.049140+00:00"
+          }
+        ]
+      }
+    },
+    "review product ads": {
+      "first_seen": "2026-11-06T18:00:09.049156+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/shhots-ai.html",
+            "title": "Shhots AI Review: Product Ads, Photos and Pricing",
+            "first_seen": "2026-11-06T18:00:09.049156+00:00"
+          }
+        ]
+      }
+    },
+    "ads photos and pricing": {
+      "first_seen": "2026-11-06T18:00:09.049221+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/shhots-ai.html",
+            "title": "Shhots AI Review: Product Ads, Photos and Pricing",
+            "first_seen": "2026-11-06T18:00:09.049221+00:00"
+          }
+        ]
+      }
+    },
+    "product photography": {
+      "first_seen": "2026-11-06T18:00:09.115739+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/claid-ai.html",
+            "title": "Claid AI Review: Product Photography, API and Pricing",
+            "first_seen": "2026-11-06T18:00:09.115739+00:00"
+          }
+        ]
+      }
+    },
+    "claid ai review product": {
+      "first_seen": "2026-11-06T18:00:09.115776+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/claid-ai.html",
+            "title": "Claid AI Review: Product Photography, API and Pricing",
+            "first_seen": "2026-11-06T18:00:09.115776+00:00"
+          }
+        ]
+      }
+    },
+    "product photography api": {
+      "first_seen": "2026-11-06T18:00:09.115785+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/claid-ai.html",
+            "title": "Claid AI Review: Product Photography, API and Pricing",
+            "first_seen": "2026-11-06T18:00:09.115785+00:00"
+          }
+        ]
+      }
+    },
+    "api and pricing": {
+      "first_seen": "2026-11-06T18:00:09.115792+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/claid-ai.html",
+            "title": "Claid AI Review: Product Photography, API and Pricing",
+            "first_seen": "2026-11-06T18:00:09.115792+00:00"
+          }
+        ]
+      }
+    },
+    "review product photography api": {
+      "first_seen": "2026-11-06T18:00:09.115799+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/claid-ai.html",
+            "title": "Claid AI Review: Product Photography, API and Pricing",
+            "first_seen": "2026-11-06T18:00:09.115799+00:00"
+          }
+        ]
+      }
+    },
+    "photography api": {
+      "first_seen": "2026-11-06T18:00:09.115806+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/claid-ai.html",
+            "title": "Claid AI Review: Product Photography, API and Pricing",
+            "first_seen": "2026-11-06T18:00:09.115806+00:00"
+          }
+        ]
+      }
+    },
+    "claid ai review": {
+      "first_seen": "2026-11-06T18:00:09.115813+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/claid-ai.html",
+            "title": "Claid AI Review: Product Photography, API and Pricing",
+            "first_seen": "2026-11-06T18:00:09.115813+00:00"
+          }
+        ]
+      }
+    },
+    "photography api and pricing": {
+      "first_seen": "2026-11-06T18:00:09.115819+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/claid-ai.html",
+            "title": "Claid AI Review: Product Photography, API and Pricing",
+            "first_seen": "2026-11-06T18:00:09.115819+00:00"
+          }
+        ]
+      }
+    },
+    "review product photography": {
+      "first_seen": "2026-11-06T18:00:09.115834+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/claid-ai.html",
+            "title": "Claid AI Review: Product Photography, API and Pricing",
+            "first_seen": "2026-11-06T18:00:09.115834+00:00"
+          }
+        ]
+      }
+    },
+    "backgrounds and pricing": {
+      "first_seen": "2026-11-06T18:00:09.120767+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/pebblely.html",
+            "title": "Pebblely Review: AI Product Backgrounds and Pricing",
+            "first_seen": "2026-11-06T18:00:09.120767+00:00"
+          }
+        ]
+      }
+    },
+    "pebblely review": {
+      "first_seen": "2026-11-06T18:00:09.120797+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/pebblely.html",
+            "title": "Pebblely Review: AI Product Backgrounds and Pricing",
+            "first_seen": "2026-11-06T18:00:09.120797+00:00"
+          }
+        ]
+      }
+    },
+    "review ai product": {
+      "first_seen": "2026-11-06T18:00:09.120807+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/pebblely.html",
+            "title": "Pebblely Review: AI Product Backgrounds and Pricing",
+            "first_seen": "2026-11-06T18:00:09.120807+00:00"
+          }
+        ]
+      }
+    },
+    "product backgrounds and pricing": {
+      "first_seen": "2026-11-06T18:00:09.120816+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/pebblely.html",
+            "title": "Pebblely Review: AI Product Backgrounds and Pricing",
+            "first_seen": "2026-11-06T18:00:09.120816+00:00"
+          }
+        ]
+      }
+    },
+    "product backgrounds": {
+      "first_seen": "2026-11-06T18:00:09.120824+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/pebblely.html",
+            "title": "Pebblely Review: AI Product Backgrounds and Pricing",
+            "first_seen": "2026-11-06T18:00:09.120824+00:00"
+          }
+        ]
+      }
+    },
+    "pebblely review ai product": {
+      "first_seen": "2026-11-06T18:00:09.120831+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/pebblely.html",
+            "title": "Pebblely Review: AI Product Backgrounds and Pricing",
+            "first_seen": "2026-11-06T18:00:09.120831+00:00"
+          }
+        ]
+      }
+    },
+    "review ai product backgrounds": {
+      "first_seen": "2026-11-06T18:00:09.120839+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/pebblely.html",
+            "title": "Pebblely Review: AI Product Backgrounds and Pricing",
+            "first_seen": "2026-11-06T18:00:09.120839+00:00"
+          }
+        ]
+      }
+    },
+    "review fashion models retouch": {
+      "first_seen": "2026-11-06T18:00:09.140282+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/botika-ai.html",
+            "title": "Botika AI Review: Fashion Models, Retouch and Pricing",
+            "first_seen": "2026-11-06T18:00:09.140282+00:00"
+          }
+        ]
+      }
+    },
+    "botika ai review fashion": {
+      "first_seen": "2026-11-06T18:00:09.140316+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/botika-ai.html",
+            "title": "Botika AI Review: Fashion Models, Retouch and Pricing",
+            "first_seen": "2026-11-06T18:00:09.140316+00:00"
+          }
+        ]
+      }
+    },
+    "botika ai review": {
+      "first_seen": "2026-11-06T18:00:09.140323+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/botika-ai.html",
+            "title": "Botika AI Review: Fashion Models, Retouch and Pricing",
+            "first_seen": "2026-11-06T18:00:09.140323+00:00"
+          }
+        ]
+      }
+    },
+    "retouch and pricing": {
+      "first_seen": "2026-11-06T18:00:09.140330+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/botika-ai.html",
+            "title": "Botika AI Review: Fashion Models, Retouch and Pricing",
+            "first_seen": "2026-11-06T18:00:09.140330+00:00"
+          }
+        ]
+      }
+    },
+    "fashion models retouch": {
+      "first_seen": "2026-11-06T18:00:09.140338+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/botika-ai.html",
+            "title": "Botika AI Review: Fashion Models, Retouch and Pricing",
+            "first_seen": "2026-11-06T18:00:09.140338+00:00"
+          }
+        ]
+      }
+    },
+    "models retouch and pricing": {
+      "first_seen": "2026-11-06T18:00:09.140344+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/botika-ai.html",
+            "title": "Botika AI Review: Fashion Models, Retouch and Pricing",
+            "first_seen": "2026-11-06T18:00:09.140344+00:00"
+          }
+        ]
+      }
+    },
+    "models retouch": {
+      "first_seen": "2026-11-06T18:00:09.140374+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/botika-ai.html",
+            "title": "Botika AI Review: Fashion Models, Retouch and Pricing",
+            "first_seen": "2026-11-06T18:00:09.140374+00:00"
+          }
+        ]
+      }
+    },
+    "modelia ai review": {
+      "first_seen": "2026-11-06T18:00:09.148588+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/modelia-ai.html",
+            "title": "Modelia AI Review: Virtual Try-On, Models and Credits",
+            "first_seen": "2026-11-06T18:00:09.148588+00:00"
+          }
+        ]
+      }
+    },
+    "modelia ai review virtual": {
+      "first_seen": "2026-11-06T18:00:09.148619+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/modelia-ai.html",
+            "title": "Modelia AI Review: Virtual Try-On, Models and Credits",
+            "first_seen": "2026-11-06T18:00:09.148619+00:00"
+          }
+        ]
+      }
+    },
+    "faceless series and pricing": {
+      "first_seen": "2026-11-06T18:00:09.190217+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/storyshort-ai.html",
+            "title": "StoryShort AI Review: Faceless Series and Pricing",
+            "first_seen": "2026-11-06T18:00:09.190217+00:00"
+          }
+        ]
+      }
+    },
+    "review faceless series": {
+      "first_seen": "2026-11-06T18:00:09.190239+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/storyshort-ai.html",
+            "title": "StoryShort AI Review: Faceless Series and Pricing",
+            "first_seen": "2026-11-06T18:00:09.190239+00:00"
+          }
+        ]
+      }
+    },
+    "series and pricing": {
+      "first_seen": "2026-11-06T18:00:09.190258+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/storyshort-ai.html",
+            "title": "StoryShort AI Review: Faceless Series and Pricing",
+            "first_seen": "2026-11-06T18:00:09.190258+00:00"
+          },
+          {
+            "url": "https://www.media.io/comparison/longstories-ai.html",
+            "title": "LongStories AI Review: Long Videos, Series and Pricing",
+            "first_seen": "2026-11-06T18:00:09.220854+00:00"
+          }
+        ]
+      }
+    },
+    "story short ai review": {
+      "first_seen": "2026-11-06T18:00:09.190272+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/storyshort-ai.html",
+            "title": "StoryShort AI Review: Faceless Series and Pricing",
+            "first_seen": "2026-11-06T18:00:09.190272+00:00"
+          }
+        ]
+      }
+    },
+    "faceless series": {
+      "first_seen": "2026-11-06T18:00:09.190281+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/storyshort-ai.html",
+            "title": "StoryShort AI Review: Faceless Series and Pricing",
+            "first_seen": "2026-11-06T18:00:09.190281+00:00"
+          }
+        ]
+      }
+    },
+    "review long": {
+      "first_seen": "2026-11-06T18:00:09.220801+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/longstories-ai.html",
+            "title": "LongStories AI Review: Long Videos, Series and Pricing",
+            "first_seen": "2026-11-06T18:00:09.220801+00:00"
+          }
+        ]
+      }
+    },
+    "long series and pricing": {
+      "first_seen": "2026-11-06T18:00:09.220839+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/longstories-ai.html",
+            "title": "LongStories AI Review: Long Videos, Series and Pricing",
+            "first_seen": "2026-11-06T18:00:09.220839+00:00"
+          }
+        ]
+      }
+    },
+    "review long series": {
+      "first_seen": "2026-11-06T18:00:09.220848+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/longstories-ai.html",
+            "title": "LongStories AI Review: Long Videos, Series and Pricing",
+            "first_seen": "2026-11-06T18:00:09.220848+00:00"
+          }
+        ]
+      }
+    },
+    "stories ai review long": {
+      "first_seen": "2026-11-06T18:00:09.220862+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/longstories-ai.html",
+            "title": "LongStories AI Review: Long Videos, Series and Pricing",
+            "first_seen": "2026-11-06T18:00:09.220862+00:00"
+          }
+        ]
+      }
+    },
+    "long stories ai review": {
+      "first_seen": "2026-11-06T18:00:09.220871+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/longstories-ai.html",
+            "title": "LongStories AI Review: Long Videos, Series and Pricing",
+            "first_seen": "2026-11-06T18:00:09.220871+00:00"
+          }
+        ]
+      }
+    },
+    "long series": {
+      "first_seen": "2026-11-06T18:00:09.220877+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/longstories-ai.html",
+            "title": "LongStories AI Review: Long Videos, Series and Pricing",
+            "first_seen": "2026-11-06T18:00:09.220877+00:00"
+          }
+        ]
+      }
+    },
+    "long stories": {
+      "first_seen": "2026-11-06T18:00:09.220883+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/longstories-ai.html",
+            "title": "LongStories AI Review: Long Videos, Series and Pricing",
+            "first_seen": "2026-11-06T18:00:09.220883+00:00"
+          }
+        ]
+      }
+    },
+    "stories ai review": {
+      "first_seen": "2026-11-06T18:00:09.220890+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/longstories-ai.html",
+            "title": "LongStories AI Review: Long Videos, Series and Pricing",
+            "first_seen": "2026-11-06T18:00:09.220890+00:00"
+          }
+        ]
+      }
+    },
+    "hypernatural ai review": {
+      "first_seen": "2026-11-06T18:00:09.305062+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/hypernatural-ai.html",
+            "title": "Hypernatural AI Review: Storyboards, Characters and Credits",
+            "first_seen": "2026-11-06T18:00:09.305062+00:00"
+          }
+        ]
+      }
+    },
+    "storyboards characters and credits": {
+      "first_seen": "2026-11-06T18:00:09.305118+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/hypernatural-ai.html",
+            "title": "Hypernatural AI Review: Storyboards, Characters and Credits",
+            "first_seen": "2026-11-06T18:00:09.305118+00:00"
+          }
+        ]
+      }
+    },
+    "storyboards characters": {
+      "first_seen": "2026-11-06T18:00:09.305152+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/hypernatural-ai.html",
+            "title": "Hypernatural AI Review: Storyboards, Characters and Credits",
+            "first_seen": "2026-11-06T18:00:09.305152+00:00"
+          }
+        ]
+      }
+    },
+    "hypernatural ai review storyboards": {
+      "first_seen": "2026-11-06T18:00:09.305179+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/hypernatural-ai.html",
+            "title": "Hypernatural AI Review: Storyboards, Characters and Credits",
+            "first_seen": "2026-11-06T18:00:09.305179+00:00"
+          }
+        ]
+      }
+    },
+    "review storyboards characters": {
+      "first_seen": "2026-11-06T18:00:09.305197+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/hypernatural-ai.html",
+            "title": "Hypernatural AI Review: Storyboards, Characters and Credits",
+            "first_seen": "2026-11-06T18:00:09.305197+00:00"
+          }
+        ]
+      }
+    },
+    "characters and credits": {
+      "first_seen": "2026-11-06T18:00:09.305212+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/hypernatural-ai.html",
+            "title": "Hypernatural AI Review: Storyboards, Characters and Credits",
+            "first_seen": "2026-11-06T18:00:09.305212+00:00"
+          }
+        ]
+      }
+    },
+    "clothes changer": {
+      "first_seen": "2026-11-06T18:00:09.614733+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/looksy-ai-clothes-changer.html",
+            "title": "Looksy AI Clothes Changer Review: Features and Costs",
+            "first_seen": "2026-11-06T18:00:09.614733+00:00"
+          }
+        ]
+      }
+    },
+    "looksy ai clothes": {
+      "first_seen": "2026-11-06T18:00:09.614773+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/looksy-ai-clothes-changer.html",
+            "title": "Looksy AI Clothes Changer Review: Features and Costs",
+            "first_seen": "2026-11-06T18:00:09.614773+00:00"
+          }
+        ]
+      }
+    },
+    "review features and costs": {
+      "first_seen": "2026-11-06T18:00:09.614781+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/looksy-ai-clothes-changer.html",
+            "title": "Looksy AI Clothes Changer Review: Features and Costs",
+            "first_seen": "2026-11-06T18:00:09.614781+00:00"
+          }
+        ]
+      }
+    },
+    "looksy ai clothes changer": {
+      "first_seen": "2026-11-06T18:00:09.614787+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/looksy-ai-clothes-changer.html",
+            "title": "Looksy AI Clothes Changer Review: Features and Costs",
+            "first_seen": "2026-11-06T18:00:09.614787+00:00"
+          }
+        ]
+      }
+    },
+    "clothes changer review": {
+      "first_seen": "2026-11-06T18:00:09.614795+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/looksy-ai-clothes-changer.html",
+            "title": "Looksy AI Clothes Changer Review: Features and Costs",
+            "first_seen": "2026-11-06T18:00:09.614795+00:00"
+          }
+        ]
+      }
+    },
+    "changer review": {
+      "first_seen": "2026-11-06T18:00:09.614801+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/looksy-ai-clothes-changer.html",
+            "title": "Looksy AI Clothes Changer Review: Features and Costs",
+            "first_seen": "2026-11-06T18:00:09.614801+00:00"
+          }
+        ]
+      }
+    },
+    "fashn ai review fashion": {
+      "first_seen": "2026-11-06T18:00:09.705808+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/fashn-ai.html",
+            "title": "FASHN AI Review: Fashion Try-On, API and Pricing",
+            "first_seen": "2026-11-06T18:00:09.705808+00:00"
+          }
+        ]
+      }
+    },
+    "fashn ai review": {
+      "first_seen": "2026-11-06T18:00:09.705845+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/fashn-ai.html",
+            "title": "FASHN AI Review: Fashion Try-On, API and Pricing",
+            "first_seen": "2026-11-06T18:00:09.705845+00:00"
+          }
+        ]
+      }
+    },
+    "review fashion try": {
+      "first_seen": "2026-11-06T18:00:09.705864+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/fashn-ai.html",
+            "title": "FASHN AI Review: Fashion Try-On, API and Pricing",
+            "first_seen": "2026-11-06T18:00:09.705864+00:00"
+          }
+        ]
+      }
+    },
+    "fashion try": {
+      "first_seen": "2026-11-06T18:00:09.705870+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/fashn-ai.html",
+            "title": "FASHN AI Review: Fashion Try-On, API and Pricing",
+            "first_seen": "2026-11-06T18:00:09.705870+00:00"
           }
         ]
       }
