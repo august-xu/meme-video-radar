@@ -1,6 +1,6 @@
 {
-  "last_run_timestamp": "2026-11-05T18:00:15.491307+00:00",
-  "total_urls_seen": 13219,
+  "last_run_timestamp": "2026-11-06T00:00:16.808834+00:00",
+  "total_urls_seen": 13234,
   "seen_urls": {
     "knowyourmeme.com": [
       "https://knowyourmeme.com/memes/yohohoho-binkusuno-sake-by-ado",
@@ -96,7 +96,10 @@
       "https://knowyourmeme.com/memes/i-remember-when-you-were-little-little-little-little--2",
       "https://knowyourmeme.com/memes/im-so-in-love-with-you-dragon-ball-dance-jiren-dancing",
       "https://knowyourmeme.com/memes/events/palm-beach-county-learjet-60-plane-crash",
-      "https://knowyourmeme.com/memes/2slimey-side-profile"
+      "https://knowyourmeme.com/memes/2slimey-side-profile",
+      "https://knowyourmeme.com/memes/a-schizophrenic-racist-is-talking-listen-and-learn",
+      "https://knowyourmeme.com/sensitive/memes/people/edp445-eatdatpussy445",
+      "https://knowyourmeme.com/memes/more-like-a-quesadilla-guy"
     ],
     "aptvideoai.com": [
       "https://aptvideoai.com",
@@ -13075,7 +13078,19 @@
       "https://www.capcut.com/template-detail/7500575856369110325",
       "https://www.capcut.com/template-detail/7611967435352165633",
       "https://www.capcut.com/template-detail/7522157248307596605",
-      "https://www.capcut.com/template-detail/7509527810487192885"
+      "https://www.capcut.com/template-detail/7509527810487192885",
+      "https://www.capcut.com/template-detail/7614155497708539153",
+      "https://www.capcut.com/template-detail/7562457444929277189",
+      "https://www.capcut.com/template-detail/7609916699734789393",
+      "https://www.capcut.com/template-detail/7442835260980710711",
+      "https://www.capcut.com/template-detail/7637330004208307477",
+      "https://www.capcut.com/template-detail/7612248283964017936",
+      "https://www.capcut.com/template-detail/7530687794755161397",
+      "https://www.capcut.com/template-detail/7637540881423191316",
+      "https://www.capcut.com/template-detail/7521984476239465789",
+      "https://www.capcut.com/template-detail/7636033261264702728",
+      "https://www.capcut.com/template-detail/7362969691763051782",
+      "https://www.capcut.com/template-detail/7477105562845449525"
     ],
     "maketrendai.com": [
       "https://maketrendai.com/studio",
@@ -71304,6 +71319,150 @@
             "url": "https://knowyourmeme.com/memes/2slimey-side-profile",
             "title": "2Slimey Side-Profile | Know Your Meme",
             "first_seen": "2026-11-05T18:00:08.438830+00:00"
+          }
+        ]
+      }
+    },
+    "schizophrenic racist": {
+      "first_seen": "2026-11-06T00:00:08.854288+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/a-schizophrenic-racist-is-talking-listen-and-learn",
+            "title": "A Schizophrenic Racist Is Talking, Listen and Learn | Know Your Meme",
+            "first_seen": "2026-11-06T00:00:08.854288+00:00"
+          }
+        ]
+      }
+    },
+    "talking listen and learn": {
+      "first_seen": "2026-11-06T00:00:08.854332+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/a-schizophrenic-racist-is-talking-listen-and-learn",
+            "title": "A Schizophrenic Racist Is Talking, Listen and Learn | Know Your Meme",
+            "first_seen": "2026-11-06T00:00:08.854332+00:00"
+          }
+        ]
+      }
+    },
+    "racist is talking": {
+      "first_seen": "2026-11-06T00:00:08.854345+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/a-schizophrenic-racist-is-talking-listen-and-learn",
+            "title": "A Schizophrenic Racist Is Talking, Listen and Learn | Know Your Meme",
+            "first_seen": "2026-11-06T00:00:08.854345+00:00"
+          }
+        ]
+      }
+    },
+    "schizophrenic racist is talking": {
+      "first_seen": "2026-11-06T00:00:08.854373+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/a-schizophrenic-racist-is-talking-listen-and-learn",
+            "title": "A Schizophrenic Racist Is Talking, Listen and Learn | Know Your Meme",
+            "first_seen": "2026-11-06T00:00:08.854373+00:00"
+          }
+        ]
+      }
+    },
+    "eat dat pussy445": {
+      "first_seen": "2026-11-06T00:00:09.503845+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/sensitive/memes/people/edp445-eatdatpussy445",
+            "title": "EDP445 (EatDatPussy445) | Know Your Meme",
+            "first_seen": "2026-11-06T00:00:09.503845+00:00"
+          }
+        ]
+      }
+    },
+    "edp445 eat dat": {
+      "first_seen": "2026-11-06T00:00:09.503895+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/sensitive/memes/people/edp445-eatdatpussy445",
+            "title": "EDP445 (EatDatPussy445) | Know Your Meme",
+            "first_seen": "2026-11-06T00:00:09.503895+00:00"
+          }
+        ]
+      }
+    },
+    "edp445 eat dat pussy445": {
+      "first_seen": "2026-11-06T00:00:09.503913+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/sensitive/memes/people/edp445-eatdatpussy445",
+            "title": "EDP445 (EatDatPussy445) | Know Your Meme",
+            "first_seen": "2026-11-06T00:00:09.503913+00:00"
+          }
+        ]
+      }
+    },
+    "edp445 eat": {
+      "first_seen": "2026-11-06T00:00:09.503928+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/sensitive/memes/people/edp445-eatdatpussy445",
+            "title": "EDP445 (EatDatPussy445) | Know Your Meme",
+            "first_seen": "2026-11-06T00:00:09.503928+00:00"
+          }
+        ]
+      }
+    },
+    "eat dat": {
+      "first_seen": "2026-11-06T00:00:09.503943+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/sensitive/memes/people/edp445-eatdatpussy445",
+            "title": "EDP445 (EatDatPussy445) | Know Your Meme",
+            "first_seen": "2026-11-06T00:00:09.503943+00:00"
+          }
+        ]
+      }
+    },
+    "edp445 eatdatpussy445": {
+      "first_seen": "2026-11-06T00:00:09.503957+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/sensitive/memes/people/edp445-eatdatpussy445",
+            "title": "EDP445 (EatDatPussy445) | Know Your Meme",
+            "first_seen": "2026-11-06T00:00:09.503957+00:00"
+          }
+        ]
+      }
+    },
+    "dat pussy445": {
+      "first_seen": "2026-11-06T00:00:09.503972+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/sensitive/memes/people/edp445-eatdatpussy445",
+            "title": "EDP445 (EatDatPussy445) | Know Your Meme",
+            "first_seen": "2026-11-06T00:00:09.503972+00:00"
+          }
+        ]
+      }
+    },
+    "quesadilla guy": {
+      "first_seen": "2026-11-06T00:00:09.940795+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/more-like-a-quesadilla-guy",
+            "title": "\"More Like a Quesadilla\" Guy | Know Your Meme",
+            "first_seen": "2026-11-06T00:00:09.940795+00:00"
           }
         ]
       }
