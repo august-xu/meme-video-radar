@@ -1,6 +1,6 @@
 {
-  "last_run_timestamp": "2026-11-06T06:00:16.202844+00:00",
-  "total_urls_seen": 13250,
+  "last_run_timestamp": "2026-11-06T12:00:28.324066+00:00",
+  "total_urls_seen": 13285,
   "seen_urls": {
     "knowyourmeme.com": [
       "https://knowyourmeme.com/memes/yohohoho-binkusuno-sake-by-ado",
@@ -3635,7 +3635,10 @@
       "https://www.lightxeditor.com/blog/how-to-make-smooth-criminal-dance-ai-video",
       "https://www.lightxeditor.com/blog/how-to-make-aura-farming-ai-video",
       "https://www.lightxeditor.com/blog/how-to-make-bakery-window-cake-cutting-ai-video-trend",
-      "https://www.lightxeditor.com/blog/how-to-make-fancy-cafe-pov-ai-video"
+      "https://www.lightxeditor.com/blog/how-to-make-fancy-cafe-pov-ai-video",
+      "https://www.lightxeditor.com/blog/how-to-make-uptown-funk-ai-video",
+      "https://www.lightxeditor.com/blog/how-to-make-black-friday-video-ads-with-ai",
+      "https://www.lightxeditor.com/blog/how-to-make-burning-bridge-ai-video"
     ],
     "www.media.io": [
       "https://www.media.io/editor/watermark-remover.html",
@@ -11399,7 +11402,27 @@
       "https://www.media.io/ai/explore/zone/darts-170-ai-trend",
       "https://www.media.io/ai/explore/zone/i-thought-we-were-having-a-nice-date-ai-video",
       "https://www.media.io/ai/explore/zone/angry-dance-filter-ai",
-      "https://www.media.io/ai/explore/zone/mabel-matiz-umrumdisi-ai-trend"
+      "https://www.media.io/ai/explore/zone/mabel-matiz-umrumdisi-ai-trend",
+      "https://www.media.io/comparison/pixelcut-ai.html",
+      "https://www.media.io/comparison/dezgo-ai.html",
+      "https://www.media.io/comparison/deep-dream-generator.html",
+      "https://www.media.io/comparison/youcam-ai-photo-editor.html",
+      "https://www.media.io/comparison/promeai.html",
+      "https://www.media.io/comparison/pixai.html",
+      "https://www.media.io/comparison/lightx-ai.html",
+      "https://www.media.io/comparison/soulgen-ai.html",
+      "https://www.media.io/comparison/somake-ai.html",
+      "https://www.media.io/ai/explore/zone/ai-pet-memorial-video-generator",
+      "https://www.media.io/ai/explore/zone/la-calabaza-dance-ai",
+      "https://www.media.io/comparison/diffus-ai.html",
+      "https://www.media.io/comparison/style-me-ai-virtual-try-on.html",
+      "https://www.media.io/comparison/aigazou.html",
+      "https://www.media.io/comparison/magnific-ai.html",
+      "https://www.media.io/ai/explore/zone/oh-he-tweaking-ai-video",
+      "https://www.media.io/comparison/photta-ai.html",
+      "https://www.media.io/comparison/mockuplabs-ai.html",
+      "https://www.media.io/comparison/uizard-ai.html",
+      "https://www.media.io/comparison/novelai-image-generator.html"
     ],
     "remakeyourmeme.com": [
       "https://remakeyourmeme.com",
@@ -13079,6 +13102,18 @@
       "https://www.capcut.com/template-detail/7611967435352165633",
       "https://www.capcut.com/template-detail/7522157248307596605",
       "https://www.capcut.com/template-detail/7509527810487192885",
+      "https://www.capcut.com/template-detail/7614155497708539153",
+      "https://www.capcut.com/template-detail/7562457444929277189",
+      "https://www.capcut.com/template-detail/7609916699734789393",
+      "https://www.capcut.com/template-detail/7442835260980710711",
+      "https://www.capcut.com/template-detail/7637330004208307477",
+      "https://www.capcut.com/template-detail/7612248283964017936",
+      "https://www.capcut.com/template-detail/7530687794755161397",
+      "https://www.capcut.com/template-detail/7637540881423191316",
+      "https://www.capcut.com/template-detail/7521984476239465789",
+      "https://www.capcut.com/template-detail/7636033261264702728",
+      "https://www.capcut.com/template-detail/7362969691763051782",
+      "https://www.capcut.com/template-detail/7477105562845449525",
       "https://www.capcut.com/template-detail/7614155497708539153",
       "https://www.capcut.com/template-detail/7562457444929277189",
       "https://www.capcut.com/template-detail/7609916699734789393",
@@ -43482,6 +43517,11 @@
             "url": "https://www.media.io/comparison/supawork-ai.html",
             "title": "Supawork AI Review: Face Swap, Coins & Video Tools",
             "first_seen": "2026-10-28T12:00:35.920617+00:00"
+          },
+          {
+            "url": "https://www.media.io/comparison/youcam-ai-photo-editor.html",
+            "title": "YouCam AI Photo Editor Review: Face and Photo Tools",
+            "first_seen": "2026-11-06T12:00:20.908690+00:00"
           }
         ]
       }
@@ -43999,6 +44039,11 @@
             "url": "https://www.media.io/comparison/imagiyo.html",
             "title": "Imagiyo AI Review: Image Models, Free Plan & Video Tools",
             "first_seen": "2026-10-30T18:00:27.643247+00:00"
+          },
+          {
+            "url": "https://www.media.io/comparison/diffus-ai.html",
+            "title": "Diffus AI Review: Image Models and ControlNet",
+            "first_seen": "2026-11-06T12:00:21.108852+00:00"
           }
         ]
       }
@@ -45682,6 +45727,11 @@
             "url": "https://www.media.io/comparison/animegenius-ai-video-generator.html",
             "title": "AnimeGenius Review: Anime Art vs Video Features",
             "first_seen": "2026-10-31T06:00:34.631847+00:00"
+          },
+          {
+            "url": "https://www.media.io/comparison/pixai.html",
+            "title": "PixAI Review: Anime Models, LoRA and Credits",
+            "first_seen": "2026-11-06T12:00:20.983421+00:00"
           }
         ]
       }
@@ -53974,6 +54024,11 @@
             "url": "https://www.media.io/comparison/tensorpix-ai.html",
             "title": "TensorPix AI Review: Video Upscaling, Credits & Alternatives",
             "first_seen": "2026-10-30T18:00:27.611222+00:00"
+          },
+          {
+            "url": "https://www.media.io/comparison/pixai.html",
+            "title": "PixAI Review: Anime Models, LoRA and Credits",
+            "first_seen": "2026-11-06T12:00:20.983502+00:00"
           }
         ]
       }
@@ -71515,6 +71570,1221 @@
             "url": "https://maketrendai.com/refund-policy",
             "title": "Refund Policy | MakeTrend AI",
             "first_seen": "2026-11-06T06:00:09.268820+00:00"
+          }
+        ]
+      }
+    },
+    "uptown funk": {
+      "first_seen": "2026-11-06T12:00:20.808392+00:00",
+      "domains": {
+        "www.lightxeditor.com": [
+          {
+            "url": "https://www.lightxeditor.com/blog/how-to-make-uptown-funk-ai-video/",
+            "title": "How to Make Uptown Funk AI Video (Viral Trend) | LightX",
+            "first_seen": "2026-11-06T12:00:20.808392+00:00"
+          }
+        ]
+      }
+    },
+    "black friday video ads": {
+      "first_seen": "2026-11-06T12:00:20.810984+00:00",
+      "domains": {
+        "www.lightxeditor.com": [
+          {
+            "url": "https://www.lightxeditor.com/blog/how-to-make-black-friday-video-ads-with-ai/",
+            "title": "How to Make Black Friday Ad Videos with AI",
+            "first_seen": "2026-11-06T12:00:20.810984+00:00"
+          }
+        ]
+      }
+    },
+    "friday ad": {
+      "first_seen": "2026-11-06T12:00:20.811005+00:00",
+      "domains": {
+        "www.lightxeditor.com": [
+          {
+            "url": "https://www.lightxeditor.com/blog/how-to-make-black-friday-video-ads-with-ai/",
+            "title": "How to Make Black Friday Ad Videos with AI",
+            "first_seen": "2026-11-06T12:00:20.811005+00:00"
+          }
+        ]
+      }
+    },
+    "friday video ads": {
+      "first_seen": "2026-11-06T12:00:20.811013+00:00",
+      "domains": {
+        "www.lightxeditor.com": [
+          {
+            "url": "https://www.lightxeditor.com/blog/how-to-make-black-friday-video-ads-with-ai/",
+            "title": "How to Make Black Friday Ad Videos with AI",
+            "first_seen": "2026-11-06T12:00:20.811013+00:00"
+          }
+        ]
+      }
+    },
+    "black friday ad": {
+      "first_seen": "2026-11-06T12:00:20.811021+00:00",
+      "domains": {
+        "www.lightxeditor.com": [
+          {
+            "url": "https://www.lightxeditor.com/blog/how-to-make-black-friday-video-ads-with-ai/",
+            "title": "How to Make Black Friday Ad Videos with AI",
+            "first_seen": "2026-11-06T12:00:20.811021+00:00"
+          }
+        ]
+      }
+    },
+    "black friday": {
+      "first_seen": "2026-11-06T12:00:20.811028+00:00",
+      "domains": {
+        "www.lightxeditor.com": [
+          {
+            "url": "https://www.lightxeditor.com/blog/how-to-make-black-friday-video-ads-with-ai/",
+            "title": "How to Make Black Friday Ad Videos with AI",
+            "first_seen": "2026-11-06T12:00:20.811028+00:00"
+          }
+        ]
+      }
+    },
+    "burning bridge": {
+      "first_seen": "2026-11-06T12:00:20.819644+00:00",
+      "domains": {
+        "www.lightxeditor.com": [
+          {
+            "url": "https://www.lightxeditor.com/blog/how-to-make-burning-bridge-ai-video/",
+            "title": "How to make a burning bridge AI video| LightX",
+            "first_seen": "2026-11-06T12:00:20.819644+00:00"
+          }
+        ]
+      }
+    },
+    "review product": {
+      "first_seen": "2026-11-06T12:00:20.827034+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/pixelcut-ai.html",
+            "title": "Pixelcut AI Review: Product Photos, Tools and Pricing",
+            "first_seen": "2026-11-06T12:00:20.827034+00:00"
+          },
+          {
+            "url": "https://www.media.io/comparison/mockuplabs-ai.html",
+            "title": "MockupLabs AI Review: Product Mockups and Pricing",
+            "first_seen": "2026-11-06T12:00:21.200500+00:00"
+          }
+        ]
+      }
+    },
+    "pixelcut ai review": {
+      "first_seen": "2026-11-06T12:00:20.827065+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/pixelcut-ai.html",
+            "title": "Pixelcut AI Review: Product Photos, Tools and Pricing",
+            "first_seen": "2026-11-06T12:00:20.827065+00:00"
+          }
+        ]
+      }
+    },
+    "pixelcut ai review product": {
+      "first_seen": "2026-11-06T12:00:20.827073+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/pixelcut-ai.html",
+            "title": "Pixelcut AI Review: Product Photos, Tools and Pricing",
+            "first_seen": "2026-11-06T12:00:20.827073+00:00"
+          }
+        ]
+      }
+    },
+    "product photos and pricing": {
+      "first_seen": "2026-11-06T12:00:20.827082+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/pixelcut-ai.html",
+            "title": "Pixelcut AI Review: Product Photos, Tools and Pricing",
+            "first_seen": "2026-11-06T12:00:20.827082+00:00"
+          }
+        ]
+      }
+    },
+    "models and pricing": {
+      "first_seen": "2026-11-06T12:00:20.908038+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/dezgo-ai.html",
+            "title": "Dezgo AI Review: ControlNet, Models and Pricing",
+            "first_seen": "2026-11-06T12:00:20.908038+00:00"
+          },
+          {
+            "url": "https://www.media.io/comparison/deep-dream-generator.html",
+            "title": "Deep Dream Generator Review: Art, Models and Pricing",
+            "first_seen": "2026-11-06T12:00:20.908376+00:00"
+          },
+          {
+            "url": "https://www.media.io/comparison/aigazou.html",
+            "title": "AIGAZOU Review: Image Generator, Models and Pricing",
+            "first_seen": "2026-11-06T12:00:21.134002+00:00"
+          }
+        ]
+      }
+    },
+    "control net models": {
+      "first_seen": "2026-11-06T12:00:20.908081+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/dezgo-ai.html",
+            "title": "Dezgo AI Review: ControlNet, Models and Pricing",
+            "first_seen": "2026-11-06T12:00:20.908081+00:00"
+          }
+        ]
+      }
+    },
+    "dezgo ai review control": {
+      "first_seen": "2026-11-06T12:00:20.908094+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/dezgo-ai.html",
+            "title": "Dezgo AI Review: ControlNet, Models and Pricing",
+            "first_seen": "2026-11-06T12:00:20.908094+00:00"
+          }
+        ]
+      }
+    },
+    "review control net models": {
+      "first_seen": "2026-11-06T12:00:20.908106+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/dezgo-ai.html",
+            "title": "Dezgo AI Review: ControlNet, Models and Pricing",
+            "first_seen": "2026-11-06T12:00:20.908106+00:00"
+          }
+        ]
+      }
+    },
+    "review control": {
+      "first_seen": "2026-11-06T12:00:20.908119+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/dezgo-ai.html",
+            "title": "Dezgo AI Review: ControlNet, Models and Pricing",
+            "first_seen": "2026-11-06T12:00:20.908119+00:00"
+          }
+        ]
+      }
+    },
+    "dezgo ai review": {
+      "first_seen": "2026-11-06T12:00:20.908131+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/dezgo-ai.html",
+            "title": "Dezgo AI Review: ControlNet, Models and Pricing",
+            "first_seen": "2026-11-06T12:00:20.908131+00:00"
+          }
+        ]
+      }
+    },
+    "art models and pricing": {
+      "first_seen": "2026-11-06T12:00:20.908332+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/deep-dream-generator.html",
+            "title": "Deep Dream Generator Review: Art, Models and Pricing",
+            "first_seen": "2026-11-06T12:00:20.908332+00:00"
+          }
+        ]
+      }
+    },
+    "review art": {
+      "first_seen": "2026-11-06T12:00:20.908350+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/deep-dream-generator.html",
+            "title": "Deep Dream Generator Review: Art, Models and Pricing",
+            "first_seen": "2026-11-06T12:00:20.908350+00:00"
+          }
+        ]
+      }
+    },
+    "deep dream generator review": {
+      "first_seen": "2026-11-06T12:00:20.908389+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/deep-dream-generator.html",
+            "title": "Deep Dream Generator Review: Art, Models and Pricing",
+            "first_seen": "2026-11-06T12:00:20.908389+00:00"
+          }
+        ]
+      }
+    },
+    "dream generator review art": {
+      "first_seen": "2026-11-06T12:00:20.908409+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/deep-dream-generator.html",
+            "title": "Deep Dream Generator Review: Art, Models and Pricing",
+            "first_seen": "2026-11-06T12:00:20.908409+00:00"
+          }
+        ]
+      }
+    },
+    "art models": {
+      "first_seen": "2026-11-06T12:00:20.908422+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/deep-dream-generator.html",
+            "title": "Deep Dream Generator Review: Art, Models and Pricing",
+            "first_seen": "2026-11-06T12:00:20.908422+00:00"
+          }
+        ]
+      }
+    },
+    "deep dream": {
+      "first_seen": "2026-11-06T12:00:20.908434+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/deep-dream-generator.html",
+            "title": "Deep Dream Generator Review: Art, Models and Pricing",
+            "first_seen": "2026-11-06T12:00:20.908434+00:00"
+          }
+        ]
+      }
+    },
+    "dream generator review": {
+      "first_seen": "2026-11-06T12:00:20.908448+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/deep-dream-generator.html",
+            "title": "Deep Dream Generator Review: Art, Models and Pricing",
+            "first_seen": "2026-11-06T12:00:20.908448+00:00"
+          }
+        ]
+      }
+    },
+    "review art models": {
+      "first_seen": "2026-11-06T12:00:20.908460+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/deep-dream-generator.html",
+            "title": "Deep Dream Generator Review: Art, Models and Pricing",
+            "first_seen": "2026-11-06T12:00:20.908460+00:00"
+          }
+        ]
+      }
+    },
+    "prome ai review sketch": {
+      "first_seen": "2026-11-06T12:00:20.908872+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/promeai.html",
+            "title": "PromeAI Review: Sketch Rendering and Design AI",
+            "first_seen": "2026-11-06T12:00:20.908872+00:00"
+          }
+        ]
+      }
+    },
+    "sketch rendering": {
+      "first_seen": "2026-11-06T12:00:20.908890+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/promeai.html",
+            "title": "PromeAI Review: Sketch Rendering and Design AI",
+            "first_seen": "2026-11-06T12:00:20.908890+00:00"
+          }
+        ]
+      }
+    },
+    "rendering and design": {
+      "first_seen": "2026-11-06T12:00:20.908902+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/promeai.html",
+            "title": "PromeAI Review: Sketch Rendering and Design AI",
+            "first_seen": "2026-11-06T12:00:20.908902+00:00"
+          }
+        ]
+      }
+    },
+    "review sketch": {
+      "first_seen": "2026-11-06T12:00:20.908913+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/promeai.html",
+            "title": "PromeAI Review: Sketch Rendering and Design AI",
+            "first_seen": "2026-11-06T12:00:20.908913+00:00"
+          }
+        ]
+      }
+    },
+    "prome ai review": {
+      "first_seen": "2026-11-06T12:00:20.908923+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/promeai.html",
+            "title": "PromeAI Review: Sketch Rendering and Design AI",
+            "first_seen": "2026-11-06T12:00:20.908923+00:00"
+          }
+        ]
+      }
+    },
+    "review sketch rendering": {
+      "first_seen": "2026-11-06T12:00:20.908950+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/promeai.html",
+            "title": "PromeAI Review: Sketch Rendering and Design AI",
+            "first_seen": "2026-11-06T12:00:20.908950+00:00"
+          }
+        ]
+      }
+    },
+    "sketch rendering and design": {
+      "first_seen": "2026-11-06T12:00:20.908964+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/promeai.html",
+            "title": "PromeAI Review: Sketch Rendering and Design AI",
+            "first_seen": "2026-11-06T12:00:20.908964+00:00"
+          }
+        ]
+      }
+    },
+    "anime models": {
+      "first_seen": "2026-11-06T12:00:20.983379+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/pixai.html",
+            "title": "PixAI Review: Anime Models, LoRA and Credits",
+            "first_seen": "2026-11-06T12:00:20.983379+00:00"
+          }
+        ]
+      }
+    },
+    "lo ra and credits": {
+      "first_seen": "2026-11-06T12:00:20.983413+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/pixai.html",
+            "title": "PixAI Review: Anime Models, LoRA and Credits",
+            "first_seen": "2026-11-06T12:00:20.983413+00:00"
+          }
+        ]
+      }
+    },
+    "pix ai review anime": {
+      "first_seen": "2026-11-06T12:00:20.983489+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/pixai.html",
+            "title": "PixAI Review: Anime Models, LoRA and Credits",
+            "first_seen": "2026-11-06T12:00:20.983489+00:00"
+          }
+        ]
+      }
+    },
+    "anime models lo": {
+      "first_seen": "2026-11-06T12:00:20.983519+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/pixai.html",
+            "title": "PixAI Review: Anime Models, LoRA and Credits",
+            "first_seen": "2026-11-06T12:00:20.983519+00:00"
+          }
+        ]
+      }
+    },
+    "models lo ra": {
+      "first_seen": "2026-11-06T12:00:20.983527+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/pixai.html",
+            "title": "PixAI Review: Anime Models, LoRA and Credits",
+            "first_seen": "2026-11-06T12:00:20.983527+00:00"
+          }
+        ]
+      }
+    },
+    "models lo": {
+      "first_seen": "2026-11-06T12:00:20.983534+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/pixai.html",
+            "title": "PixAI Review: Anime Models, LoRA and Credits",
+            "first_seen": "2026-11-06T12:00:20.983534+00:00"
+          }
+        ]
+      }
+    },
+    "review anime models": {
+      "first_seen": "2026-11-06T12:00:20.983542+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/pixai.html",
+            "title": "PixAI Review: Anime Models, LoRA and Credits",
+            "first_seen": "2026-11-06T12:00:20.983542+00:00"
+          }
+        ]
+      }
+    },
+    "lo ra": {
+      "first_seen": "2026-11-06T12:00:20.983557+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/pixai.html",
+            "title": "PixAI Review: Anime Models, LoRA and Credits",
+            "first_seen": "2026-11-06T12:00:20.983557+00:00"
+          }
+        ]
+      }
+    },
+    "review anime models lo": {
+      "first_seen": "2026-11-06T12:00:20.983566+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/pixai.html",
+            "title": "PixAI Review: Anime Models, LoRA and Credits",
+            "first_seen": "2026-11-06T12:00:20.983566+00:00"
+          }
+        ]
+      }
+    },
+    "anime models lo ra": {
+      "first_seen": "2026-11-06T12:00:20.983579+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/pixai.html",
+            "title": "PixAI Review: Anime Models, LoRA and Credits",
+            "first_seen": "2026-11-06T12:00:20.983579+00:00"
+          }
+        ]
+      }
+    },
+    "ra and credits": {
+      "first_seen": "2026-11-06T12:00:20.983588+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/pixai.html",
+            "title": "PixAI Review: Anime Models, LoRA and Credits",
+            "first_seen": "2026-11-06T12:00:20.983588+00:00"
+          }
+        ]
+      }
+    },
+    "light x ai review": {
+      "first_seen": "2026-11-06T12:00:20.986670+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/lightx-ai.html",
+            "title": "LightX AI Review: Photo Editing, Tools and Pricing",
+            "first_seen": "2026-11-06T12:00:20.986670+00:00"
+          }
+        ]
+      }
+    },
+    "review photo editing": {
+      "first_seen": "2026-11-06T12:00:20.986695+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/lightx-ai.html",
+            "title": "LightX AI Review: Photo Editing, Tools and Pricing",
+            "first_seen": "2026-11-06T12:00:20.986695+00:00"
+          }
+        ]
+      }
+    },
+    "light x": {
+      "first_seen": "2026-11-06T12:00:20.986704+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/lightx-ai.html",
+            "title": "LightX AI Review: Photo Editing, Tools and Pricing",
+            "first_seen": "2026-11-06T12:00:20.986704+00:00"
+          }
+        ]
+      }
+    },
+    "x ai review": {
+      "first_seen": "2026-11-06T12:00:20.986711+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/lightx-ai.html",
+            "title": "LightX AI Review: Photo Editing, Tools and Pricing",
+            "first_seen": "2026-11-06T12:00:20.986711+00:00"
+          }
+        ]
+      }
+    },
+    "editing and pricing": {
+      "first_seen": "2026-11-06T12:00:20.986718+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/lightx-ai.html",
+            "title": "LightX AI Review: Photo Editing, Tools and Pricing",
+            "first_seen": "2026-11-06T12:00:20.986718+00:00"
+          }
+        ]
+      }
+    },
+    "gen ai review": {
+      "first_seen": "2026-11-06T12:00:20.995686+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/soulgen-ai.html",
+            "title": "SoulGen AI Review: Characters, Art and Pricing",
+            "first_seen": "2026-11-06T12:00:20.995686+00:00"
+          }
+        ]
+      }
+    },
+    "review characters": {
+      "first_seen": "2026-11-06T12:00:20.995721+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/soulgen-ai.html",
+            "title": "SoulGen AI Review: Characters, Art and Pricing",
+            "first_seen": "2026-11-06T12:00:20.995721+00:00"
+          }
+        ]
+      }
+    },
+    "soul gen": {
+      "first_seen": "2026-11-06T12:00:20.995729+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/soulgen-ai.html",
+            "title": "SoulGen AI Review: Characters, Art and Pricing",
+            "first_seen": "2026-11-06T12:00:20.995729+00:00"
+          }
+        ]
+      }
+    },
+    "gen ai review characters": {
+      "first_seen": "2026-11-06T12:00:20.995738+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/soulgen-ai.html",
+            "title": "SoulGen AI Review: Characters, Art and Pricing",
+            "first_seen": "2026-11-06T12:00:20.995738+00:00"
+          }
+        ]
+      }
+    },
+    "art and pricing": {
+      "first_seen": "2026-11-06T12:00:20.995745+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/soulgen-ai.html",
+            "title": "SoulGen AI Review: Characters, Art and Pricing",
+            "first_seen": "2026-11-06T12:00:20.995745+00:00"
+          }
+        ]
+      }
+    },
+    "characters art and pricing": {
+      "first_seen": "2026-11-06T12:00:20.995771+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/soulgen-ai.html",
+            "title": "SoulGen AI Review: Characters, Art and Pricing",
+            "first_seen": "2026-11-06T12:00:20.995771+00:00"
+          }
+        ]
+      }
+    },
+    "characters art": {
+      "first_seen": "2026-11-06T12:00:20.995783+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/soulgen-ai.html",
+            "title": "SoulGen AI Review: Characters, Art and Pricing",
+            "first_seen": "2026-11-06T12:00:20.995783+00:00"
+          }
+        ]
+      }
+    },
+    "soul gen ai review": {
+      "first_seen": "2026-11-06T12:00:20.995790+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/soulgen-ai.html",
+            "title": "SoulGen AI Review: Characters, Art and Pricing",
+            "first_seen": "2026-11-06T12:00:20.995790+00:00"
+          }
+        ]
+      }
+    },
+    "review characters art": {
+      "first_seen": "2026-11-06T12:00:20.995798+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/soulgen-ai.html",
+            "title": "SoulGen AI Review: Characters, Art and Pricing",
+            "first_seen": "2026-11-06T12:00:20.995798+00:00"
+          }
+        ]
+      }
+    },
+    "somake ai review": {
+      "first_seen": "2026-11-06T12:00:20.999662+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/somake-ai.html",
+            "title": "Somake AI Review: Image, Video Tools and Credits",
+            "first_seen": "2026-11-06T12:00:20.999662+00:00"
+          }
+        ]
+      }
+    },
+    "models and control": {
+      "first_seen": "2026-11-06T12:00:21.108900+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/diffus-ai.html",
+            "title": "Diffus AI Review: Image Models and ControlNet",
+            "first_seen": "2026-11-06T12:00:21.108900+00:00"
+          }
+        ]
+      }
+    },
+    "diffus ai review": {
+      "first_seen": "2026-11-06T12:00:21.108914+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/diffus-ai.html",
+            "title": "Diffus AI Review: Image Models and ControlNet",
+            "first_seen": "2026-11-06T12:00:21.108914+00:00"
+          }
+        ]
+      }
+    },
+    "review 3d virtual": {
+      "first_seen": "2026-11-06T12:00:21.133757+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/style-me-ai-virtual-try-on.html",
+            "title": "Style.me Review: 3D Virtual Try-On for Stores",
+            "first_seen": "2026-11-06T12:00:21.133757+00:00"
+          }
+        ]
+      }
+    },
+    "style me ai virtual": {
+      "first_seen": "2026-11-06T12:00:21.133790+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/style-me-ai-virtual-try-on.html",
+            "title": "Style.me Review: 3D Virtual Try-On for Stores",
+            "first_seen": "2026-11-06T12:00:21.133790+00:00"
+          }
+        ]
+      }
+    },
+    "3d virtual try": {
+      "first_seen": "2026-11-06T12:00:21.133799+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/style-me-ai-virtual-try-on.html",
+            "title": "Style.me Review: 3D Virtual Try-On for Stores",
+            "first_seen": "2026-11-06T12:00:21.133799+00:00"
+          }
+        ]
+      }
+    },
+    "style me review": {
+      "first_seen": "2026-11-06T12:00:21.133807+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/style-me-ai-virtual-try-on.html",
+            "title": "Style.me Review: 3D Virtual Try-On for Stores",
+            "first_seen": "2026-11-06T12:00:21.133807+00:00"
+          }
+        ]
+      }
+    },
+    "review 3d": {
+      "first_seen": "2026-11-06T12:00:21.133814+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/style-me-ai-virtual-try-on.html",
+            "title": "Style.me Review: 3D Virtual Try-On for Stores",
+            "first_seen": "2026-11-06T12:00:21.133814+00:00"
+          }
+        ]
+      }
+    },
+    "virtual try": {
+      "first_seen": "2026-11-06T12:00:21.133821+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/style-me-ai-virtual-try-on.html",
+            "title": "Style.me Review: 3D Virtual Try-On for Stores",
+            "first_seen": "2026-11-06T12:00:21.133821+00:00"
+          }
+        ]
+      }
+    },
+    "review 3d virtual try": {
+      "first_seen": "2026-11-06T12:00:21.133829+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/style-me-ai-virtual-try-on.html",
+            "title": "Style.me Review: 3D Virtual Try-On for Stores",
+            "first_seen": "2026-11-06T12:00:21.133829+00:00"
+          }
+        ]
+      }
+    },
+    "style me review 3d": {
+      "first_seen": "2026-11-06T12:00:21.133836+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/style-me-ai-virtual-try-on.html",
+            "title": "Style.me Review: 3D Virtual Try-On for Stores",
+            "first_seen": "2026-11-06T12:00:21.133836+00:00"
+          }
+        ]
+      }
+    },
+    "3d virtual": {
+      "first_seen": "2026-11-06T12:00:21.133843+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/style-me-ai-virtual-try-on.html",
+            "title": "Style.me Review: 3D Virtual Try-On for Stores",
+            "first_seen": "2026-11-06T12:00:21.133843+00:00"
+          }
+        ]
+      }
+    },
+    "review image generator models": {
+      "first_seen": "2026-11-06T12:00:21.133980+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/aigazou.html",
+            "title": "AIGAZOU Review: Image Generator, Models and Pricing",
+            "first_seen": "2026-11-06T12:00:21.133980+00:00"
+          }
+        ]
+      }
+    },
+    "aigazou review": {
+      "first_seen": "2026-11-06T12:00:21.133994+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/aigazou.html",
+            "title": "AIGAZOU Review: Image Generator, Models and Pricing",
+            "first_seen": "2026-11-06T12:00:21.133994+00:00"
+          }
+        ]
+      }
+    },
+    "upscaling pricing and models": {
+      "first_seen": "2026-11-06T12:00:21.134132+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/magnific-ai.html",
+            "title": "Magnific AI Review: Upscaling, Pricing and Models",
+            "first_seen": "2026-11-06T12:00:21.134132+00:00"
+          }
+        ]
+      }
+    },
+    "pricing and models": {
+      "first_seen": "2026-11-06T12:00:21.134146+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/magnific-ai.html",
+            "title": "Magnific AI Review: Upscaling, Pricing and Models",
+            "first_seen": "2026-11-06T12:00:21.134146+00:00"
+          }
+        ]
+      }
+    },
+    "magnific ai review": {
+      "first_seen": "2026-11-06T12:00:21.134154+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/magnific-ai.html",
+            "title": "Magnific AI Review: Upscaling, Pricing and Models",
+            "first_seen": "2026-11-06T12:00:21.134154+00:00"
+          }
+        ]
+      }
+    },
+    "review upscaling": {
+      "first_seen": "2026-11-06T12:00:21.134161+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/magnific-ai.html",
+            "title": "Magnific AI Review: Upscaling, Pricing and Models",
+            "first_seen": "2026-11-06T12:00:21.134161+00:00"
+          }
+        ]
+      }
+    },
+    "upscaling pricing": {
+      "first_seen": "2026-11-06T12:00:21.134168+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/magnific-ai.html",
+            "title": "Magnific AI Review: Upscaling, Pricing and Models",
+            "first_seen": "2026-11-06T12:00:21.134168+00:00"
+          }
+        ]
+      }
+    },
+    "magnific ai review upscaling": {
+      "first_seen": "2026-11-06T12:00:21.134176+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/magnific-ai.html",
+            "title": "Magnific AI Review: Upscaling, Pricing and Models",
+            "first_seen": "2026-11-06T12:00:21.134176+00:00"
+          }
+        ]
+      }
+    },
+    "review upscaling pricing": {
+      "first_seen": "2026-11-06T12:00:21.134183+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/magnific-ai.html",
+            "title": "Magnific AI Review: Upscaling, Pricing and Models",
+            "first_seen": "2026-11-06T12:00:21.134183+00:00"
+          }
+        ]
+      }
+    },
+    "oh he tweaking": {
+      "first_seen": "2026-11-06T12:00:21.134311+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/oh-he-tweaking-ai-video",
+            "title": "Oh He Tweaking AI Video Generator & Prompts | Media.io",
+            "first_seen": "2026-11-06T12:00:21.134311+00:00"
+          }
+        ]
+      }
+    },
+    "photta ai review fashion": {
+      "first_seen": "2026-11-06T12:00:21.169714+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/photta-ai.html",
+            "title": "Photta AI Review: Fashion Photos, Try-On and Pricing",
+            "first_seen": "2026-11-06T12:00:21.169714+00:00"
+          }
+        ]
+      }
+    },
+    "review fashion": {
+      "first_seen": "2026-11-06T12:00:21.169753+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/photta-ai.html",
+            "title": "Photta AI Review: Fashion Photos, Try-On and Pricing",
+            "first_seen": "2026-11-06T12:00:21.169753+00:00"
+          }
+        ]
+      }
+    },
+    "photta ai review": {
+      "first_seen": "2026-11-06T12:00:21.169762+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/photta-ai.html",
+            "title": "Photta AI Review: Fashion Photos, Try-On and Pricing",
+            "first_seen": "2026-11-06T12:00:21.169762+00:00"
+          }
+        ]
+      }
+    },
+    "review fashion photos try": {
+      "first_seen": "2026-11-06T12:00:21.169770+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/photta-ai.html",
+            "title": "Photta AI Review: Fashion Photos, Try-On and Pricing",
+            "first_seen": "2026-11-06T12:00:21.169770+00:00"
+          }
+        ]
+      }
+    },
+    "fashion photos try": {
+      "first_seen": "2026-11-06T12:00:21.169777+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/photta-ai.html",
+            "title": "Photta AI Review: Fashion Photos, Try-On and Pricing",
+            "first_seen": "2026-11-06T12:00:21.169777+00:00"
+          }
+        ]
+      }
+    },
+    "mockup labs": {
+      "first_seen": "2026-11-06T12:00:21.200452+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/mockuplabs-ai.html",
+            "title": "MockupLabs AI Review: Product Mockups and Pricing",
+            "first_seen": "2026-11-06T12:00:21.200452+00:00"
+          }
+        ]
+      }
+    },
+    "mockup labs ai review": {
+      "first_seen": "2026-11-06T12:00:21.200492+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/mockuplabs-ai.html",
+            "title": "MockupLabs AI Review: Product Mockups and Pricing",
+            "first_seen": "2026-11-06T12:00:21.200492+00:00"
+          }
+        ]
+      }
+    },
+    "labs ai review product": {
+      "first_seen": "2026-11-06T12:00:21.200509+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/mockuplabs-ai.html",
+            "title": "MockupLabs AI Review: Product Mockups and Pricing",
+            "first_seen": "2026-11-06T12:00:21.200509+00:00"
+          }
+        ]
+      }
+    },
+    "labs ai review": {
+      "first_seen": "2026-11-06T12:00:21.200517+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/mockuplabs-ai.html",
+            "title": "MockupLabs AI Review: Product Mockups and Pricing",
+            "first_seen": "2026-11-06T12:00:21.200517+00:00"
+          }
+        ]
+      }
+    },
+    "review product mockups": {
+      "first_seen": "2026-11-06T12:00:21.200525+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/mockuplabs-ai.html",
+            "title": "MockupLabs AI Review: Product Mockups and Pricing",
+            "first_seen": "2026-11-06T12:00:21.200525+00:00"
+          }
+        ]
+      }
+    },
+    "mockups and pricing": {
+      "first_seen": "2026-11-06T12:00:21.200533+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/mockuplabs-ai.html",
+            "title": "MockupLabs AI Review: Product Mockups and Pricing",
+            "first_seen": "2026-11-06T12:00:21.200533+00:00"
+          }
+        ]
+      }
+    },
+    "product mockups and pricing": {
+      "first_seen": "2026-11-06T12:00:21.200540+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/mockuplabs-ai.html",
+            "title": "MockupLabs AI Review: Product Mockups and Pricing",
+            "first_seen": "2026-11-06T12:00:21.200540+00:00"
+          }
+        ]
+      }
+    },
+    "product mockups": {
+      "first_seen": "2026-11-06T12:00:21.200547+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/mockuplabs-ai.html",
+            "title": "MockupLabs AI Review: Product Mockups and Pricing",
+            "first_seen": "2026-11-06T12:00:21.200547+00:00"
+          }
+        ]
+      }
+    },
+    "uizard ai review ui": {
+      "first_seen": "2026-11-06T12:00:21.210453+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/uizard-ai.html",
+            "title": "Uizard AI Review: UI Prototypes, Features and Plans",
+            "first_seen": "2026-11-06T12:00:21.210453+00:00"
+          }
+        ]
+      }
+    },
+    "uizard ai review": {
+      "first_seen": "2026-11-06T12:00:21.210500+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/uizard-ai.html",
+            "title": "Uizard AI Review: UI Prototypes, Features and Plans",
+            "first_seen": "2026-11-06T12:00:21.210500+00:00"
+          }
+        ]
+      }
+    },
+    "ui prototypes": {
+      "first_seen": "2026-11-06T12:00:21.210511+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/uizard-ai.html",
+            "title": "Uizard AI Review: UI Prototypes, Features and Plans",
+            "first_seen": "2026-11-06T12:00:21.210511+00:00"
+          }
+        ]
+      }
+    },
+    "prototypes features and plans": {
+      "first_seen": "2026-11-06T12:00:21.210535+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/uizard-ai.html",
+            "title": "Uizard AI Review: UI Prototypes, Features and Plans",
+            "first_seen": "2026-11-06T12:00:21.210535+00:00"
+          }
+        ]
+      }
+    },
+    "review ui prototypes": {
+      "first_seen": "2026-11-06T12:00:21.210545+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/uizard-ai.html",
+            "title": "Uizard AI Review: UI Prototypes, Features and Plans",
+            "first_seen": "2026-11-06T12:00:21.210545+00:00"
+          }
+        ]
+      }
+    },
+    "review ui": {
+      "first_seen": "2026-11-06T12:00:21.210552+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/uizard-ai.html",
+            "title": "Uizard AI Review: UI Prototypes, Features and Plans",
+            "first_seen": "2026-11-06T12:00:21.210552+00:00"
+          }
+        ]
+      }
+    },
+    "pricing and review": {
+      "first_seen": "2026-11-06T12:00:21.384767+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/novelai-image-generator.html",
+            "title": "NovelAI V5 Image Generator: Features, Pricing and Review",
+            "first_seen": "2026-11-06T12:00:21.384767+00:00"
+          }
+        ]
+      }
+    },
+    "novel ai v5": {
+      "first_seen": "2026-11-06T12:00:21.384804+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/comparison/novelai-image-generator.html",
+            "title": "NovelAI V5 Image Generator: Features, Pricing and Review",
+            "first_seen": "2026-11-06T12:00:21.384804+00:00"
           }
         ]
       }
