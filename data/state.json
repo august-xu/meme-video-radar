@@ -1,6 +1,6 @@
 {
-  "last_run_timestamp": "2026-11-06T00:00:16.808834+00:00",
-  "total_urls_seen": 13234,
+  "last_run_timestamp": "2026-11-06T06:00:16.202844+00:00",
+  "total_urls_seen": 13250,
   "seen_urls": {
     "knowyourmeme.com": [
       "https://knowyourmeme.com/memes/yohohoho-binkusuno-sake-by-ado",
@@ -13090,6 +13090,18 @@
       "https://www.capcut.com/template-detail/7521984476239465789",
       "https://www.capcut.com/template-detail/7636033261264702728",
       "https://www.capcut.com/template-detail/7362969691763051782",
+      "https://www.capcut.com/template-detail/7477105562845449525",
+      "https://www.capcut.com/template-detail/7614155497708539153",
+      "https://www.capcut.com/template-detail/7562457444929277189",
+      "https://www.capcut.com/template-detail/7609916699734789393",
+      "https://www.capcut.com/template-detail/7442835260980710711",
+      "https://www.capcut.com/template-detail/7637330004208307477",
+      "https://www.capcut.com/template-detail/7612248283964017936",
+      "https://www.capcut.com/template-detail/7530687794755161397",
+      "https://www.capcut.com/template-detail/7637540881423191316",
+      "https://www.capcut.com/template-detail/7521984476239465789",
+      "https://www.capcut.com/template-detail/7636033261264702728",
+      "https://www.capcut.com/template-detail/7362969691763051782",
       "https://www.capcut.com/template-detail/7477105562845449525"
     ],
     "maketrendai.com": [
@@ -13254,7 +13266,11 @@
       "https://maketrendai.com/blog/best-first-time-in-a-fancy-cafe-ai-video-generators",
       "https://maketrendai.com/closing-door-prank-ai",
       "https://maketrendai.com/blog/how-to-make-first-time-in-a-fancy-cafe-ai-video",
-      "https://maketrendai.com/blog/first-time-in-a-fancy-cafe-ai-trend"
+      "https://maketrendai.com/blog/first-time-in-a-fancy-cafe-ai-trend",
+      "https://maketrendai.com/contact",
+      "https://maketrendai.com/cookie-policy",
+      "https://maketrendai.com/refund-policy",
+      "https://maketrendai.com/ai-pet-video"
     ]
   },
   "entities": {
@@ -71463,6 +71479,42 @@
             "url": "https://knowyourmeme.com/memes/more-like-a-quesadilla-guy",
             "title": "\"More Like a Quesadilla\" Guy | Know Your Meme",
             "first_seen": "2026-11-06T00:00:09.940795+00:00"
+          }
+        ]
+      }
+    },
+    "contact us": {
+      "first_seen": "2026-11-06T06:00:09.039657+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/contact",
+            "title": "Contact Us | MakeTrend AI",
+            "first_seen": "2026-11-06T06:00:09.039657+00:00"
+          }
+        ]
+      }
+    },
+    "cookie policy": {
+      "first_seen": "2026-11-06T06:00:09.230927+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/cookie-policy",
+            "title": "Cookie Policy | MakeTrend AI",
+            "first_seen": "2026-11-06T06:00:09.230927+00:00"
+          }
+        ]
+      }
+    },
+    "refund policy": {
+      "first_seen": "2026-11-06T06:00:09.268820+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/refund-policy",
+            "title": "Refund Policy | MakeTrend AI",
+            "first_seen": "2026-11-06T06:00:09.268820+00:00"
           }
         ]
       }
