@@ -1,6 +1,6 @@
 {
-  "last_run_timestamp": "2026-11-07T18:00:15.581878+00:00",
-  "total_urls_seen": 13457,
+  "last_run_timestamp": "2026-11-08T00:00:16.591672+00:00",
+  "total_urls_seen": 13495,
   "seen_urls": {
     "knowyourmeme.com": [
       "https://knowyourmeme.com/memes/yohohoho-binkusuno-sake-by-ado",
@@ -11524,7 +11524,27 @@
       "https://www.media.io/ai/ai-tools/ai-face-editor/indian-bridal-makeup-filter",
       "https://www.media.io/ai/ai-tools/ai-face-editor/red-carpet-makeup-filter",
       "https://www.media.io/ai/ai-tools/ai-face-editor/pakistani-bridal-makeup-filter",
-      "https://www.media.io/ai/ai-tools/ai-face-editor/nikah-makeup-filter"
+      "https://www.media.io/ai/ai-tools/ai-face-editor/nikah-makeup-filter",
+      "https://www.media.io/ai-prompts/chatgpt-ai-comic-storyboard-photo-prompts.html",
+      "https://www.media.io/ai/explore/zone/outdoor-gym-fail-ai",
+      "https://www.media.io/ai/ai-tools/ai-face-editor/peach-girl-makeup-filter",
+      "https://www.media.io/ai/explore/zone/flamingo-float-ai-video",
+      "https://www.media.io/ai/explore/zone/quiet-on-the-creek-ai-dance",
+      "https://www.media.io/ai-prompts/chatgpt-character-reference-sheet-prompts.html",
+      "https://www.media.io/ai-prompts/chatgpt-red-carpet-photo-prompts.html",
+      "https://www.media.io/ai-prompts/chatgpt-old-hollywood-portrait-prompts.html",
+      "https://www.media.io/ai-prompts/chatgpt-character-intro-photo-prompts.html",
+      "https://www.media.io/ai/explore/zone/birthday-car-drift-ai",
+      "https://www.media.io/ai-prompts/chatgpt-vision-board-prompts.html",
+      "https://www.media.io/ai/explore/zone/can-i-ride-dance-ai",
+      "https://www.media.io/ai-prompts/chatgpt-christmas-cat-prompts.html",
+      "https://www.media.io/audio-effects/help-sound-effects.html",
+      "https://www.media.io/ai/explore/zone/vossi-bop-ai-dance",
+      "https://www.media.io/ai/explore/zone/prompt-seen-motu-patlu",
+      "https://www.media.io/ai/explore/zone/500-days-of-summer-meme-generator",
+      "https://www.media.io/ai/explore/zone/rapunzel-ai-dance-generator",
+      "https://www.media.io/ai/effect/create/viral-ai-trends",
+      "https://www.media.io/ai/effect/create/ai-police-running-video"
     ],
     "remakeyourmeme.com": [
       "https://remakeyourmeme.com",
@@ -12401,7 +12421,9 @@
       "https://www.getstarrd.app/template/kakalika-dance-ai-video",
       "https://www.getstarrd.app/blog/how-to-make-kakalika-dance-ai-video",
       "https://www.getstarrd.app/blog/how-to-make-bad-sekki-wing-man-ai-video",
-      "https://www.getstarrd.app/blog/how-to-make-nazeer-bakra-goat-ai-video"
+      "https://www.getstarrd.app/blog/how-to-make-nazeer-bakra-goat-ai-video",
+      "https://www.getstarrd.app/template/i-love-the-smiths-ai-video",
+      "https://www.getstarrd.app/blog/how-to-make-i-love-the-smiths-ai-video"
     ],
     "www.capcut.com": [
       "https://www.capcut.com/template-detail/7613449947458981136",
@@ -13295,6 +13317,22 @@
       "https://www.capcut.com/template-detail/7636033261264702728",
       "https://www.capcut.com/template-detail/7362969691763051782",
       "https://www.capcut.com/template-detail/7477105562845449525",
+      "https://www.capcut.com/template-detail/7614155497708539153",
+      "https://www.capcut.com/template-detail/7562457444929277189",
+      "https://www.capcut.com/template-detail/7609916699734789393",
+      "https://www.capcut.com/template-detail/7442835260980710711",
+      "https://www.capcut.com/template-detail/7637330004208307477",
+      "https://www.capcut.com/template-detail/7612248283964017936",
+      "https://www.capcut.com/template-detail/7530687794755161397",
+      "https://www.capcut.com/template-detail/7637540881423191316",
+      "https://www.capcut.com/template-detail/7521984476239465789",
+      "https://www.capcut.com/template-detail/7636033261264702728",
+      "https://www.capcut.com/template-detail/7362969691763051782",
+      "https://www.capcut.com/template-detail/7477105562845449525",
+      "https://www.capcut.com/template-detail/7637540881423191316",
+      "https://www.capcut.com/template-detail/7521984476239465789",
+      "https://www.capcut.com/template-detail/7609291442149756176",
+      "https://www.capcut.com/template-detail/7611967435352165633",
       "https://www.capcut.com/template-detail/7614155497708539153",
       "https://www.capcut.com/template-detail/7562457444929277189",
       "https://www.capcut.com/template-detail/7609916699734789393",
@@ -18300,6 +18338,13 @@
             "url": "https://maketrendai.com/blog/how-to-make-can-i-ride-dance-ai-video",
             "title": "How to Make the Can I Ride Dance AI Video: The Viral Two-Person Dance From Two Photos | MakeTrend AI",
             "first_seen": "2026-10-30T18:00:27.199771+00:00"
+          }
+        ],
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/can-i-ride-dance-ai",
+            "title": "Can I Ride AI Dance Generator – Duo Dance Trend | Media.io",
+            "first_seen": "2026-11-08T00:00:09.871787+00:00"
           }
         ]
       }
@@ -26352,6 +26397,41 @@
             "url": "https://www.media.io/ai-prompts/chatgpt-quilling-art-photo-prompt.html",
             "title": "25 ChatGPT Quilling Art Photo Prompts for Rolled Paper Portraits",
             "first_seen": "2026-11-07T06:00:09.066992+00:00"
+          },
+          {
+            "url": "https://www.media.io/ai-prompts/chatgpt-ai-comic-storyboard-photo-prompts.html",
+            "title": "25 ChatGPT Comic Storyboard Photo Prompts with Panel Ideas",
+            "first_seen": "2026-11-08T00:00:09.352589+00:00"
+          },
+          {
+            "url": "https://www.media.io/ai-prompts/chatgpt-character-reference-sheet-prompts.html",
+            "title": "25 ChatGPT Character Reference Sheet Prompts and Turnarounds",
+            "first_seen": "2026-11-08T00:00:09.518662+00:00"
+          },
+          {
+            "url": "https://www.media.io/ai-prompts/chatgpt-red-carpet-photo-prompts.html",
+            "title": "25 ChatGPT Red Carpet Photo Prompts for Premiere Looks",
+            "first_seen": "2026-11-08T00:00:09.595929+00:00"
+          },
+          {
+            "url": "https://www.media.io/ai-prompts/chatgpt-old-hollywood-portrait-prompts.html",
+            "title": "25 ChatGPT Old Hollywood Portrait Prompts for Glamour",
+            "first_seen": "2026-11-08T00:00:09.698820+00:00"
+          },
+          {
+            "url": "https://www.media.io/ai-prompts/chatgpt-character-intro-photo-prompts.html",
+            "title": "25 ChatGPT Character Intro Photo Prompts for Hero Reveals",
+            "first_seen": "2026-11-08T00:00:09.792065+00:00"
+          },
+          {
+            "url": "https://www.media.io/ai-prompts/chatgpt-vision-board-prompts.html",
+            "title": "25 ChatGPT Vision Board Prompts for Your 2027 Goals",
+            "first_seen": "2026-11-08T00:00:09.792686+00:00"
+          },
+          {
+            "url": "https://www.media.io/ai-prompts/chatgpt-christmas-cat-prompts.html",
+            "title": "25 ChatGPT Christmas Cat Prompts for Holiday Photos",
+            "first_seen": "2026-11-08T00:00:09.914853+00:00"
           }
         ]
       }
@@ -27228,6 +27308,41 @@
             "url": "https://www.media.io/ai-prompts/chatgpt-quilling-art-photo-prompt.html",
             "title": "25 ChatGPT Quilling Art Photo Prompts for Rolled Paper Portraits",
             "first_seen": "2026-11-07T06:00:09.066979+00:00"
+          },
+          {
+            "url": "https://www.media.io/ai-prompts/chatgpt-ai-comic-storyboard-photo-prompts.html",
+            "title": "25 ChatGPT Comic Storyboard Photo Prompts with Panel Ideas",
+            "first_seen": "2026-11-08T00:00:09.352757+00:00"
+          },
+          {
+            "url": "https://www.media.io/ai-prompts/chatgpt-character-reference-sheet-prompts.html",
+            "title": "25 ChatGPT Character Reference Sheet Prompts and Turnarounds",
+            "first_seen": "2026-11-08T00:00:09.518749+00:00"
+          },
+          {
+            "url": "https://www.media.io/ai-prompts/chatgpt-red-carpet-photo-prompts.html",
+            "title": "25 ChatGPT Red Carpet Photo Prompts for Premiere Looks",
+            "first_seen": "2026-11-08T00:00:09.595968+00:00"
+          },
+          {
+            "url": "https://www.media.io/ai-prompts/chatgpt-old-hollywood-portrait-prompts.html",
+            "title": "25 ChatGPT Old Hollywood Portrait Prompts for Glamour",
+            "first_seen": "2026-11-08T00:00:09.698861+00:00"
+          },
+          {
+            "url": "https://www.media.io/ai-prompts/chatgpt-character-intro-photo-prompts.html",
+            "title": "25 ChatGPT Character Intro Photo Prompts for Hero Reveals",
+            "first_seen": "2026-11-08T00:00:09.792150+00:00"
+          },
+          {
+            "url": "https://www.media.io/ai-prompts/chatgpt-vision-board-prompts.html",
+            "title": "25 ChatGPT Vision Board Prompts for Your 2027 Goals",
+            "first_seen": "2026-11-08T00:00:09.792820+00:00"
+          },
+          {
+            "url": "https://www.media.io/ai-prompts/chatgpt-christmas-cat-prompts.html",
+            "title": "25 ChatGPT Christmas Cat Prompts for Holiday Photos",
+            "first_seen": "2026-11-08T00:00:09.914934+00:00"
           }
         ]
       }
@@ -27341,6 +27456,41 @@
             "url": "https://www.media.io/ai-prompts/chatgpt-quilling-art-photo-prompt.html",
             "title": "25 ChatGPT Quilling Art Photo Prompts for Rolled Paper Portraits",
             "first_seen": "2026-11-07T06:00:09.067029+00:00"
+          },
+          {
+            "url": "https://www.media.io/ai-prompts/chatgpt-ai-comic-storyboard-photo-prompts.html",
+            "title": "25 ChatGPT Comic Storyboard Photo Prompts with Panel Ideas",
+            "first_seen": "2026-11-08T00:00:09.352653+00:00"
+          },
+          {
+            "url": "https://www.media.io/ai-prompts/chatgpt-character-reference-sheet-prompts.html",
+            "title": "25 ChatGPT Character Reference Sheet Prompts and Turnarounds",
+            "first_seen": "2026-11-08T00:00:09.518722+00:00"
+          },
+          {
+            "url": "https://www.media.io/ai-prompts/chatgpt-red-carpet-photo-prompts.html",
+            "title": "25 ChatGPT Red Carpet Photo Prompts for Premiere Looks",
+            "first_seen": "2026-11-08T00:00:09.595948+00:00"
+          },
+          {
+            "url": "https://www.media.io/ai-prompts/chatgpt-old-hollywood-portrait-prompts.html",
+            "title": "25 ChatGPT Old Hollywood Portrait Prompts for Glamour",
+            "first_seen": "2026-11-08T00:00:09.698805+00:00"
+          },
+          {
+            "url": "https://www.media.io/ai-prompts/chatgpt-character-intro-photo-prompts.html",
+            "title": "25 ChatGPT Character Intro Photo Prompts for Hero Reveals",
+            "first_seen": "2026-11-08T00:00:09.792106+00:00"
+          },
+          {
+            "url": "https://www.media.io/ai-prompts/chatgpt-vision-board-prompts.html",
+            "title": "25 ChatGPT Vision Board Prompts for Your 2027 Goals",
+            "first_seen": "2026-11-08T00:00:09.792747+00:00"
+          },
+          {
+            "url": "https://www.media.io/ai-prompts/chatgpt-christmas-cat-prompts.html",
+            "title": "25 ChatGPT Christmas Cat Prompts for Holiday Photos",
+            "first_seen": "2026-11-08T00:00:09.914889+00:00"
           }
         ]
       }
@@ -52731,6 +52881,11 @@
             "url": "https://www.media.io/ai-prompts/chatgpt-red-and-blue-pen-drawing-prompts.html",
             "title": "25 ChatGPT Red and Blue Pen Drawing Prompts for Portrait Art",
             "first_seen": "2026-10-30T12:00:09.832797+00:00"
+          },
+          {
+            "url": "https://www.media.io/ai-prompts/chatgpt-red-carpet-photo-prompts.html",
+            "title": "25 ChatGPT Red Carpet Photo Prompts for Premiere Looks",
+            "first_seen": "2026-11-08T00:00:09.595894+00:00"
           }
         ]
       }
@@ -52767,6 +52922,11 @@
             "url": "https://www.media.io/ai-prompts/chatgpt-red-and-blue-pen-drawing-prompts.html",
             "title": "25 ChatGPT Red and Blue Pen Drawing Prompts for Portrait Art",
             "first_seen": "2026-10-30T12:00:09.832854+00:00"
+          },
+          {
+            "url": "https://www.media.io/ai-prompts/chatgpt-red-carpet-photo-prompts.html",
+            "title": "25 ChatGPT Red Carpet Photo Prompts for Premiere Looks",
+            "first_seen": "2026-11-08T00:00:09.595833+00:00"
           }
         ]
       }
@@ -52779,6 +52939,11 @@
             "url": "https://www.media.io/ai-prompts/chatgpt-red-and-blue-pen-drawing-prompts.html",
             "title": "25 ChatGPT Red and Blue Pen Drawing Prompts for Portrait Art",
             "first_seen": "2026-10-30T12:00:09.832860+00:00"
+          },
+          {
+            "url": "https://www.media.io/ai-prompts/chatgpt-red-carpet-photo-prompts.html",
+            "title": "25 ChatGPT Red Carpet Photo Prompts for Premiere Looks",
+            "first_seen": "2026-11-08T00:00:09.595912+00:00"
           }
         ]
       }
@@ -52803,6 +52968,11 @@
             "url": "https://www.media.io/ai-prompts/chatgpt-red-and-blue-pen-drawing-prompts.html",
             "title": "25 ChatGPT Red and Blue Pen Drawing Prompts for Portrait Art",
             "first_seen": "2026-10-30T12:00:09.832873+00:00"
+          },
+          {
+            "url": "https://www.media.io/ai-prompts/chatgpt-red-carpet-photo-prompts.html",
+            "title": "25 ChatGPT Red Carpet Photo Prompts for Premiere Looks",
+            "first_seen": "2026-11-08T00:00:09.596021+00:00"
           }
         ]
       }
@@ -60598,6 +60768,18 @@
             "url": "https://www.media.io/ai/explore/zone/yes-yes-i-love-you-ai-video-template",
             "title": "Yes Yes I Love You AI Video Template | Media.io",
             "first_seen": "2026-10-31T18:00:21.902976+00:00"
+          }
+        ],
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/template/i-love-the-smiths-ai-video",
+            "title": "I Love The Smiths — AI Video Template | Starrd",
+            "first_seen": "2026-11-08T00:00:11.012685+00:00"
+          },
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-i-love-the-smiths-ai-video",
+            "title": "How to Make the 'I Love The Smiths' AI Video (the (500) Days of Summer Elevator Scene, 2026)",
+            "first_seen": "2026-11-08T00:00:11.385918+00:00"
           }
         ]
       }
@@ -80572,6 +80754,11 @@
             "url": "https://www.media.io/ai/ai-tools/ai-face-editor/red-carpet-makeup-filter",
             "title": "Red Carpet Makeup Filter: Flash-Friendly Event Glam",
             "first_seen": "2026-11-07T18:00:07.485255+00:00"
+          },
+          {
+            "url": "https://www.media.io/ai-prompts/chatgpt-red-carpet-photo-prompts.html",
+            "title": "25 ChatGPT Red Carpet Photo Prompts for Premiere Looks",
+            "first_seen": "2026-11-08T00:00:09.595988+00:00"
           }
         ]
       }
@@ -80644,6 +80831,13 @@
             "url": "https://remakeyourmeme.com/templates/vossi-bop-ai-video-generator/",
             "title": "Vossi Bop AI Video Generator: Your Face, No Watermark, 1080p",
             "first_seen": "2026-11-07T18:00:07.527336+00:00"
+          }
+        ],
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/vossi-bop-ai-dance",
+            "title": "Vossi Bop AI Dance Video Generator from Photo | Media.io",
+            "first_seen": "2026-11-08T00:00:10.018477+00:00"
           }
         ]
       }
@@ -80776,6 +80970,1149 @@
             "url": "https://maketrendai.com/gangstas-paradise-ai",
             "title": "Gangsta's Paradise AI — Sing It with a Gospel Choir from a Photo",
             "first_seen": "2026-11-07T18:00:08.575081+00:00"
+          }
+        ]
+      }
+    },
+    "comic storyboard": {
+      "first_seen": "2026-11-08T00:00:09.352513+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/chatgpt-ai-comic-storyboard-photo-prompts.html",
+            "title": "25 ChatGPT Comic Storyboard Photo Prompts with Panel Ideas",
+            "first_seen": "2026-11-08T00:00:09.352513+00:00"
+          }
+        ]
+      }
+    },
+    "panel ideas": {
+      "first_seen": "2026-11-08T00:00:09.352551+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/chatgpt-ai-comic-storyboard-photo-prompts.html",
+            "title": "25 ChatGPT Comic Storyboard Photo Prompts with Panel Ideas",
+            "first_seen": "2026-11-08T00:00:09.352551+00:00"
+          }
+        ]
+      }
+    },
+    "chat gpt comic storyboard": {
+      "first_seen": "2026-11-08T00:00:09.352559+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/chatgpt-ai-comic-storyboard-photo-prompts.html",
+            "title": "25 ChatGPT Comic Storyboard Photo Prompts with Panel Ideas",
+            "first_seen": "2026-11-08T00:00:09.352559+00:00"
+          }
+        ]
+      }
+    },
+    "gpt comic storyboard": {
+      "first_seen": "2026-11-08T00:00:09.352566+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/chatgpt-ai-comic-storyboard-photo-prompts.html",
+            "title": "25 ChatGPT Comic Storyboard Photo Prompts with Panel Ideas",
+            "first_seen": "2026-11-08T00:00:09.352566+00:00"
+          }
+        ]
+      }
+    },
+    "chat gpt comic": {
+      "first_seen": "2026-11-08T00:00:09.352642+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/chatgpt-ai-comic-storyboard-photo-prompts.html",
+            "title": "25 ChatGPT Comic Storyboard Photo Prompts with Panel Ideas",
+            "first_seen": "2026-11-08T00:00:09.352642+00:00"
+          }
+        ]
+      }
+    },
+    "chatgpt ai comic storyboard": {
+      "first_seen": "2026-11-08T00:00:09.352716+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/chatgpt-ai-comic-storyboard-photo-prompts.html",
+            "title": "25 ChatGPT Comic Storyboard Photo Prompts with Panel Ideas",
+            "first_seen": "2026-11-08T00:00:09.352716+00:00"
+          }
+        ]
+      }
+    },
+    "gpt comic": {
+      "first_seen": "2026-11-08T00:00:09.352729+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/chatgpt-ai-comic-storyboard-photo-prompts.html",
+            "title": "25 ChatGPT Comic Storyboard Photo Prompts with Panel Ideas",
+            "first_seen": "2026-11-08T00:00:09.352729+00:00"
+          }
+        ]
+      }
+    },
+    "chatgpt ai comic": {
+      "first_seen": "2026-11-08T00:00:09.352748+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/chatgpt-ai-comic-storyboard-photo-prompts.html",
+            "title": "25 ChatGPT Comic Storyboard Photo Prompts with Panel Ideas",
+            "first_seen": "2026-11-08T00:00:09.352748+00:00"
+          }
+        ]
+      }
+    },
+    "25 chat gpt comic": {
+      "first_seen": "2026-11-08T00:00:09.352794+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/chatgpt-ai-comic-storyboard-photo-prompts.html",
+            "title": "25 ChatGPT Comic Storyboard Photo Prompts with Panel Ideas",
+            "first_seen": "2026-11-08T00:00:09.352794+00:00"
+          }
+        ]
+      }
+    },
+    "outdoor gym": {
+      "first_seen": "2026-11-08T00:00:09.441957+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/outdoor-gym-fail-ai",
+            "title": "Outdoor Gym Fail AI Video Generator from Photo | Media.io",
+            "first_seen": "2026-11-08T00:00:09.441957+00:00"
+          }
+        ]
+      }
+    },
+    "outdoor gym fail": {
+      "first_seen": "2026-11-08T00:00:09.441999+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/outdoor-gym-fail-ai",
+            "title": "Outdoor Gym Fail AI Video Generator from Photo | Media.io",
+            "first_seen": "2026-11-08T00:00:09.441999+00:00"
+          }
+        ]
+      }
+    },
+    "gym fail": {
+      "first_seen": "2026-11-08T00:00:09.442008+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/outdoor-gym-fail-ai",
+            "title": "Outdoor Gym Fail AI Video Generator from Photo | Media.io",
+            "first_seen": "2026-11-08T00:00:09.442008+00:00"
+          }
+        ]
+      }
+    },
+    "peach girl makeup": {
+      "first_seen": "2026-11-08T00:00:09.472899+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/ai-tools/ai-face-editor/peach-girl-makeup-filter",
+            "title": "Peach Girl Makeup Filter Online - Try Peach Blush | Media.io",
+            "first_seen": "2026-11-08T00:00:09.472899+00:00"
+          }
+        ]
+      }
+    },
+    "hey bro": {
+      "first_seen": "2026-11-08T00:00:09.505457+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/flamingo-float-ai-video",
+            "title": "Flamingo Float AI Video Generator (Hey Bro Thank You Bro Trend) | Media.io",
+            "first_seen": "2026-11-08T00:00:09.505457+00:00"
+          }
+        ]
+      }
+    },
+    "thank you bro": {
+      "first_seen": "2026-11-08T00:00:09.505491+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/flamingo-float-ai-video",
+            "title": "Flamingo Float AI Video Generator (Hey Bro Thank You Bro Trend) | Media.io",
+            "first_seen": "2026-11-08T00:00:09.505491+00:00"
+          }
+        ]
+      }
+    },
+    "bro thank": {
+      "first_seen": "2026-11-08T00:00:09.505499+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/flamingo-float-ai-video",
+            "title": "Flamingo Float AI Video Generator (Hey Bro Thank You Bro Trend) | Media.io",
+            "first_seen": "2026-11-08T00:00:09.505499+00:00"
+          }
+        ]
+      }
+    },
+    "flamingo float": {
+      "first_seen": "2026-11-08T00:00:09.505508+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/flamingo-float-ai-video",
+            "title": "Flamingo Float AI Video Generator (Hey Bro Thank You Bro Trend) | Media.io",
+            "first_seen": "2026-11-08T00:00:09.505508+00:00"
+          }
+        ]
+      }
+    },
+    "bro thank you bro": {
+      "first_seen": "2026-11-08T00:00:09.505515+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/flamingo-float-ai-video",
+            "title": "Flamingo Float AI Video Generator (Hey Bro Thank You Bro Trend) | Media.io",
+            "first_seen": "2026-11-08T00:00:09.505515+00:00"
+          }
+        ]
+      }
+    },
+    "hey bro thank": {
+      "first_seen": "2026-11-08T00:00:09.505523+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/flamingo-float-ai-video",
+            "title": "Flamingo Float AI Video Generator (Hey Bro Thank You Bro Trend) | Media.io",
+            "first_seen": "2026-11-08T00:00:09.505523+00:00"
+          }
+        ]
+      }
+    },
+    "quiet on the creek": {
+      "first_seen": "2026-11-08T00:00:09.505641+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/quiet-on-the-creek-ai-dance",
+            "title": "Quiet on the Creek AI Dance – Solo, Couple & Pet Videos",
+            "first_seen": "2026-11-08T00:00:09.505641+00:00"
+          }
+        ]
+      }
+    },
+    "chatgpt character": {
+      "first_seen": "2026-11-08T00:00:09.518599+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/chatgpt-character-reference-sheet-prompts.html",
+            "title": "25 ChatGPT Character Reference Sheet Prompts and Turnarounds",
+            "first_seen": "2026-11-08T00:00:09.518599+00:00"
+          },
+          {
+            "url": "https://www.media.io/ai-prompts/chatgpt-character-intro-photo-prompts.html",
+            "title": "25 ChatGPT Character Intro Photo Prompts for Hero Reveals",
+            "first_seen": "2026-11-08T00:00:09.791985+00:00"
+          }
+        ]
+      }
+    },
+    "reference sheet": {
+      "first_seen": "2026-11-08T00:00:09.518632+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/chatgpt-character-reference-sheet-prompts.html",
+            "title": "25 ChatGPT Character Reference Sheet Prompts and Turnarounds",
+            "first_seen": "2026-11-08T00:00:09.518632+00:00"
+          }
+        ]
+      }
+    },
+    "gpt character reference sheet": {
+      "first_seen": "2026-11-08T00:00:09.518640+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/chatgpt-character-reference-sheet-prompts.html",
+            "title": "25 ChatGPT Character Reference Sheet Prompts and Turnarounds",
+            "first_seen": "2026-11-08T00:00:09.518640+00:00"
+          }
+        ]
+      }
+    },
+    "chatgpt character reference": {
+      "first_seen": "2026-11-08T00:00:09.518647+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/chatgpt-character-reference-sheet-prompts.html",
+            "title": "25 ChatGPT Character Reference Sheet Prompts and Turnarounds",
+            "first_seen": "2026-11-08T00:00:09.518647+00:00"
+          }
+        ]
+      }
+    },
+    "character reference": {
+      "first_seen": "2026-11-08T00:00:09.518654+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/chatgpt-character-reference-sheet-prompts.html",
+            "title": "25 ChatGPT Character Reference Sheet Prompts and Turnarounds",
+            "first_seen": "2026-11-08T00:00:09.518654+00:00"
+          }
+        ]
+      }
+    },
+    "chat gpt character reference": {
+      "first_seen": "2026-11-08T00:00:09.518679+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/chatgpt-character-reference-sheet-prompts.html",
+            "title": "25 ChatGPT Character Reference Sheet Prompts and Turnarounds",
+            "first_seen": "2026-11-08T00:00:09.518679+00:00"
+          }
+        ]
+      }
+    },
+    "gpt character reference": {
+      "first_seen": "2026-11-08T00:00:09.518711+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/chatgpt-character-reference-sheet-prompts.html",
+            "title": "25 ChatGPT Character Reference Sheet Prompts and Turnarounds",
+            "first_seen": "2026-11-08T00:00:09.518711+00:00"
+          }
+        ]
+      }
+    },
+    "gpt character": {
+      "first_seen": "2026-11-08T00:00:09.518735+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/chatgpt-character-reference-sheet-prompts.html",
+            "title": "25 ChatGPT Character Reference Sheet Prompts and Turnarounds",
+            "first_seen": "2026-11-08T00:00:09.518735+00:00"
+          },
+          {
+            "url": "https://www.media.io/ai-prompts/chatgpt-character-intro-photo-prompts.html",
+            "title": "25 ChatGPT Character Intro Photo Prompts for Hero Reveals",
+            "first_seen": "2026-11-08T00:00:09.792138+00:00"
+          }
+        ]
+      }
+    },
+    "sheet prompts and turnarounds": {
+      "first_seen": "2026-11-08T00:00:09.518742+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/chatgpt-character-reference-sheet-prompts.html",
+            "title": "25 ChatGPT Character Reference Sheet Prompts and Turnarounds",
+            "first_seen": "2026-11-08T00:00:09.518742+00:00"
+          }
+        ]
+      }
+    },
+    "25 chat gpt character": {
+      "first_seen": "2026-11-08T00:00:09.518760+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/chatgpt-character-reference-sheet-prompts.html",
+            "title": "25 ChatGPT Character Reference Sheet Prompts and Turnarounds",
+            "first_seen": "2026-11-08T00:00:09.518760+00:00"
+          },
+          {
+            "url": "https://www.media.io/ai-prompts/chatgpt-character-intro-photo-prompts.html",
+            "title": "25 ChatGPT Character Intro Photo Prompts for Hero Reveals",
+            "first_seen": "2026-11-08T00:00:09.792166+00:00"
+          }
+        ]
+      }
+    },
+    "chat gpt character": {
+      "first_seen": "2026-11-08T00:00:09.518767+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/chatgpt-character-reference-sheet-prompts.html",
+            "title": "25 ChatGPT Character Reference Sheet Prompts and Turnarounds",
+            "first_seen": "2026-11-08T00:00:09.518767+00:00"
+          },
+          {
+            "url": "https://www.media.io/ai-prompts/chatgpt-character-intro-photo-prompts.html",
+            "title": "25 ChatGPT Character Intro Photo Prompts for Hero Reveals",
+            "first_seen": "2026-11-08T00:00:09.792179+00:00"
+          }
+        ]
+      }
+    },
+    "chatgpt character reference sheet": {
+      "first_seen": "2026-11-08T00:00:09.518774+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/chatgpt-character-reference-sheet-prompts.html",
+            "title": "25 ChatGPT Character Reference Sheet Prompts and Turnarounds",
+            "first_seen": "2026-11-08T00:00:09.518774+00:00"
+          }
+        ]
+      }
+    },
+    "character reference sheet": {
+      "first_seen": "2026-11-08T00:00:09.518781+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/chatgpt-character-reference-sheet-prompts.html",
+            "title": "25 ChatGPT Character Reference Sheet Prompts and Turnarounds",
+            "first_seen": "2026-11-08T00:00:09.518781+00:00"
+          }
+        ]
+      }
+    },
+    "gpt red carpet": {
+      "first_seen": "2026-11-08T00:00:09.595921+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/chatgpt-red-carpet-photo-prompts.html",
+            "title": "25 ChatGPT Red Carpet Photo Prompts for Premiere Looks",
+            "first_seen": "2026-11-08T00:00:09.595921+00:00"
+          }
+        ]
+      }
+    },
+    "premiere looks": {
+      "first_seen": "2026-11-08T00:00:09.595960+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/chatgpt-red-carpet-photo-prompts.html",
+            "title": "25 ChatGPT Red Carpet Photo Prompts for Premiere Looks",
+            "first_seen": "2026-11-08T00:00:09.595960+00:00"
+          }
+        ]
+      }
+    },
+    "chat gpt red carpet": {
+      "first_seen": "2026-11-08T00:00:09.595980+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/chatgpt-red-carpet-photo-prompts.html",
+            "title": "25 ChatGPT Red Carpet Photo Prompts for Premiere Looks",
+            "first_seen": "2026-11-08T00:00:09.595980+00:00"
+          }
+        ]
+      }
+    },
+    "chatgpt red carpet": {
+      "first_seen": "2026-11-08T00:00:09.596008+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/chatgpt-red-carpet-photo-prompts.html",
+            "title": "25 ChatGPT Red Carpet Photo Prompts for Premiere Looks",
+            "first_seen": "2026-11-08T00:00:09.596008+00:00"
+          }
+        ]
+      }
+    },
+    "gpt old": {
+      "first_seen": "2026-11-08T00:00:09.698715+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/chatgpt-old-hollywood-portrait-prompts.html",
+            "title": "25 ChatGPT Old Hollywood Portrait Prompts for Glamour",
+            "first_seen": "2026-11-08T00:00:09.698715+00:00"
+          }
+        ]
+      }
+    },
+    "old hollywood": {
+      "first_seen": "2026-11-08T00:00:09.698764+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/chatgpt-old-hollywood-portrait-prompts.html",
+            "title": "25 ChatGPT Old Hollywood Portrait Prompts for Glamour",
+            "first_seen": "2026-11-08T00:00:09.698764+00:00"
+          }
+        ]
+      }
+    },
+    "gpt old hollywood portrait": {
+      "first_seen": "2026-11-08T00:00:09.698775+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/chatgpt-old-hollywood-portrait-prompts.html",
+            "title": "25 ChatGPT Old Hollywood Portrait Prompts for Glamour",
+            "first_seen": "2026-11-08T00:00:09.698775+00:00"
+          }
+        ]
+      }
+    },
+    "25 chat gpt old": {
+      "first_seen": "2026-11-08T00:00:09.698782+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/chatgpt-old-hollywood-portrait-prompts.html",
+            "title": "25 ChatGPT Old Hollywood Portrait Prompts for Glamour",
+            "first_seen": "2026-11-08T00:00:09.698782+00:00"
+          }
+        ]
+      }
+    },
+    "old hollywood portrait": {
+      "first_seen": "2026-11-08T00:00:09.698790+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/chatgpt-old-hollywood-portrait-prompts.html",
+            "title": "25 ChatGPT Old Hollywood Portrait Prompts for Glamour",
+            "first_seen": "2026-11-08T00:00:09.698790+00:00"
+          }
+        ]
+      }
+    },
+    "chat gpt old": {
+      "first_seen": "2026-11-08T00:00:09.698798+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/chatgpt-old-hollywood-portrait-prompts.html",
+            "title": "25 ChatGPT Old Hollywood Portrait Prompts for Glamour",
+            "first_seen": "2026-11-08T00:00:09.698798+00:00"
+          }
+        ]
+      }
+    },
+    "chatgpt old hollywood portrait": {
+      "first_seen": "2026-11-08T00:00:09.698839+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/chatgpt-old-hollywood-portrait-prompts.html",
+            "title": "25 ChatGPT Old Hollywood Portrait Prompts for Glamour",
+            "first_seen": "2026-11-08T00:00:09.698839+00:00"
+          }
+        ]
+      }
+    },
+    "chatgpt old hollywood": {
+      "first_seen": "2026-11-08T00:00:09.698847+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/chatgpt-old-hollywood-portrait-prompts.html",
+            "title": "25 ChatGPT Old Hollywood Portrait Prompts for Glamour",
+            "first_seen": "2026-11-08T00:00:09.698847+00:00"
+          }
+        ]
+      }
+    },
+    "hollywood portrait": {
+      "first_seen": "2026-11-08T00:00:09.698855+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/chatgpt-old-hollywood-portrait-prompts.html",
+            "title": "25 ChatGPT Old Hollywood Portrait Prompts for Glamour",
+            "first_seen": "2026-11-08T00:00:09.698855+00:00"
+          }
+        ]
+      }
+    },
+    "chat gpt old hollywood": {
+      "first_seen": "2026-11-08T00:00:09.698874+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/chatgpt-old-hollywood-portrait-prompts.html",
+            "title": "25 ChatGPT Old Hollywood Portrait Prompts for Glamour",
+            "first_seen": "2026-11-08T00:00:09.698874+00:00"
+          }
+        ]
+      }
+    },
+    "gpt old hollywood": {
+      "first_seen": "2026-11-08T00:00:09.698881+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/chatgpt-old-hollywood-portrait-prompts.html",
+            "title": "25 ChatGPT Old Hollywood Portrait Prompts for Glamour",
+            "first_seen": "2026-11-08T00:00:09.698881+00:00"
+          }
+        ]
+      }
+    },
+    "portrait prompts for glamour": {
+      "first_seen": "2026-11-08T00:00:09.698888+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/chatgpt-old-hollywood-portrait-prompts.html",
+            "title": "25 ChatGPT Old Hollywood Portrait Prompts for Glamour",
+            "first_seen": "2026-11-08T00:00:09.698888+00:00"
+          }
+        ]
+      }
+    },
+    "chatgpt old": {
+      "first_seen": "2026-11-08T00:00:09.698895+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/chatgpt-old-hollywood-portrait-prompts.html",
+            "title": "25 ChatGPT Old Hollywood Portrait Prompts for Glamour",
+            "first_seen": "2026-11-08T00:00:09.698895+00:00"
+          }
+        ]
+      }
+    },
+    "chatgpt character intro": {
+      "first_seen": "2026-11-08T00:00:09.792025+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/chatgpt-character-intro-photo-prompts.html",
+            "title": "25 ChatGPT Character Intro Photo Prompts for Hero Reveals",
+            "first_seen": "2026-11-08T00:00:09.792025+00:00"
+          }
+        ]
+      }
+    },
+    "hero reveals": {
+      "first_seen": "2026-11-08T00:00:09.792039+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/chatgpt-character-intro-photo-prompts.html",
+            "title": "25 ChatGPT Character Intro Photo Prompts for Hero Reveals",
+            "first_seen": "2026-11-08T00:00:09.792039+00:00"
+          }
+        ]
+      }
+    },
+    "character intro": {
+      "first_seen": "2026-11-08T00:00:09.792053+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/chatgpt-character-intro-photo-prompts.html",
+            "title": "25 ChatGPT Character Intro Photo Prompts for Hero Reveals",
+            "first_seen": "2026-11-08T00:00:09.792053+00:00"
+          }
+        ]
+      }
+    },
+    "gpt character intro": {
+      "first_seen": "2026-11-08T00:00:09.792092+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/chatgpt-character-intro-photo-prompts.html",
+            "title": "25 ChatGPT Character Intro Photo Prompts for Hero Reveals",
+            "first_seen": "2026-11-08T00:00:09.792092+00:00"
+          }
+        ]
+      }
+    },
+    "chat gpt character intro": {
+      "first_seen": "2026-11-08T00:00:09.792126+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/chatgpt-character-intro-photo-prompts.html",
+            "title": "25 ChatGPT Character Intro Photo Prompts for Hero Reveals",
+            "first_seen": "2026-11-08T00:00:09.792126+00:00"
+          }
+        ]
+      }
+    },
+    "car drift": {
+      "first_seen": "2026-11-08T00:00:09.792370+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/birthday-car-drift-ai",
+            "title": "Birthday Car Drift AI Generator – Birthday Cake Trend | Media.io",
+            "first_seen": "2026-11-08T00:00:09.792370+00:00"
+          }
+        ]
+      }
+    },
+    "birthday car drift": {
+      "first_seen": "2026-11-08T00:00:09.792390+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/birthday-car-drift-ai",
+            "title": "Birthday Car Drift AI Generator – Birthday Cake Trend | Media.io",
+            "first_seen": "2026-11-08T00:00:09.792390+00:00"
+          }
+        ]
+      }
+    },
+    "birthday car": {
+      "first_seen": "2026-11-08T00:00:09.792402+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/birthday-car-drift-ai",
+            "title": "Birthday Car Drift AI Generator – Birthday Cake Trend | Media.io",
+            "first_seen": "2026-11-08T00:00:09.792402+00:00"
+          }
+        ]
+      }
+    },
+    "chatgpt vision": {
+      "first_seen": "2026-11-08T00:00:09.792642+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/chatgpt-vision-board-prompts.html",
+            "title": "25 ChatGPT Vision Board Prompts for Your 2027 Goals",
+            "first_seen": "2026-11-08T00:00:09.792642+00:00"
+          }
+        ]
+      }
+    },
+    "2027 goals": {
+      "first_seen": "2026-11-08T00:00:09.792662+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/chatgpt-vision-board-prompts.html",
+            "title": "25 ChatGPT Vision Board Prompts for Your 2027 Goals",
+            "first_seen": "2026-11-08T00:00:09.792662+00:00"
+          }
+        ]
+      }
+    },
+    "chat gpt vision": {
+      "first_seen": "2026-11-08T00:00:09.792674+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/chatgpt-vision-board-prompts.html",
+            "title": "25 ChatGPT Vision Board Prompts for Your 2027 Goals",
+            "first_seen": "2026-11-08T00:00:09.792674+00:00"
+          }
+        ]
+      }
+    },
+    "25 chat gpt vision": {
+      "first_seen": "2026-11-08T00:00:09.792770+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/chatgpt-vision-board-prompts.html",
+            "title": "25 ChatGPT Vision Board Prompts for Your 2027 Goals",
+            "first_seen": "2026-11-08T00:00:09.792770+00:00"
+          }
+        ]
+      }
+    },
+    "gpt vision board": {
+      "first_seen": "2026-11-08T00:00:09.792784+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/chatgpt-vision-board-prompts.html",
+            "title": "25 ChatGPT Vision Board Prompts for Your 2027 Goals",
+            "first_seen": "2026-11-08T00:00:09.792784+00:00"
+          }
+        ]
+      }
+    },
+    "vision board": {
+      "first_seen": "2026-11-08T00:00:09.792796+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/chatgpt-vision-board-prompts.html",
+            "title": "25 ChatGPT Vision Board Prompts for Your 2027 Goals",
+            "first_seen": "2026-11-08T00:00:09.792796+00:00"
+          }
+        ]
+      }
+    },
+    "chat gpt vision board": {
+      "first_seen": "2026-11-08T00:00:09.792808+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/chatgpt-vision-board-prompts.html",
+            "title": "25 ChatGPT Vision Board Prompts for Your 2027 Goals",
+            "first_seen": "2026-11-08T00:00:09.792808+00:00"
+          }
+        ]
+      }
+    },
+    "chatgpt vision board": {
+      "first_seen": "2026-11-08T00:00:09.792835+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/chatgpt-vision-board-prompts.html",
+            "title": "25 ChatGPT Vision Board Prompts for Your 2027 Goals",
+            "first_seen": "2026-11-08T00:00:09.792835+00:00"
+          }
+        ]
+      }
+    },
+    "gpt vision": {
+      "first_seen": "2026-11-08T00:00:09.792848+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/chatgpt-vision-board-prompts.html",
+            "title": "25 ChatGPT Vision Board Prompts for Your 2027 Goals",
+            "first_seen": "2026-11-08T00:00:09.792848+00:00"
+          }
+        ]
+      }
+    },
+    "25 chat gpt christmas": {
+      "first_seen": "2026-11-08T00:00:09.914782+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/chatgpt-christmas-cat-prompts.html",
+            "title": "25 ChatGPT Christmas Cat Prompts for Holiday Photos",
+            "first_seen": "2026-11-08T00:00:09.914782+00:00"
+          }
+        ]
+      }
+    },
+    "chat gpt christmas": {
+      "first_seen": "2026-11-08T00:00:09.914836+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/chatgpt-christmas-cat-prompts.html",
+            "title": "25 ChatGPT Christmas Cat Prompts for Holiday Photos",
+            "first_seen": "2026-11-08T00:00:09.914836+00:00"
+          }
+        ]
+      }
+    },
+    "gpt christmas": {
+      "first_seen": "2026-11-08T00:00:09.914917+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/chatgpt-christmas-cat-prompts.html",
+            "title": "25 ChatGPT Christmas Cat Prompts for Holiday Photos",
+            "first_seen": "2026-11-08T00:00:09.914917+00:00"
+          }
+        ]
+      }
+    },
+    "chatgpt christmas": {
+      "first_seen": "2026-11-08T00:00:09.914958+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai-prompts/chatgpt-christmas-cat-prompts.html",
+            "title": "25 ChatGPT Christmas Cat Prompts for Holiday Photos",
+            "first_seen": "2026-11-08T00:00:09.914958+00:00"
+          }
+        ]
+      }
+    },
+    "help me sfx": {
+      "first_seen": "2026-11-08T00:00:09.915178+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/audio-effects/help-sound-effects.html",
+            "title": "Free Help Sound Effects & AI Help Me SFX Generator",
+            "first_seen": "2026-11-08T00:00:09.915178+00:00"
+          }
+        ]
+      }
+    },
+    "help sound ai help": {
+      "first_seen": "2026-11-08T00:00:09.915199+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/audio-effects/help-sound-effects.html",
+            "title": "Free Help Sound Effects & AI Help Me SFX Generator",
+            "first_seen": "2026-11-08T00:00:09.915199+00:00"
+          }
+        ]
+      }
+    },
+    "sound ai help": {
+      "first_seen": "2026-11-08T00:00:09.915211+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/audio-effects/help-sound-effects.html",
+            "title": "Free Help Sound Effects & AI Help Me SFX Generator",
+            "first_seen": "2026-11-08T00:00:09.915211+00:00"
+          }
+        ]
+      }
+    },
+    "help sound": {
+      "first_seen": "2026-11-08T00:00:09.915225+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/audio-effects/help-sound-effects.html",
+            "title": "Free Help Sound Effects & AI Help Me SFX Generator",
+            "first_seen": "2026-11-08T00:00:09.915225+00:00"
+          }
+        ]
+      }
+    },
+    "seen motu": {
+      "first_seen": "2026-11-08T00:00:10.060229+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/prompt-seen-motu-patlu",
+            "title": "Prompt Seen Motu Patlu Prompts for AI Photos & Videos | Media.io",
+            "first_seen": "2026-11-08T00:00:10.060229+00:00"
+          }
+        ]
+      }
+    },
+    "motu patlu": {
+      "first_seen": "2026-11-08T00:00:10.060283+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/prompt-seen-motu-patlu",
+            "title": "Prompt Seen Motu Patlu Prompts for AI Photos & Videos | Media.io",
+            "first_seen": "2026-11-08T00:00:10.060283+00:00"
+          }
+        ]
+      }
+    },
+    "seen motu patlu": {
+      "first_seen": "2026-11-08T00:00:10.060299+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/prompt-seen-motu-patlu",
+            "title": "Prompt Seen Motu Patlu Prompts for AI Photos & Videos | Media.io",
+            "first_seen": "2026-11-08T00:00:10.060299+00:00"
+          }
+        ]
+      }
+    },
+    "days of summer": {
+      "first_seen": "2026-11-08T00:00:10.091568+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/500-days-of-summer-meme-generator",
+            "title": "500 Days of Summer Meme Generator & AI Video Prompts",
+            "first_seen": "2026-11-08T00:00:10.091568+00:00"
+          }
+        ],
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-i-love-the-smiths-ai-video",
+            "title": "How to Make the 'I Love The Smiths' AI Video (the (500) Days of Summer Elevator Scene, 2026)",
+            "first_seen": "2026-11-08T00:00:11.385373+00:00"
+          }
+        ]
+      }
+    },
+    "500 days of summer": {
+      "first_seen": "2026-11-08T00:00:10.091610+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/500-days-of-summer-meme-generator",
+            "title": "500 Days of Summer Meme Generator & AI Video Prompts",
+            "first_seen": "2026-11-08T00:00:10.091610+00:00"
+          }
+        ],
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-i-love-the-smiths-ai-video",
+            "title": "How to Make the 'I Love The Smiths' AI Video (the (500) Days of Summer Elevator Scene, 2026)",
+            "first_seen": "2026-11-08T00:00:11.385978+00:00"
+          }
+        ]
+      }
+    },
+    "500 days": {
+      "first_seen": "2026-11-08T00:00:10.091618+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/500-days-of-summer-meme-generator",
+            "title": "500 Days of Summer Meme Generator & AI Video Prompts",
+            "first_seen": "2026-11-08T00:00:10.091618+00:00"
+          }
+        ],
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-i-love-the-smiths-ai-video",
+            "title": "How to Make the 'I Love The Smiths' AI Video (the (500) Days of Summer Elevator Scene, 2026)",
+            "first_seen": "2026-11-08T00:00:11.385480+00:00"
+          }
+        ]
+      }
+    },
+    "love the smiths": {
+      "first_seen": "2026-11-08T00:00:11.012825+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/template/i-love-the-smiths-ai-video",
+            "title": "I Love The Smiths — AI Video Template | Starrd",
+            "first_seen": "2026-11-08T00:00:11.012825+00:00"
+          },
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-i-love-the-smiths-ai-video",
+            "title": "How to Make the 'I Love The Smiths' AI Video (the (500) Days of Summer Elevator Scene, 2026)",
+            "first_seen": "2026-11-08T00:00:11.385947+00:00"
+          }
+        ]
+      }
+    },
+    "i love the smiths": {
+      "first_seen": "2026-11-08T00:00:11.012853+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/template/i-love-the-smiths-ai-video",
+            "title": "I Love The Smiths — AI Video Template | Starrd",
+            "first_seen": "2026-11-08T00:00:11.012853+00:00"
+          },
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-i-love-the-smiths-ai-video",
+            "title": "How to Make the 'I Love The Smiths' AI Video (the (500) Days of Summer Elevator Scene, 2026)",
+            "first_seen": "2026-11-08T00:00:11.385425+00:00"
+          }
+        ]
+      }
+    },
+    "police running": {
+      "first_seen": "2026-11-08T00:00:11.305552+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/effect/create/ai-police-running-video",
+            "title": "AI Police Running Video – Police Chase & Bus Parkour Trend",
+            "first_seen": "2026-11-08T00:00:11.305552+00:00"
+          }
+        ]
+      }
+    },
+    "summer elevator scene": {
+      "first_seen": "2026-11-08T00:00:11.385447+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-i-love-the-smiths-ai-video",
+            "title": "How to Make the 'I Love The Smiths' AI Video (the (500) Days of Summer Elevator Scene, 2026)",
+            "first_seen": "2026-11-08T00:00:11.385447+00:00"
+          }
+        ]
+      }
+    },
+    "scene 2026": {
+      "first_seen": "2026-11-08T00:00:11.385464+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-i-love-the-smiths-ai-video",
+            "title": "How to Make the 'I Love The Smiths' AI Video (the (500) Days of Summer Elevator Scene, 2026)",
+            "first_seen": "2026-11-08T00:00:11.385464+00:00"
+          }
+        ]
+      }
+    },
+    "days of summer elevator": {
+      "first_seen": "2026-11-08T00:00:11.385963+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-i-love-the-smiths-ai-video",
+            "title": "How to Make the 'I Love The Smiths' AI Video (the (500) Days of Summer Elevator Scene, 2026)",
+            "first_seen": "2026-11-08T00:00:11.385963+00:00"
+          }
+        ]
+      }
+    },
+    "elevator scene 2026": {
+      "first_seen": "2026-11-08T00:00:11.385991+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-i-love-the-smiths-ai-video",
+            "title": "How to Make the 'I Love The Smiths' AI Video (the (500) Days of Summer Elevator Scene, 2026)",
+            "first_seen": "2026-11-08T00:00:11.385991+00:00"
+          }
+        ]
+      }
+    },
+    "summer elevator": {
+      "first_seen": "2026-11-08T00:00:11.386027+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-i-love-the-smiths-ai-video",
+            "title": "How to Make the 'I Love The Smiths' AI Video (the (500) Days of Summer Elevator Scene, 2026)",
+            "first_seen": "2026-11-08T00:00:11.386027+00:00"
+          }
+        ]
+      }
+    },
+    "elevator scene": {
+      "first_seen": "2026-11-08T00:00:11.386045+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-i-love-the-smiths-ai-video",
+            "title": "How to Make the 'I Love The Smiths' AI Video (the (500) Days of Summer Elevator Scene, 2026)",
+            "first_seen": "2026-11-08T00:00:11.386045+00:00"
+          }
+        ]
+      }
+    },
+    "summer elevator scene 2026": {
+      "first_seen": "2026-11-08T00:00:11.386071+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-i-love-the-smiths-ai-video",
+            "title": "How to Make the 'I Love The Smiths' AI Video (the (500) Days of Summer Elevator Scene, 2026)",
+            "first_seen": "2026-11-08T00:00:11.386071+00:00"
           }
         ]
       }
