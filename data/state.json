@@ -1,6 +1,6 @@
 {
-  "last_run_timestamp": "2026-11-08T12:00:17.951420+00:00",
-  "total_urls_seen": 13559,
+  "last_run_timestamp": "2026-11-08T18:00:14.800576+00:00",
+  "total_urls_seen": 13574,
   "seen_urls": {
     "knowyourmeme.com": [
       "https://knowyourmeme.com/memes/yohohoho-binkusuno-sake-by-ado",
@@ -101,7 +101,8 @@
       "https://knowyourmeme.com/sensitive/memes/people/edp445-eatdatpussy445",
       "https://knowyourmeme.com/memes/more-like-a-quesadilla-guy",
       "https://knowyourmeme.com/memes/bicep-heart-trend",
-      "https://knowyourmeme.com/memes/who-are-you-voting-for-daddy"
+      "https://knowyourmeme.com/memes/who-are-you-voting-for-daddy",
+      "https://knowyourmeme.com/memes/stop-it-son-you-are-doing-me-a-frighten"
     ],
     "aptvideoai.com": [
       "https://aptvideoai.com",
@@ -11584,7 +11585,8 @@
       "https://www.media.io/ai/effect/create/pimpwalk-entrance-ai-trend",
       "https://www.media.io/ai/effect/create/baby-riding-reindeer-with-santa-ai-video",
       "https://www.media.io/ai/effect/create/kakalika-dance-ai-video",
-      "https://www.media.io/ai/reference-to-video/calcanhar-2-ai-dance"
+      "https://www.media.io/ai/reference-to-video/calcanhar-2-ai-dance",
+      "https://www.media.io/ai/explore/zone/training-season-dance-ai"
     ],
     "remakeyourmeme.com": [
       "https://remakeyourmeme.com",
@@ -11674,7 +11676,8 @@
       "https://remakeyourmeme.com/how-to/how-to-make-24k-magic-ai-video",
       "https://remakeyourmeme.com/templates/no-scrubs-ai-video-generator",
       "https://remakeyourmeme.com/templates/chipmunks-dance-ai-video-generator",
-      "https://remakeyourmeme.com/templates/vossi-bop-ai-video-generator"
+      "https://remakeyourmeme.com/templates/vossi-bop-ai-video-generator",
+      "https://remakeyourmeme.com/templates/i-love-the-smiths-ai-video-generator"
     ],
     "www.getstarrd.app": [
       "https://www.getstarrd.app",
@@ -13373,6 +13376,18 @@
       "https://www.capcut.com/template-detail/7521984476239465789",
       "https://www.capcut.com/template-detail/7609291442149756176",
       "https://www.capcut.com/template-detail/7611967435352165633",
+      "https://www.capcut.com/template-detail/7614155497708539153",
+      "https://www.capcut.com/template-detail/7562457444929277189",
+      "https://www.capcut.com/template-detail/7609916699734789393",
+      "https://www.capcut.com/template-detail/7442835260980710711",
+      "https://www.capcut.com/template-detail/7637330004208307477",
+      "https://www.capcut.com/template-detail/7612248283964017936",
+      "https://www.capcut.com/template-detail/7530687794755161397",
+      "https://www.capcut.com/template-detail/7637540881423191316",
+      "https://www.capcut.com/template-detail/7521984476239465789",
+      "https://www.capcut.com/template-detail/7636033261264702728",
+      "https://www.capcut.com/template-detail/7362969691763051782",
+      "https://www.capcut.com/template-detail/7477105562845449525",
       "https://www.capcut.com/template-detail/7614155497708539153",
       "https://www.capcut.com/template-detail/7562457444929277189",
       "https://www.capcut.com/template-detail/7609916699734789393",
@@ -60910,6 +60925,13 @@
             "title": "How to Make the 'I Love The Smiths' AI Video (the (500) Days of Summer Elevator Scene, 2026)",
             "first_seen": "2026-11-08T00:00:11.385918+00:00"
           }
+        ],
+        "remakeyourmeme.com": [
+          {
+            "url": "https://remakeyourmeme.com/templates/i-love-the-smiths-ai-video-generator/",
+            "title": "I Love The Smiths AI Video Generator: Up to 2 People, 1080p",
+            "first_seen": "2026-11-08T18:00:08.291712+00:00"
+          }
         ]
       }
     },
@@ -82178,6 +82200,13 @@
             "title": "How to Make the 'I Love The Smiths' AI Video (the (500) Days of Summer Elevator Scene, 2026)",
             "first_seen": "2026-11-08T00:00:11.385947+00:00"
           }
+        ],
+        "remakeyourmeme.com": [
+          {
+            "url": "https://remakeyourmeme.com/templates/i-love-the-smiths-ai-video-generator/",
+            "title": "I Love The Smiths AI Video Generator: Up to 2 People, 1080p",
+            "first_seen": "2026-11-08T18:00:08.291701+00:00"
+          }
         ]
       }
     },
@@ -82194,6 +82223,13 @@
             "url": "https://www.getstarrd.app/blog/how-to-make-i-love-the-smiths-ai-video",
             "title": "How to Make the 'I Love The Smiths' AI Video (the (500) Days of Summer Elevator Scene, 2026)",
             "first_seen": "2026-11-08T00:00:11.385425+00:00"
+          }
+        ],
+        "remakeyourmeme.com": [
+          {
+            "url": "https://remakeyourmeme.com/templates/i-love-the-smiths-ai-video-generator/",
+            "title": "I Love The Smiths AI Video Generator: Up to 2 People, 1080p",
+            "first_seen": "2026-11-08T18:00:08.291649+00:00"
           }
         ]
       }
@@ -84335,6 +84371,54 @@
             "url": "https://www.media.io/ai/reference-to-video/calcanhar-2-ai-dance",
             "title": "Calcanhar 2 AI Dance Video Generator – Passinho Charme Trend",
             "first_seen": "2026-11-08T12:00:10.762763+00:00"
+          }
+        ]
+      }
+    },
+    "son you are doing": {
+      "first_seen": "2026-11-08T18:00:08.305223+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/stop-it-son-you-are-doing-me-a-frighten",
+            "title": "Stop It Son, You Are Doing Me A Frighten | Know Your Meme",
+            "first_seen": "2026-11-08T18:00:08.305223+00:00"
+          }
+        ]
+      }
+    },
+    "doing me a frighten": {
+      "first_seen": "2026-11-08T18:00:08.305261+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/stop-it-son-you-are-doing-me-a-frighten",
+            "title": "Stop It Son, You Are Doing Me A Frighten | Know Your Meme",
+            "first_seen": "2026-11-08T18:00:08.305261+00:00"
+          }
+        ]
+      }
+    },
+    "stop son": {
+      "first_seen": "2026-11-08T18:00:08.305270+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/stop-it-son-you-are-doing-me-a-frighten",
+            "title": "Stop It Son, You Are Doing Me A Frighten | Know Your Meme",
+            "first_seen": "2026-11-08T18:00:08.305270+00:00"
+          }
+        ]
+      }
+    },
+    "training season": {
+      "first_seen": "2026-11-08T18:00:08.347610+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/training-season-dance-ai",
+            "title": "Training Season Dance AI Generator: Animate Your Photo",
+            "first_seen": "2026-11-08T18:00:08.347610+00:00"
           }
         ]
       }
