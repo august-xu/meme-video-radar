@@ -1,6 +1,6 @@
 {
-  "last_run_timestamp": "2026-11-08T06:00:16.840760+00:00",
-  "total_urls_seen": 13527,
+  "last_run_timestamp": "2026-11-08T12:00:17.951420+00:00",
+  "total_urls_seen": 13559,
   "seen_urls": {
     "knowyourmeme.com": [
       "https://knowyourmeme.com/memes/yohohoho-binkusuno-sake-by-ado",
@@ -11564,7 +11564,27 @@
       "https://www.media.io/audio-effects/sucking-sound-effects.html",
       "https://www.media.io/ai/explore/zone/shake-it-to-the-max-ai-dance",
       "https://www.media.io/ai-prompts/chatgpt-50th-birthday-portrait-prompts.html",
-      "https://www.media.io/audio-effects/wait-sound-effects.html"
+      "https://www.media.io/audio-effects/wait-sound-effects.html",
+      "https://www.media.io/ai/explore/zone/favorite-rumors-about-us-ai-dance",
+      "https://www.media.io/ai/explore/zone/diwali-prompts-for-baby-girl",
+      "https://www.media.io/ai/explore/zone/i-just-beat-the-case-ai-video-generator",
+      "https://www.media.io/ai/explore/zone/green-alien-cat-ai-video-generator",
+      "https://www.media.io/ai/explore/zone/break-your-legs-ai-dance",
+      "https://www.media.io/ai/explore/zone/missed-train-dance-ai-video-generator",
+      "https://www.media.io/ai/explore/zone/dog-elevator-prank-ai-video",
+      "https://www.media.io/ai/explore/zone/dog-bohemian-rhapsody-ai-video",
+      "https://www.media.io/ai/explore/zone/buggin-dance-ai",
+      "https://www.media.io/ai/explore/zone/i-want-wings-glow-up-ai-video",
+      "https://www.media.io/ai/explore/zone/central-cee-doja-ai-video-generator",
+      "https://www.media.io/ai/explore/zone/capybara-couple-ai",
+      "https://www.media.io/ai/explore/zone/promptbhai-ai-prompts",
+      "https://www.media.io/ai/explore/zone/goprompt360-ai-prompts",
+      "https://www.media.io/ai/effect/create/the-last-dance-ai-trend",
+      "https://www.media.io/ai/effect/create/dancing-crocodiles-ai-trend",
+      "https://www.media.io/ai/effect/create/pimpwalk-entrance-ai-trend",
+      "https://www.media.io/ai/effect/create/baby-riding-reindeer-with-santa-ai-video",
+      "https://www.media.io/ai/effect/create/kakalika-dance-ai-video",
+      "https://www.media.io/ai/reference-to-video/calcanhar-2-ai-dance"
     ],
     "remakeyourmeme.com": [
       "https://remakeyourmeme.com",
@@ -13353,6 +13373,18 @@
       "https://www.capcut.com/template-detail/7521984476239465789",
       "https://www.capcut.com/template-detail/7609291442149756176",
       "https://www.capcut.com/template-detail/7611967435352165633",
+      "https://www.capcut.com/template-detail/7614155497708539153",
+      "https://www.capcut.com/template-detail/7562457444929277189",
+      "https://www.capcut.com/template-detail/7609916699734789393",
+      "https://www.capcut.com/template-detail/7442835260980710711",
+      "https://www.capcut.com/template-detail/7637330004208307477",
+      "https://www.capcut.com/template-detail/7612248283964017936",
+      "https://www.capcut.com/template-detail/7530687794755161397",
+      "https://www.capcut.com/template-detail/7637540881423191316",
+      "https://www.capcut.com/template-detail/7521984476239465789",
+      "https://www.capcut.com/template-detail/7636033261264702728",
+      "https://www.capcut.com/template-detail/7362969691763051782",
+      "https://www.capcut.com/template-detail/7477105562845449525",
       "https://www.capcut.com/template-detail/7614155497708539153",
       "https://www.capcut.com/template-detail/7562457444929277189",
       "https://www.capcut.com/template-detail/7609916699734789393",
@@ -66712,6 +66744,13 @@
             "title": "Dog Bohemian Rhapsody AI — Votre animal chante la ballade rock au piano dans un stade",
             "first_seen": "2026-11-03T12:00:09.390839+00:00"
           }
+        ],
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/dog-bohemian-rhapsody-ai-video",
+            "title": "Dog Bohemian Rhapsody AI Video – Corgi the Queen Trend | Media.io",
+            "first_seen": "2026-11-08T12:00:09.816549+00:00"
+          }
         ]
       }
     },
@@ -69074,6 +69113,13 @@
             "title": "How to Make the 'I Just Beat The Case' AI Video: Walk Out of Court Free and Celebrate, From One Photo (2026)",
             "first_seen": "2026-11-03T18:00:15.170697+00:00"
           }
+        ],
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/i-just-beat-the-case-ai-video-generator",
+            "title": "I Just Beat the Case AI Video Generator & Prompts",
+            "first_seen": "2026-11-08T12:00:09.723595+00:00"
+          }
         ]
       }
     },
@@ -69090,6 +69136,13 @@
             "url": "https://www.getstarrd.app/blog/how-to-make-i-just-beat-the-case-ai-video",
             "title": "How to Make the 'I Just Beat The Case' AI Video: Walk Out of Court Free and Celebrate, From One Photo (2026)",
             "first_seen": "2026-11-03T18:00:15.170689+00:00"
+          }
+        ],
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/i-just-beat-the-case-ai-video-generator",
+            "title": "I Just Beat the Case AI Video Generator & Prompts",
+            "first_seen": "2026-11-08T12:00:09.723646+00:00"
           }
         ]
       }
@@ -83958,6 +84011,330 @@
             "url": "https://www.media.io/audio-effects/wait-sound-effects.html",
             "title": "Wait Sound Effects: Wait a Minute Voices & Reaction SFX",
             "first_seen": "2026-11-08T06:00:10.020959+00:00"
+          }
+        ]
+      }
+    },
+    "rumors about us": {
+      "first_seen": "2026-11-08T12:00:09.653506+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/favorite-rumors-about-us-ai-dance",
+            "title": "Favorite Rumors About Us Dance AI Video Trend | Media.io",
+            "first_seen": "2026-11-08T12:00:09.653506+00:00"
+          }
+        ]
+      }
+    },
+    "favorite rumors": {
+      "first_seen": "2026-11-08T12:00:09.653540+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/favorite-rumors-about-us-ai-dance",
+            "title": "Favorite Rumors About Us Dance AI Video Trend | Media.io",
+            "first_seen": "2026-11-08T12:00:09.653540+00:00"
+          }
+        ]
+      }
+    },
+    "favorite rumors about us": {
+      "first_seen": "2026-11-08T12:00:09.653563+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/favorite-rumors-about-us-ai-dance",
+            "title": "Favorite Rumors About Us Dance AI Video Trend | Media.io",
+            "first_seen": "2026-11-08T12:00:09.653563+00:00"
+          }
+        ]
+      }
+    },
+    "green alien": {
+      "first_seen": "2026-11-08T12:00:09.752477+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/green-alien-cat-ai-video-generator",
+            "title": "Green Alien Cat AI Video Generator (Dance & Meme Effects) | Media.io",
+            "first_seen": "2026-11-08T12:00:09.752477+00:00"
+          }
+        ]
+      }
+    },
+    "break your legs": {
+      "first_seen": "2026-11-08T12:00:09.752622+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/break-your-legs-ai-dance",
+            "title": "Break Your Legs AI Dance Video Generator | Media.io",
+            "first_seen": "2026-11-08T12:00:09.752622+00:00"
+          }
+        ]
+      }
+    },
+    "missed train": {
+      "first_seen": "2026-11-08T12:00:09.760160+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/missed-train-dance-ai-video-generator",
+            "title": "Missed Train Dance AI Video Generator from Photo",
+            "first_seen": "2026-11-08T12:00:09.760160+00:00"
+          }
+        ]
+      }
+    },
+    "elevator prank": {
+      "first_seen": "2026-11-08T12:00:09.807841+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/dog-elevator-prank-ai-video",
+            "title": "Dog Elevator Prank AI Video Trend – Funny Pet Prank | Media.io",
+            "first_seen": "2026-11-08T12:00:09.807841+00:00"
+          }
+        ]
+      }
+    },
+    "i want wings": {
+      "first_seen": "2026-11-08T12:00:09.917637+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/i-want-wings-glow-up-ai-video",
+            "title": "I Want Wings Glow Up AI Trend (Eww Squish It, Be Gentle) | Media.io",
+            "first_seen": "2026-11-08T12:00:09.917637+00:00"
+          }
+        ]
+      }
+    },
+    "eww squish": {
+      "first_seen": "2026-11-08T12:00:09.917685+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/i-want-wings-glow-up-ai-video",
+            "title": "I Want Wings Glow Up AI Trend (Eww Squish It, Be Gentle) | Media.io",
+            "first_seen": "2026-11-08T12:00:09.917685+00:00"
+          }
+        ]
+      }
+    },
+    "i want": {
+      "first_seen": "2026-11-08T12:00:09.917695+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/i-want-wings-glow-up-ai-video",
+            "title": "I Want Wings Glow Up AI Trend (Eww Squish It, Be Gentle) | Media.io",
+            "first_seen": "2026-11-08T12:00:09.917695+00:00"
+          }
+        ]
+      }
+    },
+    "want wings": {
+      "first_seen": "2026-11-08T12:00:09.917702+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/i-want-wings-glow-up-ai-video",
+            "title": "I Want Wings Glow Up AI Trend (Eww Squish It, Be Gentle) | Media.io",
+            "first_seen": "2026-11-08T12:00:09.917702+00:00"
+          }
+        ]
+      }
+    },
+    "want wings glow": {
+      "first_seen": "2026-11-08T12:00:09.917709+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/i-want-wings-glow-up-ai-video",
+            "title": "I Want Wings Glow Up AI Trend (Eww Squish It, Be Gentle) | Media.io",
+            "first_seen": "2026-11-08T12:00:09.917709+00:00"
+          }
+        ]
+      }
+    },
+    "wings glow": {
+      "first_seen": "2026-11-08T12:00:09.917716+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/i-want-wings-glow-up-ai-video",
+            "title": "I Want Wings Glow Up AI Trend (Eww Squish It, Be Gentle) | Media.io",
+            "first_seen": "2026-11-08T12:00:09.917716+00:00"
+          }
+        ]
+      }
+    },
+    "i want wings glow": {
+      "first_seen": "2026-11-08T12:00:09.917722+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/i-want-wings-glow-up-ai-video",
+            "title": "I Want Wings Glow Up AI Trend (Eww Squish It, Be Gentle) | Media.io",
+            "first_seen": "2026-11-08T12:00:09.917722+00:00"
+          }
+        ]
+      }
+    },
+    "squish be gentle": {
+      "first_seen": "2026-11-08T12:00:09.917730+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/i-want-wings-glow-up-ai-video",
+            "title": "I Want Wings Glow Up AI Trend (Eww Squish It, Be Gentle) | Media.io",
+            "first_seen": "2026-11-08T12:00:09.917730+00:00"
+          }
+        ]
+      }
+    },
+    "eww squish be gentle": {
+      "first_seen": "2026-11-08T12:00:09.917737+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/i-want-wings-glow-up-ai-video",
+            "title": "I Want Wings Glow Up AI Trend (Eww Squish It, Be Gentle) | Media.io",
+            "first_seen": "2026-11-08T12:00:09.917737+00:00"
+          }
+        ]
+      }
+    },
+    "central cee doja": {
+      "first_seen": "2026-11-08T12:00:09.962361+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/central-cee-doja-ai-video-generator",
+            "title": "Central Cee Doja AI Video Generator & Prompts | Media.io",
+            "first_seen": "2026-11-08T12:00:09.962361+00:00"
+          }
+        ]
+      }
+    },
+    "cee doja": {
+      "first_seen": "2026-11-08T12:00:09.962395+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/central-cee-doja-ai-video-generator",
+            "title": "Central Cee Doja AI Video Generator & Prompts | Media.io",
+            "first_seen": "2026-11-08T12:00:09.962395+00:00"
+          }
+        ]
+      }
+    },
+    "central cee": {
+      "first_seen": "2026-11-08T12:00:09.962403+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/central-cee-doja-ai-video-generator",
+            "title": "Central Cee Doja AI Video Generator & Prompts | Media.io",
+            "first_seen": "2026-11-08T12:00:09.962403+00:00"
+          }
+        ]
+      }
+    },
+    "capybara couple": {
+      "first_seen": "2026-11-08T12:00:10.037343+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/capybara-couple-ai",
+            "title": "Capybara Couple AI Video – Us as Capybaras Love Stories",
+            "first_seen": "2026-11-08T12:00:10.037343+00:00"
+          }
+        ]
+      }
+    },
+    "100 prompt bhai": {
+      "first_seen": "2026-11-08T12:00:10.252906+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/promptbhai-ai-prompts",
+            "title": "100+ PromptBhai AI Photo Prompts to Copy & Create | Media.io",
+            "first_seen": "2026-11-08T12:00:10.252906+00:00"
+          }
+        ]
+      }
+    },
+    "dancing crocodiles": {
+      "first_seen": "2026-11-08T12:00:10.454794+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/effect/create/dancing-crocodiles-ai-trend",
+            "title": "Dancing Crocodiles AI Video – Golf Course Dance Trend",
+            "first_seen": "2026-11-08T12:00:10.454794+00:00"
+          }
+        ]
+      }
+    },
+    "pimpwalk entrance": {
+      "first_seen": "2026-11-08T12:00:10.456688+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/effect/create/pimpwalk-entrance-ai-trend",
+            "title": "Pimpwalk Entrance AI Video – Hold the Door Trend",
+            "first_seen": "2026-11-08T12:00:10.456688+00:00"
+          }
+        ]
+      }
+    },
+    "reindeer with santa": {
+      "first_seen": "2026-11-08T12:00:10.618344+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/effect/create/baby-riding-reindeer-with-santa-ai-video",
+            "title": "Baby Riding Reindeer with Santa AI Video – Christmas Ride",
+            "first_seen": "2026-11-08T12:00:10.618344+00:00"
+          }
+        ]
+      }
+    },
+    "riding reindeer": {
+      "first_seen": "2026-11-08T12:00:10.618392+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/effect/create/baby-riding-reindeer-with-santa-ai-video",
+            "title": "Baby Riding Reindeer with Santa AI Video – Christmas Ride",
+            "first_seen": "2026-11-08T12:00:10.618392+00:00"
+          }
+        ]
+      }
+    },
+    "riding reindeer with santa": {
+      "first_seen": "2026-11-08T12:00:10.618411+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/effect/create/baby-riding-reindeer-with-santa-ai-video",
+            "title": "Baby Riding Reindeer with Santa AI Video – Christmas Ride",
+            "first_seen": "2026-11-08T12:00:10.618411+00:00"
+          }
+        ]
+      }
+    },
+    "calcanhar 2": {
+      "first_seen": "2026-11-08T12:00:10.762763+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/reference-to-video/calcanhar-2-ai-dance",
+            "title": "Calcanhar 2 AI Dance Video Generator – Passinho Charme Trend",
+            "first_seen": "2026-11-08T12:00:10.762763+00:00"
           }
         ]
       }
