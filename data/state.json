@@ -1,6 +1,6 @@
 {
-  "last_run_timestamp": "2026-11-09T00:00:18.122948+00:00",
-  "total_urls_seen": 13587,
+  "last_run_timestamp": "2026-11-09T06:00:15.946655+00:00",
+  "total_urls_seen": 13598,
   "seen_urls": {
     "knowyourmeme.com": [
       "https://knowyourmeme.com/memes/yohohoho-binkusuno-sake-by-ado",
@@ -11677,7 +11677,9 @@
       "https://remakeyourmeme.com/templates/no-scrubs-ai-video-generator",
       "https://remakeyourmeme.com/templates/chipmunks-dance-ai-video-generator",
       "https://remakeyourmeme.com/templates/vossi-bop-ai-video-generator",
-      "https://remakeyourmeme.com/templates/i-love-the-smiths-ai-video-generator"
+      "https://remakeyourmeme.com/templates/i-love-the-smiths-ai-video-generator",
+      "https://remakeyourmeme.com/templates/ice-ice-baby-dance-ai-video-generator",
+      "https://remakeyourmeme.com/templates/fancy-cafe-ai-video-generator"
     ],
     "www.getstarrd.app": [
       "https://www.getstarrd.app",
@@ -13436,7 +13438,16 @@
       "https://www.capcut.com/template-detail/7521984476239465789",
       "https://www.capcut.com/template-detail/7636033261264702728",
       "https://www.capcut.com/template-detail/7362969691763051782",
-      "https://www.capcut.com/template-detail/7477105562845449525"
+      "https://www.capcut.com/template-detail/7477105562845449525",
+      "https://www.capcut.com/template-detail/7504492981454441789",
+      "https://www.capcut.com/template-detail/7464491472256060725",
+      "https://www.capcut.com/template-detail/7448623371044031805",
+      "https://www.capcut.com/template-detail/7522585826358775101",
+      "https://www.capcut.com/template-detail/7493918549925203253",
+      "https://www.capcut.com/template-detail/7504492981454441789",
+      "https://www.capcut.com/template-detail/7448623371044031805",
+      "https://www.capcut.com/template-detail/7522585826358775101",
+      "https://www.capcut.com/template-detail/7464491472256060725"
     ],
     "maketrendai.com": [
       "https://maketrendai.com/studio",
@@ -70170,6 +70181,13 @@
             "title": "How to Make Fancy Cafe POV AI Video (Viral Trend) | LightX",
             "first_seen": "2026-11-05T06:00:22.259102+00:00"
           }
+        ],
+        "remakeyourmeme.com": [
+          {
+            "url": "https://remakeyourmeme.com/templates/fancy-cafe-ai-video-generator/",
+            "title": "Fancy Cafe AI Video Generator: Up to 2 People, No Watermark",
+            "first_seen": "2026-11-09T06:00:09.061981+00:00"
+          }
         ]
       }
     },
@@ -71164,6 +71182,11 @@
             "url": "https://remakeyourmeme.com/templates/24k-magic-ai-video-generator/",
             "title": "24K Magic AI Video Generator: Up to 2 People, No Watermark",
             "first_seen": "2026-11-04T18:00:08.956207+00:00"
+          },
+          {
+            "url": "https://remakeyourmeme.com/templates/fancy-cafe-ai-video-generator/",
+            "title": "Fancy Cafe AI Video Generator: Up to 2 People, No Watermark",
+            "first_seen": "2026-11-09T06:00:09.061910+00:00"
           }
         ]
       }
@@ -84456,6 +84479,42 @@
             "url": "https://www.getstarrd.app/template/easy-a-pocketful-of-sunshine-ai-video",
             "title": "Easy A Pocketful of Sunshine — AI Video Template | Starrd",
             "first_seen": "2026-11-09T00:00:10.560477+00:00"
+          }
+        ]
+      }
+    },
+    "crush name": {
+      "first_seen": "2026-11-09T06:00:08.840212+00:00",
+      "domains": {
+        "www.capcut.com": [
+          {
+            "url": "https://www.capcut.com/template-detail/7504492981454441789",
+            "title": "crush name",
+            "first_seen": "2026-11-09T06:00:08.840212+00:00"
+          }
+        ]
+      }
+    },
+    "s okay": {
+      "first_seen": "2026-11-09T06:00:08.840420+00:00",
+      "domains": {
+        "www.capcut.com": [
+          {
+            "url": "https://www.capcut.com/template-detail/7464491472256060725",
+            "title": "It's Okay!❤️❤️❤️",
+            "first_seen": "2026-11-09T06:00:08.840420+00:00"
+          }
+        ]
+      }
+    },
+    "ice ice": {
+      "first_seen": "2026-11-09T06:00:09.015717+00:00",
+      "domains": {
+        "remakeyourmeme.com": [
+          {
+            "url": "https://remakeyourmeme.com/templates/ice-ice-baby-dance-ai-video-generator/",
+            "title": "Ice Ice Baby Dance AI Video Generator: Up to 2 People, 1080p",
+            "first_seen": "2026-11-09T06:00:09.015717+00:00"
           }
         ]
       }
