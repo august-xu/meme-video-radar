@@ -1,6 +1,6 @@
 {
-  "last_run_timestamp": "2026-11-08T18:00:14.800576+00:00",
-  "total_urls_seen": 13574,
+  "last_run_timestamp": "2026-11-09T00:00:18.122948+00:00",
+  "total_urls_seen": 13587,
   "seen_urls": {
     "knowyourmeme.com": [
       "https://knowyourmeme.com/memes/yohohoho-binkusuno-sake-by-ado",
@@ -12466,7 +12466,8 @@
       "https://www.getstarrd.app/blog/how-to-make-bad-sekki-wing-man-ai-video",
       "https://www.getstarrd.app/blog/how-to-make-nazeer-bakra-goat-ai-video",
       "https://www.getstarrd.app/template/i-love-the-smiths-ai-video",
-      "https://www.getstarrd.app/blog/how-to-make-i-love-the-smiths-ai-video"
+      "https://www.getstarrd.app/blog/how-to-make-i-love-the-smiths-ai-video",
+      "https://www.getstarrd.app/template/easy-a-pocketful-of-sunshine-ai-video"
     ],
     "www.capcut.com": [
       "https://www.capcut.com/template-detail/7613449947458981136",
@@ -13376,6 +13377,18 @@
       "https://www.capcut.com/template-detail/7521984476239465789",
       "https://www.capcut.com/template-detail/7609291442149756176",
       "https://www.capcut.com/template-detail/7611967435352165633",
+      "https://www.capcut.com/template-detail/7614155497708539153",
+      "https://www.capcut.com/template-detail/7562457444929277189",
+      "https://www.capcut.com/template-detail/7609916699734789393",
+      "https://www.capcut.com/template-detail/7442835260980710711",
+      "https://www.capcut.com/template-detail/7637330004208307477",
+      "https://www.capcut.com/template-detail/7612248283964017936",
+      "https://www.capcut.com/template-detail/7530687794755161397",
+      "https://www.capcut.com/template-detail/7637540881423191316",
+      "https://www.capcut.com/template-detail/7521984476239465789",
+      "https://www.capcut.com/template-detail/7636033261264702728",
+      "https://www.capcut.com/template-detail/7362969691763051782",
+      "https://www.capcut.com/template-detail/7477105562845449525",
       "https://www.capcut.com/template-detail/7614155497708539153",
       "https://www.capcut.com/template-detail/7562457444929277189",
       "https://www.capcut.com/template-detail/7609916699734789393",
@@ -84419,6 +84432,30 @@
             "url": "https://www.media.io/ai/explore/zone/training-season-dance-ai",
             "title": "Training Season Dance AI Generator: Animate Your Photo",
             "first_seen": "2026-11-08T18:00:08.347610+00:00"
+          }
+        ]
+      }
+    },
+    "easy a pocketful": {
+      "first_seen": "2026-11-09T00:00:10.560438+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/template/easy-a-pocketful-of-sunshine-ai-video",
+            "title": "Easy A Pocketful of Sunshine — AI Video Template | Starrd",
+            "first_seen": "2026-11-09T00:00:10.560438+00:00"
+          }
+        ]
+      }
+    },
+    "pocketful of sunshine": {
+      "first_seen": "2026-11-09T00:00:10.560477+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/template/easy-a-pocketful-of-sunshine-ai-video",
+            "title": "Easy A Pocketful of Sunshine — AI Video Template | Starrd",
+            "first_seen": "2026-11-09T00:00:10.560477+00:00"
           }
         ]
       }
