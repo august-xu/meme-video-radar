@@ -1,6 +1,6 @@
 {
-  "last_run_timestamp": "2026-11-09T12:00:13.849176+00:00",
-  "total_urls_seen": 13603,
+  "last_run_timestamp": "2026-11-09T18:00:16.093785+00:00",
+  "total_urls_seen": 13616,
   "seen_urls": {
     "knowyourmeme.com": [
       "https://knowyourmeme.com/memes/yohohoho-binkusuno-sake-by-ado",
@@ -102,7 +102,8 @@
       "https://knowyourmeme.com/memes/more-like-a-quesadilla-guy",
       "https://knowyourmeme.com/memes/bicep-heart-trend",
       "https://knowyourmeme.com/memes/who-are-you-voting-for-daddy",
-      "https://knowyourmeme.com/memes/stop-it-son-you-are-doing-me-a-frighten"
+      "https://knowyourmeme.com/memes/stop-it-son-you-are-doing-me-a-frighten",
+      "https://knowyourmeme.com/memes/the-bat-dildo"
     ],
     "aptvideoai.com": [
       "https://aptvideoai.com",
@@ -13451,6 +13452,18 @@
       "https://www.capcut.com/template-detail/7464491472256060725",
       "https://www.capcut.com/template-detail/7349062011092782342",
       "https://www.capcut.com/template-detail/7459356883829165365",
+      "https://www.capcut.com/template-detail/7459356883829165365",
+      "https://www.capcut.com/template-detail/7349062011092782342",
+      "https://www.capcut.com/template-detail/7613449947458981136",
+      "https://www.capcut.com/template-detail/7614155497708539153",
+      "https://www.capcut.com/template-detail/7574395599290633525",
+      "https://www.capcut.com/template-detail/7533330731842522421",
+      "https://www.capcut.com/template-detail/7612248283964017936",
+      "https://www.capcut.com/template-detail/7573721589477297425",
+      "https://www.capcut.com/template-detail/7601555915468262674",
+      "https://www.capcut.com/template-detail/7641550081010797844",
+      "https://www.capcut.com/template-detail/7638923151618886928",
+      "https://www.capcut.com/template-detail/7442835260980710711",
       "https://www.capcut.com/template-detail/7459356883829165365",
       "https://www.capcut.com/template-detail/7349062011092782342"
     ],
@@ -84616,6 +84629,18 @@
             "url": "https://www.media.io/ai/explore/zone/ding-ding-ding-ai-trend",
             "title": "Ding Ding Ding AI Trend – Candy Match-3 Video",
             "first_seen": "2026-11-09T12:00:08.145994+00:00"
+          }
+        ]
+      }
+    },
+    "bat dildo": {
+      "first_seen": "2026-11-09T18:00:09.210162+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/the-bat-dildo",
+            "title": "The Bat Dildo | Know Your Meme",
+            "first_seen": "2026-11-09T18:00:09.210162+00:00"
           }
         ]
       }
