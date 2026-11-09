@@ -1,6 +1,6 @@
 {
-  "last_run_timestamp": "2026-11-09T06:00:15.946655+00:00",
-  "total_urls_seen": 13598,
+  "last_run_timestamp": "2026-11-09T12:00:13.849176+00:00",
+  "total_urls_seen": 13603,
   "seen_urls": {
     "knowyourmeme.com": [
       "https://knowyourmeme.com/memes/yohohoho-binkusuno-sake-by-ado",
@@ -11586,7 +11586,8 @@
       "https://www.media.io/ai/effect/create/baby-riding-reindeer-with-santa-ai-video",
       "https://www.media.io/ai/effect/create/kakalika-dance-ai-video",
       "https://www.media.io/ai/reference-to-video/calcanhar-2-ai-dance",
-      "https://www.media.io/ai/explore/zone/training-season-dance-ai"
+      "https://www.media.io/ai/explore/zone/training-season-dance-ai",
+      "https://www.media.io/ai/explore/zone/ding-ding-ding-ai-trend"
     ],
     "remakeyourmeme.com": [
       "https://remakeyourmeme.com",
@@ -13447,7 +13448,11 @@
       "https://www.capcut.com/template-detail/7504492981454441789",
       "https://www.capcut.com/template-detail/7448623371044031805",
       "https://www.capcut.com/template-detail/7522585826358775101",
-      "https://www.capcut.com/template-detail/7464491472256060725"
+      "https://www.capcut.com/template-detail/7464491472256060725",
+      "https://www.capcut.com/template-detail/7349062011092782342",
+      "https://www.capcut.com/template-detail/7459356883829165365",
+      "https://www.capcut.com/template-detail/7459356883829165365",
+      "https://www.capcut.com/template-detail/7349062011092782342"
     ],
     "maketrendai.com": [
       "https://maketrendai.com/studio",
@@ -84515,6 +84520,102 @@
             "url": "https://remakeyourmeme.com/templates/ice-ice-baby-dance-ai-video-generator/",
             "title": "Ice Ice Baby Dance AI Video Generator: Up to 2 People, 1080p",
             "first_seen": "2026-11-09T06:00:09.015717+00:00"
+          }
+        ]
+      }
+    },
+    "remove emoji": {
+      "first_seen": "2026-11-09T12:00:07.988382+00:00",
+      "domains": {
+        "www.capcut.com": [
+          {
+            "url": "https://www.capcut.com/template-detail/7349062011092782342",
+            "title": "Remove Emoji",
+            "first_seen": "2026-11-09T12:00:07.988382+00:00"
+          }
+        ]
+      }
+    },
+    "voy a negar": {
+      "first_seen": "2026-11-09T12:00:07.988561+00:00",
+      "domains": {
+        "www.capcut.com": [
+          {
+            "url": "https://www.capcut.com/template-detail/7459356883829165365",
+            "title": "Y NO TE VOY A NEGAR",
+            "first_seen": "2026-11-09T12:00:07.988561+00:00"
+          }
+        ]
+      }
+    },
+    "te voy a negar": {
+      "first_seen": "2026-11-09T12:00:07.988577+00:00",
+      "domains": {
+        "www.capcut.com": [
+          {
+            "url": "https://www.capcut.com/template-detail/7459356883829165365",
+            "title": "Y NO TE VOY A NEGAR",
+            "first_seen": "2026-11-09T12:00:07.988577+00:00"
+          }
+        ]
+      }
+    },
+    "y no te voy": {
+      "first_seen": "2026-11-09T12:00:07.988583+00:00",
+      "domains": {
+        "www.capcut.com": [
+          {
+            "url": "https://www.capcut.com/template-detail/7459356883829165365",
+            "title": "Y NO TE VOY A NEGAR",
+            "first_seen": "2026-11-09T12:00:07.988583+00:00"
+          }
+        ]
+      }
+    },
+    "te voy": {
+      "first_seen": "2026-11-09T12:00:07.988590+00:00",
+      "domains": {
+        "www.capcut.com": [
+          {
+            "url": "https://www.capcut.com/template-detail/7459356883829165365",
+            "title": "Y NO TE VOY A NEGAR",
+            "first_seen": "2026-11-09T12:00:07.988590+00:00"
+          }
+        ]
+      }
+    },
+    "y no te": {
+      "first_seen": "2026-11-09T12:00:07.988607+00:00",
+      "domains": {
+        "www.capcut.com": [
+          {
+            "url": "https://www.capcut.com/template-detail/7459356883829165365",
+            "title": "Y NO TE VOY A NEGAR",
+            "first_seen": "2026-11-09T12:00:07.988607+00:00"
+          }
+        ]
+      }
+    },
+    "ding ding ding": {
+      "first_seen": "2026-11-09T12:00:08.145955+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/ding-ding-ding-ai-trend",
+            "title": "Ding Ding Ding AI Trend – Candy Match-3 Video",
+            "first_seen": "2026-11-09T12:00:08.145955+00:00"
+          }
+        ]
+      }
+    },
+    "ding ding": {
+      "first_seen": "2026-11-09T12:00:08.145994+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/ding-ding-ding-ai-trend",
+            "title": "Ding Ding Ding AI Trend – Candy Match-3 Video",
+            "first_seen": "2026-11-09T12:00:08.145994+00:00"
           }
         ]
       }
