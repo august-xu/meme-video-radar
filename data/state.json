@@ -1,6 +1,6 @@
 {
-  "last_run_timestamp": "2026-11-09T18:00:16.093785+00:00",
-  "total_urls_seen": 13616,
+  "last_run_timestamp": "2026-11-10T00:00:16.654556+00:00",
+  "total_urls_seen": 13632,
   "seen_urls": {
     "knowyourmeme.com": [
       "https://knowyourmeme.com/memes/yohohoho-binkusuno-sake-by-ado",
@@ -103,7 +103,11 @@
       "https://knowyourmeme.com/memes/bicep-heart-trend",
       "https://knowyourmeme.com/memes/who-are-you-voting-for-daddy",
       "https://knowyourmeme.com/memes/stop-it-son-you-are-doing-me-a-frighten",
-      "https://knowyourmeme.com/memes/the-bat-dildo"
+      "https://knowyourmeme.com/memes/the-bat-dildo",
+      "https://knowyourmeme.com/memes/mrbeast-chill-out-crashout-edits",
+      "https://knowyourmeme.com/memes/fortnite-pirate-shop-token",
+      "https://knowyourmeme.com/memes/events/nvidia-ceo-jensen-huang-chinese-spy-cheating-controversy",
+      "https://knowyourmeme.com/memes/still-life-michael-rosen"
     ],
     "aptvideoai.com": [
       "https://aptvideoai.com",
@@ -13452,6 +13456,18 @@
       "https://www.capcut.com/template-detail/7464491472256060725",
       "https://www.capcut.com/template-detail/7349062011092782342",
       "https://www.capcut.com/template-detail/7459356883829165365",
+      "https://www.capcut.com/template-detail/7459356883829165365",
+      "https://www.capcut.com/template-detail/7349062011092782342",
+      "https://www.capcut.com/template-detail/7613449947458981136",
+      "https://www.capcut.com/template-detail/7614155497708539153",
+      "https://www.capcut.com/template-detail/7574395599290633525",
+      "https://www.capcut.com/template-detail/7533330731842522421",
+      "https://www.capcut.com/template-detail/7612248283964017936",
+      "https://www.capcut.com/template-detail/7573721589477297425",
+      "https://www.capcut.com/template-detail/7601555915468262674",
+      "https://www.capcut.com/template-detail/7641550081010797844",
+      "https://www.capcut.com/template-detail/7638923151618886928",
+      "https://www.capcut.com/template-detail/7442835260980710711",
       "https://www.capcut.com/template-detail/7459356883829165365",
       "https://www.capcut.com/template-detail/7349062011092782342",
       "https://www.capcut.com/template-detail/7613449947458981136",
@@ -30709,6 +30725,11 @@
             "url": "https://knowyourmeme.com/memes/events/ethan-klein-cheating-controversy-h3-affair-scandal",
             "title": "Ethan Klein Cheating Controversy / H3 Affair Scandal | Know Your Meme",
             "first_seen": "2026-10-27T12:00:07.578453+00:00"
+          },
+          {
+            "url": "https://knowyourmeme.com/memes/events/nvidia-ceo-jensen-huang-chinese-spy-cheating-controversy",
+            "title": "Nvidia CEO Jensen Huang Chinese Spy Cheating Controversy | Know Your Meme",
+            "first_seen": "2026-11-10T00:00:09.440278+00:00"
           }
         ]
       }
@@ -84641,6 +84662,534 @@
             "url": "https://knowyourmeme.com/memes/the-bat-dildo",
             "title": "The Bat Dildo | Know Your Meme",
             "first_seen": "2026-11-09T18:00:09.210162+00:00"
+          }
+        ]
+      }
+    },
+    "crashout edits": {
+      "first_seen": "2026-11-10T00:00:09.410839+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/mrbeast-chill-out-crashout-edits",
+            "title": "MrBeast Chill Out / Crashout Edits | Know Your Meme",
+            "first_seen": "2026-11-10T00:00:09.410839+00:00"
+          }
+        ]
+      }
+    },
+    "beast chill": {
+      "first_seen": "2026-11-10T00:00:09.410874+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/mrbeast-chill-out-crashout-edits",
+            "title": "MrBeast Chill Out / Crashout Edits | Know Your Meme",
+            "first_seen": "2026-11-10T00:00:09.410874+00:00"
+          }
+        ]
+      }
+    },
+    "mr beast": {
+      "first_seen": "2026-11-10T00:00:09.410882+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/mrbeast-chill-out-crashout-edits",
+            "title": "MrBeast Chill Out / Crashout Edits | Know Your Meme",
+            "first_seen": "2026-11-10T00:00:09.410882+00:00"
+          }
+        ]
+      }
+    },
+    "mr beast chill": {
+      "first_seen": "2026-11-10T00:00:09.410889+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/mrbeast-chill-out-crashout-edits",
+            "title": "MrBeast Chill Out / Crashout Edits | Know Your Meme",
+            "first_seen": "2026-11-10T00:00:09.410889+00:00"
+          }
+        ]
+      }
+    },
+    "chill out crashout": {
+      "first_seen": "2026-11-10T00:00:09.410896+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/mrbeast-chill-out-crashout-edits",
+            "title": "MrBeast Chill Out / Crashout Edits | Know Your Meme",
+            "first_seen": "2026-11-10T00:00:09.410896+00:00"
+          }
+        ]
+      }
+    },
+    "mrbeast chill out crashout": {
+      "first_seen": "2026-11-10T00:00:09.410924+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/mrbeast-chill-out-crashout-edits",
+            "title": "MrBeast Chill Out / Crashout Edits | Know Your Meme",
+            "first_seen": "2026-11-10T00:00:09.410924+00:00"
+          }
+        ]
+      }
+    },
+    "chill out crashout edits": {
+      "first_seen": "2026-11-10T00:00:09.410934+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/mrbeast-chill-out-crashout-edits",
+            "title": "MrBeast Chill Out / Crashout Edits | Know Your Meme",
+            "first_seen": "2026-11-10T00:00:09.410934+00:00"
+          }
+        ]
+      }
+    },
+    "mrbeast chill": {
+      "first_seen": "2026-11-10T00:00:09.410941+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/mrbeast-chill-out-crashout-edits",
+            "title": "MrBeast Chill Out / Crashout Edits | Know Your Meme",
+            "first_seen": "2026-11-10T00:00:09.410941+00:00"
+          }
+        ]
+      }
+    },
+    "beast chill out crashout": {
+      "first_seen": "2026-11-10T00:00:09.410963+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/mrbeast-chill-out-crashout-edits",
+            "title": "MrBeast Chill Out / Crashout Edits | Know Your Meme",
+            "first_seen": "2026-11-10T00:00:09.410963+00:00"
+          }
+        ]
+      }
+    },
+    "pirate coin": {
+      "first_seen": "2026-11-10T00:00:09.431741+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/fortnite-pirate-shop-token",
+            "title": "Fortnite Pirate Shop Token / Pirate Coin | Know Your Meme",
+            "first_seen": "2026-11-10T00:00:09.431741+00:00"
+          }
+        ]
+      }
+    },
+    "pirate shop token pirate": {
+      "first_seen": "2026-11-10T00:00:09.431780+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/fortnite-pirate-shop-token",
+            "title": "Fortnite Pirate Shop Token / Pirate Coin | Know Your Meme",
+            "first_seen": "2026-11-10T00:00:09.431780+00:00"
+          }
+        ]
+      }
+    },
+    "fortnite pirate shop": {
+      "first_seen": "2026-11-10T00:00:09.431789+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/fortnite-pirate-shop-token",
+            "title": "Fortnite Pirate Shop Token / Pirate Coin | Know Your Meme",
+            "first_seen": "2026-11-10T00:00:09.431789+00:00"
+          }
+        ]
+      }
+    },
+    "fortnite pirate": {
+      "first_seen": "2026-11-10T00:00:09.431796+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/fortnite-pirate-shop-token",
+            "title": "Fortnite Pirate Shop Token / Pirate Coin | Know Your Meme",
+            "first_seen": "2026-11-10T00:00:09.431796+00:00"
+          }
+        ]
+      }
+    },
+    "token pirate": {
+      "first_seen": "2026-11-10T00:00:09.431803+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/fortnite-pirate-shop-token",
+            "title": "Fortnite Pirate Shop Token / Pirate Coin | Know Your Meme",
+            "first_seen": "2026-11-10T00:00:09.431803+00:00"
+          }
+        ]
+      }
+    },
+    "shop token": {
+      "first_seen": "2026-11-10T00:00:09.431810+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/fortnite-pirate-shop-token",
+            "title": "Fortnite Pirate Shop Token / Pirate Coin | Know Your Meme",
+            "first_seen": "2026-11-10T00:00:09.431810+00:00"
+          }
+        ]
+      }
+    },
+    "shop token pirate coin": {
+      "first_seen": "2026-11-10T00:00:09.431817+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/fortnite-pirate-shop-token",
+            "title": "Fortnite Pirate Shop Token / Pirate Coin | Know Your Meme",
+            "first_seen": "2026-11-10T00:00:09.431817+00:00"
+          }
+        ]
+      }
+    },
+    "shop token pirate": {
+      "first_seen": "2026-11-10T00:00:09.431824+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/fortnite-pirate-shop-token",
+            "title": "Fortnite Pirate Shop Token / Pirate Coin | Know Your Meme",
+            "first_seen": "2026-11-10T00:00:09.431824+00:00"
+          }
+        ]
+      }
+    },
+    "pirate shop": {
+      "first_seen": "2026-11-10T00:00:09.431831+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/fortnite-pirate-shop-token",
+            "title": "Fortnite Pirate Shop Token / Pirate Coin | Know Your Meme",
+            "first_seen": "2026-11-10T00:00:09.431831+00:00"
+          }
+        ]
+      }
+    },
+    "fortnite pirate shop token": {
+      "first_seen": "2026-11-10T00:00:09.431838+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/fortnite-pirate-shop-token",
+            "title": "Fortnite Pirate Shop Token / Pirate Coin | Know Your Meme",
+            "first_seen": "2026-11-10T00:00:09.431838+00:00"
+          }
+        ]
+      }
+    },
+    "pirate shop token": {
+      "first_seen": "2026-11-10T00:00:09.431844+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/fortnite-pirate-shop-token",
+            "title": "Fortnite Pirate Shop Token / Pirate Coin | Know Your Meme",
+            "first_seen": "2026-11-10T00:00:09.431844+00:00"
+          }
+        ]
+      }
+    },
+    "token pirate coin": {
+      "first_seen": "2026-11-10T00:00:09.431851+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/fortnite-pirate-shop-token",
+            "title": "Fortnite Pirate Shop Token / Pirate Coin | Know Your Meme",
+            "first_seen": "2026-11-10T00:00:09.431851+00:00"
+          }
+        ]
+      }
+    },
+    "nvidia ceo": {
+      "first_seen": "2026-11-10T00:00:09.440127+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/events/nvidia-ceo-jensen-huang-chinese-spy-cheating-controversy",
+            "title": "Nvidia CEO Jensen Huang Chinese Spy Cheating Controversy | Know Your Meme",
+            "first_seen": "2026-11-10T00:00:09.440127+00:00"
+          }
+        ]
+      }
+    },
+    "ceo jensen huang chinese": {
+      "first_seen": "2026-11-10T00:00:09.440175+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/events/nvidia-ceo-jensen-huang-chinese-spy-cheating-controversy",
+            "title": "Nvidia CEO Jensen Huang Chinese Spy Cheating Controversy | Know Your Meme",
+            "first_seen": "2026-11-10T00:00:09.440175+00:00"
+          }
+        ]
+      }
+    },
+    "ceo jensen huang": {
+      "first_seen": "2026-11-10T00:00:09.440192+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/events/nvidia-ceo-jensen-huang-chinese-spy-cheating-controversy",
+            "title": "Nvidia CEO Jensen Huang Chinese Spy Cheating Controversy | Know Your Meme",
+            "first_seen": "2026-11-10T00:00:09.440192+00:00"
+          }
+        ]
+      }
+    },
+    "jensen huang chinese": {
+      "first_seen": "2026-11-10T00:00:09.440205+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/events/nvidia-ceo-jensen-huang-chinese-spy-cheating-controversy",
+            "title": "Nvidia CEO Jensen Huang Chinese Spy Cheating Controversy | Know Your Meme",
+            "first_seen": "2026-11-10T00:00:09.440205+00:00"
+          }
+        ]
+      }
+    },
+    "chinese spy cheating": {
+      "first_seen": "2026-11-10T00:00:09.440218+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/events/nvidia-ceo-jensen-huang-chinese-spy-cheating-controversy",
+            "title": "Nvidia CEO Jensen Huang Chinese Spy Cheating Controversy | Know Your Meme",
+            "first_seen": "2026-11-10T00:00:09.440218+00:00"
+          }
+        ]
+      }
+    },
+    "huang chinese": {
+      "first_seen": "2026-11-10T00:00:09.440244+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/events/nvidia-ceo-jensen-huang-chinese-spy-cheating-controversy",
+            "title": "Nvidia CEO Jensen Huang Chinese Spy Cheating Controversy | Know Your Meme",
+            "first_seen": "2026-11-10T00:00:09.440244+00:00"
+          }
+        ]
+      }
+    },
+    "jensen huang": {
+      "first_seen": "2026-11-10T00:00:09.440255+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/events/nvidia-ceo-jensen-huang-chinese-spy-cheating-controversy",
+            "title": "Nvidia CEO Jensen Huang Chinese Spy Cheating Controversy | Know Your Meme",
+            "first_seen": "2026-11-10T00:00:09.440255+00:00"
+          }
+        ]
+      }
+    },
+    "jensen huang chinese spy": {
+      "first_seen": "2026-11-10T00:00:09.440263+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/events/nvidia-ceo-jensen-huang-chinese-spy-cheating-controversy",
+            "title": "Nvidia CEO Jensen Huang Chinese Spy Cheating Controversy | Know Your Meme",
+            "first_seen": "2026-11-10T00:00:09.440263+00:00"
+          }
+        ]
+      }
+    },
+    "chinese spy cheating controversy": {
+      "first_seen": "2026-11-10T00:00:09.440271+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/events/nvidia-ceo-jensen-huang-chinese-spy-cheating-controversy",
+            "title": "Nvidia CEO Jensen Huang Chinese Spy Cheating Controversy | Know Your Meme",
+            "first_seen": "2026-11-10T00:00:09.440271+00:00"
+          }
+        ]
+      }
+    },
+    "chinese spy": {
+      "first_seen": "2026-11-10T00:00:09.440299+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/events/nvidia-ceo-jensen-huang-chinese-spy-cheating-controversy",
+            "title": "Nvidia CEO Jensen Huang Chinese Spy Cheating Controversy | Know Your Meme",
+            "first_seen": "2026-11-10T00:00:09.440299+00:00"
+          }
+        ]
+      }
+    },
+    "ceo jensen": {
+      "first_seen": "2026-11-10T00:00:09.440309+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/events/nvidia-ceo-jensen-huang-chinese-spy-cheating-controversy",
+            "title": "Nvidia CEO Jensen Huang Chinese Spy Cheating Controversy | Know Your Meme",
+            "first_seen": "2026-11-10T00:00:09.440309+00:00"
+          }
+        ]
+      }
+    },
+    "spy cheating": {
+      "first_seen": "2026-11-10T00:00:09.440322+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/events/nvidia-ceo-jensen-huang-chinese-spy-cheating-controversy",
+            "title": "Nvidia CEO Jensen Huang Chinese Spy Cheating Controversy | Know Your Meme",
+            "first_seen": "2026-11-10T00:00:09.440322+00:00"
+          }
+        ]
+      }
+    },
+    "nvidia ceo jensen huang": {
+      "first_seen": "2026-11-10T00:00:09.440330+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/events/nvidia-ceo-jensen-huang-chinese-spy-cheating-controversy",
+            "title": "Nvidia CEO Jensen Huang Chinese Spy Cheating Controversy | Know Your Meme",
+            "first_seen": "2026-11-10T00:00:09.440330+00:00"
+          }
+        ]
+      }
+    },
+    "spy cheating controversy": {
+      "first_seen": "2026-11-10T00:00:09.440338+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/events/nvidia-ceo-jensen-huang-chinese-spy-cheating-controversy",
+            "title": "Nvidia CEO Jensen Huang Chinese Spy Cheating Controversy | Know Your Meme",
+            "first_seen": "2026-11-10T00:00:09.440338+00:00"
+          }
+        ]
+      }
+    },
+    "huang chinese spy cheating": {
+      "first_seen": "2026-11-10T00:00:09.440345+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/events/nvidia-ceo-jensen-huang-chinese-spy-cheating-controversy",
+            "title": "Nvidia CEO Jensen Huang Chinese Spy Cheating Controversy | Know Your Meme",
+            "first_seen": "2026-11-10T00:00:09.440345+00:00"
+          }
+        ]
+      }
+    },
+    "huang chinese spy": {
+      "first_seen": "2026-11-10T00:00:09.440358+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/events/nvidia-ceo-jensen-huang-chinese-spy-cheating-controversy",
+            "title": "Nvidia CEO Jensen Huang Chinese Spy Cheating Controversy | Know Your Meme",
+            "first_seen": "2026-11-10T00:00:09.440358+00:00"
+          }
+        ]
+      }
+    },
+    "nvidia ceo jensen": {
+      "first_seen": "2026-11-10T00:00:09.440366+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/events/nvidia-ceo-jensen-huang-chinese-spy-cheating-controversy",
+            "title": "Nvidia CEO Jensen Huang Chinese Spy Cheating Controversy | Know Your Meme",
+            "first_seen": "2026-11-10T00:00:09.440366+00:00"
+          }
+        ]
+      }
+    },
+    "still life michael": {
+      "first_seen": "2026-11-10T00:00:09.440539+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/still-life-michael-rosen",
+            "title": "Still Life Michael Rosen | Know Your Meme",
+            "first_seen": "2026-11-10T00:00:09.440539+00:00"
+          }
+        ]
+      }
+    },
+    "life michael rosen": {
+      "first_seen": "2026-11-10T00:00:09.440565+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/still-life-michael-rosen",
+            "title": "Still Life Michael Rosen | Know Your Meme",
+            "first_seen": "2026-11-10T00:00:09.440565+00:00"
+          }
+        ]
+      }
+    },
+    "life michael": {
+      "first_seen": "2026-11-10T00:00:09.440580+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/still-life-michael-rosen",
+            "title": "Still Life Michael Rosen | Know Your Meme",
+            "first_seen": "2026-11-10T00:00:09.440580+00:00"
+          }
+        ]
+      }
+    },
+    "still life": {
+      "first_seen": "2026-11-10T00:00:09.440594+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/still-life-michael-rosen",
+            "title": "Still Life Michael Rosen | Know Your Meme",
+            "first_seen": "2026-11-10T00:00:09.440594+00:00"
+          }
+        ]
+      }
+    },
+    "michael rosen": {
+      "first_seen": "2026-11-10T00:00:09.440612+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/still-life-michael-rosen",
+            "title": "Still Life Michael Rosen | Know Your Meme",
+            "first_seen": "2026-11-10T00:00:09.440612+00:00"
+          }
+        ]
+      }
+    },
+    "still life michael rosen": {
+      "first_seen": "2026-11-10T00:00:09.440626+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/still-life-michael-rosen",
+            "title": "Still Life Michael Rosen | Know Your Meme",
+            "first_seen": "2026-11-10T00:00:09.440626+00:00"
           }
         ]
       }
