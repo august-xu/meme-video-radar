@@ -1,6 +1,6 @@
 {
-  "last_run_timestamp": "2026-11-10T12:00:14.891495+00:00",
-  "total_urls_seen": 13654,
+  "last_run_timestamp": "2026-11-10T18:00:16.283130+00:00",
+  "total_urls_seen": 13681,
   "seen_urls": {
     "knowyourmeme.com": [
       "https://knowyourmeme.com/memes/yohohoho-binkusuno-sake-by-ado",
@@ -11594,7 +11594,11 @@
       "https://www.media.io/ai/effect/create/kakalika-dance-ai-video",
       "https://www.media.io/ai/reference-to-video/calcanhar-2-ai-dance",
       "https://www.media.io/ai/explore/zone/training-season-dance-ai",
-      "https://www.media.io/ai/explore/zone/ding-ding-ding-ai-trend"
+      "https://www.media.io/ai/explore/zone/ding-ding-ding-ai-trend",
+      "https://www.media.io/ai/explore/zone/sheru-bhai-ai-video-prompt",
+      "https://www.media.io/ai/explore/zone/wedding-money-rain-ai-video",
+      "https://www.media.io/ai/explore/zone/hippo-pathway-what-if-ai-trend",
+      "https://www.media.io/ai/explore/zone/misanthropy-meme-ai-trend"
     ],
     "remakeyourmeme.com": [
       "https://remakeyourmeme.com",
@@ -11688,7 +11692,15 @@
       "https://remakeyourmeme.com/templates/i-love-the-smiths-ai-video-generator",
       "https://remakeyourmeme.com/templates/ice-ice-baby-dance-ai-video-generator",
       "https://remakeyourmeme.com/templates/fancy-cafe-ai-video-generator",
-      "https://remakeyourmeme.com/templates/careless-whisper-car-ai-video-generator"
+      "https://remakeyourmeme.com/templates/careless-whisper-car-ai-video-generator",
+      "https://remakeyourmeme.com/ai-christmas",
+      "https://remakeyourmeme.com/templates/thanksgiving-dance-ai",
+      "https://remakeyourmeme.com/templates/christmas-family-dance-ai-video-generator",
+      "https://remakeyourmeme.com/templates/christmas-dance-ai-video-generator",
+      "https://remakeyourmeme.com/templates/baby-riding-reindeer-ai-video-generator",
+      "https://remakeyourmeme.com/templates/green-christmas-creature-ai-photoshoot",
+      "https://remakeyourmeme.com/templates/bicep-heart-ai-video-generator",
+      "https://remakeyourmeme.com/templates/christmas-photobooth-ai-video-generator"
     ],
     "www.getstarrd.app": [
       "https://www.getstarrd.app",
@@ -12480,7 +12492,10 @@
       "https://www.getstarrd.app/blog/how-to-make-i-love-the-smiths-ai-video",
       "https://www.getstarrd.app/template/easy-a-pocketful-of-sunshine-ai-video",
       "https://www.getstarrd.app/template/fantasy-rush-hour-ai-video",
-      "https://www.getstarrd.app/template/drake-hotline-bling-dance-ai-video"
+      "https://www.getstarrd.app/template/drake-hotline-bling-dance-ai-video",
+      "https://www.getstarrd.app/blog/how-to-make-easy-a-pocketful-of-sunshine-ai-video",
+      "https://www.getstarrd.app/blog/how-to-make-drake-hotline-bling-dance-ai-video",
+      "https://www.getstarrd.app/blog/how-to-make-fantasy-rush-hour-ai-video"
     ],
     "www.capcut.com": [
       "https://www.capcut.com/template-detail/7613449947458981136",
@@ -13502,7 +13517,19 @@
       "https://www.capcut.com/template-detail/7603400632652893445",
       "https://www.capcut.com/template-detail/7573721589477297425",
       "https://www.capcut.com/template-detail/7368372792443686160",
-      "https://www.capcut.com/template-detail/7603400632652893445"
+      "https://www.capcut.com/template-detail/7603400632652893445",
+      "https://www.capcut.com/template-detail/7613449947458981136",
+      "https://www.capcut.com/template-detail/7614155497708539153",
+      "https://www.capcut.com/template-detail/7582856536771300613",
+      "https://www.capcut.com/template-detail/7479664400392080693",
+      "https://www.capcut.com/template-detail/7574395599290633525",
+      "https://www.capcut.com/template-detail/7573721589477297425",
+      "https://www.capcut.com/template-detail/7612248283964017936",
+      "https://www.capcut.com/template-detail/7641550081010797844",
+      "https://www.capcut.com/template-detail/7590649367787261200",
+      "https://www.capcut.com/template-detail/7442835260980710711",
+      "https://www.capcut.com/template-detail/7368372792443686160",
+      "https://www.capcut.com/template-detail/7493918549925203253"
     ],
     "maketrendai.com": [
       "https://maketrendai.com/studio",
@@ -66395,6 +66422,11 @@
             "url": "https://www.getstarrd.app/blog/how-to-make-lonyo-ai-dance",
             "title": "How to Make the Lonyo AI Dance Video: Lead the Whole Crew From One Photo (2026)",
             "first_seen": "2026-11-04T18:00:10.218386+00:00"
+          },
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-drake-hotline-bling-dance-ai-video",
+            "title": "How to Make the Drake 'Hotline Bling' AI Video (a New Outfit Every Cut, From One Photo, 2026)",
+            "first_seen": "2026-11-10T18:00:09.589889+00:00"
           }
         ]
       }
@@ -69813,6 +69845,11 @@
             "url": "https://www.getstarrd.app/template/fantasy-rush-hour-ai-video",
             "title": "Fantasy (Rush Hour) — AI Video Template | Starrd",
             "first_seen": "2026-11-10T12:00:08.900625+00:00"
+          },
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-fantasy-rush-hour-ai-video",
+            "title": "How to Make the Rush Hour 'Fantasy' AI Video (the Back-Seat Sing-Along, Starring You, 2026)",
+            "first_seen": "2026-11-10T18:00:09.606050+00:00"
           }
         ]
       }
@@ -71253,6 +71290,11 @@
             "url": "https://remakeyourmeme.com/templates/fancy-cafe-ai-video-generator/",
             "title": "Fancy Cafe AI Video Generator: Up to 2 People, No Watermark",
             "first_seen": "2026-11-09T06:00:09.061910+00:00"
+          },
+          {
+            "url": "https://remakeyourmeme.com/templates/bicep-heart-ai-video-generator/",
+            "title": "Bicep Heart AI Video Generator: Up to 2 People, No Watermark",
+            "first_seen": "2026-11-10T18:00:08.519985+00:00"
           }
         ]
       }
@@ -74251,6 +74293,13 @@
             "url": "https://www.media.io/ai/explore/zone/bicep-heart-trend",
             "title": "Bicep Heart Trend – AI Bicep Flex Heart Pose Video",
             "first_seen": "2026-11-08T06:00:09.557888+00:00"
+          }
+        ],
+        "remakeyourmeme.com": [
+          {
+            "url": "https://remakeyourmeme.com/templates/bicep-heart-ai-video-generator/",
+            "title": "Bicep Heart AI Video Generator: Up to 2 People, No Watermark",
+            "first_seen": "2026-11-10T18:00:08.520201+00:00"
           }
         ]
       }
@@ -84450,6 +84499,13 @@
             "title": "Baby Riding Reindeer with Santa AI Video – Christmas Ride",
             "first_seen": "2026-11-08T12:00:10.618392+00:00"
           }
+        ],
+        "remakeyourmeme.com": [
+          {
+            "url": "https://remakeyourmeme.com/templates/baby-riding-reindeer-ai-video-generator/",
+            "title": "Baby Riding Reindeer AI Video Generator: Your Face, 1080p",
+            "first_seen": "2026-11-10T18:00:08.491559+00:00"
+          }
         ]
       }
     },
@@ -84533,6 +84589,11 @@
             "url": "https://www.getstarrd.app/template/easy-a-pocketful-of-sunshine-ai-video",
             "title": "Easy A Pocketful of Sunshine — AI Video Template | Starrd",
             "first_seen": "2026-11-09T00:00:10.560438+00:00"
+          },
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-easy-a-pocketful-of-sunshine-ai-video",
+            "title": "How to Make the Easy A 'Pocketful of Sunshine' AI Video (the Sing-Along Montage, Starring You, 2026)",
+            "first_seen": "2026-11-10T18:00:09.564398+00:00"
           }
         ]
       }
@@ -84545,6 +84606,11 @@
             "url": "https://www.getstarrd.app/template/easy-a-pocketful-of-sunshine-ai-video",
             "title": "Easy A Pocketful of Sunshine — AI Video Template | Starrd",
             "first_seen": "2026-11-09T00:00:10.560477+00:00"
+          },
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-easy-a-pocketful-of-sunshine-ai-video",
+            "title": "How to Make the Easy A 'Pocketful of Sunshine' AI Video (the Sing-Along Montage, Starring You, 2026)",
+            "first_seen": "2026-11-10T18:00:09.564477+00:00"
           }
         ]
       }
@@ -85373,6 +85439,11 @@
             "url": "https://www.getstarrd.app/template/fantasy-rush-hour-ai-video",
             "title": "Fantasy (Rush Hour) — AI Video Template | Starrd",
             "first_seen": "2026-11-10T12:00:08.900581+00:00"
+          },
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-fantasy-rush-hour-ai-video",
+            "title": "How to Make the Rush Hour 'Fantasy' AI Video (the Back-Seat Sing-Along, Starring You, 2026)",
+            "first_seen": "2026-11-10T18:00:09.606094+00:00"
           }
         ]
       }
@@ -85385,6 +85456,11 @@
             "url": "https://www.getstarrd.app/template/fantasy-rush-hour-ai-video",
             "title": "Fantasy (Rush Hour) — AI Video Template | Starrd",
             "first_seen": "2026-11-10T12:00:08.900617+00:00"
+          },
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-fantasy-rush-hour-ai-video",
+            "title": "How to Make the Rush Hour 'Fantasy' AI Video (the Back-Seat Sing-Along, Starring You, 2026)",
+            "first_seen": "2026-11-10T18:00:09.606123+00:00"
           }
         ]
       }
@@ -85397,6 +85473,11 @@
             "url": "https://www.getstarrd.app/template/drake-hotline-bling-dance-ai-video",
             "title": "Drake Hotline Bling — AI Video Template | Starrd",
             "first_seen": "2026-11-10T12:00:09.199275+00:00"
+          },
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-drake-hotline-bling-dance-ai-video",
+            "title": "How to Make the Drake 'Hotline Bling' AI Video (a New Outfit Every Cut, From One Photo, 2026)",
+            "first_seen": "2026-11-10T18:00:09.589859+00:00"
           }
         ]
       }
@@ -85409,6 +85490,11 @@
             "url": "https://www.getstarrd.app/template/drake-hotline-bling-dance-ai-video",
             "title": "Drake Hotline Bling — AI Video Template | Starrd",
             "first_seen": "2026-11-10T12:00:09.199308+00:00"
+          },
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-drake-hotline-bling-dance-ai-video",
+            "title": "How to Make the Drake 'Hotline Bling' AI Video (a New Outfit Every Cut, From One Photo, 2026)",
+            "first_seen": "2026-11-10T18:00:09.589844+00:00"
           }
         ]
       }
@@ -85421,6 +85507,347 @@
             "url": "https://www.getstarrd.app/template/drake-hotline-bling-dance-ai-video",
             "title": "Drake Hotline Bling — AI Video Template | Starrd",
             "first_seen": "2026-11-10T12:00:09.199317+00:00"
+          },
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-drake-hotline-bling-dance-ai-video",
+            "title": "How to Make the Drake 'Hotline Bling' AI Video (a New Outfit Every Cut, From One Photo, 2026)",
+            "first_seen": "2026-11-10T18:00:09.589765+00:00"
+          }
+        ]
+      }
+    },
+    "5 tik tok christmas": {
+      "first_seen": "2026-11-10T18:00:08.280459+00:00",
+      "domains": {
+        "remakeyourmeme.com": [
+          {
+            "url": "https://remakeyourmeme.com/ai-christmas/",
+            "title": "AI Christmas Video Generator: 5 TikTok Christmas Trends",
+            "first_seen": "2026-11-10T18:00:08.280459+00:00"
+          }
+        ]
+      }
+    },
+    "christmas video generator 5": {
+      "first_seen": "2026-11-10T18:00:08.280492+00:00",
+      "domains": {
+        "remakeyourmeme.com": [
+          {
+            "url": "https://remakeyourmeme.com/ai-christmas/",
+            "title": "AI Christmas Video Generator: 5 TikTok Christmas Trends",
+            "first_seen": "2026-11-10T18:00:08.280492+00:00"
+          }
+        ]
+      }
+    },
+    "sheru bhai": {
+      "first_seen": "2026-11-10T18:00:08.280640+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/sheru-bhai-ai-video-prompt",
+            "title": "Sheru Bhai AI Video Prompt – White Lion Auction Stories | Media.io",
+            "first_seen": "2026-11-10T18:00:08.280640+00:00"
+          }
+        ]
+      }
+    },
+    "money rain": {
+      "first_seen": "2026-11-10T18:00:08.289377+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/wedding-money-rain-ai-video",
+            "title": "Wedding Money Rain AI Video – Desi Wedding Dance from Photo",
+            "first_seen": "2026-11-10T18:00:08.289377+00:00"
+          }
+        ]
+      }
+    },
+    "wedding money": {
+      "first_seen": "2026-11-10T18:00:08.289408+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/wedding-money-rain-ai-video",
+            "title": "Wedding Money Rain AI Video – Desi Wedding Dance from Photo",
+            "first_seen": "2026-11-10T18:00:08.289408+00:00"
+          }
+        ]
+      }
+    },
+    "wedding money rain": {
+      "first_seen": "2026-11-10T18:00:08.289416+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/wedding-money-rain-ai-video",
+            "title": "Wedding Money Rain AI Video – Desi Wedding Dance from Photo",
+            "first_seen": "2026-11-10T18:00:08.289416+00:00"
+          }
+        ]
+      }
+    },
+    "hippo pathway": {
+      "first_seen": "2026-11-10T18:00:08.290821+00:00",
+      "domains": {
+        "www.media.io": [
+          {
+            "url": "https://www.media.io/ai/explore/zone/hippo-pathway-what-if-ai-trend",
+            "title": "Hippo Pathway What If AI Trend – Giant Person or Pet Video",
+            "first_seen": "2026-11-10T18:00:08.290821+00:00"
+          }
+        ]
+      }
+    },
+    "christmas family": {
+      "first_seen": "2026-11-10T18:00:08.382203+00:00",
+      "domains": {
+        "remakeyourmeme.com": [
+          {
+            "url": "https://remakeyourmeme.com/templates/christmas-family-dance-ai-video-generator/",
+            "title": "Christmas Family Dance AI Video Generator: Up to 4 People",
+            "first_seen": "2026-11-10T18:00:08.382203+00:00"
+          }
+        ]
+      }
+    },
+    "christmas creature": {
+      "first_seen": "2026-11-10T18:00:08.515896+00:00",
+      "domains": {
+        "remakeyourmeme.com": [
+          {
+            "url": "https://remakeyourmeme.com/templates/green-christmas-creature-ai-photoshoot/",
+            "title": "Green Christmas Creature AI Photoshoot: 1 Selfie, 2K Photo",
+            "first_seen": "2026-11-10T18:00:08.515896+00:00"
+          }
+        ]
+      }
+    },
+    "photoshoot 1": {
+      "first_seen": "2026-11-10T18:00:08.515949+00:00",
+      "domains": {
+        "remakeyourmeme.com": [
+          {
+            "url": "https://remakeyourmeme.com/templates/green-christmas-creature-ai-photoshoot/",
+            "title": "Green Christmas Creature AI Photoshoot: 1 Selfie, 2K Photo",
+            "first_seen": "2026-11-10T18:00:08.515949+00:00"
+          }
+        ]
+      }
+    },
+    "creature ai photoshoot": {
+      "first_seen": "2026-11-10T18:00:08.515967+00:00",
+      "domains": {
+        "remakeyourmeme.com": [
+          {
+            "url": "https://remakeyourmeme.com/templates/green-christmas-creature-ai-photoshoot/",
+            "title": "Green Christmas Creature AI Photoshoot: 1 Selfie, 2K Photo",
+            "first_seen": "2026-11-10T18:00:08.515967+00:00"
+          }
+        ]
+      }
+    },
+    "green christmas creature": {
+      "first_seen": "2026-11-10T18:00:08.515998+00:00",
+      "domains": {
+        "remakeyourmeme.com": [
+          {
+            "url": "https://remakeyourmeme.com/templates/green-christmas-creature-ai-photoshoot/",
+            "title": "Green Christmas Creature AI Photoshoot: 1 Selfie, 2K Photo",
+            "first_seen": "2026-11-10T18:00:08.515998+00:00"
+          }
+        ]
+      }
+    },
+    "1 selfie": {
+      "first_seen": "2026-11-10T18:00:08.516030+00:00",
+      "domains": {
+        "remakeyourmeme.com": [
+          {
+            "url": "https://remakeyourmeme.com/templates/green-christmas-creature-ai-photoshoot/",
+            "title": "Green Christmas Creature AI Photoshoot: 1 Selfie, 2K Photo",
+            "first_seen": "2026-11-10T18:00:08.516030+00:00"
+          }
+        ]
+      }
+    },
+    "photoshoot 1 selfie": {
+      "first_seen": "2026-11-10T18:00:08.516048+00:00",
+      "domains": {
+        "remakeyourmeme.com": [
+          {
+            "url": "https://remakeyourmeme.com/templates/green-christmas-creature-ai-photoshoot/",
+            "title": "Green Christmas Creature AI Photoshoot: 1 Selfie, 2K Photo",
+            "first_seen": "2026-11-10T18:00:08.516048+00:00"
+          }
+        ]
+      }
+    },
+    "christmas creature ai photoshoot": {
+      "first_seen": "2026-11-10T18:00:08.516083+00:00",
+      "domains": {
+        "remakeyourmeme.com": [
+          {
+            "url": "https://remakeyourmeme.com/templates/green-christmas-creature-ai-photoshoot/",
+            "title": "Green Christmas Creature AI Photoshoot: 1 Selfie, 2K Photo",
+            "first_seen": "2026-11-10T18:00:08.516083+00:00"
+          }
+        ]
+      }
+    },
+    "1 selfie 2k": {
+      "first_seen": "2026-11-10T18:00:08.516101+00:00",
+      "domains": {
+        "remakeyourmeme.com": [
+          {
+            "url": "https://remakeyourmeme.com/templates/green-christmas-creature-ai-photoshoot/",
+            "title": "Green Christmas Creature AI Photoshoot: 1 Selfie, 2K Photo",
+            "first_seen": "2026-11-10T18:00:08.516101+00:00"
+          }
+        ]
+      }
+    },
+    "selfie 2k": {
+      "first_seen": "2026-11-10T18:00:08.516117+00:00",
+      "domains": {
+        "remakeyourmeme.com": [
+          {
+            "url": "https://remakeyourmeme.com/templates/green-christmas-creature-ai-photoshoot/",
+            "title": "Green Christmas Creature AI Photoshoot: 1 Selfie, 2K Photo",
+            "first_seen": "2026-11-10T18:00:08.516117+00:00"
+          }
+        ]
+      }
+    },
+    "green christmas": {
+      "first_seen": "2026-11-10T18:00:08.516131+00:00",
+      "domains": {
+        "remakeyourmeme.com": [
+          {
+            "url": "https://remakeyourmeme.com/templates/green-christmas-creature-ai-photoshoot/",
+            "title": "Green Christmas Creature AI Photoshoot: 1 Selfie, 2K Photo",
+            "first_seen": "2026-11-10T18:00:08.516131+00:00"
+          }
+        ]
+      }
+    },
+    "photoshoot 1 selfie 2k": {
+      "first_seen": "2026-11-10T18:00:08.516146+00:00",
+      "domains": {
+        "remakeyourmeme.com": [
+          {
+            "url": "https://remakeyourmeme.com/templates/green-christmas-creature-ai-photoshoot/",
+            "title": "Green Christmas Creature AI Photoshoot: 1 Selfie, 2K Photo",
+            "first_seen": "2026-11-10T18:00:08.516146+00:00"
+          }
+        ]
+      }
+    },
+    "creature ai photoshoot 1": {
+      "first_seen": "2026-11-10T18:00:08.516184+00:00",
+      "domains": {
+        "remakeyourmeme.com": [
+          {
+            "url": "https://remakeyourmeme.com/templates/green-christmas-creature-ai-photoshoot/",
+            "title": "Green Christmas Creature AI Photoshoot: 1 Selfie, 2K Photo",
+            "first_seen": "2026-11-10T18:00:08.516184+00:00"
+          }
+        ]
+      }
+    },
+    "christmas photobooth": {
+      "first_seen": "2026-11-10T18:00:08.627134+00:00",
+      "domains": {
+        "remakeyourmeme.com": [
+          {
+            "url": "https://remakeyourmeme.com/templates/christmas-photobooth-ai-video-generator/",
+            "title": "Christmas Photobooth AI Video Generator: Up to 2 People",
+            "first_seen": "2026-11-10T18:00:08.627134+00:00"
+          }
+        ]
+      }
+    },
+    "every cut from one": {
+      "first_seen": "2026-11-10T18:00:09.589817+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-drake-hotline-bling-dance-ai-video",
+            "title": "How to Make the Drake 'Hotline Bling' AI Video (a New Outfit Every Cut, From One Photo, 2026)",
+            "first_seen": "2026-11-10T18:00:09.589817+00:00"
+          }
+        ]
+      }
+    },
+    "every cut": {
+      "first_seen": "2026-11-10T18:00:09.589829+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-drake-hotline-bling-dance-ai-video",
+            "title": "How to Make the Drake 'Hotline Bling' AI Video (a New Outfit Every Cut, From One Photo, 2026)",
+            "first_seen": "2026-11-10T18:00:09.589829+00:00"
+          }
+        ]
+      }
+    },
+    "outfit every": {
+      "first_seen": "2026-11-10T18:00:09.589867+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-drake-hotline-bling-dance-ai-video",
+            "title": "How to Make the Drake 'Hotline Bling' AI Video (a New Outfit Every Cut, From One Photo, 2026)",
+            "first_seen": "2026-11-10T18:00:09.589867+00:00"
+          }
+        ]
+      }
+    },
+    "outfit every cut": {
+      "first_seen": "2026-11-10T18:00:09.589913+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-drake-hotline-bling-dance-ai-video",
+            "title": "How to Make the Drake 'Hotline Bling' AI Video (a New Outfit Every Cut, From One Photo, 2026)",
+            "first_seen": "2026-11-10T18:00:09.589913+00:00"
+          }
+        ]
+      }
+    },
+    "cut from one": {
+      "first_seen": "2026-11-10T18:00:09.589928+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-drake-hotline-bling-dance-ai-video",
+            "title": "How to Make the Drake 'Hotline Bling' AI Video (a New Outfit Every Cut, From One Photo, 2026)",
+            "first_seen": "2026-11-10T18:00:09.589928+00:00"
+          }
+        ]
+      }
+    },
+    "hour fantasy": {
+      "first_seen": "2026-11-10T18:00:09.606003+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-fantasy-rush-hour-ai-video",
+            "title": "How to Make the Rush Hour 'Fantasy' AI Video (the Back-Seat Sing-Along, Starring You, 2026)",
+            "first_seen": "2026-11-10T18:00:09.606003+00:00"
+          }
+        ]
+      }
+    },
+    "rush hour fantasy": {
+      "first_seen": "2026-11-10T18:00:09.606133+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-fantasy-rush-hour-ai-video",
+            "title": "How to Make the Rush Hour 'Fantasy' AI Video (the Back-Seat Sing-Along, Starring You, 2026)",
+            "first_seen": "2026-11-10T18:00:09.606133+00:00"
           }
         ]
       }
