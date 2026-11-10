@@ -1,6 +1,6 @@
 {
-  "last_run_timestamp": "2026-11-10T06:00:16.980097+00:00",
-  "total_urls_seen": 13647,
+  "last_run_timestamp": "2026-11-10T12:00:14.891495+00:00",
+  "total_urls_seen": 13654,
   "seen_urls": {
     "knowyourmeme.com": [
       "https://knowyourmeme.com/memes/yohohoho-binkusuno-sake-by-ado",
@@ -11687,7 +11687,8 @@
       "https://remakeyourmeme.com/templates/vossi-bop-ai-video-generator",
       "https://remakeyourmeme.com/templates/i-love-the-smiths-ai-video-generator",
       "https://remakeyourmeme.com/templates/ice-ice-baby-dance-ai-video-generator",
-      "https://remakeyourmeme.com/templates/fancy-cafe-ai-video-generator"
+      "https://remakeyourmeme.com/templates/fancy-cafe-ai-video-generator",
+      "https://remakeyourmeme.com/templates/careless-whisper-car-ai-video-generator"
     ],
     "www.getstarrd.app": [
       "https://www.getstarrd.app",
@@ -12477,7 +12478,9 @@
       "https://www.getstarrd.app/blog/how-to-make-nazeer-bakra-goat-ai-video",
       "https://www.getstarrd.app/template/i-love-the-smiths-ai-video",
       "https://www.getstarrd.app/blog/how-to-make-i-love-the-smiths-ai-video",
-      "https://www.getstarrd.app/template/easy-a-pocketful-of-sunshine-ai-video"
+      "https://www.getstarrd.app/template/easy-a-pocketful-of-sunshine-ai-video",
+      "https://www.getstarrd.app/template/fantasy-rush-hour-ai-video",
+      "https://www.getstarrd.app/template/drake-hotline-bling-dance-ai-video"
     ],
     "www.capcut.com": [
       "https://www.capcut.com/template-detail/7613449947458981136",
@@ -13495,7 +13498,11 @@
       "https://www.capcut.com/template-detail/7638923151618886928",
       "https://www.capcut.com/template-detail/7442835260980710711",
       "https://www.capcut.com/template-detail/7459356883829165365",
-      "https://www.capcut.com/template-detail/7349062011092782342"
+      "https://www.capcut.com/template-detail/7349062011092782342",
+      "https://www.capcut.com/template-detail/7603400632652893445",
+      "https://www.capcut.com/template-detail/7573721589477297425",
+      "https://www.capcut.com/template-detail/7368372792443686160",
+      "https://www.capcut.com/template-detail/7603400632652893445"
     ],
     "maketrendai.com": [
       "https://maketrendai.com/studio",
@@ -69801,6 +69808,11 @@
             "url": "https://www.getstarrd.app/blog/how-to-make-push-the-button-rush-hour-ai-video",
             "title": "Rush Hour 'Push the Button' Scene AI Video | Starrd",
             "first_seen": "2026-11-04T00:00:10.309308+00:00"
+          },
+          {
+            "url": "https://www.getstarrd.app/template/fantasy-rush-hour-ai-video",
+            "title": "Fantasy (Rush Hour) — AI Video Template | Starrd",
+            "first_seen": "2026-11-10T12:00:08.900625+00:00"
           }
         ]
       }
@@ -85313,6 +85325,102 @@
             "url": "https://maketrendai.com/dancing-dog-pool-party-ai",
             "title": "Dancing Dog Pool Party AI — Make Your Dog Dance at a Pool Party from a Photo",
             "first_seen": "2026-11-10T06:00:10.084379+00:00"
+          }
+        ]
+      }
+    },
+    "whisper car": {
+      "first_seen": "2026-11-10T12:00:08.192097+00:00",
+      "domains": {
+        "remakeyourmeme.com": [
+          {
+            "url": "https://remakeyourmeme.com/templates/careless-whisper-car-ai-video-generator/",
+            "title": "Careless Whisper Car AI Video Generator: Up to 3 People",
+            "first_seen": "2026-11-10T12:00:08.192097+00:00"
+          }
+        ]
+      }
+    },
+    "careless whisper car": {
+      "first_seen": "2026-11-10T12:00:08.192133+00:00",
+      "domains": {
+        "remakeyourmeme.com": [
+          {
+            "url": "https://remakeyourmeme.com/templates/careless-whisper-car-ai-video-generator/",
+            "title": "Careless Whisper Car AI Video Generator: Up to 3 People",
+            "first_seen": "2026-11-10T12:00:08.192133+00:00"
+          }
+        ]
+      }
+    },
+    "careless whisper": {
+      "first_seen": "2026-11-10T12:00:08.192141+00:00",
+      "domains": {
+        "remakeyourmeme.com": [
+          {
+            "url": "https://remakeyourmeme.com/templates/careless-whisper-car-ai-video-generator/",
+            "title": "Careless Whisper Car AI Video Generator: Up to 3 People",
+            "first_seen": "2026-11-10T12:00:08.192141+00:00"
+          }
+        ]
+      }
+    },
+    "fantasy rush": {
+      "first_seen": "2026-11-10T12:00:08.900581+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/template/fantasy-rush-hour-ai-video",
+            "title": "Fantasy (Rush Hour) — AI Video Template | Starrd",
+            "first_seen": "2026-11-10T12:00:08.900581+00:00"
+          }
+        ]
+      }
+    },
+    "fantasy rush hour": {
+      "first_seen": "2026-11-10T12:00:08.900617+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/template/fantasy-rush-hour-ai-video",
+            "title": "Fantasy (Rush Hour) — AI Video Template | Starrd",
+            "first_seen": "2026-11-10T12:00:08.900617+00:00"
+          }
+        ]
+      }
+    },
+    "drake hotline": {
+      "first_seen": "2026-11-10T12:00:09.199275+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/template/drake-hotline-bling-dance-ai-video",
+            "title": "Drake Hotline Bling — AI Video Template | Starrd",
+            "first_seen": "2026-11-10T12:00:09.199275+00:00"
+          }
+        ]
+      }
+    },
+    "hotline bling": {
+      "first_seen": "2026-11-10T12:00:09.199308+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/template/drake-hotline-bling-dance-ai-video",
+            "title": "Drake Hotline Bling — AI Video Template | Starrd",
+            "first_seen": "2026-11-10T12:00:09.199308+00:00"
+          }
+        ]
+      }
+    },
+    "drake hotline bling": {
+      "first_seen": "2026-11-10T12:00:09.199317+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/template/drake-hotline-bling-dance-ai-video",
+            "title": "Drake Hotline Bling — AI Video Template | Starrd",
+            "first_seen": "2026-11-10T12:00:09.199317+00:00"
           }
         ]
       }
