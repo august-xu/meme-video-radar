@@ -1,6 +1,6 @@
 {
-  "last_run_timestamp": "2026-11-10T00:00:16.654556+00:00",
-  "total_urls_seen": 13632,
+  "last_run_timestamp": "2026-11-10T06:00:16.980097+00:00",
+  "total_urls_seen": 13647,
   "seen_urls": {
     "knowyourmeme.com": [
       "https://knowyourmeme.com/memes/yohohoho-binkusuno-sake-by-ado",
@@ -107,7 +107,9 @@
       "https://knowyourmeme.com/memes/mrbeast-chill-out-crashout-edits",
       "https://knowyourmeme.com/memes/fortnite-pirate-shop-token",
       "https://knowyourmeme.com/memes/events/nvidia-ceo-jensen-huang-chinese-spy-cheating-controversy",
-      "https://knowyourmeme.com/memes/still-life-michael-rosen"
+      "https://knowyourmeme.com/memes/still-life-michael-rosen",
+      "https://knowyourmeme.com/memes/fortnite-pirate-shop-token-pirate-coin",
+      "https://knowyourmeme.com/memes/waist-heart-trend"
     ],
     "aptvideoai.com": [
       "https://aptvideoai.com",
@@ -13481,6 +13483,18 @@
       "https://www.capcut.com/template-detail/7638923151618886928",
       "https://www.capcut.com/template-detail/7442835260980710711",
       "https://www.capcut.com/template-detail/7459356883829165365",
+      "https://www.capcut.com/template-detail/7349062011092782342",
+      "https://www.capcut.com/template-detail/7613449947458981136",
+      "https://www.capcut.com/template-detail/7614155497708539153",
+      "https://www.capcut.com/template-detail/7574395599290633525",
+      "https://www.capcut.com/template-detail/7533330731842522421",
+      "https://www.capcut.com/template-detail/7612248283964017936",
+      "https://www.capcut.com/template-detail/7573721589477297425",
+      "https://www.capcut.com/template-detail/7601555915468262674",
+      "https://www.capcut.com/template-detail/7641550081010797844",
+      "https://www.capcut.com/template-detail/7638923151618886928",
+      "https://www.capcut.com/template-detail/7442835260980710711",
+      "https://www.capcut.com/template-detail/7459356883829165365",
       "https://www.capcut.com/template-detail/7349062011092782342"
     ],
     "maketrendai.com": [
@@ -13652,7 +13666,8 @@
       "https://maketrendai.com/ai-pet-video",
       "https://maketrendai.com/dog-drummer-ai",
       "https://maketrendai.com/dj-cat-ai",
-      "https://maketrendai.com/gangstas-paradise-ai"
+      "https://maketrendai.com/gangstas-paradise-ai",
+      "https://maketrendai.com/dancing-dog-pool-party-ai"
     ]
   },
   "entities": {
@@ -84782,6 +84797,11 @@
             "url": "https://knowyourmeme.com/memes/fortnite-pirate-shop-token",
             "title": "Fortnite Pirate Shop Token / Pirate Coin | Know Your Meme",
             "first_seen": "2026-11-10T00:00:09.431741+00:00"
+          },
+          {
+            "url": "https://knowyourmeme.com/memes/fortnite-pirate-shop-token-pirate-coin",
+            "title": "Fortnite Pirate Shop Token / Pirate Coin | Know Your Meme",
+            "first_seen": "2026-11-10T06:00:08.521782+00:00"
           }
         ]
       }
@@ -84794,6 +84814,11 @@
             "url": "https://knowyourmeme.com/memes/fortnite-pirate-shop-token",
             "title": "Fortnite Pirate Shop Token / Pirate Coin | Know Your Meme",
             "first_seen": "2026-11-10T00:00:09.431780+00:00"
+          },
+          {
+            "url": "https://knowyourmeme.com/memes/fortnite-pirate-shop-token-pirate-coin",
+            "title": "Fortnite Pirate Shop Token / Pirate Coin | Know Your Meme",
+            "first_seen": "2026-11-10T06:00:08.521718+00:00"
           }
         ]
       }
@@ -84806,6 +84831,11 @@
             "url": "https://knowyourmeme.com/memes/fortnite-pirate-shop-token",
             "title": "Fortnite Pirate Shop Token / Pirate Coin | Know Your Meme",
             "first_seen": "2026-11-10T00:00:09.431789+00:00"
+          },
+          {
+            "url": "https://knowyourmeme.com/memes/fortnite-pirate-shop-token-pirate-coin",
+            "title": "Fortnite Pirate Shop Token / Pirate Coin | Know Your Meme",
+            "first_seen": "2026-11-10T06:00:08.521707+00:00"
           }
         ]
       }
@@ -84818,6 +84848,11 @@
             "url": "https://knowyourmeme.com/memes/fortnite-pirate-shop-token",
             "title": "Fortnite Pirate Shop Token / Pirate Coin | Know Your Meme",
             "first_seen": "2026-11-10T00:00:09.431796+00:00"
+          },
+          {
+            "url": "https://knowyourmeme.com/memes/fortnite-pirate-shop-token-pirate-coin",
+            "title": "Fortnite Pirate Shop Token / Pirate Coin | Know Your Meme",
+            "first_seen": "2026-11-10T06:00:08.521750+00:00"
           }
         ]
       }
@@ -84830,6 +84865,11 @@
             "url": "https://knowyourmeme.com/memes/fortnite-pirate-shop-token",
             "title": "Fortnite Pirate Shop Token / Pirate Coin | Know Your Meme",
             "first_seen": "2026-11-10T00:00:09.431803+00:00"
+          },
+          {
+            "url": "https://knowyourmeme.com/memes/fortnite-pirate-shop-token-pirate-coin",
+            "title": "Fortnite Pirate Shop Token / Pirate Coin | Know Your Meme",
+            "first_seen": "2026-11-10T06:00:08.521596+00:00"
           }
         ]
       }
@@ -84842,6 +84882,11 @@
             "url": "https://knowyourmeme.com/memes/fortnite-pirate-shop-token",
             "title": "Fortnite Pirate Shop Token / Pirate Coin | Know Your Meme",
             "first_seen": "2026-11-10T00:00:09.431810+00:00"
+          },
+          {
+            "url": "https://knowyourmeme.com/memes/fortnite-pirate-shop-token-pirate-coin",
+            "title": "Fortnite Pirate Shop Token / Pirate Coin | Know Your Meme",
+            "first_seen": "2026-11-10T06:00:08.521727+00:00"
           }
         ]
       }
@@ -84854,6 +84899,11 @@
             "url": "https://knowyourmeme.com/memes/fortnite-pirate-shop-token",
             "title": "Fortnite Pirate Shop Token / Pirate Coin | Know Your Meme",
             "first_seen": "2026-11-10T00:00:09.431817+00:00"
+          },
+          {
+            "url": "https://knowyourmeme.com/memes/fortnite-pirate-shop-token-pirate-coin",
+            "title": "Fortnite Pirate Shop Token / Pirate Coin | Know Your Meme",
+            "first_seen": "2026-11-10T06:00:08.521809+00:00"
           }
         ]
       }
@@ -84866,6 +84916,11 @@
             "url": "https://knowyourmeme.com/memes/fortnite-pirate-shop-token",
             "title": "Fortnite Pirate Shop Token / Pirate Coin | Know Your Meme",
             "first_seen": "2026-11-10T00:00:09.431824+00:00"
+          },
+          {
+            "url": "https://knowyourmeme.com/memes/fortnite-pirate-shop-token-pirate-coin",
+            "title": "Fortnite Pirate Shop Token / Pirate Coin | Know Your Meme",
+            "first_seen": "2026-11-10T06:00:08.521734+00:00"
           }
         ]
       }
@@ -84878,6 +84933,11 @@
             "url": "https://knowyourmeme.com/memes/fortnite-pirate-shop-token",
             "title": "Fortnite Pirate Shop Token / Pirate Coin | Know Your Meme",
             "first_seen": "2026-11-10T00:00:09.431831+00:00"
+          },
+          {
+            "url": "https://knowyourmeme.com/memes/fortnite-pirate-shop-token-pirate-coin",
+            "title": "Fortnite Pirate Shop Token / Pirate Coin | Know Your Meme",
+            "first_seen": "2026-11-10T06:00:08.521742+00:00"
           }
         ]
       }
@@ -84890,6 +84950,11 @@
             "url": "https://knowyourmeme.com/memes/fortnite-pirate-shop-token",
             "title": "Fortnite Pirate Shop Token / Pirate Coin | Know Your Meme",
             "first_seen": "2026-11-10T00:00:09.431838+00:00"
+          },
+          {
+            "url": "https://knowyourmeme.com/memes/fortnite-pirate-shop-token-pirate-coin",
+            "title": "Fortnite Pirate Shop Token / Pirate Coin | Know Your Meme",
+            "first_seen": "2026-11-10T06:00:08.521759+00:00"
           }
         ]
       }
@@ -84902,6 +84967,11 @@
             "url": "https://knowyourmeme.com/memes/fortnite-pirate-shop-token",
             "title": "Fortnite Pirate Shop Token / Pirate Coin | Know Your Meme",
             "first_seen": "2026-11-10T00:00:09.431844+00:00"
+          },
+          {
+            "url": "https://knowyourmeme.com/memes/fortnite-pirate-shop-token-pirate-coin",
+            "title": "Fortnite Pirate Shop Token / Pirate Coin | Know Your Meme",
+            "first_seen": "2026-11-10T06:00:08.521685+00:00"
           }
         ]
       }
@@ -84914,6 +84984,11 @@
             "url": "https://knowyourmeme.com/memes/fortnite-pirate-shop-token",
             "title": "Fortnite Pirate Shop Token / Pirate Coin | Know Your Meme",
             "first_seen": "2026-11-10T00:00:09.431851+00:00"
+          },
+          {
+            "url": "https://knowyourmeme.com/memes/fortnite-pirate-shop-token-pirate-coin",
+            "title": "Fortnite Pirate Shop Token / Pirate Coin | Know Your Meme",
+            "first_seen": "2026-11-10T06:00:08.521799+00:00"
           }
         ]
       }
@@ -85190,6 +85265,54 @@
             "url": "https://knowyourmeme.com/memes/still-life-michael-rosen",
             "title": "Still Life Michael Rosen | Know Your Meme",
             "first_seen": "2026-11-10T00:00:09.440626+00:00"
+          }
+        ]
+      }
+    },
+    "waist heart": {
+      "first_seen": "2026-11-10T06:00:08.550127+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/waist-heart-trend",
+            "title": "Waist Heart Trend | Know Your Meme",
+            "first_seen": "2026-11-10T06:00:08.550127+00:00"
+          }
+        ]
+      }
+    },
+    "dancing dog pool party": {
+      "first_seen": "2026-11-10T06:00:10.084286+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/dancing-dog-pool-party-ai",
+            "title": "Dancing Dog Pool Party AI — Make Your Dog Dance at a Pool Party from a Photo",
+            "first_seen": "2026-11-10T06:00:10.084286+00:00"
+          }
+        ]
+      }
+    },
+    "pool party": {
+      "first_seen": "2026-11-10T06:00:10.084356+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/dancing-dog-pool-party-ai",
+            "title": "Dancing Dog Pool Party AI — Make Your Dog Dance at a Pool Party from a Photo",
+            "first_seen": "2026-11-10T06:00:10.084356+00:00"
+          }
+        ]
+      }
+    },
+    "dancing dog pool": {
+      "first_seen": "2026-11-10T06:00:10.084379+00:00",
+      "domains": {
+        "maketrendai.com": [
+          {
+            "url": "https://maketrendai.com/dancing-dog-pool-party-ai",
+            "title": "Dancing Dog Pool Party AI — Make Your Dog Dance at a Pool Party from a Photo",
+            "first_seen": "2026-11-10T06:00:10.084379+00:00"
           }
         ]
       }
