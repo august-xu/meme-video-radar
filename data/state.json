@@ -1,6 +1,6 @@
 {
-  "last_run_timestamp": "2026-11-11T00:00:19.242207+00:00",
-  "total_urls_seen": 13700,
+  "last_run_timestamp": "2026-11-11T06:00:19.322602+00:00",
+  "total_urls_seen": 13719,
   "seen_urls": {
     "knowyourmeme.com": [
       "https://knowyourmeme.com/memes/yohohoho-binkusuno-sake-by-ado",
@@ -112,7 +112,8 @@
       "https://knowyourmeme.com/memes/waist-heart-trend",
       "https://knowyourmeme.com/memes/spongebob-jingle-bells",
       "https://knowyourmeme.com/memes/trick-or-treat-smell-my-feet-pennywise-kid-pennywide",
-      "https://knowyourmeme.com/memes/guess-the-movie-by-the-frame"
+      "https://knowyourmeme.com/memes/guess-the-movie-by-the-frame",
+      "https://knowyourmeme.com/memes/french-midas-midas-france-protests"
     ],
     "aptvideoai.com": [
       "https://aptvideoai.com",
@@ -11703,7 +11704,9 @@
       "https://remakeyourmeme.com/templates/baby-riding-reindeer-ai-video-generator",
       "https://remakeyourmeme.com/templates/green-christmas-creature-ai-photoshoot",
       "https://remakeyourmeme.com/templates/bicep-heart-ai-video-generator",
-      "https://remakeyourmeme.com/templates/christmas-photobooth-ai-video-generator"
+      "https://remakeyourmeme.com/templates/christmas-photobooth-ai-video-generator",
+      "https://remakeyourmeme.com/templates/husband-emporium-ai",
+      "https://remakeyourmeme.com/templates/dog-pool-party-ai"
     ],
     "www.getstarrd.app": [
       "https://www.getstarrd.app",
@@ -12502,7 +12505,11 @@
       "https://www.getstarrd.app/blog/how-to-make-its-my-life-dog-ai-video",
       "https://www.getstarrd.app/template/mr-and-mrs-smith-ai-video",
       "https://www.getstarrd.app/template/the-hot-chick-ice-cream-scene-ai-video",
-      "https://www.getstarrd.app/template/its-my-life-dog-ai-video"
+      "https://www.getstarrd.app/template/its-my-life-dog-ai-video",
+      "https://www.getstarrd.app/template/the-notebook-tigran-gertz-ai-video",
+      "https://www.getstarrd.app/blog/how-to-make-mr-and-mrs-smith-ai-video",
+      "https://www.getstarrd.app/template/bro-took-the-whole-bag-ai-video",
+      "https://www.getstarrd.app/blog/how-to-make-the-hot-chick-ice-cream-scene-ai-video"
     ],
     "www.capcut.com": [
       "https://www.capcut.com/template-detail/7613449947458981136",
@@ -13525,6 +13532,18 @@
       "https://www.capcut.com/template-detail/7573721589477297425",
       "https://www.capcut.com/template-detail/7368372792443686160",
       "https://www.capcut.com/template-detail/7603400632652893445",
+      "https://www.capcut.com/template-detail/7613449947458981136",
+      "https://www.capcut.com/template-detail/7614155497708539153",
+      "https://www.capcut.com/template-detail/7582856536771300613",
+      "https://www.capcut.com/template-detail/7479664400392080693",
+      "https://www.capcut.com/template-detail/7574395599290633525",
+      "https://www.capcut.com/template-detail/7573721589477297425",
+      "https://www.capcut.com/template-detail/7612248283964017936",
+      "https://www.capcut.com/template-detail/7641550081010797844",
+      "https://www.capcut.com/template-detail/7590649367787261200",
+      "https://www.capcut.com/template-detail/7442835260980710711",
+      "https://www.capcut.com/template-detail/7368372792443686160",
+      "https://www.capcut.com/template-detail/7493918549925203253",
       "https://www.capcut.com/template-detail/7613449947458981136",
       "https://www.capcut.com/template-detail/7614155497708539153",
       "https://www.capcut.com/template-detail/7582856536771300613",
@@ -66509,6 +66528,11 @@
             "url": "https://www.getstarrd.app/blog/how-to-make-lil-yachty-walkout-ai-video",
             "title": "How to Make the Lil Yachty Walkout AI Video: The Hardest Walkout Ever, Starring You (2026)",
             "first_seen": "2026-11-05T06:00:21.571316+00:00"
+          },
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-the-hot-chick-ice-cream-scene-ai-video",
+            "title": "How to Make 'The Hot Chick' Ice Cream Scene AI Video (\"It's On the House\", Starring You, 2026)",
+            "first_seen": "2026-11-11T06:00:12.296539+00:00"
           }
         ]
       }
@@ -79547,6 +79571,11 @@
             "url": "https://www.getstarrd.app/template/mr-and-mrs-smith-ai-video",
             "title": "Mr and Mrs Smith — AI Video Template | Starrd",
             "first_seen": "2026-11-11T00:00:11.659844+00:00"
+          },
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-mr-and-mrs-smith-ai-video",
+            "title": "How to Make the 'Mr. & Mrs. Smith' AI Video (the Black-and-White Couple Edit, Starring You Two, 2026)",
+            "first_seen": "2026-11-11T06:00:10.540519+00:00"
           }
         ]
       }
@@ -85423,6 +85452,13 @@
             "title": "Dancing Dog Pool Party AI — Make Your Dog Dance at a Pool Party from a Photo",
             "first_seen": "2026-11-10T06:00:10.084356+00:00"
           }
+        ],
+        "remakeyourmeme.com": [
+          {
+            "url": "https://remakeyourmeme.com/templates/dog-pool-party-ai/",
+            "title": "Dog Pool Party AI – Make Your Pet Dance at the Night Pool",
+            "first_seen": "2026-11-11T06:00:09.368479+00:00"
+          }
         ]
       }
     },
@@ -86227,6 +86263,11 @@
             "url": "https://www.getstarrd.app/template/mr-and-mrs-smith-ai-video",
             "title": "Mr and Mrs Smith — AI Video Template | Starrd",
             "first_seen": "2026-11-11T00:00:11.659804+00:00"
+          },
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-mr-and-mrs-smith-ai-video",
+            "title": "How to Make the 'Mr. & Mrs. Smith' AI Video (the Black-and-White Couple Edit, Starring You Two, 2026)",
+            "first_seen": "2026-11-11T06:00:10.540629+00:00"
           }
         ]
       }
@@ -86239,6 +86280,11 @@
             "url": "https://www.getstarrd.app/template/mr-and-mrs-smith-ai-video",
             "title": "Mr and Mrs Smith — AI Video Template | Starrd",
             "first_seen": "2026-11-11T00:00:11.659853+00:00"
+          },
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-mr-and-mrs-smith-ai-video",
+            "title": "How to Make the 'Mr. & Mrs. Smith' AI Video (the Black-and-White Couple Edit, Starring You Two, 2026)",
+            "first_seen": "2026-11-11T06:00:10.540662+00:00"
           }
         ]
       }
@@ -86251,6 +86297,11 @@
             "url": "https://www.getstarrd.app/template/the-hot-chick-ice-cream-scene-ai-video",
             "title": "The Hot Chick Ice Cream Scene — AI Video Template | Starrd",
             "first_seen": "2026-11-11T00:00:11.867746+00:00"
+          },
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-the-hot-chick-ice-cream-scene-ai-video",
+            "title": "How to Make 'The Hot Chick' Ice Cream Scene AI Video (\"It's On the House\", Starring You, 2026)",
+            "first_seen": "2026-11-11T06:00:12.296508+00:00"
           }
         ]
       }
@@ -86263,6 +86314,11 @@
             "url": "https://www.getstarrd.app/template/the-hot-chick-ice-cream-scene-ai-video",
             "title": "The Hot Chick Ice Cream Scene — AI Video Template | Starrd",
             "first_seen": "2026-11-11T00:00:11.867784+00:00"
+          },
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-the-hot-chick-ice-cream-scene-ai-video",
+            "title": "How to Make 'The Hot Chick' Ice Cream Scene AI Video (\"It's On the House\", Starring You, 2026)",
+            "first_seen": "2026-11-11T06:00:12.296515+00:00"
           }
         ]
       }
@@ -86275,6 +86331,11 @@
             "url": "https://www.getstarrd.app/template/the-hot-chick-ice-cream-scene-ai-video",
             "title": "The Hot Chick Ice Cream Scene — AI Video Template | Starrd",
             "first_seen": "2026-11-11T00:00:11.867793+00:00"
+          },
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-the-hot-chick-ice-cream-scene-ai-video",
+            "title": "How to Make 'The Hot Chick' Ice Cream Scene AI Video (\"It's On the House\", Starring You, 2026)",
+            "first_seen": "2026-11-11T06:00:12.296558+00:00"
           }
         ]
       }
@@ -86287,6 +86348,11 @@
             "url": "https://www.getstarrd.app/template/the-hot-chick-ice-cream-scene-ai-video",
             "title": "The Hot Chick Ice Cream Scene — AI Video Template | Starrd",
             "first_seen": "2026-11-11T00:00:11.867801+00:00"
+          },
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-the-hot-chick-ice-cream-scene-ai-video",
+            "title": "How to Make 'The Hot Chick' Ice Cream Scene AI Video (\"It's On the House\", Starring You, 2026)",
+            "first_seen": "2026-11-11T06:00:12.296587+00:00"
           }
         ]
       }
@@ -86299,6 +86365,11 @@
             "url": "https://www.getstarrd.app/template/the-hot-chick-ice-cream-scene-ai-video",
             "title": "The Hot Chick Ice Cream Scene — AI Video Template | Starrd",
             "first_seen": "2026-11-11T00:00:11.867810+00:00"
+          },
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-the-hot-chick-ice-cream-scene-ai-video",
+            "title": "How to Make 'The Hot Chick' Ice Cream Scene AI Video (\"It's On the House\", Starring You, 2026)",
+            "first_seen": "2026-11-11T06:00:12.296593+00:00"
           }
         ]
       }
@@ -86311,6 +86382,11 @@
             "url": "https://www.getstarrd.app/template/the-hot-chick-ice-cream-scene-ai-video",
             "title": "The Hot Chick Ice Cream Scene — AI Video Template | Starrd",
             "first_seen": "2026-11-11T00:00:11.867817+00:00"
+          },
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-the-hot-chick-ice-cream-scene-ai-video",
+            "title": "How to Make 'The Hot Chick' Ice Cream Scene AI Video (\"It's On the House\", Starring You, 2026)",
+            "first_seen": "2026-11-11T06:00:12.296484+00:00"
           }
         ]
       }
@@ -86323,6 +86399,11 @@
             "url": "https://www.getstarrd.app/template/the-hot-chick-ice-cream-scene-ai-video",
             "title": "The Hot Chick Ice Cream Scene — AI Video Template | Starrd",
             "first_seen": "2026-11-11T00:00:11.867824+00:00"
+          },
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-the-hot-chick-ice-cream-scene-ai-video",
+            "title": "How to Make 'The Hot Chick' Ice Cream Scene AI Video (\"It's On the House\", Starring You, 2026)",
+            "first_seen": "2026-11-11T06:00:12.296494+00:00"
           }
         ]
       }
@@ -86335,6 +86416,11 @@
             "url": "https://www.getstarrd.app/template/the-hot-chick-ice-cream-scene-ai-video",
             "title": "The Hot Chick Ice Cream Scene — AI Video Template | Starrd",
             "first_seen": "2026-11-11T00:00:11.867831+00:00"
+          },
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-the-hot-chick-ice-cream-scene-ai-video",
+            "title": "How to Make 'The Hot Chick' Ice Cream Scene AI Video (\"It's On the House\", Starring You, 2026)",
+            "first_seen": "2026-11-11T06:00:12.296566+00:00"
           }
         ]
       }
@@ -86347,6 +86433,335 @@
             "url": "https://www.getstarrd.app/template/the-hot-chick-ice-cream-scene-ai-video",
             "title": "The Hot Chick Ice Cream Scene — AI Video Template | Starrd",
             "first_seen": "2026-11-11T00:00:11.867839+00:00"
+          },
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-the-hot-chick-ice-cream-scene-ai-video",
+            "title": "How to Make 'The Hot Chick' Ice Cream Scene AI Video (\"It's On the House\", Starring You, 2026)",
+            "first_seen": "2026-11-11T06:00:12.296580+00:00"
+          }
+        ]
+      }
+    },
+    "france protests": {
+      "first_seen": "2026-11-11T06:00:09.318653+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/french-midas-midas-france-protests",
+            "title": "French Midas / Midas France Protests | Know Your Meme",
+            "first_seen": "2026-11-11T06:00:09.318653+00:00"
+          }
+        ]
+      }
+    },
+    "midas midas france protests": {
+      "first_seen": "2026-11-11T06:00:09.318717+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/french-midas-midas-france-protests",
+            "title": "French Midas / Midas France Protests | Know Your Meme",
+            "first_seen": "2026-11-11T06:00:09.318717+00:00"
+          }
+        ]
+      }
+    },
+    "french midas": {
+      "first_seen": "2026-11-11T06:00:09.318734+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/french-midas-midas-france-protests",
+            "title": "French Midas / Midas France Protests | Know Your Meme",
+            "first_seen": "2026-11-11T06:00:09.318734+00:00"
+          }
+        ]
+      }
+    },
+    "french midas midas": {
+      "first_seen": "2026-11-11T06:00:09.318747+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/french-midas-midas-france-protests",
+            "title": "French Midas / Midas France Protests | Know Your Meme",
+            "first_seen": "2026-11-11T06:00:09.318747+00:00"
+          }
+        ]
+      }
+    },
+    "midas france": {
+      "first_seen": "2026-11-11T06:00:09.318770+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/french-midas-midas-france-protests",
+            "title": "French Midas / Midas France Protests | Know Your Meme",
+            "first_seen": "2026-11-11T06:00:09.318770+00:00"
+          }
+        ]
+      }
+    },
+    "midas france protests": {
+      "first_seen": "2026-11-11T06:00:09.318786+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/french-midas-midas-france-protests",
+            "title": "French Midas / Midas France Protests | Know Your Meme",
+            "first_seen": "2026-11-11T06:00:09.318786+00:00"
+          }
+        ]
+      }
+    },
+    "midas midas france": {
+      "first_seen": "2026-11-11T06:00:09.318798+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/french-midas-midas-france-protests",
+            "title": "French Midas / Midas France Protests | Know Your Meme",
+            "first_seen": "2026-11-11T06:00:09.318798+00:00"
+          }
+        ]
+      }
+    },
+    "french midas midas france": {
+      "first_seen": "2026-11-11T06:00:09.318811+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/french-midas-midas-france-protests",
+            "title": "French Midas / Midas France Protests | Know Your Meme",
+            "first_seen": "2026-11-11T06:00:09.318811+00:00"
+          }
+        ]
+      }
+    },
+    "midas midas": {
+      "first_seen": "2026-11-11T06:00:09.318833+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/french-midas-midas-france-protests",
+            "title": "French Midas / Midas France Protests | Know Your Meme",
+            "first_seen": "2026-11-11T06:00:09.318833+00:00"
+          }
+        ]
+      }
+    },
+    "husband emporium": {
+      "first_seen": "2026-11-11T06:00:09.358739+00:00",
+      "domains": {
+        "remakeyourmeme.com": [
+          {
+            "url": "https://remakeyourmeme.com/templates/husband-emporium-ai/",
+            "title": "Husband Emporium AI – Put Your Partner in the Retro Husband Store Ad",
+            "first_seen": "2026-11-11T06:00:09.358739+00:00"
+          }
+        ]
+      }
+    },
+    "notebook tigran gertz": {
+      "first_seen": "2026-11-11T06:00:10.322702+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/template/the-notebook-tigran-gertz-ai-video",
+            "title": "The Notebook (Tigran Gertz Version) — AI Video Template | Starrd",
+            "first_seen": "2026-11-11T06:00:10.322702+00:00"
+          }
+        ]
+      }
+    },
+    "tigran gertz version": {
+      "first_seen": "2026-11-11T06:00:10.322753+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/template/the-notebook-tigran-gertz-ai-video",
+            "title": "The Notebook (Tigran Gertz Version) — AI Video Template | Starrd",
+            "first_seen": "2026-11-11T06:00:10.322753+00:00"
+          }
+        ]
+      }
+    },
+    "gertz version": {
+      "first_seen": "2026-11-11T06:00:10.322769+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/template/the-notebook-tigran-gertz-ai-video",
+            "title": "The Notebook (Tigran Gertz Version) — AI Video Template | Starrd",
+            "first_seen": "2026-11-11T06:00:10.322769+00:00"
+          }
+        ]
+      }
+    },
+    "notebook tigran gertz version": {
+      "first_seen": "2026-11-11T06:00:10.322782+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/template/the-notebook-tigran-gertz-ai-video",
+            "title": "The Notebook (Tigran Gertz Version) — AI Video Template | Starrd",
+            "first_seen": "2026-11-11T06:00:10.322782+00:00"
+          }
+        ]
+      }
+    },
+    "notebook tigran": {
+      "first_seen": "2026-11-11T06:00:10.322795+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/template/the-notebook-tigran-gertz-ai-video",
+            "title": "The Notebook (Tigran Gertz Version) — AI Video Template | Starrd",
+            "first_seen": "2026-11-11T06:00:10.322795+00:00"
+          }
+        ]
+      }
+    },
+    "tigran gertz": {
+      "first_seen": "2026-11-11T06:00:10.322827+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/template/the-notebook-tigran-gertz-ai-video",
+            "title": "The Notebook (Tigran Gertz Version) — AI Video Template | Starrd",
+            "first_seen": "2026-11-11T06:00:10.322827+00:00"
+          }
+        ]
+      }
+    },
+    "mr mrs": {
+      "first_seen": "2026-11-11T06:00:10.540607+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-mr-and-mrs-smith-ai-video",
+            "title": "How to Make the 'Mr. & Mrs. Smith' AI Video (the Black-and-White Couple Edit, Starring You Two, 2026)",
+            "first_seen": "2026-11-11T06:00:10.540607+00:00"
+          }
+        ]
+      }
+    },
+    "mr mrs smith": {
+      "first_seen": "2026-11-11T06:00:10.540679+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-mr-and-mrs-smith-ai-video",
+            "title": "How to Make the 'Mr. & Mrs. Smith' AI Video (the Black-and-White Couple Edit, Starring You Two, 2026)",
+            "first_seen": "2026-11-11T06:00:10.540679+00:00"
+          }
+        ]
+      }
+    },
+    "bro took the whole": {
+      "first_seen": "2026-11-11T06:00:11.045113+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/template/bro-took-the-whole-bag-ai-video",
+            "title": "Bro Took The Whole Bag — AI Video Template | Starrd",
+            "first_seen": "2026-11-11T06:00:11.045113+00:00"
+          }
+        ]
+      }
+    },
+    "bro took": {
+      "first_seen": "2026-11-11T06:00:11.045165+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/template/bro-took-the-whole-bag-ai-video",
+            "title": "Bro Took The Whole Bag — AI Video Template | Starrd",
+            "first_seen": "2026-11-11T06:00:11.045165+00:00"
+          }
+        ]
+      }
+    },
+    "took the whole bag": {
+      "first_seen": "2026-11-11T06:00:11.045199+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/template/bro-took-the-whole-bag-ai-video",
+            "title": "Bro Took The Whole Bag — AI Video Template | Starrd",
+            "first_seen": "2026-11-11T06:00:11.045199+00:00"
+          }
+        ]
+      }
+    },
+    "whole bag": {
+      "first_seen": "2026-11-11T06:00:11.045216+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/template/bro-took-the-whole-bag-ai-video",
+            "title": "Bro Took The Whole Bag — AI Video Template | Starrd",
+            "first_seen": "2026-11-11T06:00:11.045216+00:00"
+          }
+        ]
+      }
+    },
+    "took the whole": {
+      "first_seen": "2026-11-11T06:00:11.045229+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/template/bro-took-the-whole-bag-ai-video",
+            "title": "Bro Took The Whole Bag — AI Video Template | Starrd",
+            "first_seen": "2026-11-11T06:00:11.045229+00:00"
+          }
+        ]
+      }
+    },
+    "house starring you 2026": {
+      "first_seen": "2026-11-11T06:00:12.296444+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-the-hot-chick-ice-cream-scene-ai-video",
+            "title": "How to Make 'The Hot Chick' Ice Cream Scene AI Video (\"It's On the House\", Starring You, 2026)",
+            "first_seen": "2026-11-11T06:00:12.296444+00:00"
+          }
+        ]
+      }
+    },
+    "house starring": {
+      "first_seen": "2026-11-11T06:00:12.296501+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-the-hot-chick-ice-cream-scene-ai-video",
+            "title": "How to Make 'The Hot Chick' Ice Cream Scene AI Video (\"It's On the House\", Starring You, 2026)",
+            "first_seen": "2026-11-11T06:00:12.296501+00:00"
+          }
+        ]
+      }
+    },
+    "s on the house": {
+      "first_seen": "2026-11-11T06:00:12.296530+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-the-hot-chick-ice-cream-scene-ai-video",
+            "title": "How to Make 'The Hot Chick' Ice Cream Scene AI Video (\"It's On the House\", Starring You, 2026)",
+            "first_seen": "2026-11-11T06:00:12.296530+00:00"
+          }
+        ]
+      }
+    },
+    "scene ai video s": {
+      "first_seen": "2026-11-11T06:00:12.296573+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-the-hot-chick-ice-cream-scene-ai-video",
+            "title": "How to Make 'The Hot Chick' Ice Cream Scene AI Video (\"It's On the House\", Starring You, 2026)",
+            "first_seen": "2026-11-11T06:00:12.296573+00:00"
           }
         ]
       }
