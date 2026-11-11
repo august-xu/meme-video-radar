@@ -1,6 +1,6 @@
 {
-  "last_run_timestamp": "2026-11-10T18:00:16.283130+00:00",
-  "total_urls_seen": 13681,
+  "last_run_timestamp": "2026-11-11T00:00:19.242207+00:00",
+  "total_urls_seen": 13700,
   "seen_urls": {
     "knowyourmeme.com": [
       "https://knowyourmeme.com/memes/yohohoho-binkusuno-sake-by-ado",
@@ -109,7 +109,10 @@
       "https://knowyourmeme.com/memes/events/nvidia-ceo-jensen-huang-chinese-spy-cheating-controversy",
       "https://knowyourmeme.com/memes/still-life-michael-rosen",
       "https://knowyourmeme.com/memes/fortnite-pirate-shop-token-pirate-coin",
-      "https://knowyourmeme.com/memes/waist-heart-trend"
+      "https://knowyourmeme.com/memes/waist-heart-trend",
+      "https://knowyourmeme.com/memes/spongebob-jingle-bells",
+      "https://knowyourmeme.com/memes/trick-or-treat-smell-my-feet-pennywise-kid-pennywide",
+      "https://knowyourmeme.com/memes/guess-the-movie-by-the-frame"
     ],
     "aptvideoai.com": [
       "https://aptvideoai.com",
@@ -12495,7 +12498,11 @@
       "https://www.getstarrd.app/template/drake-hotline-bling-dance-ai-video",
       "https://www.getstarrd.app/blog/how-to-make-easy-a-pocketful-of-sunshine-ai-video",
       "https://www.getstarrd.app/blog/how-to-make-drake-hotline-bling-dance-ai-video",
-      "https://www.getstarrd.app/blog/how-to-make-fantasy-rush-hour-ai-video"
+      "https://www.getstarrd.app/blog/how-to-make-fantasy-rush-hour-ai-video",
+      "https://www.getstarrd.app/blog/how-to-make-its-my-life-dog-ai-video",
+      "https://www.getstarrd.app/template/mr-and-mrs-smith-ai-video",
+      "https://www.getstarrd.app/template/the-hot-chick-ice-cream-scene-ai-video",
+      "https://www.getstarrd.app/template/its-my-life-dog-ai-video"
     ],
     "www.capcut.com": [
       "https://www.capcut.com/template-detail/7613449947458981136",
@@ -13518,6 +13525,18 @@
       "https://www.capcut.com/template-detail/7573721589477297425",
       "https://www.capcut.com/template-detail/7368372792443686160",
       "https://www.capcut.com/template-detail/7603400632652893445",
+      "https://www.capcut.com/template-detail/7613449947458981136",
+      "https://www.capcut.com/template-detail/7614155497708539153",
+      "https://www.capcut.com/template-detail/7582856536771300613",
+      "https://www.capcut.com/template-detail/7479664400392080693",
+      "https://www.capcut.com/template-detail/7574395599290633525",
+      "https://www.capcut.com/template-detail/7573721589477297425",
+      "https://www.capcut.com/template-detail/7612248283964017936",
+      "https://www.capcut.com/template-detail/7641550081010797844",
+      "https://www.capcut.com/template-detail/7590649367787261200",
+      "https://www.capcut.com/template-detail/7442835260980710711",
+      "https://www.capcut.com/template-detail/7368372792443686160",
+      "https://www.capcut.com/template-detail/7493918549925203253",
       "https://www.capcut.com/template-detail/7613449947458981136",
       "https://www.capcut.com/template-detail/7614155497708539153",
       "https://www.capcut.com/template-detail/7582856536771300613",
@@ -40975,6 +40994,18 @@
             "title": "It’s My Life Dog AI Video Generator – Singing Car Meme | Media.io",
             "first_seen": "2026-10-31T12:00:08.968019+00:00"
           }
+        ],
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-its-my-life-dog-ai-video",
+            "title": "How to Make the 'It's My Life' Dog AI Video (Your Dog Sings Bon Jovi at the Wheel, From One Photo, 2026)",
+            "first_seen": "2026-11-11T00:00:11.433976+00:00"
+          },
+          {
+            "url": "https://www.getstarrd.app/template/its-my-life-dog-ai-video",
+            "title": "It's My Life Dog — AI Video Template | Starrd",
+            "first_seen": "2026-11-11T00:00:11.876599+00:00"
+          }
         ]
       }
     },
@@ -66427,6 +66458,11 @@
             "url": "https://www.getstarrd.app/blog/how-to-make-drake-hotline-bling-dance-ai-video",
             "title": "How to Make the Drake 'Hotline Bling' AI Video (a New Outfit Every Cut, From One Photo, 2026)",
             "first_seen": "2026-11-10T18:00:09.589889+00:00"
+          },
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-its-my-life-dog-ai-video",
+            "title": "How to Make the 'It's My Life' Dog AI Video (Your Dog Sings Bon Jovi at the Wheel, From One Photo, 2026)",
+            "first_seen": "2026-11-11T00:00:11.433931+00:00"
           }
         ]
       }
@@ -79505,6 +79541,13 @@
             "title": "Mr and Mrs Stretchy AI Video – Elastic Clay Couple Trend",
             "first_seen": "2026-11-07T12:00:07.907581+00:00"
           }
+        ],
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/template/mr-and-mrs-smith-ai-video",
+            "title": "Mr and Mrs Smith — AI Video Template | Starrd",
+            "first_seen": "2026-11-11T00:00:11.659844+00:00"
+          }
         ]
       }
     },
@@ -85848,6 +85891,462 @@
             "url": "https://www.getstarrd.app/blog/how-to-make-fantasy-rush-hour-ai-video",
             "title": "How to Make the Rush Hour 'Fantasy' AI Video (the Back-Seat Sing-Along, Starring You, 2026)",
             "first_seen": "2026-11-10T18:00:09.606133+00:00"
+          }
+        ]
+      }
+    },
+    "sponge bob jingle bells": {
+      "first_seen": "2026-11-11T00:00:10.288152+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/spongebob-jingle-bells",
+            "title": "SpongeBob \"Jingle Bells\" | Know Your Meme",
+            "first_seen": "2026-11-11T00:00:10.288152+00:00"
+          }
+        ]
+      }
+    },
+    "bob jingle bells": {
+      "first_seen": "2026-11-11T00:00:10.288230+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/spongebob-jingle-bells",
+            "title": "SpongeBob \"Jingle Bells\" | Know Your Meme",
+            "first_seen": "2026-11-11T00:00:10.288230+00:00"
+          }
+        ]
+      }
+    },
+    "spongebob jingle": {
+      "first_seen": "2026-11-11T00:00:10.288248+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/spongebob-jingle-bells",
+            "title": "SpongeBob \"Jingle Bells\" | Know Your Meme",
+            "first_seen": "2026-11-11T00:00:10.288248+00:00"
+          }
+        ]
+      }
+    },
+    "sponge bob jingle": {
+      "first_seen": "2026-11-11T00:00:10.288284+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/spongebob-jingle-bells",
+            "title": "SpongeBob \"Jingle Bells\" | Know Your Meme",
+            "first_seen": "2026-11-11T00:00:10.288284+00:00"
+          }
+        ]
+      }
+    },
+    "jingle bells": {
+      "first_seen": "2026-11-11T00:00:10.288303+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/spongebob-jingle-bells",
+            "title": "SpongeBob \"Jingle Bells\" | Know Your Meme",
+            "first_seen": "2026-11-11T00:00:10.288303+00:00"
+          }
+        ]
+      }
+    },
+    "bob jingle": {
+      "first_seen": "2026-11-11T00:00:10.288318+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/spongebob-jingle-bells",
+            "title": "SpongeBob \"Jingle Bells\" | Know Your Meme",
+            "first_seen": "2026-11-11T00:00:10.288318+00:00"
+          }
+        ]
+      }
+    },
+    "sponge bob": {
+      "first_seen": "2026-11-11T00:00:10.288333+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/spongebob-jingle-bells",
+            "title": "SpongeBob \"Jingle Bells\" | Know Your Meme",
+            "first_seen": "2026-11-11T00:00:10.288333+00:00"
+          }
+        ]
+      }
+    },
+    "spongebob jingle bells": {
+      "first_seen": "2026-11-11T00:00:10.288348+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/spongebob-jingle-bells",
+            "title": "SpongeBob \"Jingle Bells\" | Know Your Meme",
+            "first_seen": "2026-11-11T00:00:10.288348+00:00"
+          }
+        ]
+      }
+    },
+    "smell my feet": {
+      "first_seen": "2026-11-11T00:00:10.288643+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/trick-or-treat-smell-my-feet-pennywise-kid-pennywide",
+            "title": "\"Trick or Treat, Smell My Feet\" Pennywise Kid / Pennywide | Know Your Meme",
+            "first_seen": "2026-11-11T00:00:10.288643+00:00"
+          }
+        ]
+      }
+    },
+    "feet pennywise kid pennywide": {
+      "first_seen": "2026-11-11T00:00:10.288665+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/trick-or-treat-smell-my-feet-pennywise-kid-pennywide",
+            "title": "\"Trick or Treat, Smell My Feet\" Pennywise Kid / Pennywide | Know Your Meme",
+            "first_seen": "2026-11-11T00:00:10.288665+00:00"
+          }
+        ]
+      }
+    },
+    "treat smell": {
+      "first_seen": "2026-11-11T00:00:10.288678+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/trick-or-treat-smell-my-feet-pennywise-kid-pennywide",
+            "title": "\"Trick or Treat, Smell My Feet\" Pennywise Kid / Pennywide | Know Your Meme",
+            "first_seen": "2026-11-11T00:00:10.288678+00:00"
+          }
+        ]
+      }
+    },
+    "trick or treat": {
+      "first_seen": "2026-11-11T00:00:10.288688+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/trick-or-treat-smell-my-feet-pennywise-kid-pennywide",
+            "title": "\"Trick or Treat, Smell My Feet\" Pennywise Kid / Pennywide | Know Your Meme",
+            "first_seen": "2026-11-11T00:00:10.288688+00:00"
+          }
+        ]
+      }
+    },
+    "pennywise kid pennywide": {
+      "first_seen": "2026-11-11T00:00:10.288700+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/trick-or-treat-smell-my-feet-pennywise-kid-pennywide",
+            "title": "\"Trick or Treat, Smell My Feet\" Pennywise Kid / Pennywide | Know Your Meme",
+            "first_seen": "2026-11-11T00:00:10.288700+00:00"
+          }
+        ]
+      }
+    },
+    "pennywise kid": {
+      "first_seen": "2026-11-11T00:00:10.288710+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/trick-or-treat-smell-my-feet-pennywise-kid-pennywide",
+            "title": "\"Trick or Treat, Smell My Feet\" Pennywise Kid / Pennywide | Know Your Meme",
+            "first_seen": "2026-11-11T00:00:10.288710+00:00"
+          }
+        ]
+      }
+    },
+    "feet pennywise kid": {
+      "first_seen": "2026-11-11T00:00:10.288721+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/trick-or-treat-smell-my-feet-pennywise-kid-pennywide",
+            "title": "\"Trick or Treat, Smell My Feet\" Pennywise Kid / Pennywide | Know Your Meme",
+            "first_seen": "2026-11-11T00:00:10.288721+00:00"
+          }
+        ]
+      }
+    },
+    "feet pennywise": {
+      "first_seen": "2026-11-11T00:00:10.288752+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/trick-or-treat-smell-my-feet-pennywise-kid-pennywide",
+            "title": "\"Trick or Treat, Smell My Feet\" Pennywise Kid / Pennywide | Know Your Meme",
+            "first_seen": "2026-11-11T00:00:10.288752+00:00"
+          }
+        ]
+      }
+    },
+    "trick or treat smell": {
+      "first_seen": "2026-11-11T00:00:10.288772+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/trick-or-treat-smell-my-feet-pennywise-kid-pennywide",
+            "title": "\"Trick or Treat, Smell My Feet\" Pennywise Kid / Pennywide | Know Your Meme",
+            "first_seen": "2026-11-11T00:00:10.288772+00:00"
+          }
+        ]
+      }
+    },
+    "smell my feet pennywise": {
+      "first_seen": "2026-11-11T00:00:10.288785+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/trick-or-treat-smell-my-feet-pennywise-kid-pennywide",
+            "title": "\"Trick or Treat, Smell My Feet\" Pennywise Kid / Pennywide | Know Your Meme",
+            "first_seen": "2026-11-11T00:00:10.288785+00:00"
+          }
+        ]
+      }
+    },
+    "kid pennywide": {
+      "first_seen": "2026-11-11T00:00:10.288810+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/trick-or-treat-smell-my-feet-pennywise-kid-pennywide",
+            "title": "\"Trick or Treat, Smell My Feet\" Pennywise Kid / Pennywide | Know Your Meme",
+            "first_seen": "2026-11-11T00:00:10.288810+00:00"
+          }
+        ]
+      }
+    },
+    "treat smell my feet": {
+      "first_seen": "2026-11-11T00:00:10.288825+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/trick-or-treat-smell-my-feet-pennywise-kid-pennywide",
+            "title": "\"Trick or Treat, Smell My Feet\" Pennywise Kid / Pennywide | Know Your Meme",
+            "first_seen": "2026-11-11T00:00:10.288825+00:00"
+          }
+        ]
+      }
+    },
+    "movie by the frame": {
+      "first_seen": "2026-11-11T00:00:10.298571+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/guess-the-movie-by-the-frame",
+            "title": "Guess the Movie By the Frame | Know Your Meme",
+            "first_seen": "2026-11-11T00:00:10.298571+00:00"
+          }
+        ]
+      }
+    },
+    "guess the movie": {
+      "first_seen": "2026-11-11T00:00:10.298621+00:00",
+      "domains": {
+        "knowyourmeme.com": [
+          {
+            "url": "https://knowyourmeme.com/memes/guess-the-movie-by-the-frame",
+            "title": "Guess the Movie By the Frame | Know Your Meme",
+            "first_seen": "2026-11-11T00:00:10.298621+00:00"
+          }
+        ]
+      }
+    },
+    "wheel from one": {
+      "first_seen": "2026-11-11T00:00:11.433857+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-its-my-life-dog-ai-video",
+            "title": "How to Make the 'It's My Life' Dog AI Video (Your Dog Sings Bon Jovi at the Wheel, From One Photo, 2026)",
+            "first_seen": "2026-11-11T00:00:11.433857+00:00"
+          }
+        ]
+      }
+    },
+    "bon jovi": {
+      "first_seen": "2026-11-11T00:00:11.433911+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-its-my-life-dog-ai-video",
+            "title": "How to Make the 'It's My Life' Dog AI Video (Your Dog Sings Bon Jovi at the Wheel, From One Photo, 2026)",
+            "first_seen": "2026-11-11T00:00:11.433911+00:00"
+          }
+        ]
+      }
+    },
+    "jovi at the wheel": {
+      "first_seen": "2026-11-11T00:00:11.434012+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-its-my-life-dog-ai-video",
+            "title": "How to Make the 'It's My Life' Dog AI Video (Your Dog Sings Bon Jovi at the Wheel, From One Photo, 2026)",
+            "first_seen": "2026-11-11T00:00:11.434012+00:00"
+          }
+        ]
+      }
+    },
+    "sings bon jovi": {
+      "first_seen": "2026-11-11T00:00:11.434033+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-its-my-life-dog-ai-video",
+            "title": "How to Make the 'It's My Life' Dog AI Video (Your Dog Sings Bon Jovi at the Wheel, From One Photo, 2026)",
+            "first_seen": "2026-11-11T00:00:11.434033+00:00"
+          }
+        ]
+      }
+    },
+    "sings bon": {
+      "first_seen": "2026-11-11T00:00:11.434051+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/blog/how-to-make-its-my-life-dog-ai-video",
+            "title": "How to Make the 'It's My Life' Dog AI Video (Your Dog Sings Bon Jovi at the Wheel, From One Photo, 2026)",
+            "first_seen": "2026-11-11T00:00:11.434051+00:00"
+          }
+        ]
+      }
+    },
+    "mrs smith": {
+      "first_seen": "2026-11-11T00:00:11.659804+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/template/mr-and-mrs-smith-ai-video",
+            "title": "Mr and Mrs Smith — AI Video Template | Starrd",
+            "first_seen": "2026-11-11T00:00:11.659804+00:00"
+          }
+        ]
+      }
+    },
+    "mr and mrs smith": {
+      "first_seen": "2026-11-11T00:00:11.659853+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/template/mr-and-mrs-smith-ai-video",
+            "title": "Mr and Mrs Smith — AI Video Template | Starrd",
+            "first_seen": "2026-11-11T00:00:11.659853+00:00"
+          }
+        ]
+      }
+    },
+    "cream scene": {
+      "first_seen": "2026-11-11T00:00:11.867746+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/template/the-hot-chick-ice-cream-scene-ai-video",
+            "title": "The Hot Chick Ice Cream Scene — AI Video Template | Starrd",
+            "first_seen": "2026-11-11T00:00:11.867746+00:00"
+          }
+        ]
+      }
+    },
+    "chick ice": {
+      "first_seen": "2026-11-11T00:00:11.867784+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/template/the-hot-chick-ice-cream-scene-ai-video",
+            "title": "The Hot Chick Ice Cream Scene — AI Video Template | Starrd",
+            "first_seen": "2026-11-11T00:00:11.867784+00:00"
+          }
+        ]
+      }
+    },
+    "hot chick ice cream": {
+      "first_seen": "2026-11-11T00:00:11.867793+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/template/the-hot-chick-ice-cream-scene-ai-video",
+            "title": "The Hot Chick Ice Cream Scene — AI Video Template | Starrd",
+            "first_seen": "2026-11-11T00:00:11.867793+00:00"
+          }
+        ]
+      }
+    },
+    "hot chick": {
+      "first_seen": "2026-11-11T00:00:11.867801+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/template/the-hot-chick-ice-cream-scene-ai-video",
+            "title": "The Hot Chick Ice Cream Scene — AI Video Template | Starrd",
+            "first_seen": "2026-11-11T00:00:11.867801+00:00"
+          }
+        ]
+      }
+    },
+    "ice cream": {
+      "first_seen": "2026-11-11T00:00:11.867810+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/template/the-hot-chick-ice-cream-scene-ai-video",
+            "title": "The Hot Chick Ice Cream Scene — AI Video Template | Starrd",
+            "first_seen": "2026-11-11T00:00:11.867810+00:00"
+          }
+        ]
+      }
+    },
+    "chick ice cream scene": {
+      "first_seen": "2026-11-11T00:00:11.867817+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/template/the-hot-chick-ice-cream-scene-ai-video",
+            "title": "The Hot Chick Ice Cream Scene — AI Video Template | Starrd",
+            "first_seen": "2026-11-11T00:00:11.867817+00:00"
+          }
+        ]
+      }
+    },
+    "chick ice cream": {
+      "first_seen": "2026-11-11T00:00:11.867824+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/template/the-hot-chick-ice-cream-scene-ai-video",
+            "title": "The Hot Chick Ice Cream Scene — AI Video Template | Starrd",
+            "first_seen": "2026-11-11T00:00:11.867824+00:00"
+          }
+        ]
+      }
+    },
+    "hot chick ice": {
+      "first_seen": "2026-11-11T00:00:11.867831+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/template/the-hot-chick-ice-cream-scene-ai-video",
+            "title": "The Hot Chick Ice Cream Scene — AI Video Template | Starrd",
+            "first_seen": "2026-11-11T00:00:11.867831+00:00"
+          }
+        ]
+      }
+    },
+    "ice cream scene": {
+      "first_seen": "2026-11-11T00:00:11.867839+00:00",
+      "domains": {
+        "www.getstarrd.app": [
+          {
+            "url": "https://www.getstarrd.app/template/the-hot-chick-ice-cream-scene-ai-video",
+            "title": "The Hot Chick Ice Cream Scene — AI Video Template | Starrd",
+            "first_seen": "2026-11-11T00:00:11.867839+00:00"
           }
         ]
       }
